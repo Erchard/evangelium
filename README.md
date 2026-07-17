@@ -32,10 +32,11 @@
 - 114 карток логій створені й вирівняні до gold-level status check v0.2: кожна картка має актуальне рішення, reader status, Greek status, evidence/control links або явну прогалину.
 - 114 карток мають `Five-source original-language apparatus v0.1`: P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, коптський NHC II і canonical Greek control channel прямо всередині картки; canonical Greek заповнено для 81 картки.
 - Full 114-logion appendix має каркас для всіх 114 логій; усі 34 включені логії/ядра поточного clean reader мають принаймні апаратну підтримку, а попередні 31 уже розгорнуті до читацьких секцій.
+- Перший Phase 5 appendix pass виконано для P1 non-reader логій 23, 24, 28, 29, 30, 37, 38, 75, 77, 104 і 106.
 - Evidence dossier існує як робочий документ, але ще потребує publication pass.
 
 ## Найближчий робочий цикл
 
-1. Розгорнути full appendix для P1 non-reader логій, які мають грецький свідок або сильні controls, але ще не мають достатнього пояснювального розділу.
-2. Після цього виконати clean-reader freeze pass на основі `all-114-publication-decision-table-v0.1.md`.
-3. Довести evidence dossier, bibliography, rights/citation policy і final editorial pass до публікаційного рівня.
+1. Створити evidence/no-note rationale files для P1 non-reader логій, уже розгорнутих у першому Phase 5 appendix pass.
+2. Продовжити full appendix expansion для решти `NEEDS_EVIDENCE_BEFORE_FINAL` і cluster-deferred логій.
+3. Після цього виконати clean-reader freeze pass на основі `all-114-publication-decision-table-v0.1.md`.

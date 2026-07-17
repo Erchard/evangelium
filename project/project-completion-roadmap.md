@@ -45,7 +45,7 @@
 | Грецький шар | Є для 34 логій / ядер; confidence audit v0.1 оновлено |
 | Паралельне видання | 34 рядки поточного reader |
 | Evidence dossier | Робочий v1.3 |
-| Повний додаток до 114 логій | Є як каркас для всіх 114; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку |
+| Повний додаток до 114 логій | Є як каркас для всіх 114; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку; P1 non-reader package 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106 розгорнуто |
 | Inclusion decisions table | Є як робоча таблиця; all-114 publication decision table v0.1 створено як головний контрольний документ перед appendix/dossier polish |
 
 ## Поточний склад clean reader
@@ -200,7 +200,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: Phase 5 full appendix expansion для excluded/deferred/evidence-blocked логій.
+Найважливіша наступна дія: evidence/no-note rationale pass для першого Phase 5 P1 non-reader appendix package.
 
 Виконані пакети:
 
@@ -218,6 +218,6 @@
 
 Наступний рекомендований пакет:
 
-- Full appendix expansion для P1 non-reader логій, починаючи з 24, 28, 29, 30, 37, 38, 77 і cluster-note cases 23/75/104/106.
+- Evidence/no-note rationale files для 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
 
-Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено. Тепер слабке місце - не сам clean reader, а пояснювальний appendix для невключених і відкладених логій.
+Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; перший P1 non-reader appendix package розгорнуто. Тепер слабке місце - citable evidence/no-note rationale для цих невключених логій.

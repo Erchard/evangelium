@@ -176,7 +176,7 @@
 
 ## Phase 5. Full Appendix Expansion
 
-**Пріоритет:** P0/P1.
+**Пріоритет:** P0/P1. **Статус:** розпочато; перший P1 non-reader package виконано в `reconstruction/earliest-sayings-gospel/full-appendix-p1-non-reader-package-v0.1.md`.
 
 **Мета:** перетворити `full-logion-commentary-appendix-uk.md` на реальний читацький довідник до всіх 114 логій.
 
@@ -208,6 +208,12 @@
 - Кожен пакет зменшує кількість skeletal appendix sections.
 - Відкинуті логії отримують таку саму повагу до пояснення, як включені.
 - Коментарі не змінюють чистий reader без окремого decision pass.
+
+### Completed Package
+
+- P1 non-reader package: 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
+- Clean reader не змінено.
+- Наступна дія: створити evidence/no-note rationale files для цього пакета, щоб пізніше зменшити `NEEDS_EVIDENCE_BEFORE_FINAL`.
 
 ## Phase 6. Evidence Dossier Publication Pass
 
@@ -326,7 +332,7 @@
 2. Phase 2: Documentation sync pass. Basic sync done after P.Oxy. cleanup.
 3. Phase 3: Evidence and control inventory. Done in `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
 4. Phase 4: True all-114 publication decision table. Done in `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
-5. Phase 5: Full appendix expansion by packages. Next recommended phase.
+5. Phase 5: Full appendix expansion by packages. Started; next recommended package is evidence/no-note rationale files for the first P1 non-reader appendix set.
 6. Phase 6: Evidence dossier publication pass.
 7. Phase 7: Rights, bibliography, reproducibility.
 8. Phase 8: Greek retroversion polish.

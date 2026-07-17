@@ -1,5 +1,28 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, Phase 5 P1 non-reader appendix package v0.1
+
+### Що додано
+
+- `project/ide-codex-full-appendix-p1-non-reader-package-v0.1-prompt.md` - промпт виконаного першого Phase 5 appendix package.
+- `reconstruction/earliest-sayings-gospel/full-appendix-p1-non-reader-package-v0.1.md` - audit виконаного пакета.
+
+### Що оновлено
+
+- `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` - розгорнуто читацькі секції для логій 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
+- `README.md`, `project/project-map.md`, `project/project-quality-remediation-plan-v0.1.md`, `project/ide-codex-quality-remediation-master-prompt.md`, `project/project-completion-roadmap.md`, `reconstruction/earliest-sayings-gospel/README.md` - статус оновлено після першого Phase 5 пакета.
+
+### Головні результати
+
+- Clean reader не змінено.
+- P1 non-reader логії отримали повніші українські пояснення: статус, джерела, Greek/Coptic policy, controls, інтерпретації, причина невключення, непевності.
+- P.Oxy. 655 для логії 24 не подано як прямий грецький свідок світлового вислову.
+- P.Oxy. 1 для логії 77 подано тільки як свідок 77b stone/wood unit, не повної light/all логії.
+
+### Наступна дія
+
+Створити evidence/no-note rationale files або cluster-control notes для цих самих логій, щоб пізніше зменшити `NEEDS_EVIDENCE_BEFORE_FINAL` у all-114 publication table.
+
 ## 2026-07-17, all-114 publication decision table v0.1
 
 ### Що додано

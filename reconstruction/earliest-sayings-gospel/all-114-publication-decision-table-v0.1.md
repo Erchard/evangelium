@@ -229,4 +229,4 @@ These are the units currently printed in the clean Ukrainian reader. They should
 
 ## Recommended Next Step
 
-Proceed to Phase 5: full appendix expansion. Start with P1 non-reader logia that have Greek witness or strong controls but no direct evidence note: 24, 28, 29, 30, 37, 38, 77, plus 23/75/104/106 cluster-note cases. This will make the appendix honest before final dossier polish.
+Superseded next-step note, 2026-07-17: the first Phase 5 P1 non-reader appendix package has been completed in `full-appendix-p1-non-reader-package-v0.1.md` for 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, and 106. The current next step is to create evidence/no-note rationale files or cluster-control notes for those same logia so this table can later reduce the `NEEDS_EVIDENCE_BEFORE_FINAL` count.

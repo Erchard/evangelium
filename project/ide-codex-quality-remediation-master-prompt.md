@@ -39,12 +39,13 @@ Current project status after execution:
 - Phase 2, Documentation Sync Pass, has received a basic sync after P.Oxy. cleanup.
 - Phase 3, Evidence and Control Inventory, has been completed in `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
 - Phase 4, True All-114 Publication Decision Table, has been completed in `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
+- Phase 5 has started. The first P1 non-reader appendix package has been completed in `reconstruction/earliest-sayings-gospel/full-appendix-p1-non-reader-package-v0.1.md`.
 
 Current recommended next phase:
 
 **Phase 5. Full Appendix Expansion**
 
-Use the all-114 publication decision table to expand the reader-facing appendix for excluded, deferred, uncertain, and evidence-blocked logia. Start with P1 non-reader logia that have Greek witness or strong controls but no direct evidence note: 24, 28, 29, 30, 37, 38, 77, plus 23/75/104/106 cluster-note cases.
+Use the first Phase 5 appendix package to create evidence/no-note rationale files for the same P1 non-reader logia: 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, and 106. The goal is to convert reader-facing explanation into citable control notes before continuing with the remaining evidence-blocked logia.
 
 ## Completed Phase 1 Specific Instructions
 
@@ -113,18 +114,31 @@ Key findings:
 - 37 non-reader rows need evidence/no-note rationale before final publication;
 - the clean reader was not expanded in this pass.
 
+## Completed Phase 5 Work So Far
+
+Phase 5 first package created:
+
+- `project/ide-codex-full-appendix-p1-non-reader-package-v0.1-prompt.md`
+- `reconstruction/earliest-sayings-gospel/full-appendix-p1-non-reader-package-v0.1.md`
+
+Expanded appendix sections:
+
+- 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
+
+The clean reader was not changed.
+
 ## Current Next Work
 
-Proceed to Phase 5:
+Proceed within Phase 5:
 
-**Full Appendix Expansion**
+**Evidence / No-Note Rationale Pass For First P1 Non-Reader Package**
 
 Required work:
 
-- expand `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` by controlled packages;
-- begin with P1 non-reader logia identified in the all-114 publication table;
-- give excluded/deferred/evidence-blocked logia the same explanatory seriousness as included logia;
-- include source witnesses, Greek/Coptic status, canonical controls, interpretation options, uncertainty, and explicit reason for non-inclusion;
+- create evidence/no-note rationale files or cluster-control notes for logia 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, and 106;
+- use the newly expanded appendix sections as reader-facing summaries, not as replacements for evidence files;
+- focus first on P.Oxy. and split-core problems: 24, 28, 30/77, 37/38;
+- keep canonical parallels as controls, not Thomas witnesses;
 - do not change the clean reader unless a separate decision pass is created.
 
 ## Required Final Report For Each Run
