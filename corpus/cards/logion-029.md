@@ -104,11 +104,11 @@ Create Greek retroversion; test flesh/spirit as Thomasine anthropology.
 
 ### 1. P.Oxy. 1 Greek witness
 
-- Status: P.Oxy. 1 coverage is reported for this logion range in the DCLP XML, but a clean card-level Greek extract has not yet been made.
+- Status: tiny P.Oxy. 1 Greek overlap; extracted from `dclp-poxy1-62838.xml`, recto line 1. The surviving text appears to preserve only the final poverty phrase, with heavy loss and editorial supplementation.
 
-> [P.Oxy. 1 Greek text pending local line extraction from `dclp-poxy1-62838.xml`]
+> [...] [ἐνοι]κ[εῖ] [ταύτ]η[ν τ]ὴν πτωχείαν
 
-- Use: do not cite as reconstructed text until the Greek line extraction is completed.
+- Use: direct but minimal Greek control for the final "poverty" clause only; the body/spirit logic of the full logion remains dependent on the Coptic witness and any Greek retroversion must be marked hypothetical.
 
 ### 2. P.Oxy. 654 Greek witness
 

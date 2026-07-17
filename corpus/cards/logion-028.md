@@ -104,11 +104,11 @@ Evidence note: test thirst/blindness core vs christological/world frame.
 
 ### 1. P.Oxy. 1 Greek witness
 
-- Status: P.Oxy. 1 coverage is reported for this logion range in the DCLP XML, but a clean card-level Greek extract has not yet been made.
+- Status: extant but partial P.Oxy. 1 Greek witness; extracted from `dclp-poxy1-62838.xml`, verso lines 11-21. The fragment preserves the opening and middle of the saying; the end is broken after damaged letters.
 
-> [P.Oxy. 1 Greek text pending local line extraction from `dclp-poxy1-62838.xml`]
+> λέγει Ἰησοῦς· ἔ[σ]την ἐν μέσῳ τοῦ κόσμου καὶ ἐν σαρκὶ ὤφθην αὐτοῖς· καὶ εὗρον πάντας μεθύοντας καὶ οὐδένα εὗρον διψῶντα ἐν αὐτοῖς· καὶ πονεῖ ἡ ψυχή μου ἐπὶ τοῖς υἱοῖς τῶν ἀνθρώπων ὅτι τυφλοί εἰσιν τῇ καρδίᾳ αὐτῶ[ν] κ[αὶ] [..] β[λ]ε[ισ] [...]
 
-- Use: do not cite as reconstructed text until the Greek line extraction is completed.
+- Use: direct but incomplete Greek manuscript support for the incarnation/world/drunkenness/blind-heart core; do not use it to reconstruct the whole Coptic ending.
 
 ### 2. P.Oxy. 654 Greek witness
 

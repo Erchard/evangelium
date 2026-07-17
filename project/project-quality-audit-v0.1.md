@@ -32,16 +32,16 @@
 | Картки з `Five-source original-language apparatus v0.1` | 114/114 |
 | Картки з реальним локальним canonical Greek text | 81/114 |
 | Картки з canonical Greek channel, але без локально виписаного Greek text | 33/114 |
-| Картки з pending P.Oxy. line extraction | 8/114 |
-| Evidence note у workflow matrix | 34/114 |
-| Без evidence note у workflow matrix | 80/114 |
+| Картки з pending P.Oxy. line extraction | 0/114 after `poxy-xml-extraction-audit-v0.1.md` |
+| Evidence note у workflow matrix | 55/114 |
+| Без evidence note у workflow matrix | 59/114 |
 | Картки з явним повідомленням, що окремого evidence note ще немає | 58/114 |
 | Картки з явним повідомленням, що окремого control file ще немає | 60/114 |
 | Full appendix headings | 114/114 |
 | Appendix sections still using short navigation-label wording | 83 |
 | Clean Ukrainian reader | 34 логії / ядра |
 
-Примітка: older audit files ще згадують 55 evidence notes / 59 missing. Поточна workflow matrix показує 34 `YES` і 80 `NO`, тому це треба звірити окремим evidence-file audit pass.
+Примітка: після повторної звірки workflow matrix показує 55 `YES` і 59 `NO` у колонці `Evidence note`. Окремий evidence-file audit pass усе одно потрібен, бо matrix треба звірити з фактичними файлами notes/control.
 
 ## Що Вже Сильне
 
@@ -61,8 +61,8 @@
 
 Фактичний стан:
 
-- workflow matrix має тільки 34 `YES` у колонці `Evidence note`;
-- 80 логій мають `NO`;
+- workflow matrix має 55 `YES` у колонці `Evidence note`;
+- 59 логій мають `NO`;
 - 58 карток прямо кажуть, що окремого evidence note ще немає;
 - 60 карток прямо кажуть, що окремого control file ще немає.
 
@@ -75,21 +75,14 @@
 - для excluded/deferred high-impact logia мати не менший за якістю appendix rationale;
 - для low-priority deferred logia дозволити коротший note, але не мовчання.
 
-### 2. Pending P.Oxy. XML Extraction Все Ще Не Закрито
+### 2. Pending P.Oxy. XML Extraction Закрито Після Аудиту
 
-У 8 картках є реальний папірусний шанс, але card-level Greek extract ще не зроблено:
+Цей P0 недолік закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`. До проходу у 8 картках був реальний папірусний шанс, але card-level Greek extract ще не було зроблено:
 
 - P.Oxy. 1: логії 27, 28, 29, 30, 77;
 - P.Oxy. 655: логії 24, 37, 38.
 
-Ризик: перед фінальною all-114 decision table ми можемо недооцінити або переоцінити логії, для яких у нас уже є локальний TEI/XML witness, але він ще не перетворений у читабельний Greek apparatus.
-
-Потрібно:
-
-- витягнути грецькі рядки з `sources/primary_texts/greek_poxy/dclp-poxy1-62838.xml`;
-- витягнути грецькі рядки з `sources/primary_texts/greek_poxy/dclp-poxy655-62839.xml`;
-- оновити відповідні 8 карток;
-- зафіксувати, які читання є extant, lacunose, supplied або unusable.
+Поточний стан: pending marker прибрано з усіх 8 карток. Логія 24 отримала уточнення, що P.Oxy. 655 не є прямим card-ready witness до коптського світлового вислову; решта отримала відповідні Greek extracts або фрагментарні controls.
 
 ### 3. Немає Фінальної All-114 Publication Decision Table
 
@@ -167,10 +160,9 @@ SBLGNT Greek controls внесені в 81 картку, але джерельн
 
 Виявлені приклади:
 
-- `project/publication-gap-audit-v0.1.md` має title `Publication Gap Audit v0.2`;
-- `project/project-completion-roadmap.md` має дубльовану нумерацію в "Основні прогалини" - два пункти `5`;
-- `project/project-completion-roadmap.md` одночасно каже, що найближча дія - pending P.Oxy. XML extraction pass, і що наступний рекомендований пакет - true all-114 publication decision table. Це логічно узгоджується тільки якщо чітко сказати: спершу P.Oxy extraction, потім decision table.
-- older audits згадують 55/59 evidence-note split, тоді як поточна matrix показує 34/80.
+- `project/publication-gap-audit-v0.1.md` мав title `Publication Gap Audit v0.2`; після documentation sync актуальний файл `project/publication-gap-audit-v0.2.md`, а v0.1 лишено як redirect.
+- `project/project-completion-roadmap.md` мав дубльовану нумерацію в "Основні прогалини" - два пункти `5`; після documentation sync нумерацію виправлено.
+- `project/project-completion-roadmap.md` одночасно казав, що найближча дія - pending P.Oxy. XML extraction pass, і що наступний рекомендований пакет - true all-114 publication decision table. Після Phase 1/2 це уточнено: P.Oxy. cleanup закрито, наступний крок - evidence/control inventory перед all-114 decision table.
 
 Ризик: новий виконавець або читач документації може піти не в той наступний крок.
 
@@ -265,8 +257,8 @@ Clean reader має починатися без дисклеймерів, але
 
 ## Рекомендована Послідовність Закриття Недоліків
 
-1. **P.Oxy. XML extraction pass.** Закрити 8 pending папірусних витягів.
-2. **Documentation sync pass.** Виправити очевидні розсинхрони: roadmap numbering, publication audit filename/title, source register SBLGNT/SYN rows, evidence-note statistics.
+1. **P.Oxy. XML extraction pass.** Закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
+2. **Documentation sync pass.** Частково закрито: roadmap numbering, publication audit filename/title, source register SBLGNT/SYN rows, evidence-note statistics.
 3. **Evidence-file audit pass.** Звірити фактичні evidence notes/control files із workflow matrix.
 4. **True all-114 publication decision table.** Один фінальний контрольний документ по всіх логіях і підодиницях.
 5. **Full appendix expansion pass.** Пакетами перетворити 83 каркасні розділи на реальні пояснювальні коментарі.
@@ -278,9 +270,6 @@ Clean reader має починатися без дисклеймерів, але
 
 ## Найважливіший Наступний Крок
 
-Найлогічніше наступне завдання: завершити **P.Oxy. XML extraction pass** для 8 карток.
+Найлогічніше наступне завдання після Phase 1/2: **Evidence and Control Inventory**.
 
-Причина: перед фінальною таблицею включення/невключення треба спершу закрити прямий джерельний борг. Якщо папірусний шар ще має pending extraction, то all-114 publication decision table буде побудована на не до кінця відкритому evidence layer.
-
-Після цього треба одразу робити documentation sync pass і true all-114 publication decision table.
-
+Причина: перед фінальною all-114 publication decision table треба точно знати, які evidence notes і control files реально існують, а не покладатися лише на стару matrix.

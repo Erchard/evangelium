@@ -139,11 +139,11 @@ Keep in apparatus; deepen after 36 and 39.
 
 ### 3. P.Oxy. 655 Greek witness
 
-- Status: P.Oxy. 655 coverage is possible/reported for this logion range, but a clean card-level Greek extract has not yet been made.
+- Status: extant but heavily restored P.Oxy. 655 Greek witness; extracted from `dclp-poxy655-62839.xml`, column ii lines 2-11. The XML includes editorial supplements and alternative reconstructions in the commentary, so the line should be cited as fragmentary/reconstructed, not as a secure continuous Greek text.
 
-> [P.Oxy. 655 Greek text pending local line extraction from `dclp-poxy655-62839.xml`]
+> λέ[γει Ἰησοῦς· πολλάκις] ο[ὖν ἐπεθυμεῖτε] τ[ούτους τοὺς] λό[γους] [μου ἀκοῦσαι] κ[αὶ ἔχετε] [οὐδε]ν[ὸς] [ἄλλου ἀκοῦσαι] κ[αὶ ἐλεύσονται] ἡ[μέραι ὅτε ζητή]σε[τέ με καὶ οὐ μὴ] [εὑρήσετέ με].
 
-- Use: do not cite as reconstructed text until the Greek line extraction is completed.
+- Use: fragmentary Greek control for the seek/not-find saying; use only with explicit warning that most of the continuity is supplied.
 
 ### 4. Coptic NHC II translation channel
 

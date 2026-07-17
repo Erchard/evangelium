@@ -24,8 +24,8 @@
 | Карток із прямим коптським текстом у новому блоці | 114 |
 | Карток із локально виписаним канонічним грецьким текстом | 81 |
 | Карток, де canonical Greek ще лишається pending | 33 |
-| P.Oxy. 1 card-level Greek extracts pending from XML | 5 |
-| P.Oxy. 655 card-level Greek extracts pending from XML | 3 |
+| P.Oxy. 1 card-level Greek extracts pending from XML | 0 after `poxy-xml-extraction-audit-v0.1.md` |
+| P.Oxy. 655 card-level Greek extracts pending from XML | 0 after `poxy-xml-extraction-audit-v0.1.md` |
 
 ## Методологічне рішення
 
@@ -47,7 +47,6 @@
 
 ## Наступна дія
 
-Наступна source-critical дія: завершити card-level extraction для:
+Card-level pending extraction для P.Oxy. 1 / P.Oxy. 655 закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
 
-- P.Oxy. 1: логії 27, 28, 29, 30, 77;
-- P.Oxy. 655: логії 24, 37, 38.
+Наступна source-critical дія: звірити ці витяги з академічними виданнями й перенести оновлений Greek status у true all-114 publication decision table.

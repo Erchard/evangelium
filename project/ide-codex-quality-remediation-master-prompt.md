@@ -33,13 +33,18 @@ Read these before making changes:
 
 Work in controlled phases. Do not try to polish everything at once. At the start of each run, identify the highest-priority unfinished phase from `project/project-quality-remediation-plan-v0.1.md`, then execute that phase as completely as possible.
 
-Current recommended first phase:
+Current project status after execution:
 
-**Phase 1. P.Oxy. XML Extraction Cleanup**
+- Phase 1, P.Oxy. XML Extraction Cleanup, has been completed in `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
+- Phase 2, Documentation Sync Pass, has received a basic sync after P.Oxy. cleanup.
 
-Close the pending P.Oxy. XML extraction gap before finalizing all-114 decisions.
+Current recommended next phase:
 
-## Phase 1 Specific Instructions
+**Phase 3. Evidence and Control Inventory**
+
+Before creating the true all-114 publication decision table, verify which evidence notes and control files actually exist and where the workflow matrix is stale.
+
+## Completed Phase 1 Specific Instructions
 
 ### Target Logia
 
@@ -79,19 +84,20 @@ Update these 8 cards if the XML supports card-ready extraction:
 
 The result must make the source layer more honest, not merely prettier. It is acceptable to leave a logion unresolved if the XML does not support a responsible extraction. It is not acceptable to silently turn uncertain restorations into secure Greek.
 
-## After Phase 1
+## Current Next Work
 
-If Phase 1 is complete, proceed to Phase 2:
+Proceed to Phase 3:
 
-**Documentation Sync Pass**
+**Evidence and Control Inventory**
 
-Fix the internal documentation contradictions found in `project-quality-audit-v0.1.md`, especially:
+Required work:
 
-- roadmap duplicate numbering;
-- nearest-action ambiguity;
-- publication gap audit filename/title mismatch or version note;
-- evidence-note statistics mismatch;
-- SBLGNT vs SYN-MATT/SYN-MARK/SYN-LUKE source-register ambiguity.
+- scan `reconstruction/earliest-sayings-gospel/notes/`;
+- scan `controls/` and any other control-file locations;
+- compare actual files with `corpus/tables/logia-workflow-matrix.md`;
+- create `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`;
+- classify each logion as evidence note exists / missing, control file exists / cluster file exists / missing, reader status, and priority for note creation;
+- update workflow matrix or clearly flag stale entries.
 
 ## Required Final Report For Each Run
 
@@ -104,4 +110,3 @@ At the end of the run, report:
 - next recommended phase.
 
 If changes were made, commit them with a clear message and push to the remote branch, unless explicitly told not to.
-

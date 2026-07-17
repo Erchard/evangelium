@@ -34,10 +34,11 @@
 | Завершення | `project/project-quality-audit-v0.1.md` | Повний аудит якості проекту: сильні сторони, P0/P1/P2 недоліки, метрики, ризики публікації й рекомендована послідовність закриття прогалин. |
 | Завершення | `project/project-quality-remediation-plan-v0.1.md` | Практичний план усунення недоліків після quality audit: фази, пріоритети, acceptance criteria і порядок доведення проекту до публікаційної якості. |
 | Завершення | `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md` | Контрольований reader pass після Reviews A/B: включено 45A, 47B і 63; решту кандидатів залишено appendix-only. |
-| Завершення | `project/publication-gap-audit-v0.1.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
+| Завершення | `project/publication-gap-audit-v0.2.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
 | Завершення | `corpus/cards/card-quality-audit-v0.2.md` | Аудит gold-level нормалізації карток: 114/114 мають поточний v0.2 status block; головна наступна прогалина - publication decision depth. |
 | Завершення | `corpus/cards/five-source-apparatus-audit-v0.1.md` | Аудит пʼятиджерельного апарату в картках: усі 114 мають P.Oxy./Coptic/canonical channel, але canonical Greek local extraction ще майже весь попереду. |
 | Завершення | `corpus/cards/canonical-greek-extraction-audit-v0.1.md` | Аудит canonical Greek extraction: 81 картка отримала SBLGNT Greek controls, 33 лишаються pending. |
+| Завершення | `corpus/cards/poxy-xml-extraction-audit-v0.1.md` | Аудит P.Oxy. XML extraction cleanup: закрито pending line extraction для логій 24, 27, 28, 29, 30, 37, 38 і 77. |
 | Завершення | `corpus/tables/logia-workflow-matrix.md` | Операційна матриця 114 логій: картки, evidence notes, рішення, стан читабельного тексту й наступні дії. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-corpus-classification-v0.1.md` | Перша повна класифікація всіх 114 логій після завершення первинних карток: reader text, high-priority candidates, deferred clusters and secondary material. |
 | Завершення | `reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md` | Аудит перед фіналізацією clean reader: що вже стабільне, що потребує split-core review, і які документи застаріли. |

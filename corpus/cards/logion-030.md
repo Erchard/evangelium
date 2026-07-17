@@ -105,11 +105,11 @@ Deepen unity/presence cluster; compare Matt 18:20 and Thomas 77b.
 
 ### 1. P.Oxy. 1 Greek witness
 
-- Status: P.Oxy. 1 coverage is reported for this logion range in the DCLP XML, but a clean card-level Greek extract has not yet been made.
+- Status: extant but textually complex P.Oxy. 1 Greek witness; extracted from `dclp-poxy1-62838.xml`, recto lines 2-6. The following lines continue directly into the stone/wood unit that corresponds to Coptic Thomas 77b, so this is not a clean isolated witness to only Logion 30.
 
-> [P.Oxy. 1 Greek text pending local line extraction from `dclp-poxy1-62838.xml`]
+> [λέγ]ει [Ἰησοῦς· ὃπ]ου ἐὰν ὦσιν [τρ]ε[ῖς] ε[ἰσί]ν [ἄ]θεοι καὶ [..]σο [.]ε[..] ἐστιν μόνος [..]τω ἐγώ εἰμι μετ' αὐτοῦ.
 
-- Use: do not cite as reconstructed text until the Greek line extraction is completed.
+- Use: direct Greek control for a damaged three/one divine-presence unit, but keep it textually separated from the immediately following 77b stone/wood material.
 
 ### 2. P.Oxy. 654 Greek witness
 

@@ -135,11 +135,11 @@ Deepen nakedness/no-shame/children cluster; do not include yet.
 
 ### 3. P.Oxy. 655 Greek witness
 
-- Status: P.Oxy. 655 coverage is possible/reported for this logion range, but a clean card-level Greek extract has not yet been made.
+- Status: extant P.Oxy. 655 Greek witness; extracted from `dclp-poxy655-62839.xml`, column i lines 17-23. This preserves the question and a shorter answer; it does not preserve the full Coptic clothing-under-feet / children / Son-of-the-Living-One expansion.
 
-> [P.Oxy. 655 Greek text pending local line extraction from `dclp-poxy655-62839.xml`]
+> λέγουσιν αὐτῷ οἱ μαθηταὶ αὐτοῦ· πότε ἡμῖν ἐμφανὴς ἔσει, καὶ πότε σε ὀψόμεθα; λέγει· ὅταν ἐκδύσησθε καί μὴ αἰσχυνθῆτε.
 
-- Use: do not cite as reconstructed text until the Greek line extraction is completed.
+- Use: direct Greek support for the shorter appearance/undressing core only; the fuller Coptic development remains apparatus material unless separately justified.
 
 ### 4. Coptic NHC II translation channel
 

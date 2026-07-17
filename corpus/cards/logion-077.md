@@ -92,11 +92,11 @@ Deepen light/all and 77b presence units separately.
 
 ### 1. P.Oxy. 1 Greek witness
 
-- Status: P.Oxy. 1 coverage is reported for this logion range in the DCLP XML, but a clean card-level Greek extract has not yet been made.
+- Status: extant P.Oxy. 1 overlap for the 77b stone/wood unit only; extracted from `dclp-poxy1-62838.xml`, recto lines 6-9. P.Oxy. 1 places this unit immediately after the damaged Logion 30 material.
 
-> [P.Oxy. 1 Greek text pending local line extraction from `dclp-poxy1-62838.xml`]
+> ἔγει[ρ]ον τὸν λίθον κἀκεῖ εὑρήσεις με· σχίσον τὸ ξύλον κἀγὼ ἐκεῖ εἰμι.
 
-- Use: do not cite as reconstructed text until the Greek line extraction is completed.
+- Use: direct Greek manuscript support only for the stone/wood presence unit; it does not attest the whole Coptic Logion 77.
 
 ### 2. P.Oxy. 654 Greek witness
 

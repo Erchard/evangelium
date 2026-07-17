@@ -123,11 +123,11 @@ Create evidence note for P.Oxy. 655 and Thomas 24(?).
 
 ### 3. P.Oxy. 655 Greek witness
 
-- Status: P.Oxy. 655 coverage is possible/reported for this logion range, but a clean card-level Greek extract has not yet been made.
+- Status: P.Oxy. 655 is catalogued as Thomas 24(?), 36-39, but `dclp-poxy655-62839.xml` does not provide a responsible Greek witness to the Coptic light/person-of-light saying in Logion 24. The line-level text around column i lines 17-23 corresponds to the appearance/undressing material treated here as Logion 37.
 
-> [P.Oxy. 655 Greek text pending local line extraction from `dclp-poxy655-62839.xml`]
+> [no card-ready Greek witness to the Coptic Logion 24 light saying in P.Oxy. 655; the Thomas 24(?) identification remains uncertain]
 
-- Use: do not cite as reconstructed text until the Greek line extraction is completed.
+- Use: do not cite P.Oxy. 655 as direct Greek support for Logion 24's light saying; cite it only as an uncertain catalogue-level association requiring separate evidence discussion.
 
 ### 4. Coptic NHC II translation channel
 

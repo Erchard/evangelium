@@ -32,9 +32,9 @@
 | Gold-level status blocks | 114/114 |
 | Five-source apparatus blocks | 114/114 |
 | Локально виписаний canonical Greek | 81/114 |
-| Pending P.Oxy. line extraction | 8 карток |
-| Evidence note за workflow matrix | 34/114 |
-| Без evidence note за workflow matrix | 80/114 |
+| Pending P.Oxy. line extraction | 0 після `poxy-xml-extraction-audit-v0.1.md` |
+| Evidence note за workflow matrix | 55/114 |
+| Без evidence note за workflow matrix | 59/114 |
 | Full appendix headings | 114/114 |
 | Appendix sections still mostly skeletal | 83 |
 | Clean Ukrainian reader | 34 логії / ядра |
@@ -57,7 +57,7 @@
 
 ## Phase 1. P.Oxy. XML Extraction Cleanup
 
-**Пріоритет:** P0.
+**Пріоритет:** P0. **Статус:** виконано у `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
 
 **Мета:** закрити прямий папірусний борг перед фінальними рішеннями.
 
@@ -90,7 +90,7 @@
 
 ## Phase 2. Documentation Sync Pass
 
-**Пріоритет:** P0/P1.
+**Пріоритет:** P0/P1. **Статус:** виконано базову синхронізацію після P.Oxy. cleanup; глибший evidence/control inventory винесено в Phase 3.
 
 **Мета:** прибрати розсинхрони, які можуть вести наступного виконавця не туди.
 
@@ -98,7 +98,7 @@
 
 - Виправити дубльовану нумерацію у `project/project-completion-roadmap.md`.
 - Узгодити nearest action: спершу P.Oxy. extraction, потім all-114 publication decision table.
-- Вирішити mismatch `project/publication-gap-audit-v0.1.md` vs title `v0.2`: або перейменувати файл, або пояснити version lineage.
+- Вирішити mismatch `project/publication-gap-audit-v0.1.md` vs title `v0.2`: актуальний файл перейменовано на `project/publication-gap-audit-v0.2.md`, v0.1 лишено як redirect.
 - Узгодити evidence-note statistics між roadmap, publication gap audit, quality audit і workflow matrix.
 - Оновити `sources/primary_texts/source-register.md`: чітко розвести SBLGNT as working open control і final critical-edition verification target for Matthew/Mark/Luke.
 - Зафіксувати, що `/tmp/euagelia-sblgnt` не є стабільним джерелом для довготривалої відтворюваності.
@@ -312,9 +312,9 @@
 
 ## Recommended Execution Order
 
-1. Phase 1: P.Oxy. XML extraction cleanup.
-2. Phase 2: Documentation sync pass.
-3. Phase 3: Evidence and control inventory.
+1. Phase 1: P.Oxy. XML extraction cleanup. Done in `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
+2. Phase 2: Documentation sync pass. Basic sync done after P.Oxy. cleanup.
+3. Phase 3: Evidence and control inventory. Next recommended phase.
 4. Phase 4: True all-114 publication decision table.
 5. Phase 5: Full appendix expansion by packages.
 6. Phase 6: Evidence dossier publication pass.
@@ -336,4 +336,3 @@
 - rights/citation/bibliography не лишаються "потім";
 - документація не суперечить сама собі;
 - clean reader можна показати першим без пояснень, а appendix дає всю глибину після читання.
-

@@ -36,6 +36,6 @@
 
 ## Найближчий робочий цикл
 
-1. Закрити remaining source-critical gap: pending P.Oxy. XML extracts у card-ready Greek форму.
+1. Виконати evidence and control inventory після закриття P.Oxy. XML extraction gap.
 2. Перетворити робочу таблицю рішень на справжню all-114 publication decision table.
 3. Після цього зафіксувати фінальний склад clean reader і розгорнути full appendix / evidence dossier до публікаційного рівня.

@@ -38,7 +38,7 @@
 | Приклад картки для складеної логії | Logion 6 |
 | Картки 114 логій | Є |
 | Вирівнювання якості всіх карток | Є, 114/114 мають `Gold-level status check v0.2` |
-| Пʼятиджерельний апарат у картках | Є, 114/114 мають `Five-source original-language apparatus v0.1`; canonical Greek заповнено для 81 картки |
+| Пʼятиджерельний апарат у картках | Є, 114/114 мають `Five-source original-language apparatus v0.1`; canonical Greek заповнено для 81 картки; pending P.Oxy. XML extraction gap закрито |
 | Чистий український reader | 34 логії / ядра |
 | Англійський reader | Є для 34 логій / ядер |
 | Коптський шар | Є для 34 логій / ядер |
@@ -61,11 +61,12 @@
 1. Не всі high-candidate `UNCERTAIN` логії мають evidence notes і synoptic/control files.
 2. Повний 114-логійний додаток частково розгорнутий, але більшість невключених і частина включених логій ще мають каркасний формат.
 3. Evidence dossier ще не є публікаційним академічним документом.
-4. Canonical Greek control layer суттєво покращено: 81 картка має SBLGNT Greek controls, 33 лишаються pending через відсутність явного reference або відсутність потреби в синоптичному контролі.
-5. Inclusion decisions table ще не покриває фінально всі 114 логій із однаковою глибиною; це головний структурний крок після source-critical cleanup.
-5. Greek retroversion layer має confidence audit v0.1, але перед публікацією потрібна фінальна редакція й перевірка проти академічних видань.
-6. Bibliography / rights / citation policy існують як принципи, але ще не як фінальний апарат.
-7. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
+4. Canonical Greek control layer суттєво покращено: 81 картка має SBLGNT Greek controls, 33 не мають локально виписаного canonical Greek text через відсутність явного reference або відсутність потреби в синоптичному контролі.
+5. Pending P.Oxy. XML extraction gap закрито для логій 24, 27, 28, 29, 30, 37, 38 і 77; тепер потрібна звірка цих витягів з академічними виданнями.
+6. Inclusion decisions table ще не покриває фінально всі 114 логій із однаковою глибиною; це головний структурний крок після documentation sync.
+7. Greek retroversion layer має confidence audit v0.1, але перед публікацією потрібна фінальна редакція й перевірка проти академічних видань.
+8. Bibliography / rights / citation policy існують як принципи, але ще не як фінальний апарат.
+9. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
 
 ## Фаза 1. High-Candidate Deepening
 
@@ -199,7 +200,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: pending P.Oxy. XML extraction pass.
+Найважливіша наступна дія: documentation sync pass після закриття P.Oxy. XML extraction gap.
 
 Виконані пакети:
 
@@ -217,6 +218,6 @@
 
 Наступний рекомендований пакет:
 
-- True all-114 publication decision table.
+- Documentation sync pass, потім true all-114 publication decision table.
 
-Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass також виконано для 81 картки. Перед фінальною all-114 decision table лишається закрити pending P.Oxy. XML extracts, щоб папірусний шар був максимально видимим.
+Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`; тепер треба прибрати документаційні розсинхрони й після цього будувати фінальну all-114 decision table.

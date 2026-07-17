@@ -142,11 +142,11 @@ Keep in apparatus; do not add to reader unless later ritual-symbolic layer is in
 
 ### 1. P.Oxy. 1 Greek witness
 
-- Status: P.Oxy. 1 coverage is reported for this logion range in the DCLP XML, but a clean card-level Greek extract has not yet been made.
+- Status: extant P.Oxy. 1 Greek witness; extracted from `dclp-poxy1-62838.xml`, verso lines 5-11. DCLP records normalized forms in the lemma and original forms in `<orig>` for `νηστεύσηται` / `εὕρηται`; the card cites the normalized lemma for readable comparison.
 
-> [P.Oxy. 1 Greek text pending local line extraction from `dclp-poxy1-62838.xml`]
+> λέγει Ἰησοῦς· ἐὰν μὴ νηστεύσητε τὸν κόσμον οὐ μὴ εὕρητε τὴν βασιλείαν τοῦ θεοῦ· καὶ ἐὰν μὴ σαββατίσητε τὸ σάββατον οὐκ ὄψεσθε τὸν πατέρα.
 
-- Use: do not cite as reconstructed text until the Greek line extraction is completed.
+- Use: direct Greek manuscript support for the fasting-from-the-world / Sabbath-Sabbath unit; do not treat the ritualizing interpretation as automatically early simply because it is papyrus-attested.
 
 ### 2. P.Oxy. 654 Greek witness
 

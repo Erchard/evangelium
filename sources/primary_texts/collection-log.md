@@ -1,5 +1,40 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, P.Oxy. XML extraction cleanup v0.1
+
+### Що додано
+
+- `corpus/cards/poxy-xml-extraction-audit-v0.1.md` - аудит виконаного card-level extraction cleanup для P.Oxy. 1 і P.Oxy. 655.
+
+### Що оновлено
+
+- `corpus/cards/logion-027.md`, `logion-028.md`, `logion-029.md`, `logion-030.md`, `logion-077.md` - додано або уточнено card-level P.Oxy. 1 Greek extracts.
+- `corpus/cards/logion-024.md`, `logion-037.md`, `logion-038.md` - додано або уточнено P.Oxy. 655 status/extracts.
+- `corpus/cards/five-source-apparatus-audit-v0.1.md`, `corpus/cards/canonical-greek-extraction-audit-v0.1.md`, `project/project-completion-roadmap.md`, `project/project-quality-remediation-plan-v0.1.md`, `project/project-map.md` - синхронізовано статус після закриття pending extraction gap.
+
+### Методологічне рішення
+
+`pending local line extraction` прибрано тільки там, де XML було перевірено. Для логії 24 P.Oxy. 655 не подано як прямий грецький свідок світлового вислову: зв'язок лишається catalogue-level `Thomas 24(?)`, а не card-ready Greek witness.
+
+### Наступна дія
+
+Виконати documentation sync pass: прибрати залишкові розсинхрони в roadmap, publication gap audit, evidence-note statistics і source register.
+
+## 2026-07-17, documentation sync pass after P.Oxy. cleanup
+
+### Що оновлено
+
+- `project/publication-gap-audit-v0.2.md` - перейменовано актуальний publication gap audit так, щоб filename відповідав title; `project/publication-gap-audit-v0.1.md` лишено як historical redirect.
+- `README.md`, `project/project-map.md`, `project/project-quality-audit-v0.1.md`, `project/project-quality-remediation-plan-v0.1.md`, `project/publication-gap-audit-v0.2.md`, `sources/primary_texts/source-register.md` - синхронізовано після P.Oxy. cleanup.
+
+### Методологічне рішення
+
+SBLGNT тепер явно позначено як робочий open canonical Greek control для Матвія, Марка і Луки, а не як фінальне critical-edition рішення. Evidence-note статистику в quality/remediation docs виправлено до workflow matrix: 55 `YES`, 59 `NO`.
+
+### Наступна дія
+
+Evidence and control inventory: звірити фактичні notes/control files із workflow matrix перед true all-114 publication decision table.
+
 ## 2026-07-17, quality remediation plan v0.1
 
 ### Що додано
