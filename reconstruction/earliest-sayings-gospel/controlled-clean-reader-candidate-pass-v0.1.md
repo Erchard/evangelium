@@ -49,4 +49,4 @@ No newly promoted unit has a loaded extant Greek Thomas witness. Their Greek lay
 
 ## Next Step
 
-The next best project step is to upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table. That table should become the final control document before freezing the clean reader.
+Superseded next-step note, 2026-07-17: `all-114-publication-decision-table-v0.1.md` now exists. The next best project step is Phase 5 full appendix expansion for excluded/deferred/evidence-blocked logia before freezing the clean reader.

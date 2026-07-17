@@ -260,8 +260,8 @@ Clean reader має починатися без дисклеймерів, але
 1. **P.Oxy. XML extraction pass.** Закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
 2. **Documentation sync pass.** Частково закрито: roadmap numbering, publication audit filename/title, source register SBLGNT/SYN rows, evidence-note statistics.
 3. **Evidence-file audit pass.** Виконано в `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
-4. **True all-114 publication decision table.** Наступний крок: один фінальний контрольний документ по всіх логіях і підодиницях.
-5. **Full appendix expansion pass.** Пакетами перетворити 83 каркасні розділи на реальні пояснювальні коментарі.
+4. **True all-114 publication decision table.** Виконано в `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
+5. **Full appendix expansion pass.** Наступний крок: пакетами перетворити каркасні розділи на реальні пояснювальні коментарі.
 6. **Evidence dossier publication pass.** Англомовний доказовий документ із методологією, bibliography і uncertainty model.
 7. **Rights and citation pass.** Зафіксувати, що можна публікувати, що тільки цитувати коротко, що тільки використовувати для перевірки.
 8. **Greek retroversion polish.** Confidence labels, wording, no-confusion rule.
@@ -270,6 +270,6 @@ Clean reader має починатися без дисклеймерів, але
 
 ## Найважливіший Наступний Крок
 
-Найлогічніше наступне завдання після Phase 3: **True all-114 publication decision table**.
+Найлогічніше наступне завдання після Phase 4: **Full appendix expansion for excluded/deferred/evidence-blocked logia**.
 
-Причина: P.Oxy. cleanup і evidence/control inventory вже виконані; тепер є достатня карта evidence/control, щоб зробити один фінальний документ рішень для всіх 114 логій і split-core units.
+Причина: P.Oxy. cleanup, evidence/control inventory і all-114 publication decision table вже виконані; тепер найслабше місце проекту - не відбір clean reader, а якість пояснення тих логій, які не ввійшли в реконструкцію або ще мають evidence gaps.

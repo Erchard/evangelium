@@ -232,4 +232,4 @@ Interpretation: the workflow matrix is mostly aligned with actual direct evidenc
 
 ## Recommended Next Step
 
-Proceed to Phase 4: create `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`. Use this inventory as the evidence/control map so each logion or split-core unit receives a decision, confidence level, Greek status, appendix status, and explicit rationale.
+Superseded next-step note, 2026-07-17: Phase 4 has been completed in `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`. Use this inventory together with that table for Phase 5 full appendix expansion.

@@ -9,7 +9,7 @@
 - Greek retroversion confidence audit створено; гіпотетичні ретроверсії не рахуються рукописними свідками.
 - Full 114-logion appendix існує для всіх 114 логій як каркас; попередні 31 включені логії/ядра вже розгорнуті до читацьких секцій, а нові 45A/47B/63 мають апаратну підтримку.
 - Evidence dossier: робочий v1.3, ще не публікаційний.
-- Controlled clean-reader candidate pass виконано; найближчий робочий пакет: true all-114 publication decision table.
+- All-114 publication decision table v0.1 виконано; найближчий робочий пакет: Phase 5 full appendix expansion, починаючи з P1 non-reader логій.
 - Усі 114 карток логій мають `Gold-level status check v0.2`; актуальним card-quality audit є `corpus/cards/card-quality-audit-v0.2.md`.
 - Усі 114 карток логій мають `Five-source original-language apparatus v0.1`; актуальний аудит джерельного шару: `corpus/cards/five-source-apparatus-audit-v0.1.md`.
 - Canonical Greek extraction pass виконано: 81 картка має Матвій/Марк/Лука Greek control з локального SBLGNT; аудит: `corpus/cards/canonical-greek-extraction-audit-v0.1.md`.
@@ -43,6 +43,7 @@
 | Завершення | `reconstruction/earliest-sayings-gospel/full-corpus-classification-v0.1.md` | Перша повна класифікація всіх 114 логій після завершення первинних карток: reader text, high-priority candidates, deferred clusters and secondary material. |
 | Завершення | `reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md` | Аудит перед фіналізацією clean reader: що вже стабільне, що потребує split-core review, і які документи застаріли. |
 | Завершення | `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md` | Інвентаризація фактичних evidence notes і control files для 114 логій перед true all-114 publication decision table. |
+| Завершення | `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md` | Publication-control table для всіх 114 логій: 34 reader-marked, 20 appendix-stable, 22 cluster-deferred, 37 evidence-before-final, 1 secondary exclusion. |
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-a-v0.1.md` | Перевірка логій 45, 47, 63, 64, 65-66: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md` | Перевірка логій 76, 78, 79, 94, 103, 109, 113: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Робочий промпт | `project/ide-codex-master-project-prompt.md` | Головний промпт проекту для наступних кроків реконструкції, корпусної роботи, коментарів і фінального видання. |
@@ -51,6 +52,7 @@
 | Робочий промпт | `project/ide-codex-canonical-greek-extraction-pass-v0.1-prompt.md` | Промпт виконаного проходу: витягнути canonical Greek controls із локального SBLGNT у картки. |
 | Робочий промпт | `project/ide-codex-quality-remediation-master-prompt.md` | Головний промпт для поетапного усунення недоліків, починаючи з pending P.Oxy. XML extraction cleanup. |
 | Робочий промпт | `project/ide-codex-evidence-control-inventory-v0.1-prompt.md` | Промпт виконаного Phase 3 проходу: звірити evidence notes і control files із workflow matrix. |
+| Робочий промпт | `project/ide-codex-all-114-publication-decision-table-v0.1-prompt.md` | Промпт виконаного Phase 4 проходу: створити all-114 publication decision table і перевести проект до full appendix expansion. |
 | Робочий промпт | `project/ide-codex-corpus-sprint-081-100-quality-prompt.md` | Якісний промпт для Sprint G: первинні картки логій 81-100 і оновлення контрольних таблиць без передчасного розширення чистого читацького тексту. |
 | Робочий промпт | `project/ide-codex-corpus-sprint-101-114-quality-prompt.md` | Якісний промпт для Sprint H: завершити первинне покриття логій 101-114 і підготувати проект до загальної класифікації корпусу. |
 | Робочий промпт | `project/ide-codex-full-corpus-classification-prompt.md` | Промпт для першої повної класифікації 114 логій і вибору high-priority evidence-note set. |

@@ -161,7 +161,7 @@ Final all-114 decision audit v0.1 уже створено. Він показав
 
 | Ризик | Наслідок | Як зменшити |
 | --- | --- | --- |
-| Передчасно зафіксувати 34 логії як фінальний корпус | Можна пропустити суперечності в остаточних all-114 рішеннях | True all-114 publication decision table перед фіналізацією |
+| Передчасно зафіксувати 34 логії як фінальний корпус | Можна пропустити суперечності в остаточних all-114 рішеннях | All-114 publication decision table v0.1 виконано; clean-reader freeze робити тільки після appendix/evidence rationale polish |
 | Гіпотетичний грецький текст сприймуть як свідок | Методологічна помилка | Greek retroversion confidence audit |
 | Повний додаток лишиться каркасом | Читач не зрозуміє невключені логії | Розширювати appendix пакетами |
 | Evidence dossier лишиться робочим | Важко захистити реконструкцію зовні | Publication pass + bibliography |
@@ -169,9 +169,9 @@ Final all-114 decision audit v0.1 уже створено. Він показав
 
 ## Рекомендований порядок наступних дій
 
-1. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table, using `evidence-control-inventory-v0.1.md`.
-2. Clean reader finalization after publication decision table.
-3. Full appendix expansion for excluded/deferred/uncertain logia.
+1. Full appendix expansion for excluded/deferred/evidence-blocked logia, using `all-114-publication-decision-table-v0.1.md`.
+2. Clean reader finalization after appendix rationale pass.
+3. Evidence dossier publication pass.
 4. Evidence dossier publication pass.
 5. Greek retroversion publication polish against academic editions.
 6. Bibliography, rights, and final editorial pass.
@@ -229,4 +229,4 @@ The dossier is ready when it can be read independently by an external reviewer a
 
 The project is no longer in the "build the corpus" phase. It is now in the "defend and refine the reconstruction" phase.
 
-The most valuable immediate work is now a true all-114 publication decision table. Reviews A/B and the controlled clean-reader candidate pass have already decided the promoted cores; the project now needs one final decision-control document before freezing the reader.
+The most valuable immediate work is now full appendix expansion for excluded, deferred, and evidence-blocked logia. Reviews A/B, the controlled clean-reader candidate pass, and the all-114 publication decision table have already stabilized the decision-control layer; the project now needs reader-facing explanation before freezing the reader.

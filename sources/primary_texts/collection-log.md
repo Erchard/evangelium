@@ -1,5 +1,30 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, all-114 publication decision table v0.1
+
+### Що додано
+
+- `project/ide-codex-all-114-publication-decision-table-v0.1-prompt.md` - промпт виконаного Phase 4 проходу.
+- `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md` - publication-control table для всіх 114 логій.
+
+### Що оновлено
+
+- `project/project-map.md`, `project/project-quality-remediation-plan-v0.1.md`, `project/ide-codex-quality-remediation-master-prompt.md`, `README.md`, `reconstruction/earliest-sayings-gospel/README.md`, roadmap/audit/spec docs - наступний етап переведено з all-114 decision table на Phase 5 full appendix expansion.
+
+### Головні результати
+
+- 114/114 логій покрито.
+- `READER_INCLUDE_MARKED`: 34.
+- `APPENDIX_ONLY_STABLE`: 20.
+- `DEFER_TO_CLUSTER`: 22.
+- `NEEDS_EVIDENCE_BEFORE_FINAL`: 37.
+- `EXCLUDE_AS_SECONDARY`: 1.
+- Clean reader не змінено.
+
+### Наступна дія
+
+Розгорнути full appendix для P1 non-reader логій: 24, 28, 29, 30, 37, 38, 77, плюс cluster-note cases 23/75/104/106.
+
 ## 2026-07-17, evidence and control inventory v0.1
 
 ### Що додано

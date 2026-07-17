@@ -36,6 +36,6 @@
 
 ## Найближчий робочий цикл
 
-1. Перетворити робочу таблицю рішень на справжню all-114 publication decision table, використовуючи `evidence-control-inventory-v0.1.md`.
-2. Після цього зафіксувати фінальний склад clean reader.
-3. Розгорнути full appendix / evidence dossier до публікаційного рівня.
+1. Розгорнути full appendix для P1 non-reader логій, які мають грецький свідок або сильні controls, але ще не мають достатнього пояснювального розділу.
+2. Після цього виконати clean-reader freeze pass на основі `all-114-publication-decision-table-v0.1.md`.
+3. Довести evidence dossier, bibliography, rights/citation policy і final editorial pass до публікаційного рівня.

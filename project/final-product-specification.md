@@ -26,7 +26,7 @@
 - full 114-logion appendix: каркас для всіх 114 логій, розгорнуті читацькі секції для попередніх 31 включених логій/ядер і апаратна підтримка для нових 45A/47B/63;
 - виконані full-appendix пакети: 1-6; 9, 10, 16, 20, 22; 25, 26, 31, 32, 33; 34, 35, 36, 39, 41; 54, 72, 73; 86, 89, 95, 96, 99, 100, 107.
 
-Найближчий editorial/research крок: true all-114 publication decision table. Controlled clean-reader candidate pass уже виконано і додано тільки 45A, 47B та 63.
+Найближчий editorial/research крок: full appendix expansion для невключених, відкладених і evidence-blocked логій. Controlled clean-reader candidate pass уже виконано і додано тільки 45A, 47B та 63; all-114 publication decision table v0.1 також виконано.
 
 ## Повний додаток до всіх 114 логій
 

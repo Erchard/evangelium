@@ -64,7 +64,7 @@ Review B completed: split-core review for Logia 76, 78, 79, 94, 103, 109, 113 no
 
 Controlled clean-reader candidate pass completed: `controlled-clean-reader-candidate-pass-v0.1.md`.
 
-Current next package: true all-114 publication decision table.
+Superseded next-package note, 2026-07-17: the true all-114 publication decision table now exists in `all-114-publication-decision-table-v0.1.md`; current next package is Phase 5 full appendix expansion.
 
 Reason: Reviews A/B and the controlled reader pass have already decided the live split-core candidates. The project now needs one publication-level decision table that covers all 114 logia and prevents scattered or stale decisions from controlling the final edition.
 

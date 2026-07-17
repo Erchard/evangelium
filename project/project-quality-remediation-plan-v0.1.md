@@ -135,13 +135,23 @@
 
 ## Phase 4. True All-114 Publication Decision Table
 
-**Пріоритет:** P0. **Статус:** наступний рекомендований етап.
+**Пріоритет:** P0. **Статус:** виконано у `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
 
 **Мета:** створити головний контрольний документ фінального відбору.
 
 ### Target File
 
 - `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`
+
+### Result
+
+- 114/114 логій покрито.
+- `READER_INCLUDE_MARKED`: 34.
+- `APPENDIX_ONLY_STABLE`: 20.
+- `DEFER_TO_CLUSTER`: 22.
+- `NEEDS_EVIDENCE_BEFORE_FINAL`: 37.
+- `EXCLUDE_AS_SECONDARY`: 1.
+- Clean reader не змінено; Phase 5 має розгортати пояснювальний appendix.
 
 ### Required Columns
 
@@ -315,8 +325,8 @@
 1. Phase 1: P.Oxy. XML extraction cleanup. Done in `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
 2. Phase 2: Documentation sync pass. Basic sync done after P.Oxy. cleanup.
 3. Phase 3: Evidence and control inventory. Done in `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
-4. Phase 4: True all-114 publication decision table. Next recommended phase.
-5. Phase 5: Full appendix expansion by packages.
+4. Phase 4: True all-114 publication decision table. Done in `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
+5. Phase 5: Full appendix expansion by packages. Next recommended phase.
 6. Phase 6: Evidence dossier publication pass.
 7. Phase 7: Rights, bibliography, reproducibility.
 8. Phase 8: Greek retroversion polish.

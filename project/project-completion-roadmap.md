@@ -46,7 +46,7 @@
 | Паралельне видання | 34 рядки поточного reader |
 | Evidence dossier | Робочий v1.3 |
 | Повний додаток до 114 логій | Є як каркас для всіх 114; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку |
-| Inclusion decisions table | Є як робоча таблиця; final all-114 audit v0.1 створено, але потрібна publication decision table |
+| Inclusion decisions table | Є як робоча таблиця; all-114 publication decision table v0.1 створено як головний контрольний документ перед appendix/dossier polish |
 
 ## Поточний склад clean reader
 
@@ -63,7 +63,7 @@
 3. Evidence dossier ще не є публікаційним академічним документом.
 4. Canonical Greek control layer суттєво покращено: 81 картка має SBLGNT Greek controls, 33 не мають локально виписаного canonical Greek text через відсутність явного reference або відсутність потреби в синоптичному контролі.
 5. Pending P.Oxy. XML extraction gap закрито для логій 24, 27, 28, 29, 30, 37, 38 і 77; тепер потрібна звірка цих витягів з академічними виданнями.
-6. Inclusion decisions table ще не покриває фінально всі 114 логій із однаковою глибиною; це головний структурний крок після documentation sync.
+6. All-114 publication decision table v0.1 покриває всі 114 логій, але 37 non-reader rows ще потребують evidence/no-note rationale перед фінальним виданням.
 7. Greek retroversion layer має confidence audit v0.1, але перед публікацією потрібна фінальна редакція й перевірка проти академічних видань.
 8. Bibliography / rights / citation policy існують як принципи, але ще не як фінальний апарат.
 9. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
@@ -200,7 +200,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: true all-114 publication decision table.
+Найважливіша наступна дія: Phase 5 full appendix expansion для excluded/deferred/evidence-blocked логій.
 
 Виконані пакети:
 
@@ -218,6 +218,6 @@
 
 Наступний рекомендований пакет:
 
-- True all-114 publication decision table.
+- Full appendix expansion для P1 non-reader логій, починаючи з 24, 28, 29, 30, 37, 38, 77 і cluster-note cases 23/75/104/106.
 
-Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`; evidence/control inventory виконано в `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`. Тепер можна будувати фінальну all-114 decision table.
+Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено. Тепер слабке місце - не сам clean reader, а пояснювальний appendix для невключених і відкладених логій.

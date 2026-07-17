@@ -38,12 +38,13 @@ Current project status after execution:
 - Phase 1, P.Oxy. XML Extraction Cleanup, has been completed in `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
 - Phase 2, Documentation Sync Pass, has received a basic sync after P.Oxy. cleanup.
 - Phase 3, Evidence and Control Inventory, has been completed in `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
+- Phase 4, True All-114 Publication Decision Table, has been completed in `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
 
 Current recommended next phase:
 
-**Phase 4. True All-114 Publication Decision Table**
+**Phase 5. Full Appendix Expansion**
 
-Use the evidence/control inventory to create the publication decision table for every logion and split-core unit.
+Use the all-114 publication decision table to expand the reader-facing appendix for excluded, deferred, uncertain, and evidence-blocked logia. Start with P1 non-reader logia that have Greek witness or strong controls but no direct evidence note: 24, 28, 29, 30, 37, 38, 77, plus 23/75/104/106 cluster-note cases.
 
 ## Completed Phase 1 Specific Instructions
 
@@ -99,19 +100,32 @@ Key findings:
 - 38 logia are P1 evidence/control targets;
 - 22 logia are P2 appendix/no-note-rationale targets.
 
+## Completed Phase 4 Work
+
+Phase 4 created:
+
+- `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`
+
+Key findings:
+
+- 114/114 logia are covered;
+- 34 units remain `READER_INCLUDE_MARKED`;
+- 37 non-reader rows need evidence/no-note rationale before final publication;
+- the clean reader was not expanded in this pass.
+
 ## Current Next Work
 
-Proceed to Phase 4:
+Proceed to Phase 5:
 
-**True All-114 Publication Decision Table**
+**Full Appendix Expansion**
 
 Required work:
 
-- create `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`;
-- cover all 114 logia and split-core units;
-- use `evidence-control-inventory-v0.1.md` as the evidence/control map;
-- include decision, clean-reader status, confidence, Greek status, Coptic status, evidence note, appendix status, rationale, and next action;
-- do not change the clean reader until the table is complete.
+- expand `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` by controlled packages;
+- begin with P1 non-reader logia identified in the all-114 publication table;
+- give excluded/deferred/evidence-blocked logia the same explanatory seriousness as included logia;
+- include source witnesses, Greek/Coptic status, canonical controls, interpretation options, uncertainty, and explicit reason for non-inclusion;
+- do not change the clean reader unless a separate decision pass is created.
 
 ## Required Final Report For Each Run
 

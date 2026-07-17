@@ -75,4 +75,4 @@ Split-Core Decision Review B has now been completed in `split-core-decision-revi
 
 Controlled clean-reader candidate pass has now been completed in `controlled-clean-reader-candidate-pass-v0.1.md`.
 
-Current next step: true all-114 publication decision table.
+Superseded next step note, 2026-07-17: the true all-114 publication decision table now exists in `all-114-publication-decision-table-v0.1.md`; current next step is Phase 5 full appendix expansion.
