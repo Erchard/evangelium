@@ -35,7 +35,8 @@
 
 ## Найближчий робочий цикл
 
-1. Провести final all-114 decision audit.
-2. Після аудиту зафіксувати фінальний склад clean reader.
-3. Розгорнути коментарі для excluded/deferred/uncertain логій.
-4. Довести evidence dossier, бібліографію, права й редактуру до публікаційного рівня.
+1. Провести split-core decision review A для логій 45, 47, 63, 64, 65-66.
+2. Провести split-core decision review B для логій 76, 78, 79, 94, 103, 109, 113.
+3. Перетворити робочу таблицю рішень на справжню all-114 publication decision table.
+4. Після цього зафіксувати фінальний склад clean reader.
+5. Розгорнути коментарі для excluded/deferred/uncertain логій і довести evidence dossier, бібліографію, права й редактуру до публікаційного рівня.

@@ -1,5 +1,25 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, final all-114 decision audit
+
+### Що додано
+
+- `project/ide-codex-final-all-114-decision-audit-prompt.md` - промпт для контрольного all-114 decision audit перед фіналізацією clean reader.
+- `reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md` - аудит поточного стану рішень, стабільності clean reader, сильних невключених кандидатів, застарілих файлів і наступного робочого пакета.
+
+### Що оновлено
+
+- `corpus/tables/logia-workflow-matrix.md`: прибрано застарілі `Needs multilingual sync` для reader units 86, 89, 95, 96, 99, 100 і 107; ці одиниці вже мають мовні шари й розгорнуті appendix-секції.
+- `README.md`, `project/project-map.md`, `project/project-completion-roadmap.md`, `project/publication-gap-audit-v0.1.md`, `project/repository-structure.md`, `project/clean-text-plus-commentary-concept.md`, `reconstruction/earliest-sayings-gospel/README.md`: наступний крок оновлено з загального all-114 audit на конкретний split-core review.
+
+### Методологічне рішення
+
+Clean Ukrainian reader не змінювався. Аудит підтвердив, що поточні 31 reader units мають достатню робочу підтримку: cards, evidence/control support, language layers і expanded appendix commentary. Але clean reader ще не треба фіналізувати, бо кілька невключених логій можуть містити короткі ранні ядра.
+
+### Наступна дія
+
+Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
+
 ## 2026-07-17, full appendix expansion for Logia 54, 72, 73
 
 ### Що додано

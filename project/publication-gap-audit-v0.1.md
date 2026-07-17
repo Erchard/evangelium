@@ -19,6 +19,7 @@
 | Parallel edition | Є, 31 рядок |
 | Evidence dossier | Є, робочий v1.3 |
 | Inclusion decisions table | Є, але не фінальна |
+| Final all-114 decision audit | Є, v0.1 |
 | Full 114-logion appendix | Є для всіх 114 як каркас; усі 31 включені логії/ядра поточного clean reader вже розгорнуті |
 | Card quality audit | Є |
 | Collection log | Є |
@@ -130,6 +131,8 @@
 - Greek status;
 - appendix status.
 
+Final all-114 decision audit v0.1 уже створено. Він показав, що `inclusion-decisions-table.md` корисний, але не є справжньою фінальною all-114 publication table: частина deferred/low-priority логій не має окремих decision rows, а деякі старі класифікаційні документи історично застаріли.
+
 ### 7. Reader-facing explanation is still missing
 
 Потрібен український вступ, який пояснить:
@@ -153,12 +156,14 @@
 
 ## Рекомендований порядок наступних дій
 
-1. Final decision audit for all 114 logia.
-2. Clean reader finalization after the all-114 decision audit.
-3. Full appendix expansion for excluded/deferred/uncertain logia.
-4. Evidence dossier publication pass.
-5. Greek retroversion publication polish against academic editions.
-6. Bibliography, rights, and final editorial pass.
+1. Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
+2. Split-core decision review B: Logia 76, 78, 79, 94, 103, 109, 113.
+3. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table.
+4. Clean reader finalization after split-core reviews.
+5. Full appendix expansion for excluded/deferred/uncertain logia.
+6. Evidence dossier publication pass.
+7. Greek retroversion publication polish against academic editions.
+8. Bibliography, rights, and final editorial pass.
 
 ## Publication-ready criteria
 
@@ -213,4 +218,4 @@ The dossier is ready when it can be read independently by an external reviewer a
 
 The project is no longer in the "build the corpus" phase. It is now in the "defend and refine the reconstruction" phase.
 
-The most valuable immediate work is not expanding all files equally, but completing the reader-facing second layer for the current reconstruction while preparing the final all-114 decision audit.
+The most valuable immediate work is now split-core review of the strongest remaining non-included candidates. The current reader has its second layer; the remaining risk is whether a few excluded or uncertain logia contain short early cores that should alter the final reconstruction.

@@ -9,7 +9,7 @@
 - Greek retroversion confidence audit створено; гіпотетичні ретроверсії не рахуються рукописними свідками.
 - Full 114-logion appendix існує для всіх 114 логій як каркас; усі 31 включені логії/ядра поточного clean reader вже розгорнуті до читацьких секцій.
 - Evidence dossier: робочий v1.3, ще не публікаційний.
-- Найближчий робочий пакет: final all-114 decision audit перед фіналізацією clean reader.
+- Final all-114 decision audit v0.1 створено; найближчий робочий пакет: split-core decision review для логій 45, 47, 63, 64, 65-66.
 
 ## Поточні матеріали
 
@@ -31,6 +31,7 @@
 | Завершення | `project/publication-gap-audit-v0.1.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
 | Завершення | `corpus/tables/logia-workflow-matrix.md` | Операційна матриця 114 логій: картки, evidence notes, рішення, стан читабельного тексту й наступні дії. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-corpus-classification-v0.1.md` | Перша повна класифікація всіх 114 логій після завершення первинних карток: reader text, high-priority candidates, deferred clusters and secondary material. |
+| Завершення | `reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md` | Аудит перед фіналізацією clean reader: що вже стабільне, що потребує split-core review, і які документи застаріли. |
 | Робочий промпт | `project/ide-codex-master-project-prompt.md` | Головний промпт проекту для наступних кроків реконструкції, корпусної роботи, коментарів і фінального видання. |
 | Робочий промпт | `project/ide-codex-corpus-sprint-081-100-quality-prompt.md` | Якісний промпт для Sprint G: первинні картки логій 81-100 і оновлення контрольних таблиць без передчасного розширення чистого читацького тексту. |
 | Робочий промпт | `project/ide-codex-corpus-sprint-101-114-quality-prompt.md` | Якісний промпт для Sprint H: завершити первинне покриття логій 101-114 і підготувати проект до загальної класифікації корпусу. |
