@@ -1,0 +1,216 @@
+# Publication Gap Audit v0.2
+
+Статус: робочий аудит прогалин, актуалізовано 2026-07-17.
+
+## Мета аудиту
+
+Цей документ відповідає на питання: що саме треба підтягнути, щоб проект став не просто робочою реконструкцією, а якісним виданням, яке можна показувати читачам і давати на зовнішню перевірку.
+
+## Уже створені активи
+
+| Актив | Стан |
+| --- | --- |
+| 114 карток логій | Є |
+| Вирівнювання карток до еталонного стандарту | Є |
+| Clean Ukrainian reader | Є, 31 логія / ядро |
+| English reader layer | Є для 31 логії / ядра |
+| Coptic layer | Є для 31 логії / ядра |
+| Greek layer | Є для 31 логії / ядра; confidence audit v0.1 створено |
+| Parallel edition | Є, 31 рядок |
+| Evidence dossier | Є, робочий v1.3 |
+| Inclusion decisions table | Є, але не фінальна |
+| Full 114-logion appendix | Є для всіх 114 як каркас; 28 включених логій/ядер вже розгорнуті |
+| Card quality audit | Є |
+| Collection log | Є |
+
+## Головні прогалини
+
+### 1. High-candidate логії ще не закриті
+
+Найбільший ризик: ми можемо передчасно вважати склад clean reader стабільним.
+
+Перший пакет для поглиблення завершено як Sprint A evidence/control pass:
+
+- 44 - blasphemy-Spirit controls;
+- 46 - John the Baptist / least in kingdom;
+- 55 - radical discipleship and cross;
+- 57 - weeds among wheat;
+- 76 - pearl / imperishable treasure;
+- 78 - wilderness / reed / soft clothing;
+- 79 - womb / hearing the word.
+
+Після final high-candidate decision pass логії 86, 89, 95 і 96 увійшли до clean reader з маркером або як ядра; 90, 93 і 94 залишаються поза clean reader, але мають evidence notes і control files.
+
+Другий пакет для поглиблення завершено як Sprint B evidence/control pass:
+
+- 86 - foxes / birds / Son of Man homelessness;
+- 89 - cup inside/outside;
+- 90 - yoke and rest;
+- 93 - holy things / dogs and pearls / swine;
+- 94 - seek/find and knock/open;
+- 95 - money, interest, and non-repayment;
+- 96 - leaven parable.
+
+Усі ці логії залишаються поза clean reader, але тепер мають evidence notes і control files.
+
+Третій пакет для поглиблення завершено як Sprint C evidence/control pass:
+
+- 99 - true family;
+- 100 - Caesar/God tribute saying;
+- 103 - thief/watchfulness;
+- 107 - lost sheep;
+- 109 - hidden treasure;
+- 113 - kingdom not observed / not here-or-there.
+
+Після final high-candidate decision pass логії 99, 100 і 107 увійшли до clean reader як ядра; 103, 109 і 113 залишаються поза clean reader, але мають evidence notes і control files.
+
+Усі planned high-candidate packages A/B/C тепер мають evidence notes і control files.
+
+### 2. Evidence notes and control files are uneven
+
+Картки є для всіх 114 логій, але evidence depth нерівний.
+
+Потрібно:
+
+- звірити фактичні evidence note files із workflow matrix;
+- створити notes для high-candidate логій без notes;
+- створити synoptic/control files для сильних синоптичних паралелей;
+- не вимагати однакової глибини для явно deferred/secondary логій, але пояснювати їх у додатку.
+
+### 3. Full appendix is partially expanded, but not finished
+
+Файл `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` уже дуже корисний, але це ще не фінальний коментар.
+
+Він має каркас для всіх 114 логій. Розгорнуті читацькі секції вже створено для 28 включених логій/ядер:
+
+- 1, 2, 3, 4, 5, 6;
+- 9, 10, 16, 20, 22;
+- 25, 26, 31, 32, 33;
+- 34, 35, 36, 39, 41;
+- 86, 89, 95, 96, 99, 100, 107.
+
+Потрібно продовжити перетворювати решту розділів із каркаса на читацький коментар:
+
+- короткий сенс;
+- джерела;
+- паралелі;
+- можливі тлумачення;
+- непевності;
+- причина включення або невключення.
+
+### 4. Greek retroversion confidence needs final publication polish
+
+Проект правильно маркує `Greek retroversion, hypothetical`, і створено `reconstruction/earliest-sayings-gospel/greek-retroversion-confidence-audit-v0.1.md`. Перед публікацією ще потрібно:
+
+- звірити ретроверсії з академічними виданнями;
+- вирівняти confidence labels;
+- не допустити, щоб ретроверсії виглядали як рукописні свідки.
+
+### 5. Evidence dossier is useful, but not final
+
+`evidence-dossier-en.md` уже має сильний каркас, але потребує publication pass:
+
+- єдиний формат для всіх included logia;
+- summary для excluded/deferred high-impact logia;
+- повна бібліографія;
+- methodological introduction;
+- rights/citation notes;
+- explicit uncertainty model.
+
+### 6. Inclusion decisions table is not yet the final control table
+
+Потрібна фінальна таблиця для всіх 114 логій або підодиниць:
+
+- decision;
+- reader status;
+- confidence;
+- main reason;
+- evidence note;
+- Greek status;
+- appendix status.
+
+### 7. Reader-facing explanation is still missing
+
+Потрібен український вступ, який пояснить:
+
+- що саме реконструюється;
+- чому за основу взято Фому;
+- чому не всі логії входять;
+- що означає "найдавніше";
+- чим реконструкція відрізняється від перекладу;
+- як читати clean text і appendix.
+
+## Ризики для якості
+
+| Ризик | Наслідок | Як зменшити |
+| --- | --- | --- |
+| Передчасно зафіксувати 31 логію як фінальний корпус | Можна пропустити сильні high-candidate або split-core одиниці | Final all-114 decision audit перед фінальним reader pass |
+| Гіпотетичний грецький текст сприймуть як свідок | Методологічна помилка | Greek retroversion confidence audit |
+| Повний додаток лишиться каркасом | Читач не зрозуміє невключені логії | Розширювати appendix пакетами |
+| Evidence dossier лишиться робочим | Важко захистити реконструкцію зовні | Publication pass + bibliography |
+| Рішення включення не синхронізовані між файлами | Плутанина у фінальному виданні | Final decision audit |
+
+## Рекомендований порядок наступних дій
+
+1. Continue full appendix expansion for included 31 logia/cores; next packet: 54, 72, 73.
+2. Final decision audit for all 114 logia.
+3. Clean reader finalization after the all-114 decision audit.
+4. Full appendix expansion for excluded/deferred/uncertain logia.
+5. Evidence dossier publication pass.
+6. Greek retroversion publication polish against academic editions.
+7. Bibliography, rights, and final editorial pass.
+
+## Publication-ready criteria
+
+### Publication-ready logion
+
+A logion is publication-ready when it has:
+
+- card;
+- Coptic source reference;
+- Greek witness status;
+- decision;
+- confidence;
+- evidence note or explicit reason why no note is needed;
+- synoptic/control references where relevant;
+- reader-commentary section;
+- appendix section;
+- Greek retroversion confidence if applicable.
+
+### Publication-ready clean reconstruction
+
+The clean reconstruction is ready when:
+
+- final included set is fixed;
+- no statuses, brackets, comments, or warnings remain in the clean text;
+- numbering follows the standard Gospel of Thomas numbering;
+- every included unit has support in apparatus, dossier, and appendix.
+
+### Publication-ready full appendix
+
+The appendix is ready when all 114 logia have:
+
+- clear explanation;
+- sources and Greek status;
+- parallels;
+- possible interpretations;
+- inclusion or exclusion rationale;
+- next uncertainty, if any.
+
+### Publication-ready evidence dossier
+
+The dossier is ready when it can be read independently by an external reviewer and contains:
+
+- method;
+- source hierarchy;
+- rights policy;
+- logion-by-logion argument;
+- bibliography;
+- transparent uncertainty model;
+- no unsupported claims about Greek witnesses.
+
+## Practical conclusion
+
+The project is no longer in the "build the corpus" phase. It is now in the "defend and refine the reconstruction" phase.
+
+The most valuable immediate work is not expanding all files equally, but completing the reader-facing second layer for the current reconstruction while preparing the final all-114 decision audit.
