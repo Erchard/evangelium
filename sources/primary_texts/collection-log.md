@@ -1,5 +1,20 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, quality remediation plan v0.1
+
+### Що додано
+
+- `project/project-quality-remediation-plan-v0.1.md` - практичний план усунення недоліків після повного quality audit.
+- `project/ide-codex-quality-remediation-master-prompt.md` - головний промпт для поетапного виконання remediation plan.
+
+### Що оновлено
+
+- `project/project-map.md` - додано посилання на remediation plan і master remediation prompt.
+
+### Методологічне рішення
+
+План фіксує порядок: спершу закрити source-critical борги, особливо pending P.Oxy. XML extraction, потім синхронізувати документацію, після цього будувати true all-114 publication decision table і лише тоді фіналізувати clean reader, appendix, dossier, bibliography і editorial pass.
+
 ## 2026-07-17, full project quality audit v0.1
 
 ### Що додано
