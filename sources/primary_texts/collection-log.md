@@ -1684,6 +1684,7 @@ Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
 
 ## 2026-07-17 - Arabic Injil Reader Layer v0.1
 
+- Added `project/arabic-injil-layer-concept.md`.
 - Added `project/arabic-injil-layer-editorial-policy.md`.
 - Added `reconstruction/earliest-sayings-gospel/reconstructed-gospel-ar-quranic-register.md`.
 - The Arabic layer renders the 34-unit clean reader as `The Reconstructed Injil of Isa ibn Maryam` in a high classical Arabic / Qur'anic-adjacent register.
