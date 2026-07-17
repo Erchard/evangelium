@@ -37,12 +37,13 @@ Current project status after execution:
 
 - Phase 1, P.Oxy. XML Extraction Cleanup, has been completed in `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
 - Phase 2, Documentation Sync Pass, has received a basic sync after P.Oxy. cleanup.
+- Phase 3, Evidence and Control Inventory, has been completed in `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
 
 Current recommended next phase:
 
-**Phase 3. Evidence and Control Inventory**
+**Phase 4. True All-114 Publication Decision Table**
 
-Before creating the true all-114 publication decision table, verify which evidence notes and control files actually exist and where the workflow matrix is stale.
+Use the evidence/control inventory to create the publication decision table for every logion and split-core unit.
 
 ## Completed Phase 1 Specific Instructions
 
@@ -84,20 +85,33 @@ Update these 8 cards if the XML supports card-ready extraction:
 
 The result must make the source layer more honest, not merely prettier. It is acceptable to leave a logion unresolved if the XML does not support a responsible extraction. It is not acceptable to silently turn uncertain restorations into secure Greek.
 
+## Completed Phase 3 Work
+
+Phase 3 created:
+
+- `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`
+
+Key findings:
+
+- no clean-reader unit lacks an evidence trail;
+- 54 logia have direct evidence-note coverage;
+- workflow matrix has 55 evidence YES entries because Logion 23 is cluster-checked but lacks a direct evidence note;
+- 38 logia are P1 evidence/control targets;
+- 22 logia are P2 appendix/no-note-rationale targets.
+
 ## Current Next Work
 
-Proceed to Phase 3:
+Proceed to Phase 4:
 
-**Evidence and Control Inventory**
+**True All-114 Publication Decision Table**
 
 Required work:
 
-- scan `reconstruction/earliest-sayings-gospel/notes/`;
-- scan `controls/` and any other control-file locations;
-- compare actual files with `corpus/tables/logia-workflow-matrix.md`;
-- create `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`;
-- classify each logion as evidence note exists / missing, control file exists / cluster file exists / missing, reader status, and priority for note creation;
-- update workflow matrix or clearly flag stale entries.
+- create `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`;
+- cover all 114 logia and split-core units;
+- use `evidence-control-inventory-v0.1.md` as the evidence/control map;
+- include decision, clean-reader status, confidence, Greek status, Coptic status, evidence note, appendix status, rationale, and next action;
+- do not change the clean reader until the table is complete.
 
 ## Required Final Report For Each Run
 

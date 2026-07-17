@@ -36,6 +36,6 @@
 
 ## Найближчий робочий цикл
 
-1. Виконати evidence and control inventory після закриття P.Oxy. XML extraction gap.
-2. Перетворити робочу таблицю рішень на справжню all-114 publication decision table.
-3. Після цього зафіксувати фінальний склад clean reader і розгорнути full appendix / evidence dossier до публікаційного рівня.
+1. Перетворити робочу таблицю рішень на справжню all-114 publication decision table, використовуючи `evidence-control-inventory-v0.1.md`.
+2. Після цього зафіксувати фінальний склад clean reader.
+3. Розгорнути full appendix / evidence dossier до публікаційного рівня.

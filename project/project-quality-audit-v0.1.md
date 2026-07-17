@@ -162,7 +162,7 @@ SBLGNT Greek controls внесені в 81 картку, але джерельн
 
 - `project/publication-gap-audit-v0.1.md` мав title `Publication Gap Audit v0.2`; після documentation sync актуальний файл `project/publication-gap-audit-v0.2.md`, а v0.1 лишено як redirect.
 - `project/project-completion-roadmap.md` мав дубльовану нумерацію в "Основні прогалини" - два пункти `5`; після documentation sync нумерацію виправлено.
-- `project/project-completion-roadmap.md` одночасно казав, що найближча дія - pending P.Oxy. XML extraction pass, і що наступний рекомендований пакет - true all-114 publication decision table. Після Phase 1/2 це уточнено: P.Oxy. cleanup закрито, наступний крок - evidence/control inventory перед all-114 decision table.
+- `project/project-completion-roadmap.md` одночасно казав, що найближча дія - pending P.Oxy. XML extraction pass, і що наступний рекомендований пакет - true all-114 publication decision table. Після Phase 1/2/3 це уточнено: P.Oxy. cleanup і evidence/control inventory закрито, наступний крок - true all-114 publication decision table.
 
 Ризик: новий виконавець або читач документації може піти не в той наступний крок.
 
@@ -259,8 +259,8 @@ Clean reader має починатися без дисклеймерів, але
 
 1. **P.Oxy. XML extraction pass.** Закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
 2. **Documentation sync pass.** Частково закрито: roadmap numbering, publication audit filename/title, source register SBLGNT/SYN rows, evidence-note statistics.
-3. **Evidence-file audit pass.** Звірити фактичні evidence notes/control files із workflow matrix.
-4. **True all-114 publication decision table.** Один фінальний контрольний документ по всіх логіях і підодиницях.
+3. **Evidence-file audit pass.** Виконано в `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
+4. **True all-114 publication decision table.** Наступний крок: один фінальний контрольний документ по всіх логіях і підодиницях.
 5. **Full appendix expansion pass.** Пакетами перетворити 83 каркасні розділи на реальні пояснювальні коментарі.
 6. **Evidence dossier publication pass.** Англомовний доказовий документ із методологією, bibliography і uncertainty model.
 7. **Rights and citation pass.** Зафіксувати, що можна публікувати, що тільки цитувати коротко, що тільки використовувати для перевірки.
@@ -270,6 +270,6 @@ Clean reader має починатися без дисклеймерів, але
 
 ## Найважливіший Наступний Крок
 
-Найлогічніше наступне завдання після Phase 1/2: **Evidence and Control Inventory**.
+Найлогічніше наступне завдання після Phase 3: **True all-114 publication decision table**.
 
-Причина: перед фінальною all-114 publication decision table треба точно знати, які evidence notes і control files реально існують, а не покладатися лише на стару matrix.
+Причина: P.Oxy. cleanup і evidence/control inventory вже виконані; тепер є достатня карта evidence/control, щоб зробити один фінальний документ рішень для всіх 114 логій і split-core units.

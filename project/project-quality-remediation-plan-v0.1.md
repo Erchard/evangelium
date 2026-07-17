@@ -111,7 +111,7 @@
 
 ## Phase 3. Evidence and Control Inventory
 
-**Пріоритет:** P0.
+**Пріоритет:** P0. **Статус:** виконано у `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
 
 **Мета:** точно знати, які evidence notes і control files реально існують, а не покладатися тільки на стару matrix.
 
@@ -135,7 +135,7 @@
 
 ## Phase 4. True All-114 Publication Decision Table
 
-**Пріоритет:** P0.
+**Пріоритет:** P0. **Статус:** наступний рекомендований етап.
 
 **Мета:** створити головний контрольний документ фінального відбору.
 
@@ -314,8 +314,8 @@
 
 1. Phase 1: P.Oxy. XML extraction cleanup. Done in `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
 2. Phase 2: Documentation sync pass. Basic sync done after P.Oxy. cleanup.
-3. Phase 3: Evidence and control inventory. Next recommended phase.
-4. Phase 4: True all-114 publication decision table.
+3. Phase 3: Evidence and control inventory. Done in `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
+4. Phase 4: True all-114 publication decision table. Next recommended phase.
 5. Phase 5: Full appendix expansion by packages.
 6. Phase 6: Evidence dossier publication pass.
 7. Phase 7: Rights, bibliography, reproducibility.

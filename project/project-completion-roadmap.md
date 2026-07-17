@@ -200,7 +200,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: documentation sync pass після закриття P.Oxy. XML extraction gap.
+Найважливіша наступна дія: true all-114 publication decision table.
 
 Виконані пакети:
 
@@ -218,6 +218,6 @@
 
 Наступний рекомендований пакет:
 
-- Documentation sync pass, потім true all-114 publication decision table.
+- True all-114 publication decision table.
 
-Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`; тепер треба прибрати документаційні розсинхрони й після цього будувати фінальну all-114 decision table.
+Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`; evidence/control inventory виконано в `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`. Тепер можна будувати фінальну all-114 decision table.

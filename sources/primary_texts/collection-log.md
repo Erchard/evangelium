@@ -1,5 +1,28 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, evidence and control inventory v0.1
+
+### Що додано
+
+- `project/ide-codex-evidence-control-inventory-v0.1-prompt.md` - промпт виконаного Phase 3 проходу.
+- `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md` - інвентаризація фактичних evidence notes і control files для всіх 114 логій.
+
+### Що оновлено
+
+- `project/project-map.md`, `project/project-quality-remediation-plan-v0.1.md`, `project/ide-codex-quality-remediation-master-prompt.md`, `README.md` - наступний етап оновлено до true all-114 publication decision table.
+
+### Головні результати
+
+- Clean-reader P0 gaps: 0.
+- Direct evidence-note coverage: 54 логії.
+- Workflow matrix evidence YES: 55; різниця пояснюється логією 23, яка має cluster/context note, але не має direct `logion-023-evidence-en.md`.
+- P1 evidence/control targets: 38.
+- P2 appendix/no-note-rationale targets: 22.
+
+### Наступна дія
+
+Створити `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`, використовуючи inventory як evidence/control map.
+
 ## 2026-07-17, P.Oxy. XML extraction cleanup v0.1
 
 ### Що додано

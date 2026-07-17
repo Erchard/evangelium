@@ -169,13 +169,12 @@ Final all-114 decision audit v0.1 уже створено. Він показав
 
 ## Рекомендований порядок наступних дій
 
-1. Evidence and control inventory: звірити реальні notes/control files із workflow matrix.
-2. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table.
-3. Clean reader finalization after publication decision table.
-4. Full appendix expansion for excluded/deferred/uncertain logia.
-5. Evidence dossier publication pass.
-6. Greek retroversion publication polish against academic editions.
-7. Bibliography, rights, and final editorial pass.
+1. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table, using `evidence-control-inventory-v0.1.md`.
+2. Clean reader finalization after publication decision table.
+3. Full appendix expansion for excluded/deferred/uncertain logia.
+4. Evidence dossier publication pass.
+5. Greek retroversion publication polish against academic editions.
+6. Bibliography, rights, and final editorial pass.
 
 ## Publication-ready criteria
 
