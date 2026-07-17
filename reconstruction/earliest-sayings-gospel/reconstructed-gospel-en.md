@@ -1,6 +1,6 @@
 # A Reconstruction of the Earliest Sayings Gospel
 
-Status: working text v0.4. Synchronized with the 31-unit Ukrainian clean reader after the final high-candidate decision pass.
+Status: working text v0.5. Synchronized with the 34-unit Ukrainian clean reader after the controlled clean-reader candidate pass.
 
 ## Logion 1
 
@@ -106,9 +106,21 @@ Be wise as serpents and pure as doves.
 
 Whoever has will be given more; whoever does not have will lose even the little that they have.
 
+## Logion 45
+
+Grapes are not gathered from thorns, nor figs from thistles.
+
+## Logion 47
+
+A servant cannot serve two masters: he will honor one and despise the other.
+
 ## Logion 54
 
 Blessed are the poor, for the kingdom of heaven belongs to you.
+
+## Logion 63
+
+A rich man had many possessions. He planned to sow, reap, plant, and fill his storehouses so that he would lack nothing. That night he died.
 
 ## Logion 72
 

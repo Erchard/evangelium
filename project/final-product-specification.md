@@ -19,14 +19,14 @@
 
 Станом на 2026-07-17 проект має:
 
-- clean Ukrainian reader із 31 логії/ядра;
-- синхронізовані English, Coptic, Greek і parallel шари для цих 31 одиниць;
+- clean Ukrainian reader із 34 логій/ядер;
+- синхронізовані English, Coptic, Greek і parallel шари для цих 34 одиниць;
 - Greek retroversion confidence audit для всього current reader;
 - evidence dossier v1.3 як робочий, але ще не публікаційний документ;
-- full 114-logion appendix: каркас для всіх 114 логій і розгорнуті читацькі секції для всіх 31 включених логій/ядер поточного clean reader;
+- full 114-logion appendix: каркас для всіх 114 логій, розгорнуті читацькі секції для попередніх 31 включених логій/ядер і апаратна підтримка для нових 45A/47B/63;
 - виконані full-appendix пакети: 1-6; 9, 10, 16, 20, 22; 25, 26, 31, 32, 33; 34, 35, 36, 39, 41; 54, 72, 73; 86, 89, 95, 96, 99, 100, 107.
 
-Найближчий editorial/research крок: controlled clean-reader candidate pass для ядер, промотованих у split-core reviews A/B. Цей pass має вирішити, чи якісь із кандидатних ядер справді покращують clean reader, не знижуючи методологічної строгості.
+Найближчий editorial/research крок: true all-114 publication decision table. Controlled clean-reader candidate pass уже виконано і додано тільки 45A, 47B та 63.
 
 ## Повний додаток до всіх 114 логій
 

@@ -35,9 +35,9 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 64.
 
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 
-Наступна дія: поглибити Luke 14 / Matt 22 controls; розділити invitation parable і merchants/traders exclusion.
+Наступна дія: publication appendix polish; пояснити, чому banquet core і anti-merchant ending не увійшли в clean reader.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -45,7 +45,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 64.
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: 64A/64B `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: запрошення на вечерю і відмовки.
@@ -65,19 +65,18 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 64.
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-064-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `controls/synoptic-parallels/logion-064-banquet-invitation-controls.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці.
+- Можливе раннє ядро: banquet invitation core is plausible but kept appendix-only in the controlled reader pass.
+- Вторинні / томині ризики: anti-merchant ending and long invitation narrative create dependence/secondary-layer risk.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-Split banquet core and anti-merchant ending; compare Luke 14 / Matt 22.
+Publication polish: refine appendix explanation for banquet core and anti-merchant ending.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

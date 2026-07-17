@@ -236,6 +236,30 @@ Confidence: medium.
 
 Basis: Coptic wording plus strong formulaic controls in Mark 4:25, Matthew 13:12, Matthew 25:29, Luke 8:18, and Luke 19:26. The phrase `ἐν τῇ χειρὶ αὐτοῦ` is a cautious rendering of the Coptic "in his hand" and is not extant Greek Thomas.
 
+## Logion 45
+
+Decision: grapes/thorns core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> οὐ τρυγῶσιν σταφυλὰς ἐξ ἀκανθῶν οὐδὲ σῦκα ἐκ τριβόλων.
+
+Basis: Coptic Thomas plus Matthew 7:16 and Luke 6:44. This is a reader-core retroversion, not an extant Greek Thomas witness.
+
+## Logion 47
+
+Decision: two-masters core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> οὐ δύναται δοῦλος δυσὶ κυρίοις δουλεύειν· τὸν ἕνα τιμήσει, τὸν δὲ ἕτερον καταφρονήσει.
+
+Basis: Coptic Thomas plus Matthew 6:24 and Luke 16:13. This retroversion covers only the two-masters core, not the wider incompatibility chain.
+
 ## Logion 54
 
 Decision: `INCLUDE_WITH_MARKER`
@@ -247,6 +271,18 @@ Confidence: medium-high.
 > μακάριοι οἱ πτωχοί, ὅτι ὑμετέρα ἐστὶν ἡ βασιλεία τῶν οὐρανῶν.
 
 Basis: Coptic text plus Luke 6:20 and Matthew 5:3. The retroversion intentionally preserves Thomas's combination of direct "poor" with "kingdom of heaven." It is not an extant Greek witness.
+
+## Logion 63
+
+Decision: rich-fool core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> ἄνθρωπός τις πλούσιος εἶχεν χρήματα πολλά· ἐλογίσατο σπεῖραι, θερίσαι, φυτεύσαι, καὶ πληρῶσαι τὰς ἀποθήκας, ἵνα μηδενὸς ὑστερῇ· ἐν τῇ νυκτὶ ἐκείνῃ ἀπέθανεν.
+
+Basis: Coptic Thomas plus Luke 12:16-21. Risk: Luke-dependence remains possible; the retroversion is not an extant Greek Thomas witness.
 
 ## Logion 72
 

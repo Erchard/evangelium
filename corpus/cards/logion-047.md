@@ -45,9 +45,9 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 47.
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
-- Reader text: NO.
-- Greek witness status: No loaded P.Oxy. witness.
+- Рішення: 47B `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`.
+- Reader text: YES, 47B only.
+- Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: два пани; старе/нове вино і латка.
 - Поточний робочий статус: Evidence note v0.1.
 
@@ -65,19 +65,18 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 47.
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-047-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `controls/synoptic-parallels/logion-047-incompatibility-sayings-controls.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці.
-- Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
+- Можливе раннє ядро: 47B two-masters core включено в clean reader.
+- Вторинні / томині ризики: повний ланцюг несумісностей лишається appendix-only.
+- Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-Split two masters, new wine, and patch units.
+Publication polish: refine appendix explanation for the remaining incompatibility chain.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

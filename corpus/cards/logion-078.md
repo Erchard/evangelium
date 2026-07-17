@@ -35,9 +35,9 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 78.
 
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 
-Наступна дія: high-candidate deepening with Matt 11 / Luke 7; test whether final "truth" clause is Thomasine.
+Наступна дія: publication appendix polish; explain John-tradition frame and final truth clause.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -45,7 +45,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 78.
 
 ### Поточне рішення
 
-- Рішення: 78A `PROMOTE_CANDIDATE_FOR_READER_PASS`; truth ending `KEEP_APPENDIX_ONLY_FOR_NOW`.
+- Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: пустеля, очерет, м'який одяг.
@@ -71,12 +71,12 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 78.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: Review B визначив wilderness/reed/soft-clothing core як кандидат для майбутнього reader pass.
-- Вторинні / томині ризики: фінальна truth/soft-clothing clause ймовірно є томиним або вторинним застосуванням.
+- Можливе раннє ядро: wilderness/reed/soft-clothing core is plausible, but the controlled reader pass kept it appendix-only.
+- Вторинні / томині ризики: the saying depends on the John-tradition frame and the final truth clause is likely Thomasine or secondary.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-Split-core review B: consider the wilderness/reed/soft-clothing core in a later clean-reader candidate pass; keep the final truth clause in the appendix.
+Controlled reader pass: keep appendix-only for now because the strong core belongs to the John tradition and is less clean as a free-standing reader unit.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.

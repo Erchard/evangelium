@@ -44,9 +44,9 @@ Blessed is the one who knows in which watch the thieves are coming, so that he m
 
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 
-Наступна дія: high candidate; compare Matt 24:43, Luke 12:39, and Thomas 21.
+Наступна дія: publication appendix polish; revisit only in a thief/watchfulness cluster with Logion 21.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -54,7 +54,7 @@ Blessed is the one who knows in which watch the thieves are coming, so that he m
 
 ### Поточне рішення
 
-- Рішення: 103A `PROMOTE_CANDIDATE_FOR_READER_PASS`; expansion `KEEP_APPENDIX_ONLY_FOR_NOW`.
+- Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: блаженний, хто знає час приходу злодія.
@@ -80,12 +80,12 @@ Blessed is the one who knows in which watch the thieves are coming, so that he m
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: Review B визначив short thief/watchfulness core як кандидат для майбутнього reader pass.
-- Вторинні / томині ризики: gather-domain/girding expansion лишається appendix-only через складну ймовірно вторинну форму.
+- Можливе раннє ядро: short thief/watchfulness core is plausible, but the controlled reader pass kept it appendix-only.
+- Вторинні / томині ризики: damaged/expanded wording and gather-domain/girding language require a later thief/watchfulness cluster decision.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-Split-core review B: consider the short thief/watchfulness core in a later clean-reader candidate pass; keep the gather-domain/girding expansion in the appendix.
+Controlled reader pass: keep appendix-only for now; revisit only in a thief/watchfulness cluster with Logion 21.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.

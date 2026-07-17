@@ -4,12 +4,12 @@
 
 ## Поточний стан у стислому вигляді
 
-- Clean Ukrainian reader: 31 логія/ядро.
-- Англійський, коптський, грецький і parallel шари синхронізовані для цих 31 одиниць.
+- Clean Ukrainian reader: 34 логії/ядра.
+- Англійський, коптський, грецький і parallel шари синхронізовані для цих 34 одиниць.
 - Greek retroversion confidence audit створено; гіпотетичні ретроверсії не рахуються рукописними свідками.
-- Full 114-logion appendix існує для всіх 114 логій як каркас; усі 31 включені логії/ядра поточного clean reader вже розгорнуті до читацьких секцій.
+- Full 114-logion appendix існує для всіх 114 логій як каркас; попередні 31 включені логії/ядра вже розгорнуті до читацьких секцій, а нові 45A/47B/63 мають апаратну підтримку.
 - Evidence dossier: робочий v1.3, ще не публікаційний.
-- Split-core decision reviews A/B створено; найближчий робочий пакет: controlled clean-reader candidate pass для промотованих ядер.
+- Controlled clean-reader candidate pass виконано; найближчий робочий пакет: true all-114 publication decision table.
 
 ## Поточні матеріали
 
@@ -27,7 +27,8 @@
 | Кінцевий продукт | `project/final-product-specification.md` | Специфікація реконструйованого найдавнішого євангелія висловів: український, коптський, грецький, англійський шари й англомовний доказовий апарат. |
 | Кінцевий продукт | `project/clean-text-plus-commentary-concept.md` | Концепція фінального видання: спочатку чистий реконструйований текст, потім коментар і повний додаток до всіх 114 логій. |
 | Кінцевий продукт | `project/clean-reader-text-first-page-principle.md` | Правило першої читацької сторінки: у головному українському тексті тільки пронумеровані логії, без дисклеймерів, статусів, квадратних дужок і коментарів. |
-| Завершення | `project/project-completion-roadmap.md` | Актуальна дорожня карта: 31-unit reader, синхронізовані мовні шари, Greek audit, пакетне розгортання full appendix і публікаційні прогалини. |
+| Завершення | `project/project-completion-roadmap.md` | Актуальна дорожня карта: 34-unit reader, синхронізовані мовні шари, Greek audit, пакетне розгортання full appendix і публікаційні прогалини. |
+| Завершення | `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md` | Контрольований reader pass після Reviews A/B: включено 45A, 47B і 63; решту кандидатів залишено appendix-only. |
 | Завершення | `project/publication-gap-audit-v0.1.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
 | Завершення | `corpus/tables/logia-workflow-matrix.md` | Операційна матриця 114 логій: картки, evidence notes, рішення, стан читабельного тексту й наступні дії. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-corpus-classification-v0.1.md` | Перша повна класифікація всіх 114 логій після завершення первинних карток: reader text, high-priority candidates, deferred clusters and secondary material. |

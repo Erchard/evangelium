@@ -73,4 +73,6 @@ Next package:
 
 Split-Core Decision Review B has now been completed in `split-core-decision-review-b-v0.1.md`.
 
-Next: create a controlled clean-reader candidate pass for the strongest promoted cores from Reviews A and B.
+Controlled clean-reader candidate pass has now been completed in `controlled-clean-reader-candidate-pass-v0.1.md`.
+
+Current next step: true all-114 publication decision table.

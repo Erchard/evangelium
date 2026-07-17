@@ -45,9 +45,9 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 45.
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
-- Reader text: NO.
-- Greek witness status: No loaded P.Oxy. witness.
+- Рішення: 45A `INCLUDE_WITH_MARKER`; 45B `KEEP_APPENDIX_ONLY_FOR_NOW`; full logion `UNCERTAIN`.
+- Reader text: YES, 45A only.
+- Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: дерево/плід; скарб серця; добре і зле.
 - Поточний робочий статус: Evidence note v0.1.
 
@@ -65,19 +65,18 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 45.
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-045-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `controls/synoptic-parallels/logion-045-tree-fruit-heart-controls.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці.
-- Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
+- Можливе раннє ядро: 45A grapes/thorns core включено в clean reader.
+- Вторинні / томині ризики: 45B heart-treasure continuation і повна складена форма лишаються appendix-only.
+- Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-Split grapes/thorns and good/evil treasure before reader decision.
+Publication polish: refine appendix explanation for the excluded 45B continuation and full composite form.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

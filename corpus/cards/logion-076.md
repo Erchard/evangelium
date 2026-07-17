@@ -35,9 +35,9 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 76.
 
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 
-Наступна дія: high-candidate deepening; split pearl parable and imperishable treasure unit.
+Наступна дія: publication appendix polish; reconsider only in a later Matthew-only parable/treasure cluster decision.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -45,7 +45,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 76.
 
 ### Поточне рішення
 
-- Рішення: 76A/76B `PROMOTE_CANDIDATE_FOR_READER_PASS`; full logion `UNCERTAIN`.
+- Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: перлина і нетлінний скарб.
@@ -71,12 +71,12 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 76.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: Review B визначив два кандидатні ядра: pearl/merchant core і imperishable-treasure core.
-- Вторинні / томині ризики: повна форма є складеною; не промотувати як одну примітивну логію.
+- Можливе раннє ядро: Review B identified two possible cores, but the controlled reader pass kept both appendix-only.
+- Вторинні / томині ризики: Matthew-only parable control, treasure overlap, and composite chaining prevent current clean-reader promotion.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-Split-core review B: consider pearl and imperishable-treasure cores in a later clean-reader candidate pass; do not promote the full composite logion.
+Controlled reader pass: keep pearl and imperishable-treasure cores appendix-only for now; reconsider only in a later Matthew-only parable/treasure cluster decision.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.

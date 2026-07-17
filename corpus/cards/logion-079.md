@@ -35,9 +35,9 @@ Composite high-candidate with strong Lukan controls. Треба відділит
 
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 
-Наступна дія: deepen Luke 11 and Luke 23 controls; decide whether first subunit can be `INCLUDE_WITH_MARKER`.
+Наступна дія: publication appendix polish; explain Luke 11/Luke 23 composite structure.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -45,7 +45,7 @@ Composite high-candidate with strong Lukan controls. Треба відділит
 
 ### Поточне рішення
 
-- Рішення: 79A `PROMOTE_CANDIDATE_FOR_READER_PASS`; reversal ending `KEEP_APPENDIX_ONLY_FOR_NOW`.
+- Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: блаженна утроба; слухати слово Отця.
@@ -71,12 +71,12 @@ Composite high-candidate with strong Lukan controls. Треба відділит
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: Review B визначив hearing/keeping word core як кандидат для майбутнього reader pass.
-- Вторинні / томині ризики: повна форма поєднує Luke 11-like і Luke 23-like матеріал; reversal ending лишається appendix-only.
+- Можливе раннє ядро: hearing/keeping word core is plausible, but the controlled reader pass kept it appendix-only.
+- Вторинні / томині ризики: the unit combines Luke 11-like and Luke 23-like material and overlaps current reader material.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-Split-core review B: consider the hearing/keeping word core in a later clean-reader candidate pass; keep the barren-womb reversal in the appendix.
+Controlled reader pass: keep appendix-only for now because the hearing/keeping core overlaps current reader material and remains embedded in a composite unit.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.

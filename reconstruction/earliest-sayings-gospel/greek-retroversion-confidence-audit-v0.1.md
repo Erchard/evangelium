@@ -41,7 +41,10 @@ Retroversions are not manuscript witnesses.
 | 36 | Lacunose extant Greek witness | medium | P.Oxy. 655; P.Oxy. 5575 control; Coptic Thomas; Matthew/Luke | P.Oxy. 655 is heavily restored and broader than clean reader. | Print P.Oxy. 655 with restoration warning; clean reader follows Coptic clothing core. |
 | 39 | Lacunose extant Greek witness | medium | P.Oxy. 655; Luke 11:52; Matthew 23:13; Matthew 10:16 | P.Oxy. 655 is heavily supplied; Thomas form is composite. | Print as lacunose P.Oxy.; identify two subunits. |
 | 41 | Greek retroversion, hypothetical | medium | Coptic Thomas; Mark/Matthew/Luke has/given formula | Thomas wording "in hand / little" is distinctive. | Label as `Greek retroversion, hypothetical`. |
+| 45 | Greek retroversion, hypothetical | medium | Coptic Thomas; Matthew 7:16; Luke 6:44 | Full logion is composite; heart-treasure continuation excluded. | Label as `Greek retroversion, hypothetical`; grapes/thorns core only. |
+| 47 | Greek retroversion, hypothetical | medium | Coptic Thomas; Matthew 6:24; Luke 16:13 | Full incompatibility chain is composite; only two-masters core is included. | Label as `Greek retroversion, hypothetical`; core only. |
 | 54 | Greek retroversion, hypothetical | medium-high | Coptic Thomas; Luke 6:20; Matthew 5:3 | Thomas combines Luke-like poor with Matthew-like kingdom of heaven. | Label as `Greek retroversion, hypothetical`; note mixed controls. |
+| 63 | Greek retroversion, hypothetical | medium | Coptic Thomas; Luke 12:16-21 | Luke-dependence risk remains; no extant Greek Thomas witness. | Label as `Greek retroversion, hypothetical`; rich-fool core only. |
 | 72 | Greek retroversion, hypothetical | low-medium | Coptic Thomas; Luke 12:13-14 | One major external control; Luke-dependence risk high. | Label as `Greek retroversion, hypothetical`; include dependence warning. |
 | 73 | Greek retroversion, hypothetical | medium-high | Coptic Thomas; Matthew 9:37-38; Luke 10:2 | No extant Greek Thomas witness. | Label as `Greek retroversion, hypothetical`; formulaic double control. |
 | 86 | Greek retroversion, hypothetical | medium | Coptic Thomas; Matthew 8:20; Luke 9:58 | Decontextualized from following scene; no extant Greek Thomas witness. | Label as `Greek retroversion, hypothetical`. |
@@ -54,10 +57,10 @@ Retroversions are not manuscript witnesses.
 
 ## Summary
 
-Current 31-unit reader:
+Current 34-unit reader:
 
 - Extant or materially witnessed Greek layer in some form: 12 units or subunits: 1, 2, 3, 4, 5, 6, 26, 31, 32, 33, 36, 39.
-- Purely hypothetical Greek retroversion layer: 20 units or subunits: 9, 10, 16, 20, 22, 25, 33 lamp unit, 34, 35, 41, 54, 72, 73, 86, 89, 95, 96, 99, 100, 107.
+- Purely hypothetical Greek retroversion layer: 23 units or subunits: 9, 10, 16, 20, 22, 25, 33 lamp unit, 34, 35, 41, 45, 47, 54, 63, 72, 73, 86, 89, 95, 96, 99, 100, 107.
 
 The counts overlap because Logion 33 has both partial extant Greek and a retroverted lamp unit.
 

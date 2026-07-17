@@ -45,9 +45,9 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 63.
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
-- Reader text: NO.
-- Greek witness status: No loaded P.Oxy. witness.
+- Рішення: `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`.
+- Reader text: YES, short rich-fool core.
+- Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: багатий, комори і смерть уночі.
 - Поточний робочий статус: Coptic extraction v0.1.
 
@@ -65,19 +65,18 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 63.
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-063-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `controls/synoptic-parallels/logion-063-rich-fool-luke-control.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
-- Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
+- Можливе раннє ядро: short rich-fool core включено в clean reader.
+- Вторинні / томині ризики: напрям залежності від Луки лишається відкритим; hearing formula і будь-яка додаткова моралізація не включені.
+- Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-Compare Luke 12 rich fool; decide core separately.
+Publication polish: keep Luke-dependence warning visible in apparatus and dossier.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

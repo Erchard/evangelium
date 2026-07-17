@@ -69,4 +69,6 @@ Especially important appendix explanations:
 
 ## Next Step
 
-Create a controlled clean-reader candidate pass for the promoted cores from Reviews A and B. That pass should decide whether any of the promoted candidates genuinely improve the clean reconstruction without weakening its methodological standard.
+Controlled clean-reader candidate pass has now been completed in `controlled-clean-reader-candidate-pass-v0.1.md`.
+
+Current next step: true all-114 publication decision table.

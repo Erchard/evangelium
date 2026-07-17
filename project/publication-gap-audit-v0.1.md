@@ -12,15 +12,15 @@
 | --- | --- |
 | 114 карток логій | Є |
 | Вирівнювання карток до еталонного стандарту | Є |
-| Clean Ukrainian reader | Є, 31 логія / ядро |
-| English reader layer | Є для 31 логії / ядра |
-| Coptic layer | Є для 31 логії / ядра |
-| Greek layer | Є для 31 логії / ядра; confidence audit v0.1 створено |
-| Parallel edition | Є, 31 рядок |
+| Clean Ukrainian reader | Є, 34 логії / ядра |
+| English reader layer | Є для 34 логій / ядер |
+| Coptic layer | Є для 34 логій / ядер |
+| Greek layer | Є для 34 логій / ядер; confidence audit v0.1 оновлено |
+| Parallel edition | Є, 34 рядки |
 | Evidence dossier | Є, робочий v1.3 |
 | Inclusion decisions table | Є, але не фінальна |
 | Final all-114 decision audit | Є, v0.1 |
-| Full 114-logion appendix | Є для всіх 114 як каркас; усі 31 включені логії/ядра поточного clean reader вже розгорнуті |
+| Full 114-logion appendix | Є для всіх 114 як каркас; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку |
 | Card quality audit | Є |
 | Collection log | Є |
 
@@ -82,7 +82,7 @@
 
 Файл `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` уже дуже корисний, але це ще не фінальний коментар.
 
-Він має каркас для всіх 114 логій. Розгорнуті читацькі секції вже створено для всіх 31 включених логій/ядер поточного clean reader:
+Він має каркас для всіх 114 логій. Розгорнуті читацькі секції вже створено для попередніх 31 включених логій/ядер поточного clean reader:
 
 - 1, 2, 3, 4, 5, 6;
 - 9, 10, 16, 20, 22;
@@ -148,7 +148,7 @@ Final all-114 decision audit v0.1 уже створено. Він показав
 
 | Ризик | Наслідок | Як зменшити |
 | --- | --- | --- |
-| Передчасно зафіксувати 31 логію як фінальний корпус | Можна пропустити сильні high-candidate або split-core одиниці | Final all-114 decision audit перед фінальним reader pass |
+| Передчасно зафіксувати 34 логії як фінальний корпус | Можна пропустити суперечності в остаточних all-114 рішеннях | True all-114 publication decision table перед фіналізацією |
 | Гіпотетичний грецький текст сприймуть як свідок | Методологічна помилка | Greek retroversion confidence audit |
 | Повний додаток лишиться каркасом | Читач не зрозуміє невключені логії | Розширювати appendix пакетами |
 | Evidence dossier лишиться робочим | Важко захистити реконструкцію зовні | Publication pass + bibliography |
@@ -156,13 +156,12 @@ Final all-114 decision audit v0.1 уже створено. Він показав
 
 ## Рекомендований порядок наступних дій
 
-1. Controlled clean-reader candidate pass for promoted cores from Reviews A and B.
-2. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table.
-3. Clean reader finalization after split-core reviews.
-4. Full appendix expansion for excluded/deferred/uncertain logia.
-5. Evidence dossier publication pass.
-6. Greek retroversion publication polish against academic editions.
-7. Bibliography, rights, and final editorial pass.
+1. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table.
+2. Clean reader finalization after publication decision table.
+3. Full appendix expansion for excluded/deferred/uncertain logia.
+4. Evidence dossier publication pass.
+5. Greek retroversion publication polish against academic editions.
+6. Bibliography, rights, and final editorial pass.
 
 ## Publication-ready criteria
 
@@ -217,4 +216,4 @@ The dossier is ready when it can be read independently by an external reviewer a
 
 The project is no longer in the "build the corpus" phase. It is now in the "defend and refine the reconstruction" phase.
 
-The most valuable immediate work is now a controlled clean-reader candidate pass. Reviews A and B identified possible future reader candidates but did not edit the clean reader; the project should now decide which, if any, genuinely belong in the clean reconstruction.
+The most valuable immediate work is now a true all-114 publication decision table. Reviews A/B and the controlled clean-reader candidate pass have already decided the promoted cores; the project now needs one final decision-control document before freezing the reader.

@@ -1,5 +1,45 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, controlled clean-reader candidate pass
+
+### Що додано
+
+- `project/ide-codex-controlled-clean-reader-candidate-pass-prompt.md` - промпт для суворого reader-candidate pass після split-core reviews A/B.
+- `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md` - рішення по всіх candidate cores.
+
+### Що оновлено
+
+- `reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md`: clean reader розширено з 31 до 34 одиниць.
+- `reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md`, `reconstructed-gospel-coptic.md`, `reconstructed-gospel-greek.md`, `parallel-edition.md`: додано синхронні шари для 45A, 47B і 63.
+- `reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk-apparatus.md`: додано пояснення для нових включень.
+- `reconstruction/earliest-sayings-gospel/evidence-dossier-en.md`: додано summary-блоки для 45, 47 і 63 та оновлено current reader count.
+- `reconstruction/earliest-sayings-gospel/greek-retroversion-confidence-audit-v0.1.md`: додано 45, 47 і 63 як `Greek retroversion, hypothetical`.
+- `reconstruction/earliest-sayings-gospel/inclusion-decisions-table.md`, `corpus/tables/logia-workflow-matrix.md`, `full-logion-commentary-appendix-uk.md` і відповідні картки синхронізовано з рішеннями pass.
+- Активні project/README/status документи оновлено: наступний крок тепер true all-114 publication decision table.
+
+### Методологічне рішення
+
+До clean reader включено тільки:
+
+- 45A grapes/thorns core;
+- 47B two-masters core;
+- 63 rich-fool core.
+
+Не включено в clean reader, але збережено в appendix-only:
+
+- 45B heart-treasure continuation;
+- 64A banquet core;
+- 76A/76B pearl and treasure cores;
+- 78A wilderness/reed/soft-clothing core;
+- 79A hearing/keeping word core;
+- 103A thief/watchfulness core.
+
+Причина: ці одиниці цікаві, але мають сильніший ризик дублювання, залежності, контекстної прив'язаності або вторинного розгортання.
+
+### Наступна дія
+
+True all-114 publication decision table.
+
 ## 2026-07-17, split-core decision review B
 
 ### Що додано

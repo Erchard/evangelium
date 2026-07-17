@@ -1,6 +1,6 @@
 # Coptic Base Witness
 
-Status: working text v0.4. The Coptic text is not itself the reconstructed early layer; it is the main complete surviving witness used as a base for reconstruction. This file is synchronized with the 31-unit Ukrainian clean reader.
+Status: working text v0.5. The Coptic text is not itself the reconstructed early layer; it is the main complete surviving witness used as a base for reconstruction. This file is synchronized with the 34-unit Ukrainian clean reader.
 
 ## Logion 1
 
@@ -212,6 +212,26 @@ Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-
 
 Reconstruction note: the has/given formula is included with marker; the Coptic details "in his hand" and "the little" remain important for the apparatus.
 
+## Logion 45
+
+Decision: grapes/thorns core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ⲙⲁⲩϫⲉⲗⲉ ⲉⲗⲟⲟⲗⲉ ⲉⲃⲟⲗ ϩⲛ̅ ϣⲟⲛⲧⲉ ⲟⲩⲧⲉ ⲙⲁⲩⲕⲱⲧϥ` ⲕⲛ̅ⲧⲉ ⲉⲃⲟⲗ ϩⲛ̅ ⲥⲣ̅ϭⲁⲙⲟⲩⲗ`
+
+Reconstruction note: only the grapes/thorns and figs/thistles core is used in the clean reader. The good/evil treasure-of-heart continuation remains appendix material.
+
+## Logion 47
+
+Decision: two-masters core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲙⲛ̅ ϭⲟⲙ` ⲛ̅ⲧⲉ ⲟⲩϩⲙϩ̅ⲁ̅ⲗ̅ ϣⲙ̅ϣⲉ ϫⲟⲉⲓⲥ ⲥⲛⲁⲩ ⲏ ϥⲛⲁⲣ̅ⲧⲓⲙⲁ ⲙ̅ⲡⲟⲩⲁ` ⲁⲩⲱ ⲡⲕⲉⲟⲩⲁ ϥⲛⲁⲣ̅ϩⲩⲃⲣⲓⲍⲉ ⲙ̅ⲙⲟϥ`
+
+Reconstruction note: only the two-masters core is used in the clean reader. The two-horses/two-bows, wine, wineskins, and patch units remain appendix material.
+
 ## Logion 54
 
 Decision: `INCLUDE_WITH_MARKER`
@@ -221,6 +241,16 @@ Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-
 > ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ϩⲛ̅ⲙⲁⲕⲁⲣⲓⲟⲥ ⲛⲉ ⲛϩⲏⲕⲉ ϫⲉ ⲧⲱⲧⲛ̅ ⲧⲉ ⲧⲙⲛ̅ⲧⲉⲣⲟ ⲛⲙ̅ⲡⲏⲩⲉ`
 
 Reconstruction note: the short beatitude is included with marker; Thomas preserves "poor" without Matthew's "in spirit" qualifier.
+
+## Logion 63
+
+Decision: rich-fool core `INCLUDE_WITH_MARKER`; hearing formula excluded
+
+Source: NHC II,2 as represented in `sources/primary_texts/coptic/logia-063-065-coptic-extraction.md`.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲛⲉⲩⲛ̅ ⲟⲩⲣⲱⲙⲉ ⲙ̅ⲡⲗⲟⲩⲥⲓⲟⲥ ⲉⲩⲛ̅ⲧⲁϥ ⲙ̅ⲙⲁⲩ ⲛ̅ϩⲁϩⲛ̅ⲭⲣⲏⲙⲁ ... ϣⲓⲛⲁ ϫⲉ ⲛⲓⲣ̅ ϭⲣⲱϩ ⲗ̅ⲗⲁⲁⲩ ... ϩⲛ̅ ⲧⲟⲩϣⲏ ⲉⲧⲙ̅ⲙⲁⲩ ⲁϥⲙⲟⲩ
+
+Reconstruction note: the clean reader uses the rich man's plan and sudden death core. The final hearing formula remains apparatus material.
 
 ## Logion 72
 

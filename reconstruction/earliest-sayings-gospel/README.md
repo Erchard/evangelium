@@ -32,14 +32,14 @@ The reconstruction is not a simple translation of the Coptic Gospel of Thomas. I
 
 ## Current Scope
 
-The current clean reconstructed reader covers 31 logia or marked cores.
+The current clean reconstructed reader covers 34 logia or marked cores.
 
-- Logia 1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 54, 72, 73, 86, 89, 95, 96, 99, 100, and 107 are currently printed in the clean Ukrainian reader.
+- Logia 1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 45A, 47B, 54, 63, 72, 73, 86, 89, 95, 96, 99, 100, and 107 are currently printed in the clean Ukrainian reader.
 - Logion 2 remains the methodological gold-standard card.
 - The Ukrainian reader text is now a clean numbered text; technical cautions, markers, and explanations belong in `reconstructed-gospel-uk-apparatus.md` and `reader-commentary-uk.md`.
-- English, Coptic, Greek, and parallel layers are synchronized for the current 31-unit reader.
+- English, Coptic, Greek, and parallel layers are synchronized for the current 34-unit reader.
 - The Greek layer is controlled by `greek-retroversion-confidence-audit-v0.1.md`; hypothetical retroversions must not be treated as manuscript witnesses.
-- `full-logion-commentary-appendix-uk.md` covers all 114 logia as a scaffold. Reader-facing sections have been expanded for all 31 current clean-reader logia/cores: 1-6, 9, 10, 16, 20, 22, 25, 26, 31-36, 39, 41, 54, 72, 73, 86, 89, 95, 96, 99, 100, 107.
+- `full-logion-commentary-appendix-uk.md` covers all 114 logia as a scaffold. Reader-facing sections have been expanded for the previous 31 clean-reader logia/cores; new reader units 45A, 47B, and 63 have apparatus support and need later full appendix expansion.
 
 This is a working reconstruction, not a final academic edition.
 
@@ -54,4 +54,4 @@ The final reader experience should therefore have two layers:
 1. clean reconstructed text: only the most responsible early reconstruction;
 2. full commentary appendix: all 114 logia, including rejected or deferred material.
 
-Split-Core Decision Reviews A and B now exist. The next publication-level task is a controlled clean-reader candidate pass for the promoted cores. After that, turn to the publication decision table, excluded/deferred/uncertain appendix sections, and the evidence dossier publication pass.
+Split-Core Decision Reviews A/B and the controlled clean-reader candidate pass now exist. The next publication-level task is a true all-114 publication decision table, followed by excluded/deferred/uncertain appendix sections and the evidence dossier publication pass.

@@ -6,21 +6,21 @@ Status: working audit, 2026-07-17.
 
 This audit checks whether the project is ready to freeze the clean reconstructed reader. The answer is: not yet.
 
-The current clean reader is now well supported as a working reconstruction: all 31 current reader units have cards, evidence/control support, synchronized language layers, and expanded Ukrainian appendix sections. The remaining risk is not the current reader itself, but the non-included corpus. Several non-included logia still contain possible early cores that could change the final reader if they survive a stricter split-core review.
+The current clean reader is now well supported as a working reconstruction: all 34 current reader units have cards, evidence/control support, synchronized language layers, and apparatus support. The remaining risk is no longer unreviewed split-core candidates, but the absence of one true all-114 publication decision table.
 
 ## Current Reader Support
 
 Current clean reader units:
 
-1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 54, 72, 73, 86, 89, 95, 96, 99, 100, 107.
+1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 45A, 47B, 54, 63, 72, 73, 86, 89, 95, 96, 99, 100, 107.
 
 Audit result:
 
-- Evidence notes: present for all 31 current reader units.
+- Evidence notes: present for all 34 current reader units.
 - Synoptic/control files: present for all reader units that need a dedicated control file, with some cluster-level files for grouped controls.
-- Language layers: Ukrainian, English, Coptic, Greek, and parallel layers exist for the 31 current reader units.
+- Language layers: Ukrainian, English, Coptic, Greek, and parallel layers exist for the 34 current reader units.
 - Greek policy: current Greek layer is controlled by `greek-retroversion-confidence-audit-v0.1.md`; hypothetical retroversions are not treated as witnesses.
-- Full appendix: all 31 current reader units now have expanded Ukrainian reader-facing sections.
+- Full appendix: the previous 31 current reader units have expanded Ukrainian reader-facing sections; newly added 45A, 47B, and 63 have apparatus and summary support and need later full appendix expansion.
 
 Conclusion: the current reader is defensible as a working reader. It is not yet final because the remaining 83 logia have not all received final decision-level explanation.
 
@@ -32,7 +32,7 @@ These units may remain in the reader, but need final wording, bibliography, or c
 | --- | --- | --- |
 | 1-6 | `CURRENT_READER_NEEDS_PUBLICATION_POLISH` | Strong project foundations, but P.Oxy. 654 lacunae and early/Thomasine expansion boundaries need final notes. |
 | 9, 10, 16, 20, 22 | `CURRENT_READER_NEEDS_PUBLICATION_POLISH` | Strong cores, but all rely on core/full-logion distinctions and hypothetical Greek for several units. |
-| 25, 33, 34, 35, 41, 54, 72, 73, 86, 89, 95, 96, 99, 100, 107 | `CURRENT_READER_NEEDS_PUBLICATION_POLISH` | No loaded extant Greek Thomas witness; Greek forms must remain explicitly hypothetical. |
+| 25, 33, 34, 35, 41, 45, 47, 54, 63, 72, 73, 86, 89, 95, 96, 99, 100, 107 | `CURRENT_READER_NEEDS_PUBLICATION_POLISH` | No loaded extant Greek Thomas witness; Greek forms must remain explicitly hypothetical. |
 | 26, 31, 32, 36, 39 | `CURRENT_READER_NEEDS_PUBLICATION_POLISH` | Greek witness exists in some form, but partial, lacunose, or compositionally complex evidence must be described carefully. |
 | 72 | `CURRENT_READER_NEEDS_PUBLICATION_POLISH` | Included with a stronger dependence warning than most current reader units because Luke 12 is the only strong external control. |
 
@@ -62,9 +62,11 @@ Review A completed: split-core review for Logia 45, 47, 63, 64, 65-66 now exists
 
 Review B completed: split-core review for Logia 76, 78, 79, 94, 103, 109, 113 now exists in `split-core-decision-review-b-v0.1.md`.
 
-Current next package: controlled clean-reader candidate pass for the promoted cores from Reviews A and B.
+Controlled clean-reader candidate pass completed: `controlled-clean-reader-candidate-pass-v0.1.md`.
 
-Reason: Reviews A and B identified candidate cores for a later reader pass but did not edit the clean reader. The next pass should decide which, if any, genuinely belong in the clean reconstruction without creating duplication or lowering the evidentiary threshold.
+Current next package: true all-114 publication decision table.
+
+Reason: Reviews A/B and the controlled reader pass have already decided the live split-core candidates. The project now needs one publication-level decision table that covers all 114 logia and prevents scattered or stale decisions from controlling the final edition.
 
 ## Appendix-Only or Deferred Material
 
@@ -88,21 +90,20 @@ The audit found three types of stale state:
 
 The project should not freeze the final clean reader until:
 
-1. controlled clean-reader candidate pass is completed for the promoted cores from split-core reviews A/B;
-2. `inclusion-decisions-table.md` is replaced or upgraded into a true all-114 publication decision table;
-3. full appendix sections for excluded/deferred/uncertain logia are expanded beyond skeleton level;
-4. evidence dossier receives a publication pass with bibliography and rights/citation policy.
+1. `inclusion-decisions-table.md` is replaced or upgraded into a true all-114 publication decision table;
+2. full appendix sections for newly added 45A/47B/63 and excluded/deferred/uncertain logia are expanded beyond skeleton level;
+3. evidence dossier receives a publication pass with bibliography and rights/citation policy.
 
 ## Next Work Package
 
-Reviews A and B have been completed. Next prompt should perform:
+Reviews A/B and the controlled clean-reader candidate pass have been completed. Next prompt should perform:
 
-**Controlled Clean-Reader Candidate Pass: promoted cores from Reviews A/B**
+**True All-114 Publication Decision Table**
 
 Required outputs:
 
-- reader-candidate evaluation for 45A/45B, 47B, 63, 64A, 76A/76B, 78A, 79A, and 103A;
-- explicit duplication/dependence warnings;
-- update clean reader only if a candidate clearly improves the reconstruction;
+- one row for every logion or split-core unit;
+- final reader status for included, appendix-only, deferred, uncertain, and excluded material;
+- explicit evidence/control references;
 - update workflow matrix and publication gap audit;
 - keep Greek retroversions labeled hypothetical unless an extant Greek witness is loaded.

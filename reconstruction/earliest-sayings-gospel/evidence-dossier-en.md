@@ -55,7 +55,7 @@ Protected modern translations are not used as the base text. Public domain or op
 
 ## Current Block Summary
 
-The current reconstructed reader block covers 31 logia or cores: 1-6 ethical core, 9-10 cores, 16 core, 20, 22 core, 25-26, 31-36, 39, 41, 54, 72-73, 86, 89, 95-96, 99-100, and 107 as marked sayings. Logia 7, 8, 11, 23, 27, 37, 38, 44, 46, 55, 57, 76, 78, 79, 90, 93, 94, 103, 109, and 113 have evidence notes, cards, or cluster checks, but they are not included in the main reconstructed text because their current decision is `UNCERTAIN`, split-core pending, or too duplicative.
+The current reconstructed reader block covers 34 logia or cores: 1-6 ethical core, 9-10 cores, 16 core, 20, 22 core, 25-26, 31-36, 39, 41, 45A, 47B, 54, 63, 72-73, 86, 89, 95-96, 99-100, and 107 as marked sayings. Logia 7, 8, 11, 23, 27, 37, 38, 44, 46, 55, 57, 64, 76, 78, 79, 90, 93, 94, 103, 109, and 113 have evidence notes, cards, or cluster checks, but they are not included in the main reconstructed text because their current decision is `UNCERTAIN`, appendix-only, too duplicative, or too dependence-risky.
 
 ## Logion 1 Summary
 
@@ -490,6 +490,46 @@ Synoptic evidence table: `controls/synoptic-parallels/logion-041-has-given-contr
 
 Reconstruction implication: include Logion 41 in the Ukrainian reader text with a marker; do not treat the hypothetical Greek retroversion as manuscript evidence.
 
+## Logion 45 Summary
+
+Decision: 45A `INCLUDE_WITH_MARKER`; full Logion 45 `UNCERTAIN`; 45B `KEEP_APPENDIX_ONLY_FOR_NOW`.
+
+Marked reader text:
+
+> Grapes are not gathered from thorns, nor figs from thistles.
+
+Reason: the grapes/thorns and figs/thistles core is short, aphoristic, and strongly controlled by Matthew 7:16 and Luke 6:44. It is the cleanest part of the transmitted Thomas 45 complex and can be printed without importing the full tree/fruit/heart/speech chain.
+
+The marker remains necessary because no loaded extant Greek Thomas witness preserves Logion 45, and because the full Thomas form is composite. The good/evil heart-treasure continuation is also strongly controlled, especially by Luke 6:45, but it is more developed and more tightly joined to the larger Luke 6 complex. The controlled reader pass therefore prints only 45A.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 45. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-045-evidence-en.md`.
+
+Synoptic evidence table: `controls/synoptic-parallels/logion-045-tree-fruit-heart-controls.md`.
+
+Reconstruction implication: include only the grapes/thorns core in the Ukrainian reader text with a marker; keep the heart-treasure continuation and full logion in the appendix.
+
+## Logion 47 Summary
+
+Decision: 47B `INCLUDE_WITH_MARKER`; full Logion 47 `UNCERTAIN`.
+
+Marked reader text:
+
+> A servant cannot serve two masters: he will honor one and despise the other.
+
+Reason: the two-masters core is compact, memorable, and strongly controlled by Matthew 6:24 and Luke 16:13. It is the strongest subunit in a longer Thomas chain of incompatibility sayings.
+
+The marker remains necessary because no loaded extant Greek Thomas witness preserves Logion 47, and because the full Thomas logion joins several units: two horses/two bows, two masters, wine, wineskins, and patch sayings. The clean reconstruction prints only the two-masters core.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 47. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-047-evidence-en.md`.
+
+Synoptic evidence table: `controls/synoptic-parallels/logion-047-incompatibility-sayings-controls.md`.
+
+Reconstruction implication: include only the two-masters core in the Ukrainian reader text with a marker; keep the wider incompatibility chain in the appendix.
+
 ## Logion 54 Summary
 
 Decision: `INCLUDE_WITH_MARKER`
@@ -509,6 +549,28 @@ Evidence note: `notes/logion-054-evidence-en.md`.
 Synoptic evidence table: `controls/synoptic-parallels/logion-054-blessed-poor-controls.md`.
 
 Reconstruction implication: include Logion 54 in the Ukrainian reader text with a marker; a shorter early core may be "Blessed are the poor, for yours is the kingdom."
+
+## Logion 63 Summary
+
+Decision: rich-fool core `INCLUDE_WITH_MARKER`; full Logion 63 `UNCERTAIN`.
+
+Marked reader text:
+
+> A rich man had many possessions. He planned to sow, reap, plant, and fill his storehouses so that he would lack nothing. That night he died.
+
+Reason: Thomas 63 and Luke 12:16-21 share the same basic anti-wealth parable architecture: abundance, storage planning, imagined security, and sudden death. The Thomas form is shorter and less explicitly moralized than Luke's version, which makes it plausible as a compact parable core.
+
+The marker remains necessary because no loaded extant Greek Thomas witness preserves Logion 63, and Luke-dependence remains possible. The reader therefore prints only the short story core, without the hearing formula and without adding Luke's explicit moral conclusion.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 63. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-063-evidence-en.md`.
+
+Synoptic evidence table: `controls/synoptic-parallels/logion-063-rich-fool-luke-control.md`.
+
+Coptic extraction: `sources/primary_texts/coptic/logia-063-065-coptic-extraction.md`.
+
+Reconstruction implication: include the short rich-fool core in the Ukrainian reader text with a marker; keep Luke-dependence warning visible in apparatus and publication dossier.
 
 ## Logion 72 Summary
 
