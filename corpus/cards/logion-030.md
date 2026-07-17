@@ -81,11 +81,11 @@ Logion 30 належить до вже визначеного Thomas unity / mon
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-030-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+немає окремого synoptic/control file; користуватися evidence note v0.1 як no-note rationale до подальшого control pass.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster/context note не привязаний до цієї логії або не потрібен для поточного рішення.
 
 ### Шарова модель для реконструкції
 
@@ -95,7 +95,7 @@ Logion 30 належить до вже визначеного Thomas unity / mon
 
 ### Наступна дія
 
-Deepen unity/presence cluster; compare Matt 18:20 and Thomas 77b.
+Use evidence rationale v0.1; study Logion 30 / 77b P.Oxy. 1 sequence before any split-core decision.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -153,16 +153,16 @@ Local Greek canonical/control text currently transcribed:
 - Reader text: NO.
 - Greek witness status: P.Oxy. 1, textually complex with 77b.
 - Current work status: Primary card v0.1.
-- Evidence note in matrix: NO.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-030-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- no separate control file yet; use the evidence rationale note as the current no-note rationale until a later control pass.
 
 ### Greek/Coptic Policy
 
@@ -178,5 +178,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Deepen unity/presence cluster; compare Matt 18:20 and Thomas 77b.
+- Next action: Use evidence rationale v0.1; study Logion 30 / 77b P.Oxy. 1 sequence before any split-core decision.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

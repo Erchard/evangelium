@@ -45,7 +45,7 @@
 | Грецький шар | Є для 34 логій / ядер; confidence audit v0.1 оновлено |
 | Паралельне видання | 34 рядки поточного reader |
 | Evidence dossier | Робочий v1.3 |
-| Повний додаток до 114 логій | Є як каркас для всіх 114; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку; P1 non-reader package 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106 розгорнуто |
+| Повний додаток до 114 логій | Є як каркас для всіх 114; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку; P1 non-reader package 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106 розгорнуто і має direct evidence notes |
 | Inclusion decisions table | Є як робоча таблиця; all-114 publication decision table v0.1 створено як головний контрольний документ перед appendix/dossier polish |
 
 ## Поточний склад clean reader
@@ -63,7 +63,7 @@
 3. Evidence dossier ще не є публікаційним академічним документом.
 4. Canonical Greek control layer суттєво покращено: 81 картка має SBLGNT Greek controls, 33 не мають локально виписаного canonical Greek text через відсутність явного reference або відсутність потреби в синоптичному контролі.
 5. Pending P.Oxy. XML extraction gap закрито для логій 24, 27, 28, 29, 30, 37, 38 і 77; тепер потрібна звірка цих витягів з академічними виданнями.
-6. All-114 publication decision table v0.1 покриває всі 114 логій, але 37 non-reader rows ще потребують evidence/no-note rationale перед фінальним виданням.
+6. All-114 publication decision table v0.1 покриває всі 114 логій; після першого P1 evidence-rationale pass 26 non-reader rows ще потребують evidence/no-note rationale перед фінальним виданням.
 7. Greek retroversion layer має confidence audit v0.1, але перед публікацією потрібна фінальна редакція й перевірка проти академічних видань.
 8. Bibliography / rights / citation policy існують як принципи, але ще не як фінальний апарат.
 9. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
@@ -200,7 +200,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: evidence/no-note rationale pass для першого Phase 5 P1 non-reader appendix package.
+Найважливіша наступна дія: evidence/no-note rationale pass для решти 26 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
 
 Виконані пакети:
 
@@ -218,6 +218,6 @@
 
 Наступний рекомендований пакет:
 
-- Evidence/no-note rationale files для 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
+- Evidence/no-note rationale files для наступного пакета з решти 26 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
 
-Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; перший P1 non-reader appendix package розгорнуто. Тепер слабке місце - citable evidence/no-note rationale для цих невключених логій.
+Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; перший P1 non-reader appendix package і matching evidence-rationale pass виконано. Тепер слабке місце - citable evidence/no-note rationale для решти невключених логій.

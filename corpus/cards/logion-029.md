@@ -80,11 +80,11 @@
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-029-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+немає окремого synoptic/control file; користуватися evidence note v0.1 як no-note rationale до подальшого control pass.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster/context note не привязаний до цієї логії або не потрібен для поточного рішення.
 
 ### Шарова модель для реконструкції
 
@@ -94,7 +94,7 @@
 
 ### Наступна дія
 
-Create Greek retroversion; test flesh/spirit as Thomasine anthropology.
+Use evidence rationale v0.1; keep flesh/spirit anthropology appendix-only pending deeper study.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -152,16 +152,16 @@ Local Greek canonical/control text currently transcribed:
 - Reader text: NO.
 - Greek witness status: P.Oxy. 1 tiny fragment.
 - Current work status: Primary card v0.1.
-- Evidence note in matrix: NO.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-029-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- no separate control file yet; use the evidence rationale note as the current no-note rationale until a later control pass.
 
 ### Greek/Coptic Policy
 
@@ -177,5 +177,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Create Greek retroversion; test flesh/spirit as Thomasine anthropology.
+- Next action: Use evidence rationale v0.1; keep flesh/spirit anthropology appendix-only pending deeper study.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

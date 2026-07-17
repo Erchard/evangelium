@@ -50,7 +50,7 @@ Each target section now includes:
 
 ## Remaining Gaps
 
-This pass improves the reader-facing appendix, but it does not fully close the `NEEDS_EVIDENCE_BEFORE_FINAL` status in the all-114 publication table. The next quality step should create direct evidence/no-note rationale files or cluster-control notes for this same package, especially:
+Superseded note, 2026-07-17: the matching evidence-rationale pass has now created direct notes for this package in `p1-non-reader-evidence-rationale-pass-v0.1.md`. Deeper technical work remains, especially:
 
 - Logion 24: P.Oxy. 655 / Thomas 24(?) / Logion 37 separation note.
 - Logion 28: thirst/blindness core versus christological/world frame.
@@ -61,4 +61,4 @@ This pass improves the reader-facing appendix, but it does not fully close the `
 
 ## Recommended Next Step
 
-Proceed to a Phase 5 evidence-rationale pass for these expanded non-reader logia. The goal is to turn appendix-level explanation into citable evidence/no-note rationale files so the all-114 table can later reduce the `NEEDS_EVIDENCE_BEFORE_FINAL` count.
+Proceed to evidence/no-note rationale files for the remaining 26 `NEEDS_EVIDENCE_BEFORE_FINAL` rows, while reserving deeper technical control notes for Logion 24, Logia 30/77, Logia 37/38, and related clusters.

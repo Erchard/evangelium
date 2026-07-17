@@ -73,9 +73,9 @@ When you make the two one, you will become sons of man; and when you say, "Mount
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-106-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
 - Cluster/context notes:
   - `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
 
@@ -87,7 +87,7 @@ When you make the two one, you will become sons of man; and when you say, "Mount
 
 ### Наступна дія
 
-Study unity/mountain-moving cluster with Logia 22 and 48.
+Use evidence rationale v0.1; study mountain-moving core apart from unity condition.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -147,16 +147,16 @@ Local Greek canonical/control text currently transcribed:
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Current work status: Primary card v0.1.
-- Evidence note in matrix: NO.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-106-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
 
 ### Greek/Coptic Policy
 
@@ -172,5 +172,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Study unity/mountain-moving cluster with Logia 22 and 48.
+- Next action: Use evidence rationale v0.1; study mountain-moving core apart from unity condition.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

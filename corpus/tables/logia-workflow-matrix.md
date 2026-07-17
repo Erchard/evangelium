@@ -36,22 +36,22 @@
 | 20 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; later refine retroversion bibliography. |
 | 21 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Split thief/watchfulness/harvest sub-units. |
 | 22 | YES | YES | children/kingdom core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; unity expansion remains apparatus. |
-| 23 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Cluster checked v0.2 | Do not include; later study election/remnant motifs if needed. |
-| 24 | YES | NO | `DEFER` | NO | P.Oxy. 655 possible/uncertain | Primary card v0.1 | Create evidence note for P.Oxy. 655 and Thomas 24(?). |
+| 23 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Evidence rationale v0.1 created; keep appendix-only unless election/remnant controls emerge. |
+| 24 | YES | YES | `DEFER` | NO | P.Oxy. 655 possible/uncertain | Evidence rationale v0.1 | Evidence rationale v0.1 created; keep P.Oxy. 655 / Thomas 24(?) uncertainty explicit. |
 | 25 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; later check Semitic controls. |
 | 26 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 1 partial | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; Greek witness preserves final clause only. |
 | 27 | YES | YES | `UNCERTAIN` | NO | P.Oxy. 1; P.Oxy. 5575 control | Deepened v0.2 | Keep in apparatus; do not add to reader unless later ritual-symbolic layer is included. |
-| 28 | YES | NO | `UNCERTAIN` | NO | P.Oxy. 1 partial | Primary card v0.1 | Evidence note: test thirst/blindness core vs christological/world frame. |
-| 29 | YES | NO | `DEFER` | NO | P.Oxy. 1 tiny fragment | Primary card v0.1 | Create Greek retroversion; test flesh/spirit as Thomasine anthropology. |
-| 30 | YES | NO | `UNCERTAIN` | NO | P.Oxy. 1, textually complex with 77b | Primary card v0.1 | Deepen unity/presence cluster; compare Matt 18:20 and Thomas 77b. |
+| 28 | YES | YES | `UNCERTAIN` | NO | P.Oxy. 1 partial | Evidence rationale v0.1 | Evidence rationale v0.1 created; test thirst/blindness core before any split-core decision. |
+| 29 | YES | YES | `DEFER` | NO | P.Oxy. 1 tiny fragment | Evidence rationale v0.1 | Evidence rationale v0.1 created; keep flesh/spirit anthropology appendix-only pending deeper study. |
+| 30 | YES | YES | `UNCERTAIN` | NO | P.Oxy. 1, textually complex with 77b | Evidence rationale v0.1 | Evidence rationale v0.1 created; study Logion 30 / 77b P.Oxy. 1 sequence before any split-core decision. |
 | 31 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 1 | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; physician clause remains marked. |
 | 32 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 1 | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; later refine Matt 5:14 relation. |
 | 33 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 1 opening only | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; lamp unit is hypothetical retroversion. |
 | 34 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; later refine bibliography. |
 | 35 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; later refine strong-man context. |
 | 36 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 655; P.Oxy. 5575 control | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; P.Oxy. 655 heavily restored. |
-| 37 | YES | NO | `UNCERTAIN` | NO | P.Oxy. 655 | Primary card v0.1 | Deepen nakedness/no-shame/children cluster; do not include yet. |
-| 38 | YES | NO | `UNCERTAIN` | NO | P.Oxy. 655 fragmentary | Primary card v0.1 | Keep in apparatus; deepen after 36 and 39. |
+| 37 | YES | YES | `UNCERTAIN` | NO | P.Oxy. 655 | Evidence rationale v0.1 | Evidence rationale v0.1 created; possible shorter Greek-supported core remains future candidate only. |
+| 38 | YES | YES | `UNCERTAIN` | NO | P.Oxy. 655 fragmentary | Evidence rationale v0.1 | Evidence rationale v0.1 created; keep restored P.Oxy. 655 text explicitly fragmentary. |
 | 39 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 655 | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; composite split retained. |
 | 40 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Deepen Matt 15:13 plant-not-Father control. |
 | 41 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; later refine full dossier. |
@@ -88,9 +88,9 @@
 | 72 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; Luke-dependence warning retained. |
 | 73 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; later refine full dossier. |
 | 74 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Search wider well/access/initiation parallels. |
-| 75 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in unity/monachos/bridal chamber cluster. |
+| 75 | YES | YES | `DEFER` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Evidence rationale v0.1 created; keep in unity/monachos/bridal chamber cluster. |
 | 76 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | No loaded P.Oxy. witness | Controlled reader pass v0.1 | Pearl and treasure cores remain appendix-only pending Matthew-only parable/treasure cluster decision. |
-| 77 | YES | NO | `DEFER` | NO | P.Oxy. 1 overlap for 77b only | Primary card v0.1 | Deepen light/all and 77b presence units separately. |
+| 77 | YES | YES | `DEFER` | NO | P.Oxy. 1 overlap for 77b only | Evidence rationale v0.1 | Evidence rationale v0.1 created; separate 77b stone/wood unit from full light/all logion. |
 | 78 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | No loaded P.Oxy. witness | Controlled reader pass v0.1 | Strong John-tradition control, but not clean as free-standing reader unit. |
 | 79 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | No loaded P.Oxy. witness | Controlled reader pass v0.1 | Hearing/keeping core overlaps current reader and remains embedded in composite unit. |
 | 80 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study world/body cluster with 56 and 111. |
@@ -117,9 +117,9 @@
 | 101 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split family-renunciation core from true-mother/life expansion. |
 | 102 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logion 39 and Luke 11:52; likely polemical cluster. |
 | 103 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | Greek retroversion, hypothetical | Controlled reader pass v0.1 | Keep for later thief/watchfulness cluster; wording remains damaged/expanded. |
-| 104 | YES | NO | `DEFER` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split bridegroom-fasting core from Thomas ritual/bridal-chamber frame. |
+| 104 | YES | YES | `DEFER` | NO | Greek retroversion, hypothetical | Evidence rationale v0.1 | Evidence rationale v0.1 created; compare bridegroom-fasting core with synoptic controls. |
 | 105 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study father/mother/birth cluster with Logia 15 and 101. |
-| 106 | YES | NO | `DEFER` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Study unity/mountain-moving cluster with Logia 22 and 48. |
+| 106 | YES | YES | `DEFER` | NO | Greek retroversion, hypothetical | Evidence rationale v0.1 | Evidence rationale v0.1 created; study mountain-moving core apart from unity condition. |
 | 107 | YES | YES | `INCLUDE_WITH_MARKER` for lost-sheep core; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Full appendix expanded v0.5 | Publication polish: largest/love-more ending remains apparatus material. |
 | 108 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in Thomasine mysticism/transmission cluster. |
 | 109 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | Greek retroversion, hypothetical | Split-core review B v0.1 | Keep as appendix case; Matthew-only close control and long expansion remain risky. |

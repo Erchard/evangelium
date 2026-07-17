@@ -73,9 +73,9 @@ They said to Jesus, "Come, let us pray today and fast." Jesus said, "What sin ha
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-104-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
 - Cluster/context notes:
   - `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
 
@@ -87,7 +87,7 @@ They said to Jesus, "Come, let us pray today and fast." Jesus said, "What sin ha
 
 ### Наступна дія
 
-Split bridegroom-fasting core from Thomas ritual/bridal-chamber frame.
+Use evidence rationale v0.1; compare bridegroom-fasting core with synoptic controls.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -147,16 +147,16 @@ Local Greek canonical/control text currently transcribed:
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Current work status: Primary card v0.1.
-- Evidence note in matrix: NO.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
+- `reconstruction/earliest-sayings-gospel/notes/logion-104-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
 
 ### Greek/Coptic Policy
 
@@ -172,5 +172,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Split bridegroom-fasting core from Thomas ritual/bridal-chamber frame.
+- Next action: Use evidence rationale v0.1; compare bridegroom-fasting core with synoptic controls.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

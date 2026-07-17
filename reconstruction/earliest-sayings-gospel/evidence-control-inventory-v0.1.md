@@ -17,27 +17,28 @@
 | Logia with direct control file | 42 |
 | Logia with cluster/range control file | 14 |
 | Logia with cluster/context note but no direct evidence note | 6 |
-| Matrix YES but no actual direct evidence note found | 1 |
+| Matrix YES but no actual direct evidence note found | 0 |
 | Matrix NO but actual direct evidence note found | 0 |
-| Logia with neither evidence note nor control/cluster support | 53 |
+| Logia with neither evidence note nor control/cluster support | 48 |
 
 ## Priority Counts
 
 | Priority | Count | Meaning |
 | --- | ---: | --- |
 | `P0` | 0 | Clean-reader unit lacks evidence trail |
-| `P1` | 38 | High-impact missing evidence/control before all-114 table |
+| `P1` | 27 | High-impact missing evidence/control after first P1 evidence-rationale pass |
 | `P1-control` | 1 | Included/reader unit has evidence but may need dedicated control check |
 | `P2` | 22 | Low-priority appendix/no-note rationale needed |
+| `covered v0.1` | 11 | First P1 non-reader evidence-rationale package now has direct notes |
 | `OK` | 53 | Sufficient for next decision-table pass |
 
 ## Mismatches
 
-- Matrix says `YES` but no actual direct evidence note found: 23.
+- Matrix says `YES` but no actual direct evidence note found: none after P1 evidence-rationale pass v0.1.
 - Matrix says `NO` but actual direct evidence note found: none.
 - Cards still claiming missing evidence despite an actual evidence note file: 1, 2, 3, 5, 7, 8, 9, 10, 20, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 44, 46, 54, 55, 57, 65, 66, 72, 73, 86, 89, 90, 93, 95, 96, 99, 100, 107.
 
-Interpretation: the workflow matrix is mostly aligned with actual direct evidence files. The only matrix/direct-file mismatch is Logion 23: it is cluster-checked through the Thomas unity / monachos note, but it does not yet have a dedicated `logion-023-evidence-en.md` file. Remaining work is therefore not broad matrix repair; it is creating targeted evidence/control coverage for logia still marked `NO`, with priority based on reader risk, Greek witness status, and control availability.
+Interpretation: the workflow matrix is aligned for the first P1 evidence-rationale package. Logion 23 now has a dedicated `logion-023-evidence-en.md` file in addition to the Thomas unity / monachos cluster note. Remaining work is therefore not broad matrix repair; it is creating targeted evidence/control coverage for logia still marked `NO`, with priority based on reader risk, Greek witness status, and control availability.
 
 ## Highest-Priority Next Work
 
@@ -137,22 +138,22 @@ Interpretation: the workflow matrix is mostly aligned with actual direct evidenc
 | 20 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-020-evidence-en.md` | `controls/synoptic-parallels/logion-020-mustard-seed.md`<br>`controls/synoptic-parallels/logia-008-020-022-high-candidate-controls.md`<br>`reconstruction/earliest-sayings-gospel/notes/logion-020-branch-tree-commentary-check-en.md` | YES | INCLUDE_WITH_MARKER | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 21 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
 | 22 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-022-evidence-en.md` | `controls/synoptic-parallels/logion-022-children-kingdom.md`<br>`controls/synoptic-parallels/logia-008-020-022-high-candidate-controls.md`<br>`reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | YES | children/kingdom core INCLUDE_WITH_MARKER; full logion UNCERTAIN | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 23 | YES | — | `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create direct evidence note because source/control material already exists. |
-| 24 | NO | — | — | NO | DEFER | P.Oxy. 655 possible/uncertain | `P1` | Create direct evidence note because source/control material already exists. |
+| 23 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-023-evidence-en.md` | `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
+| 24 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-024-evidence-en.md` | — | NO | DEFER | P.Oxy. 655 possible/uncertain | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
 | 25 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-025-evidence-en.md` | `controls/synoptic-parallels/logion-025-love-brother.md` | YES | INCLUDE_WITH_MARKER | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 26 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-026-evidence-en.md` | `controls/synoptic-parallels/logion-026-speck-beam.md` | YES | INCLUDE_WITH_MARKER | P.Oxy. 1 partial | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 27 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-027-evidence-en.md` | `controls/synoptic-parallels/logion-027-fasting-sabbath.md`<br>`reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md` | NO | UNCERTAIN | P.Oxy. 1; P.Oxy. 5575 control | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 28 | NO | — | — | NO | UNCERTAIN | P.Oxy. 1 partial | `P1` | Create direct evidence note because source/control material already exists. |
-| 29 | NO | — | — | NO | DEFER | P.Oxy. 1 tiny fragment | `P1` | Create direct evidence note because source/control material already exists. |
-| 30 | NO | — | — | NO | UNCERTAIN | P.Oxy. 1, textually complex with 77b | `P1` | Create direct evidence note because source/control material already exists. |
+| 28 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-028-evidence-en.md` | — | NO | UNCERTAIN | P.Oxy. 1 partial | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
+| 29 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-029-evidence-en.md` | — | NO | DEFER | P.Oxy. 1 tiny fragment | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
+| 30 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-030-evidence-en.md` | — | NO | UNCERTAIN | P.Oxy. 1, textually complex with 77b | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
 | 31 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-031-evidence-en.md` | `controls/synoptic-parallels/logia-031-033-poxy1-synoptic-controls.md` | YES | INCLUDE_WITH_MARKER | P.Oxy. 1 | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 32 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-032-evidence-en.md` | `controls/synoptic-parallels/logia-031-033-poxy1-synoptic-controls.md` | YES | INCLUDE_WITH_MARKER | P.Oxy. 1 | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 33 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-033-evidence-en.md` | `controls/synoptic-parallels/logia-031-033-poxy1-synoptic-controls.md` | YES | INCLUDE_WITH_MARKER | P.Oxy. 1 opening only | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 34 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-034-evidence-en.md` | `controls/synoptic-parallels/logia-034-035-bridge-synoptic-controls.md` | YES | INCLUDE_WITH_MARKER | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 35 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-035-evidence-en.md` | `controls/synoptic-parallels/logia-034-035-bridge-synoptic-controls.md` | YES | INCLUDE_WITH_MARKER | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 36 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-036-evidence-en.md` | `controls/synoptic-parallels/logia-036-039-poxy655-synoptic-controls.md` | YES | INCLUDE_WITH_MARKER | P.Oxy. 655; P.Oxy. 5575 control | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 37 | NO | — | `controls/synoptic-parallels/logia-036-039-poxy655-synoptic-controls.md`<br>`reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | NO | UNCERTAIN | P.Oxy. 655 | `P1` | Create direct evidence note because source/control material already exists. |
-| 38 | NO | — | `controls/synoptic-parallels/logia-036-039-poxy655-synoptic-controls.md` | NO | UNCERTAIN | P.Oxy. 655 fragmentary | `P1` | Create direct evidence note because source/control material already exists. |
+| 37 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-037-evidence-en.md` | `controls/synoptic-parallels/logia-036-039-poxy655-synoptic-controls.md`<br>`reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | NO | UNCERTAIN | P.Oxy. 655 | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
+| 38 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-038-evidence-en.md` | `controls/synoptic-parallels/logia-036-039-poxy655-synoptic-controls.md` | NO | UNCERTAIN | P.Oxy. 655 fragmentary | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
 | 39 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-039-evidence-en.md` | `controls/synoptic-parallels/logia-036-039-poxy655-synoptic-controls.md` | YES | INCLUDE_WITH_MARKER | P.Oxy. 655 | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 40 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
 | 41 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-041-evidence-en.md` | `controls/synoptic-parallels/logion-041-has-given-controls.md` | YES | INCLUDE_WITH_MARKER | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
@@ -189,9 +190,9 @@ Interpretation: the workflow matrix is mostly aligned with actual direct evidenc
 | 72 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-072-evidence-en.md` | `controls/synoptic-parallels/logion-072-inheritance-dispute-controls.md` | YES | INCLUDE_WITH_MARKER | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 73 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-073-evidence-en.md` | `controls/synoptic-parallels/logion-073-harvest-workers-controls.md` | YES | INCLUDE_WITH_MARKER | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 74 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
-| 75 | NO | — | `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | NO | DEFER | No loaded P.Oxy. witness | `P1` | Create direct evidence note because source/control material already exists. |
+| 75 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-075-evidence-en.md` | `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | NO | DEFER | No loaded P.Oxy. witness | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
 | 76 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-076-evidence-en.md` | `controls/synoptic-parallels/logion-076-pearl-treasure-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 77 | NO | — | — | NO | DEFER | P.Oxy. 1 overlap for 77b only | `P1` | Create direct evidence note because source/control material already exists. |
+| 77 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-077-evidence-en.md` | — | NO | DEFER | P.Oxy. 1 overlap for 77b only | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
 | 78 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-078-evidence-en.md` | `controls/synoptic-parallels/logion-078-wilderness-reed-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 79 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-079-evidence-en.md` | `controls/synoptic-parallels/logion-079-womb-word-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 80 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
@@ -218,9 +219,9 @@ Interpretation: the workflow matrix is mostly aligned with actual direct evidenc
 | 101 | NO | — | — | NO | UNCERTAIN | Greek retroversion, hypothetical | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
 | 102 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 103 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-103-evidence-en.md` | `controls/synoptic-parallels/logion-103-thief-watchfulness-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 104 | NO | — | `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md` | NO | DEFER | Greek retroversion, hypothetical | `P1` | Create direct evidence note because source/control material already exists. |
+| 104 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-104-evidence-en.md` | `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md` | NO | DEFER | Greek retroversion, hypothetical | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
 | 105 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
-| 106 | NO | — | `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | NO | DEFER | Greek retroversion, hypothetical | `P1` | Create direct evidence note because source/control material already exists. |
+| 106 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-106-evidence-en.md` | `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md` | NO | DEFER | Greek retroversion, hypothetical | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
 | 107 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-107-evidence-en.md` | `controls/synoptic-parallels/logion-107-lost-sheep-controls.md` | YES | INCLUDE_WITH_MARKER for lost-sheep core; full logion UNCERTAIN | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 108 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 109 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-109-evidence-en.md` | `controls/synoptic-parallels/logion-109-hidden-treasure-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
@@ -232,4 +233,4 @@ Interpretation: the workflow matrix is mostly aligned with actual direct evidenc
 
 ## Recommended Next Step
 
-Superseded next-step note, 2026-07-17: Phase 4 has been completed in `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`. Use this inventory together with that table for Phase 5 full appendix expansion.
+Superseded next-step note, 2026-07-17: Phase 4 and the first Phase 5 P1 evidence-rationale package have been completed. Continue by creating direct evidence/no-note rationale files for the remaining P1 rows, beginning with the remaining `NEEDS_EVIDENCE_BEFORE_FINAL` group.

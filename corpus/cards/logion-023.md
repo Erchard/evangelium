@@ -89,9 +89,9 @@ Greek not extant in loaded Oxyrhynchus witnesses.
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-023-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
 - Cluster/context notes:
   - `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
 
@@ -103,7 +103,7 @@ Greek not extant in loaded Oxyrhynchus witnesses.
 
 ### Наступна дія
 
-Do not include; later study election/remnant motifs if needed.
+Use evidence rationale v0.1; do not include without independent election/remnant controls.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -167,10 +167,10 @@ Local Greek canonical/control text currently transcribed:
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-023-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
 
 ### Greek/Coptic Policy
 
@@ -186,5 +186,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Do not include; later study election/remnant motifs if needed.
+- Next action: Use evidence rationale v0.1; do not include without independent election/remnant controls.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

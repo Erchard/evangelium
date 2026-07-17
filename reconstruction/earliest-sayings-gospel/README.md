@@ -45,6 +45,7 @@ The current clean reconstructed reader covers 34 logia or marked cores.
 - The Greek layer is controlled by `greek-retroversion-confidence-audit-v0.1.md`; hypothetical retroversions must not be treated as manuscript witnesses.
 - `full-logion-commentary-appendix-uk.md` covers all 114 logia as a scaffold. Reader-facing sections have been expanded for the previous 31 clean-reader logia/cores; new reader units 45A, 47B, and 63 have apparatus support and need later full appendix expansion.
 - The first Phase 5 P1 non-reader appendix package has expanded sections for Logia 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, and 106.
+- The matching evidence-rationale pass created direct English evidence notes for those 11 logia and reduced `NEEDS_EVIDENCE_BEFORE_FINAL` to 26 rows.
 
 This is a working reconstruction, not a final academic edition.
 
@@ -59,4 +60,4 @@ The final reader experience should therefore have two layers:
 1. clean reconstructed text: only the most responsible early reconstruction;
 2. full commentary appendix: all 114 logia, including rejected or deferred material.
 
-Split-Core Decision Reviews A/B, the controlled clean-reader candidate pass, the all-114 publication decision table, and the first P1 non-reader appendix expansion now exist. The next publication-level task is evidence/no-note rationale files for those expanded P1 non-reader logia, followed by continued appendix expansion and the evidence dossier publication pass.
+Split-Core Decision Reviews A/B, the controlled clean-reader candidate pass, the all-114 publication decision table, the first P1 non-reader appendix expansion, and the matching evidence-rationale pass now exist. The next publication-level task is evidence/no-note rationale files for the remaining 26 `NEEDS_EVIDENCE_BEFORE_FINAL` rows, followed by continued appendix expansion and the evidence dossier publication pass.

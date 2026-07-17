@@ -40,12 +40,13 @@ Current project status after execution:
 - Phase 3, Evidence and Control Inventory, has been completed in `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
 - Phase 4, True All-114 Publication Decision Table, has been completed in `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
 - Phase 5 has started. The first P1 non-reader appendix package has been completed in `reconstruction/earliest-sayings-gospel/full-appendix-p1-non-reader-package-v0.1.md`.
+- The first P1 non-reader evidence-rationale pass has been completed in `reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md`.
 
 Current recommended next phase:
 
 **Phase 5. Full Appendix Expansion**
 
-Use the first Phase 5 appendix package to create evidence/no-note rationale files for the same P1 non-reader logia: 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, and 106. The goal is to convert reader-facing explanation into citable control notes before continuing with the remaining evidence-blocked logia.
+Continue the Phase 5 evidence/no-note rationale pass for the remaining `NEEDS_EVIDENCE_BEFORE_FINAL` logia. The first P1 package is complete; do not repeat Logia 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, or 106 except for later deeper technical control notes.
 
 ## Completed Phase 1 Specific Instructions
 
@@ -96,9 +97,9 @@ Phase 3 created:
 Key findings:
 
 - no clean-reader unit lacks an evidence trail;
-- 54 logia have direct evidence-note coverage;
-- workflow matrix has 55 evidence YES entries because Logion 23 is cluster-checked but lacks a direct evidence note;
-- 38 logia are P1 evidence/control targets;
+- 65 logia have direct evidence-note coverage after the first P1 evidence-rationale pass;
+- workflow matrix evidence-note status is aligned for the first P1 package;
+- 27 logia remain P1 evidence/control targets;
 - 22 logia are P2 appendix/no-note-rationale targets.
 
 ## Completed Phase 4 Work
@@ -111,7 +112,7 @@ Key findings:
 
 - 114/114 logia are covered;
 - 34 units remain `READER_INCLUDE_MARKED`;
-- 37 non-reader rows need evidence/no-note rationale before final publication;
+- 26 non-reader rows need evidence/no-note rationale before final publication after the first P1 evidence-rationale pass;
 - the clean reader was not expanded in this pass.
 
 ## Completed Phase 5 Work So Far
@@ -119,7 +120,9 @@ Key findings:
 Phase 5 first package created:
 
 - `project/ide-codex-full-appendix-p1-non-reader-package-v0.1-prompt.md`
+- `project/ide-codex-p1-non-reader-evidence-rationale-v0.1-prompt.md`
 - `reconstruction/earliest-sayings-gospel/full-appendix-p1-non-reader-package-v0.1.md`
+- `reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md`
 
 Expanded appendix sections:
 
@@ -127,17 +130,19 @@ Expanded appendix sections:
 
 The clean reader was not changed.
 
+Direct evidence notes now exist for all 11 first-package logia.
+
 ## Current Next Work
 
 Proceed within Phase 5:
 
-**Evidence / No-Note Rationale Pass For First P1 Non-Reader Package**
+**Evidence / No-Note Rationale Pass For Remaining P1 Logia**
 
 Required work:
 
-- create evidence/no-note rationale files or cluster-control notes for logia 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, and 106;
-- use the newly expanded appendix sections as reader-facing summaries, not as replacements for evidence files;
-- focus first on P.Oxy. and split-core problems: 24, 28, 30/77, 37/38;
+- create evidence/no-note rationale files for the remaining P1 rows still marked `NEEDS_EVIDENCE_BEFORE_FINAL`;
+- use existing cards and appendix sections as summaries, not as replacements for evidence files;
+- prioritize logia with stronger controls or higher interpretive value before low-information rows;
 - keep canonical parallels as controls, not Thomas witnesses;
 - do not change the clean reader unless a separate decision pass is created.
 

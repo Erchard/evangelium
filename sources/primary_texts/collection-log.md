@@ -1,5 +1,28 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, P1 non-reader evidence rationale pass v0.1
+
+### Що додано
+
+- `project/ide-codex-p1-non-reader-evidence-rationale-v0.1-prompt.md` - промпт виконаного evidence-rationale pass.
+- `reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md` - audit виконаного pass.
+- Direct evidence notes для логій 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
+
+### Що оновлено
+
+- `corpus/tables/logia-workflow-matrix.md`, target cards, `evidence-control-inventory-v0.1.md`, `all-114-publication-decision-table-v0.1.md`, project status docs.
+
+### Головні результати
+
+- Clean reader не змінено.
+- Direct evidence-note coverage зросло до 65 логій.
+- `NEEDS_EVIDENCE_BEFORE_FINAL` у all-114 table зменшено з 37 до 26.
+- Перший P1 non-reader пакет тепер має і читацький appendix-рівень, і citable English evidence notes.
+
+### Наступна дія
+
+Продовжити evidence/no-note rationale pass для решти 26 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
+
 ## 2026-07-17, Phase 5 P1 non-reader appendix package v0.1
 
 ### Що додано

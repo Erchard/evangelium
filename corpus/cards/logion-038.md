@@ -99,11 +99,11 @@ DCLP подає альтернативні доповнення Hofius і Fitzmy
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-038-evidence-en.md`
 - Synoptic/control files:
   - `controls/synoptic-parallels/logia-036-039-poxy655-synoptic-controls.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster/context note не привязаний до цієї логії або не потрібен для поточного рішення.
 
 ### Шарова модель для реконструкції
 
@@ -113,7 +113,7 @@ DCLP подає альтернативні доповнення Hofius і Fitzmy
 
 ### Наступна дія
 
-Keep in apparatus; deepen after 36 and 39.
+Use evidence rationale v0.1; keep restored P.Oxy. 655 text explicitly fragmentary.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -173,13 +173,13 @@ Local Greek canonical/control text currently transcribed:
 - Reader text: NO.
 - Greek witness status: P.Oxy. 655 fragmentary.
 - Current work status: Primary card v0.1.
-- Evidence note in matrix: NO.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-038-evidence-en.md`
 
 Synoptic/control files:
 - `controls/synoptic-parallels/logia-036-039-poxy655-synoptic-controls.md`
@@ -198,5 +198,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Keep in apparatus; deepen after 36 and 39.
+- Next action: Use evidence rationale v0.1; keep restored P.Oxy. 655 text explicitly fragmentary.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.
