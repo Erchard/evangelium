@@ -10,6 +10,7 @@
 - Full 114-logion appendix існує для всіх 114 логій як каркас; попередні 31 включені логії/ядра вже розгорнуті до читацьких секцій, а нові 45A/47B/63 мають апаратну підтримку.
 - Evidence dossier: робочий v1.3, ще не публікаційний.
 - Controlled clean-reader candidate pass виконано; найближчий робочий пакет: true all-114 publication decision table.
+- Усі 114 карток логій мають `Gold-level status check v0.2`; актуальним card-quality audit є `corpus/cards/card-quality-audit-v0.2.md`.
 
 ## Поточні матеріали
 
@@ -30,12 +31,14 @@
 | Завершення | `project/project-completion-roadmap.md` | Актуальна дорожня карта: 34-unit reader, синхронізовані мовні шари, Greek audit, пакетне розгортання full appendix і публікаційні прогалини. |
 | Завершення | `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md` | Контрольований reader pass після Reviews A/B: включено 45A, 47B і 63; решту кандидатів залишено appendix-only. |
 | Завершення | `project/publication-gap-audit-v0.1.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
+| Завершення | `corpus/cards/card-quality-audit-v0.2.md` | Аудит gold-level нормалізації карток: 114/114 мають поточний v0.2 status block; головна наступна прогалина - publication decision depth. |
 | Завершення | `corpus/tables/logia-workflow-matrix.md` | Операційна матриця 114 логій: картки, evidence notes, рішення, стан читабельного тексту й наступні дії. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-corpus-classification-v0.1.md` | Перша повна класифікація всіх 114 логій після завершення первинних карток: reader text, high-priority candidates, deferred clusters and secondary material. |
 | Завершення | `reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md` | Аудит перед фіналізацією clean reader: що вже стабільне, що потребує split-core review, і які документи застаріли. |
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-a-v0.1.md` | Перевірка логій 45, 47, 63, 64, 65-66: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md` | Перевірка логій 76, 78, 79, 94, 103, 109, 113: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Робочий промпт | `project/ide-codex-master-project-prompt.md` | Головний промпт проекту для наступних кроків реконструкції, корпусної роботи, коментарів і фінального видання. |
+| Робочий промпт | `project/ide-codex-gold-card-quality-normalization-v0.2-prompt.md` | Промпт виконаного проходу: підняти всі 114 карток до єдиного gold-level status check v0.2 без передчасного промотування нових логій. |
 | Робочий промпт | `project/ide-codex-corpus-sprint-081-100-quality-prompt.md` | Якісний промпт для Sprint G: первинні картки логій 81-100 і оновлення контрольних таблиць без передчасного розширення чистого читацького тексту. |
 | Робочий промпт | `project/ide-codex-corpus-sprint-101-114-quality-prompt.md` | Якісний промпт для Sprint H: завершити первинне покриття логій 101-114 і підготувати проект до загальної класифікації корпусу. |
 | Робочий промпт | `project/ide-codex-full-corpus-classification-prompt.md` | Промпт для першої повної класифікації 114 логій і вибору high-priority evidence-note set. |

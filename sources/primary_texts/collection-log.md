@@ -1,5 +1,28 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, gold-level card quality normalization v0.2
+
+### Що додано
+
+- `project/ide-codex-gold-card-quality-normalization-v0.2-prompt.md` - промпт виконаного проходу вирівнювання карток до gold-level status check.
+- `corpus/cards/card-quality-audit-v0.2.md` - аудит якості карток після нормалізації.
+
+### Що оновлено
+
+- Усі 114 файлів `corpus/cards/logion-XXX.md` отримали блок `## Gold-level status check v0.2`.
+- `project/logion-card-gold-standard.md` оновлено до стандарту v0.2.
+- `README.md`, `project/project-map.md`, `project/project-completion-roadmap.md`, `project/publication-gap-audit-v0.1.md`, `reconstruction/earliest-sayings-gospel/README.md` синхронізовано з новим станом.
+
+### Методологічне рішення
+
+Найкраща формальна картка лишається `corpus/cards/logion-002.md`; найкращий приклад для складених логій - `corpus/cards/logion-006.md`.
+
+V0.2-блок не замінює повного дослідження, але тепер кожна картка має однаковий актуальний контрольний мінімум: decision, reader status, Greek status, evidence/control links або явну прогалину, clean-reader implication, appendix obligation і next action.
+
+### Наступна дія
+
+True all-114 publication decision table.
+
 ## 2026-07-17, controlled clean-reader candidate pass
 
 ### Що додано

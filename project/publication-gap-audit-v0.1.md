@@ -11,7 +11,7 @@
 | Актив | Стан |
 | --- | --- |
 | 114 карток логій | Є |
-| Вирівнювання карток до еталонного стандарту | Є |
+| Вирівнювання карток до еталонного стандарту | Є, 114/114 мають `Gold-level status check v0.2` |
 | Clean Ukrainian reader | Є, 34 логії / ядра |
 | English reader layer | Є для 34 логій / ядер |
 | Coptic layer | Є для 34 логій / ядер |
@@ -21,7 +21,7 @@
 | Inclusion decisions table | Є, але не фінальна |
 | Final all-114 decision audit | Є, v0.1 |
 | Full 114-logion appendix | Є для всіх 114 як каркас; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку |
-| Card quality audit | Є |
+| Card quality audit | Є, актуальний файл `corpus/cards/card-quality-audit-v0.2.md` |
 | Collection log | Є |
 
 ## Головні прогалини
@@ -69,7 +69,7 @@
 
 ### 2. Evidence notes and control files are uneven
 
-Картки є для всіх 114 логій, але evidence depth нерівний.
+Картки є для всіх 114 логій і всі мають gold-level status check v0.2, але evidence depth нерівний. За поточною workflow matrix 55 логій мають окремий evidence note, 59 ще потребують або note, або явного no-note rationale.
 
 Потрібно:
 

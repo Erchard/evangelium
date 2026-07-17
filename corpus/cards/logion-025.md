@@ -113,3 +113,41 @@ English/Coptic/Greek/parallel rows added; later check Semitic controls.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
+
+## Gold-level status check v0.2
+
+Джерело актуального статусу: `corpus/tables/logia-workflow-matrix.md`. Цей блок є поточним синхронізаційним шаром і має пріоритет над старішими робочими позначками картки, якщо вони розходяться.
+
+### Publication Status
+
+- Current decision: `INCLUDE_WITH_MARKER`.
+- Reader text: YES.
+- Greek witness status: Greek retroversion, hypothetical.
+- Current work status: Multilingual sync v0.1.
+- Evidence note in matrix: YES.
+- Clean-reader implication: Входить до clean Ukrainian reader як поточна реконструкційна одиниця; у чистому тексті друкувати без статусів і коментарів, а всі застереження переносити в apparatus / appendix.
+
+### Evidence Links
+
+Evidence note / dossier files:
+- `reconstruction/earliest-sayings-gospel/notes/logion-025-evidence-en.md`
+
+Synoptic/control files:
+- `controls/synoptic-parallels/logion-025-love-brother.md`
+
+### Greek/Coptic Policy
+
+- Coptic base: тримати коптський текст як основний збережений witness, доки немає сильнішого первинного контролю.
+- Greek layer: Позначати як гіпотетичну ретроверсію, не як рукописне грецьке свідчення.
+- Якщо грецький текст не збережений, реконструювати його лише як імовірну ретроверсію й прямо маркувати ступінь гіпотетичності.
+
+### Reader/Appendix Obligation
+
+- Для clean reader: друкувати тільки реконструйоване ядро без коментарів, дужок і дисклеймерів.
+- Для full appendix: подати походження, джерельний текст, паралелі, текстологічні ризики, можливі інтерпретації та причину включення або невключення.
+- Для відкинутих / відкладених логій: пояснення має бути таким самим серйозним, як для включених логій; читач повинен бачити не лише результат, а й логіку відбору.
+
+### Remaining Work
+
+- Next action: English/Coptic/Greek/parallel rows added; later check Semitic controls.
+- Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

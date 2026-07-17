@@ -89,3 +89,42 @@ Blessed is the one who knows in which watch the thieves are coming, so that he m
 Controlled reader pass: keep appendix-only for now; revisit only in a thief/watchfulness cluster with Logion 21.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
+
+
+## Gold-level status check v0.2
+
+Джерело актуального статусу: `corpus/tables/logia-workflow-matrix.md`. Цей блок є поточним синхронізаційним шаром і має пріоритет над старішими робочими позначками картки, якщо вони розходяться.
+
+### Publication Status
+
+- Current decision: `KEEP_APPENDIX_ONLY_FOR_NOW`.
+- Reader text: NO.
+- Greek witness status: Greek retroversion, hypothetical.
+- Current work status: Controlled reader pass v0.1.
+- Evidence note in matrix: YES.
+- Clean-reader implication: Не входить до clean reader на цьому етапі; обовʼязково пояснювати в додатку, чому матеріал лишається appendix-only попри наявність традиційних або синоптичних паралелей.
+
+### Evidence Links
+
+Evidence note / dossier files:
+- `reconstruction/earliest-sayings-gospel/notes/logion-103-evidence-en.md`
+
+Synoptic/control files:
+- `controls/synoptic-parallels/logion-103-thief-watchfulness-controls.md`
+
+### Greek/Coptic Policy
+
+- Coptic base: тримати коптський текст як основний збережений witness, доки немає сильнішого первинного контролю.
+- Greek layer: Позначати як гіпотетичну ретроверсію, не як рукописне грецьке свідчення.
+- Якщо грецький текст не збережений, реконструювати його лише як імовірну ретроверсію й прямо маркувати ступінь гіпотетичності.
+
+### Reader/Appendix Obligation
+
+- Для clean reader: не додавати до чистого тексту без нового контрольованого рішення.
+- Для full appendix: подати походження, джерельний текст, паралелі, текстологічні ризики, можливі інтерпретації та причину включення або невключення.
+- Для відкинутих / відкладених логій: пояснення має бути таким самим серйозним, як для включених логій; читач повинен бачити не лише результат, а й логіку відбору.
+
+### Remaining Work
+
+- Next action: Keep for later thief/watchfulness cluster; wording remains damaged/expanded.
+- Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

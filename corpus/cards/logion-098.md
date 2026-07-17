@@ -89,3 +89,41 @@ Study violent-kingdom and strong-man motifs; likely apparatus only.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
+
+## Gold-level status check v0.2
+
+Джерело актуального статусу: `corpus/tables/logia-workflow-matrix.md`. Цей блок є поточним синхронізаційним шаром і має пріоритет над старішими робочими позначками картки, якщо вони розходяться.
+
+### Publication Status
+
+- Current decision: `DEFER`.
+- Reader text: NO.
+- Greek witness status: No loaded P.Oxy. witness.
+- Current work status: Primary card v0.1.
+- Evidence note in matrix: NO.
+- Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
+
+### Evidence Links
+
+Evidence note / dossier files:
+- окремого evidence note ще немає; це видима прогалина для publication pass.
+
+Synoptic/control files:
+- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+
+### Greek/Coptic Policy
+
+- Coptic base: тримати коптський текст як основний збережений witness, доки немає сильнішого первинного контролю.
+- Greek layer: Перевіряти лакуни, реконструкції й частковість папірусного свідчення перед публікаційним висновком.
+- Якщо грецький текст не збережений, реконструювати його лише як імовірну ретроверсію й прямо маркувати ступінь гіпотетичності.
+
+### Reader/Appendix Obligation
+
+- Для clean reader: не додавати до чистого тексту без нового контрольованого рішення.
+- Для full appendix: подати походження, джерельний текст, паралелі, текстологічні ризики, можливі інтерпретації та причину включення або невключення.
+- Для відкинутих / відкладених логій: пояснення має бути таким самим серйозним, як для включених логій; читач повинен бачити не лише результат, а й логіку відбору.
+
+### Remaining Work
+
+- Next action: Study violent-kingdom and strong-man motifs; likely apparatus only.
+- Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

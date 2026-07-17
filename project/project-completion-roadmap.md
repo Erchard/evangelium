@@ -17,7 +17,7 @@
 
 ## Поточна оцінка стану
 
-Орієнтовна готовність: 65-70%.
+Орієнтовна готовність: 68-72%.
 
 Це вже не початковий корпусний етап. Найскладніший хаос знято: корпус покритий повністю, є метод, є чистий reader, є багатомовні шари для поточної реконструкції, є evidence dossier і є каркас повного 114-логійного додатку.
 
@@ -37,7 +37,7 @@
 | Еталонна картка | Logion 2 |
 | Приклад картки для складеної логії | Logion 6 |
 | Картки 114 логій | Є |
-| Вирівнювання якості всіх карток | Є |
+| Вирівнювання якості всіх карток | Є, 114/114 мають `Gold-level status check v0.2` |
 | Чистий український reader | 34 логії / ядра |
 | Англійський reader | Є для 34 логій / ядер |
 | Коптський шар | Є для 34 логій / ядер |
@@ -60,7 +60,7 @@
 1. Не всі high-candidate `UNCERTAIN` логії мають evidence notes і synoptic/control files.
 2. Повний 114-логійний додаток частково розгорнутий, але більшість невключених і частина включених логій ще мають каркасний формат.
 3. Evidence dossier ще не є публікаційним академічним документом.
-4. Inclusion decisions table ще не покриває фінально всі 114 логій із однаковою глибиною.
+4. Inclusion decisions table ще не покриває фінально всі 114 логій із однаковою глибиною; це тепер головний структурний крок після gold-level card normalization.
 5. Greek retroversion layer має confidence audit v0.1, але перед публікацією потрібна фінальна редакція й перевірка проти академічних видань.
 6. Bibliography / rights / citation policy існують як принципи, але ще не як фінальний апарат.
 7. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
@@ -100,6 +100,8 @@
 - кожна high-candidate невключена логія має evidence note або documented reason for no note;
 - кожна логія зі strong synoptic control має окремий control file або посилання на cluster file;
 - workflow matrix, card-quality audit і appendix skeleton не суперечать одне одному.
+
+Стан після card-quality pass v0.2: усі 114 карток мають однаковий поточний status block; 55 логій мають evidence notes у workflow matrix, а 59 ще потребують evidence note або explicit no-note rationale.
 
 ## Фаза 3. Final Decision Audit
 
@@ -195,7 +197,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: split-core decision review для найсильніших невключених кандидатів.
+Найважливіша наступна дія: true all-114 publication decision table.
 
 Виконані пакети:
 
@@ -215,4 +217,4 @@
 
 - True all-114 publication decision table.
 
-Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Тепер потрібен один остаточний all-114 decision control document, щоб перед фіналізацією clean reader не лишилося розкиданих або суперечливих рішень.
+Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 також виконано для 114/114 карток. Тепер потрібен один остаточний all-114 decision control document, щоб перед фіналізацією clean reader не лишилося розкиданих або суперечливих рішень.
