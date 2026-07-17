@@ -31,6 +31,7 @@
 | Кінцевий продукт | `project/clean-text-plus-commentary-concept.md` | Концепція фінального видання: спочатку чистий реконструйований текст, потім коментар і повний додаток до всіх 114 логій. |
 | Кінцевий продукт | `project/clean-reader-text-first-page-principle.md` | Правило першої читацької сторінки: у головному українському тексті тільки пронумеровані логії, без дисклеймерів, статусів, квадратних дужок і коментарів. |
 | Завершення | `project/project-completion-roadmap.md` | Актуальна дорожня карта: 34-unit reader, синхронізовані мовні шари, Greek audit, пакетне розгортання full appendix і публікаційні прогалини. |
+| Завершення | `project/project-quality-audit-v0.1.md` | Повний аудит якості проекту: сильні сторони, P0/P1/P2 недоліки, метрики, ризики публікації й рекомендована послідовність закриття прогалин. |
 | Завершення | `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md` | Контрольований reader pass після Reviews A/B: включено 45A, 47B і 63; решту кандидатів залишено appendix-only. |
 | Завершення | `project/publication-gap-audit-v0.1.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
 | Завершення | `corpus/cards/card-quality-audit-v0.2.md` | Аудит gold-level нормалізації карток: 114/114 мають поточний v0.2 status block; головна наступна прогалина - publication decision depth. |

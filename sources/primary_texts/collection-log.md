@@ -1,5 +1,23 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, full project quality audit v0.1
+
+### Що додано
+
+- `project/project-quality-audit-v0.1.md` - повний аудит якості проекту з P0/P1/P2 недоліками, поточними метриками, ризиками публікації і рекомендованою послідовністю закриття прогалин.
+
+### Що оновлено
+
+- `project/project-map.md` - додано посилання на новий audit-файл.
+
+### Головний висновок
+
+Проект має сильну структуру і повне card-level покриття 114 логій, але доказова глибина ще нерівномірна. Найважливіші прогалини: evidence-note/control-file coverage, pending P.Oxy. XML extraction for 8 logia, true all-114 publication decision table, full appendix expansion, publication-ready evidence dossier, bibliography/rights/citation policy.
+
+### Наступна дія
+
+Закрити pending P.Oxy. XML extraction pass, а після цього синхронізувати документацію і перейти до true all-114 publication decision table.
+
 ## 2026-07-17, canonical Greek extraction pass v0.1
 
 ### Що додано
