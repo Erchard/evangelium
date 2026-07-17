@@ -134,8 +134,8 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Luke 11:39-40 and Matthew 23:25-26. This is not an extant Greek Thomas witness.
+- Matthew 23:25-26: `Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι καθαρίζετε τὸ ἔξωθεν τοῦ ποτηρίου καὶ τῆς παροψίδος, ἔσωθεν δὲ γέμουσιν ἐξ ἁρπαγῆς καὶ ⸀ἀκρασίας. Φαρισαῖε τυφλέ, καθάρισον πρῶτον τὸ ἐντὸς τοῦ ποτηρίου ⸂καὶ τῆς παροψίδος⸃, ἵνα γένηται καὶ τὸ ἐκτὸς ⸀αὐτοῦ καθαρόν.`
+- Luke 11:39-40: `εἶπεν δὲ ὁ κύριος πρὸς αὐτόν· Νῦν ὑμεῖς οἱ Φαρισαῖοι τὸ ἔξωθεν τοῦ ποτηρίου καὶ τοῦ πίνακος καθαρίζετε, τὸ δὲ ἔσωθεν ὑμῶν γέμει ἁρπαγῆς καὶ πονηρίας. ἄφρονες, οὐχ ὁ ποιήσας τὸ ἔξωθεν καὶ τὸ ἔσωθεν ἐποίησεν;`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

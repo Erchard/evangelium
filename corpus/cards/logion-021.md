@@ -137,7 +137,10 @@ Split thief/watchfulness/harvest sub-units.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 24:43: `ἐκεῖνο δὲ γινώσκετε ὅτι εἰ ᾔδει ὁ οἰκοδεσπότης ποίᾳ φυλακῇ ὁ κλέπτης ἔρχεται, ἐγρηγόρησεν ἂν καὶ οὐκ ἂν εἴασεν διορυχθῆναι τὴν οἰκίαν αὐτοῦ.`
+- Luke 12:39: `Τοῦτο δὲ γινώσκετε ὅτι εἰ ᾔδει ὁ οἰκοδεσπότης ποίᾳ ὥρᾳ ὁ κλέπτης ἔρχεται, ⸂οὐκ ἂν⸃ ἀφῆκεν ⸀διορυχθῆναι τὸν οἶκον αὐτοῦ.`
+- Mark 13:33-37: `βλέπετε ⸀ἀγρυπνεῖτε, οὐκ οἴδατε γὰρ πότε ὁ καιρός ἐστιν· ὡς ἄνθρωπος ἀπόδημος ἀφεὶς τὴν οἰκίαν αὐτοῦ καὶ δοὺς τοῖς δούλοις αὐτοῦ τὴν ἐξουσίαν, ⸀ἑκάστῳ τὸ ἔργον αὐτοῦ, καὶ τῷ θυρωρῷ ἐνετείλατο ἵνα γρηγορῇ. γρηγορεῖτε οὖν, οὐκ οἴδατε γὰρ πότε ὁ κύριος τῆς οἰκίας ἔρχεται, ⸀ἢ ὀψὲ ἢ ⸀μεσονύκτιον ἢ ἀλεκτοροφωνίας ἢ πρωΐ, μὴ ἐλθὼν ἐξαίφνης εὕρῃ ὑμᾶς καθεύδοντας· ⸀ὃ δὲ ὑμῖν λέγω πᾶσιν λέγω· γρηγορεῖτε.`
+- Mark 4:29: `ὅταν δὲ ⸀παραδοῖ ὁ καρπός, ⸀εὐθὺς ἀποστέλλει τὸ δρέπανον, ὅτι παρέστηκεν ὁ θερισμός.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

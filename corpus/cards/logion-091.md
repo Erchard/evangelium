@@ -131,7 +131,8 @@ Split dialogue frame from recognition-of-time core.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Luke 12:54-56: `Ἔλεγεν δὲ καὶ τοῖς ὄχλοις· Ὅταν ⸀ἴδητε νεφέλην ἀνατέλλουσαν ⸀ἐπὶ δυσμῶν, εὐθέως λέγετε ⸀ὅτι Ὄμβρος ἔρχεται, καὶ γίνεται οὕτως· καὶ ὅταν νότον πνέοντα, λέγετε ὅτι Καύσων ἔσται, καὶ γίνεται. ὑποκριταί, τὸ πρόσωπον τῆς γῆς καὶ τοῦ οὐρανοῦ οἴδατε δοκιμάζειν, τὸν ⸂δὲ καιρὸν⸃ τοῦτον πῶς ⸂οὐκ οἴδατε δοκιμάζειν⸃;`
+- Matthew 16:2-3: `ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· ⸂Ὀψίας γενομένης λέγετε· Εὐδία, πυρράζει γὰρ ὁ οὐρανός· καὶ πρωΐ· Σήμερον χειμών, πυρράζει γὰρ στυγνάζων ὁ οὐρανός. ⸀τὸ μὲν πρόσωπον τοῦ οὐρανοῦ γινώσκετε διακρίνειν, τὰ δὲ σημεῖα τῶν καιρῶν οὐ δύνασθε.⸃`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

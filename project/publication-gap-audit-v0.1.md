@@ -68,15 +68,14 @@
 
 Усі planned high-candidate packages A/B/C тепер мають evidence notes і control files.
 
-### 2. Source text visibility is improved, but canonical Greek is still uneven
+### 2. Source text visibility is improved; pending P.Oxy. extracts remain
 
 Усі 114 карток тепер мають `Five-source original-language apparatus v0.1`, тобто P.Oxy. 1 / 654 / 655, коптський NHC II і canonical Greek control channel видимі прямо в картці.
 
-Проблема: canonical Greek text локально виписаний тільки частково. Картки тепер показують цю прогалину явно. Наступний source-critical крок:
+Canonical Greek extraction pass заповнив SBLGNT controls для 81 картки. Наступний source-critical крок:
 
-- системно витягнути грецькі паралелі Матвія, Марка і Луки;
 - завершити pending card-level extraction з P.Oxy. 1 і P.Oxy. 655 XML;
-- після цього оновити картки, щоб canonical channel містив реальний грецький текст, а не лише статус прогалини.
+- після цього оновити картки, щоб папірусний Greek channel був не тільки XML-pending, а card-ready.
 
 ### 3. Evidence notes and control files are uneven
 

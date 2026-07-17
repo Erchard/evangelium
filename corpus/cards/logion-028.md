@@ -140,7 +140,8 @@ Evidence note: test thirst/blindness core vs christological/world frame.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 2:17: `καὶ ἀκούσας ὁ Ἰησοῦς λέγει αὐτοῖς ⸀ὅτι Οὐ χρείαν ἔχουσιν οἱ ἰσχύοντες ἰατροῦ ἀλλʼ οἱ κακῶς ἔχοντες· οὐκ ἦλθον καλέσαι δικαίους ἀλλὰ ⸀ἁμαρτωλούς.`
+- Luke 5:31-32: `καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν πρὸς αὐτούς· Οὐ χρείαν ἔχουσιν οἱ ὑγιαίνοντες ἰατροῦ ἀλλὰ οἱ κακῶς ἔχοντες· οὐκ ἐλήλυθα καλέσαι δικαίους ἀλλὰ ἁμαρτωλοὺς εἰς μετάνοιαν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

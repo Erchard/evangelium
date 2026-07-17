@@ -132,7 +132,8 @@ Split seek/find core from dialogue-memory expansion.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 7:7: `Αἰτεῖτε, καὶ δοθήσεται ὑμῖν· ζητεῖτε, καὶ εὑρήσετε· κρούετε, καὶ ἀνοιγήσεται ὑμῖν.`
+- Luke 11:9: `Κἀγὼ ὑμῖν λέγω, αἰτεῖτε, καὶ δοθήσεται ὑμῖν· ζητεῖτε, καὶ εὑρήσετε· κρούετε, καὶ ἀνοιγήσεται ὑμῖν·`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

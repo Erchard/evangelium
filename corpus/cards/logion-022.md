@@ -167,8 +167,10 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus children/kingdom controls in Mark, Matthew, and Luke. This retroversion covers only the reader core, not the unity-of-opposites expansion.
+- Mark 10:14-15: `ἰδὼν δὲ ὁ Ἰησοῦς ἠγανάκτησεν καὶ εἶπεν αὐτοῖς· Ἄφετε τὰ παιδία ἔρχεσθαι πρός με, μὴ κωλύετε αὐτά, τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τοῦ θεοῦ. ἀμὴν λέγω ὑμῖν, ὃς ⸀ἂν μὴ δέξηται τὴν βασιλείαν τοῦ θεοῦ ὡς παιδίον, οὐ μὴ εἰσέλθῃ εἰς αὐτήν.`
+- Matthew 18:3: `καὶ εἶπεν· Ἀμὴν λέγω ὑμῖν, ἐὰν μὴ στραφῆτε καὶ γένησθε ὡς τὰ παιδία, οὐ μὴ εἰσέλθητε εἰς τὴν βασιλείαν τῶν οὐρανῶν.`
+- Matthew 19:14: `ὁ δὲ Ἰησοῦς εἶπεν· Ἄφετε τὰ παιδία καὶ μὴ κωλύετε αὐτὰ ἐλθεῖν πρός με, τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τῶν οὐρανῶν.`
+- Luke 18:16-17: `ὁ δὲ Ἰησοῦς ⸂προσεκαλέσατο αὐτὰ λέγων⸃· Ἄφετε τὰ παιδία ἔρχεσθαι πρός με καὶ μὴ κωλύετε αὐτά, τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τοῦ θεοῦ. ἀμὴν λέγω ὑμῖν, ὃς ⸀ἂν μὴ δέξηται τὴν βασιλείαν τοῦ θεοῦ ὡς παιδίον, οὐ μὴ εἰσέλθῃ εἰς αὐτήν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

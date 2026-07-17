@@ -159,8 +159,9 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Mark 4:30-32, Matthew 13:31-32, and Luke 13:18-19. Not an extant Greek Thomas witness.
+- Mark 4:30-32: `Καὶ ἔλεγεν· ⸀Πῶς ὁμοιώσωμεν τὴν βασιλείαν τοῦ θεοῦ, ἢ ἐν ⸀τίνι ⸂αὐτὴν παραβολῇ θῶμεν⸃; ὡς ⸀κόκκῳ σινάπεως, ὃς ὅταν σπαρῇ ἐπὶ τῆς γῆς, ⸂μικρότερον ὂν⸃ πάντων τῶν ⸀σπερμάτων τῶν ἐπὶ τῆς γῆς— καὶ ὅταν σπαρῇ, ἀναβαίνει καὶ γίνεται ⸂μεῖζον πάντων τῶν λαχάνων⸃ καὶ ποιεῖ κλάδους μεγάλους, ὥστε δύνασθαι ὑπὸ τὴν σκιὰν αὐτοῦ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνοῦν.`
+- Matthew 13:31-32: `Ἄλλην παραβολὴν παρέθηκεν αὐτοῖς λέγων· Ὁμοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν κόκκῳ σινάπεως, ὃν λαβὼν ἄνθρωπος ἔσπειρεν ἐν τῷ ἀγρῷ αὐτοῦ· ὃ μικρότερον μέν ἐστιν πάντων τῶν σπερμάτων, ὅταν δὲ αὐξηθῇ μεῖζον τῶν λαχάνων ἐστὶν καὶ γίνεται δένδρον, ὥστε ἐλθεῖν τὰ πετεινὰ τοῦ οὐρανοῦ καὶ κατασκηνοῦν ἐν τοῖς κλάδοις αὐτοῦ.`
+- Luke 13:18-19: `Ἔλεγεν ⸀οὖν· Τίνι ὁμοία ἐστὶν ἡ βασιλεία τοῦ θεοῦ, καὶ τίνι ὁμοιώσω αὐτήν; ὁμοία ἐστὶν κόκκῳ σινάπεως, ὃν λαβὼν ἄνθρωπος ἔβαλεν εἰς κῆπον ἑαυτοῦ, καὶ ηὔξησεν καὶ ἐγένετο εἰς ⸀δένδρον, καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς κλάδοις αὐτοῦ.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

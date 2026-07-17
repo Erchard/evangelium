@@ -123,7 +123,8 @@ Study temple/body/house destruction traditions.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 14:58: `ὅτι Ἡμεῖς ἠκούσαμεν αὐτοῦ λέγοντος ὅτι Ἐγὼ καταλύσω τὸν ναὸν τοῦτον τὸν χειροποίητον καὶ διὰ τριῶν ἡμερῶν ἄλλον ἀχειροποίητον οἰκοδομήσω·`
+- Matthew 26:61: `εἶπαν· Οὗτος ἔφη· Δύναμαι καταλῦσαι τὸν ναὸν τοῦ θεοῦ καὶ διὰ τριῶν ἡμερῶν ⸀οἰκοδομῆσαι.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

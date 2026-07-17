@@ -127,8 +127,11 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic wording plus strong formulaic controls in Mark 4:25, Matthew 13:12, Matthew 25:29, Luke 8:18, and Luke 19:26. The phrase `ἐν τῇ χειρὶ αὐτοῦ` is a cautious rendering of the Coptic "in his hand" and is not extant Greek Thomas.
+- Mark 4:25: `ὃς γὰρ ⸀ἔχει, δοθήσεται αὐτῷ· καὶ ὃς οὐκ ἔχει, καὶ ⸀ὃ ἔχει ἀρθήσεται ἀπʼ αὐτοῦ.`
+- Matthew 13:12: `ὅστις γὰρ ἔχει, δοθήσεται αὐτῷ καὶ περισσευθήσεται· ὅστις δὲ οὐκ ἔχει, καὶ ὃ ἔχει ἀρθήσεται ἀπʼ αὐτοῦ.`
+- Matthew 25:29: `τῷ γὰρ ἔχοντι παντὶ δοθήσεται καὶ περισσευθήσεται· ⸂τοῦ δὲ⸃ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται ἀπʼ αὐτοῦ.`
+- Luke 8:18: `βλέπετε οὖν πῶς ἀκούετε· ὃς ⸂ἂν γὰρ⸃ ἔχῃ, δοθήσεται αὐτῷ, καὶ ὃς ⸀ἂν μὴ ἔχῃ, καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται ἀπʼ αὐτοῦ.`
+- Luke 19:26: `⸀λέγω ὑμῖν ὅτι παντὶ τῷ ἔχοντι δοθήσεται, ἀπὸ δὲ τοῦ μὴ ἔχοντος καὶ ὃ ἔχει ⸀ἀρθήσεται.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

@@ -163,7 +163,11 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 10:27: `ὃ λέγω ὑμῖν ἐν τῇ σκοτίᾳ, εἴπατε ἐν τῷ φωτί· καὶ ὃ εἰς τὸ οὖς ἀκούετε, κηρύξατε ἐπὶ τῶν δωμάτων.`
+- Mark 4:21: `Καὶ ἔλεγεν ⸀αὐτοῖς· Μήτι ⸂ἔρχεται ὁ λύχνος⸃ ἵνα ὑπὸ τὸν μόδιον τεθῇ ἢ ὑπὸ τὴν κλίνην, οὐχ ἵνα ἐπὶ τὴν λυχνίαν ⸀τεθῇ;`
+- Matthew 5:15: `οὐδὲ καίουσιν λύχνον καὶ τιθέασιν αὐτὸν ὑπὸ τὸν μόδιον ἀλλʼ ἐπὶ τὴν λυχνίαν, καὶ λάμπει πᾶσιν τοῖς ἐν τῇ οἰκίᾳ.`
+- Luke 8:16: `Οὐδεὶς δὲ λύχνον ἅψας καλύπτει αὐτὸν σκεύει ἢ ὑποκάτω κλίνης τίθησιν, ἀλλʼ ἐπὶ λυχνίας ⸀τίθησιν, ἵνα οἱ εἰσπορευόμενοι βλέπωσιν τὸ φῶς.`
+- Luke 11:33: `⸀Οὐδεὶς λύχνον ἅψας εἰς κρύπτην τίθησιν οὐδὲ ὑπὸ τὸν μόδιον ἀλλʼ ἐπὶ τὴν λυχνίαν, ἵνα οἱ εἰσπορευόμενοι τὸ ⸀φέγγος βλέπωσιν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

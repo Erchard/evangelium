@@ -135,8 +135,7 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas and Luke 12:49. The Coptic "world" differs from Luke's "earth/land"; this retroversion preserves the Thomas wording.
+- Luke 12:49: `Πῦρ ἦλθον βαλεῖν ⸀ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη;`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

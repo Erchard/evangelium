@@ -126,8 +126,11 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Matthew 6:24 and Luke 16:13. This retroversion covers only the two-masters core, not the wider incompatibility chain.
+- Matthew 6:24: `Οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ.`
+- Luke 16:13: `οὐδεὶς οἰκέτης δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ.`
+- Mark 2:21-22: `⸀Οὐδεὶς ἐπίβλημα ῥάκους ἀγνάφου ἐπιράπτει ἐπὶ ⸂ἱμάτιον παλαιόν⸃· εἰ δὲ μή, αἴρει τὸ πλήρωμα ⸀ἀπʼ αὐτοῦ τὸ καινὸν τοῦ παλαιοῦ, καὶ χεῖρον σχίσμα γίνεται. καὶ οὐδεὶς βάλλει οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή, ⸂ῥήξει ὁ οἶνος⸃ τοὺς ἀσκούς, καὶ ὁ οἶνος ⸂ἀπόλλυται καὶ οἱ ἀσκοί⸃. ἀλλὰ οἶνον νέον εἰς ἀσκοὺς ⸀καινούς.`
+- Matthew 9:16-17: `οὐδεὶς δὲ ἐπιβάλλει ἐπίβλημα ῥάκους ἀγνάφου ἐπὶ ἱματίῳ παλαιῷ· αἴρει γὰρ τὸ πλήρωμα αὐτοῦ ἀπὸ τοῦ ἱματίου, καὶ χεῖρον σχίσμα γίνεται. οὐδὲ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή γε, ῥήγνυνται οἱ ἀσκοί, καὶ ὁ οἶνος ἐκχεῖται καὶ οἱ ἀσκοὶ ⸀ἀπόλλυνται· ἀλλὰ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς καινούς, καὶ ἀμφότεροι συντηροῦνται.`
+- Luke 5:36-39: `ἔλεγεν δὲ καὶ παραβολὴν πρὸς αὐτοὺς ὅτι Οὐδεὶς ἐπίβλημα ⸀ἀπὸ ἱματίου καινοῦ ⸀σχίσας ἐπιβάλλει ἐπὶ ἱμάτιον παλαιόν· εἰ δὲ μήγε, καὶ τὸ καινὸν ⸀σχίσει καὶ τῷ παλαιῷ οὐ ⸂συμφωνήσει τὸ ἐπίβλημα⸃ τὸ ἀπὸ τοῦ καινοῦ. καὶ οὐδεὶς βάλλει οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μήγε, ῥήξει ὁ ⸂οἶνος ὁ νέος⸃ τοὺς ἀσκούς, καὶ αὐτὸς ἐκχυθήσεται καὶ οἱ ἀσκοὶ ἀπολοῦνται· ἀλλὰ οἶνον νέον εἰς ἀσκοὺς καινοὺς ⸀βλητέον. ⸀καὶ οὐδεὶς πιὼν ⸀παλαιὸν θέλει νέον· λέγει γάρ· Ὁ παλαιὸς ⸀χρηστός ἐστιν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

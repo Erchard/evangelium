@@ -125,8 +125,7 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic text plus Luke 12:13-14. Risk: elevated Luke-dependence risk, since Luke is the only strong external control. The retroversion is a working Greek back-translation, not an independent witness.
+- Luke 12:13-15: `Εἶπεν δέ τις ⸂ἐκ τοῦ ὄχλου αὐτῷ⸃· Διδάσκαλε, εἰπὲ τῷ ἀδελφῷ μου μερίσασθαι μετʼ ἐμοῦ τὴν κληρονομίαν. ὁ δὲ εἶπεν αὐτῷ· Ἄνθρωπε, τίς με κατέστησεν ⸀κριτὴν ἢ μεριστὴν ἐφʼ ὑμᾶς; εἶπεν δὲ πρὸς αὐτούς· Ὁρᾶτε καὶ φυλάσσεσθε ἀπὸ ⸀πάσης πλεονεξίας, ὅτι οὐκ ἐν τῷ περισσεύειν τινὶ ἡ ζωὴ ⸀αὐτοῦ ἐστιν ἐκ τῶν ὑπαρχόντων ⸀αὐτῷ.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

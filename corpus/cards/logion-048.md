@@ -124,7 +124,10 @@ Study with Thomas 106 and Matt 18:19-20.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 18:19-20: `Πάλιν ⸀ἀμὴν λέγω ὑμῖν ὅτι ἐὰν δύο ⸂συμφωνήσωσιν ἐξ ὑμῶν⸃ ἐπὶ τῆς γῆς περὶ παντὸς πράγματος οὗ ἐὰν αἰτήσωνται, γενήσεται αὐτοῖς παρὰ τοῦ πατρός μου τοῦ ἐν οὐρανοῖς. οὗ γάρ εἰσιν δύο ἢ τρεῖς συνηγμένοι εἰς τὸ ἐμὸν ὄνομα, ἐκεῖ εἰμι ἐν μέσῳ αὐτῶν.`
+- Mark 11:23: `⸀ἀμὴν λέγω ὑμῖν ὅτι ὃς ἂν εἴπῃ τῷ ὄρει τούτῳ· Ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν, καὶ μὴ διακριθῇ ἐν τῇ καρδίᾳ αὐτοῦ ἀλλὰ ⸀πιστεύῃ ὅτι ⸂ὃ λαλεῖ γίνεται, ἔσται αὐτῷ⸃.`
+- Matthew 17:20: `ὁ δὲ ⸀λέγει αὐτοῖς· Διὰ τὴν ⸀ὀλιγοπιστίαν ὑμῶν· ἀμὴν γὰρ λέγω ὑμῖν, ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως, ἐρεῖτε τῷ ὄρει τούτῳ· ⸂Μετάβα ἔνθεν⸃ ἐκεῖ, καὶ μεταβήσεται, καὶ οὐδὲν ἀδυνατήσει ⸀ὑμῖν.`
+- Matthew 21:21: `ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς· Ἀμὴν λέγω ὑμῖν, ἐὰν ἔχητε πίστιν καὶ μὴ διακριθῆτε, οὐ μόνον τὸ τῆς συκῆς ποιήσετε, ἀλλὰ κἂν τῷ ὄρει τούτῳ εἴπητε· Ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν, γενήσεται·`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

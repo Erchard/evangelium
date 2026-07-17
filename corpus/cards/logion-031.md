@@ -151,7 +151,9 @@ English/Coptic/Greek/parallel rows added; physician clause remains marked.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 6:4: `⸂καὶ ἔλεγεν⸃ αὐτοῖς ὁ Ἰησοῦς ὅτι Οὐκ ἔστιν προφήτης ἄτιμος εἰ μὴ ἐν τῇ πατρίδι αὐτοῦ καὶ ἐν τοῖς ⸂συγγενεῦσιν αὐτοῦ⸃ καὶ ἐν τῇ οἰκίᾳ αὐτοῦ.`
+- Matthew 13:57: `καὶ ἐσκανδαλίζοντο ἐν αὐτῷ. ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· Οὐκ ἔστιν προφήτης ἄτιμος εἰ μὴ ἐν τῇ ⸀πατρίδι καὶ ἐν τῇ οἰκίᾳ αὐτοῦ.`
+- Luke 4:24: `εἶπεν δέ· Ἀμὴν λέγω ὑμῖν ὅτι οὐδεὶς προφήτης δεκτός ἐστιν ἐν τῇ πατρίδι αὐτοῦ.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

@@ -172,7 +172,10 @@ Deepen seven-day child / first-last split.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 10:31: `πολλοὶ δὲ ἔσονται πρῶτοι ἔσχατοι καὶ ⸀οἱ ἔσχατοι πρῶτοι.`
+- Matthew 19:30: `πολλοὶ δὲ ἔσονται πρῶτοι ἔσχατοι καὶ ἔσχατοι πρῶτοι.`
+- Matthew 20:16: `οὕτως ἔσονται οἱ ἔσχατοι πρῶτοι καὶ οἱ πρῶτοι ⸀ἔσχατοι.`
+- Luke 13:30: `καὶ ἰδοὺ εἰσὶν ἔσχατοι οἳ ἔσονται πρῶτοι, καὶ εἰσὶν πρῶτοι οἳ ἔσονται ἔσχατοι.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

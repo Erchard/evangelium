@@ -124,7 +124,8 @@ Study with Logion 65 and Psalm 118 rejected-stone citation.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 12:10-11: `οὐδὲ τὴν γραφὴν ταύτην ἀνέγνωτε· Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας· παρὰ κυρίου ἐγένετο αὕτη, καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν;`
+- Luke 20:17: `ὁ δὲ ἐμβλέψας αὐτοῖς εἶπεν· Τί οὖν ἐστιν τὸ γεγραμμένον τοῦτο· Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας;`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

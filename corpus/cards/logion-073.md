@@ -126,8 +126,8 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic text plus strong controls in Matthew 9:37-38 and Luke 10:2. The wording is formulaic and very likely Greek in circulation, but this is still not an extant Greek Thomas witness.
+- Matthew 9:37-38: `τότε λέγει τοῖς μαθηταῖς αὐτοῦ· Ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι· δεήθητε οὖν τοῦ κυρίου τοῦ θερισμοῦ ὅπως ἐκβάλῃ ἐργάτας εἰς τὸν θερισμὸν αὐτοῦ.`
+- Luke 10:2: `ἔλεγεν ⸀δὲ πρὸς αὐτούς· Ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι· δεήθητε οὖν τοῦ κυρίου τοῦ θερισμοῦ ὅπως ⸂ἐργάτας ἐκβάλῃ⸃ εἰς τὸν θερισμὸν αὐτοῦ.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

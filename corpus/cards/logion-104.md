@@ -133,7 +133,9 @@ Split bridegroom-fasting core from Thomas ritual/bridal-chamber frame.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 2:18-20: `Καὶ ἦσαν οἱ μαθηταὶ Ἰωάννου καὶ οἱ ⸀Φαρισαῖοι νηστεύοντες. καὶ ἔρχονται καὶ λέγουσιν αὐτῷ· Διὰ τί οἱ μαθηταὶ Ἰωάννου καὶ οἱ ⸀μαθηταὶ τῶν Φαρισαίων νηστεύουσιν, οἱ δὲ σοὶ μαθηταὶ οὐ νηστεύουσιν; καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος ἐν ᾧ ὁ νυμφίος μετʼ αὐτῶν ἐστιν νηστεύειν; ὅσον χρόνον ⸂ἔχουσιν τὸν νυμφίον μετʼ αὐτῶν⸃ οὐ δύνανται νηστεύειν· ἐλεύσονται δὲ ἡμέραι ὅταν ἀπαρθῇ ἀπʼ αὐτῶν ὁ νυμφίος, καὶ τότε νηστεύσουσιν ἐν ⸂ἐκείνῃ τῇ ἡμέρᾳ⸃.`
+- Matthew 9:14-15: `Τότε προσέρχονται αὐτῷ οἱ μαθηταὶ Ἰωάννου λέγοντες· Διὰ τί ἡμεῖς καὶ οἱ Φαρισαῖοι νηστεύομεν ⸀πολλά, οἱ δὲ μαθηταί σου οὐ νηστεύουσιν; καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος πενθεῖν ἐφʼ ὅσον μετʼ αὐτῶν ἐστιν ὁ νυμφίος; ἐλεύσονται δὲ ἡμέραι ὅταν ἀπαρθῇ ἀπʼ αὐτῶν ὁ νυμφίος, καὶ τότε νηστεύσουσιν.`
+- Luke 5:33-35: `Οἱ δὲ εἶπαν πρὸς αὐτόν· ⸀Οἱ μαθηταὶ Ἰωάννου νηστεύουσιν πυκνὰ καὶ δεήσεις ποιοῦνται, ὁμοίως καὶ οἱ τῶν Φαρισαίων, οἱ δὲ σοὶ ἐσθίουσιν καὶ πίνουσιν. ὁ ⸀δὲ εἶπεν πρὸς αὐτούς· Μὴ δύνασθε τοὺς υἱοὺς τοῦ νυμφῶνος ἐν ᾧ ὁ νυμφίος μετʼ αὐτῶν ἐστιν ποιῆσαι ⸀νηστεῦσαι; ἐλεύσονται δὲ ἡμέραι, καὶ ὅταν ἀπαρθῇ ἀπʼ αὐτῶν ὁ νυμφίος τότε νηστεύσουσιν ἐν ἐκείναις ταῖς ἡμέραις.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

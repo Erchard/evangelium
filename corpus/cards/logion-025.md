@@ -158,8 +158,9 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Leviticus 19:18 and synoptic love-command controls. "Brother" is preserved as Thomas's narrower wording.
+- Mark 12:31: `⸀δευτέρα αὕτη· Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν. μείζων τούτων ἄλλη ἐντολὴ οὐκ ἔστιν.`
+- Matthew 22:39: `Δευτέρα ⸀δὲ ὁμοία ⸀αὐτῇ· Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν.`
+- Luke 10:27: `ὁ δὲ ἀποκριθεὶς εἶπεν· Ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης ⸀τῆς καρδίας σου καὶ ⸂ἐν ὅλῃ τῇ ψυχῇ⸃ σου καὶ ⸂ἐν ὅλῃ τῇ ἰσχύϊ⸃ σου καὶ ⸂ἐν ὅλῃ τῇ διανοίᾳ⸃ σου, καὶ τὸν πλησίον σου ὡς σεαυτόν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

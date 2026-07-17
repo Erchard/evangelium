@@ -134,8 +134,7 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Luke 6:34-35 and Jewish anti-usury controls. The Coptic opening is damaged, so the retroversion remains cautious.
+- Luke 6:34-35: `καὶ ἐὰν ⸀δανίσητε παρʼ ὧν ἐλπίζετε ⸀λαβεῖν, ποία ὑμῖν χάρις ἐστίν; ⸀καὶ ἁμαρτωλοὶ ἁμαρτωλοῖς δανίζουσιν ἵνα ἀπολάβωσιν τὰ ἴσα. πλὴν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ ἀγαθοποιεῖτε καὶ δανίζετε μηδὲν ἀπελπίζοντες· καὶ ἔσται ὁ μισθὸς ὑμῶν πολύς, καὶ ἔσεσθε υἱοὶ Ὑψίστου, ὅτι αὐτὸς χρηστός ἐστιν ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

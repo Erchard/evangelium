@@ -123,7 +123,8 @@ Controlled reader pass: keep appendix-only for now because the hearing/keeping c
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Luke 11:27-28: `Ἐγένετο δὲ ἐν τῷ λέγειν αὐτὸν ταῦτα ἐπάρασά τις ⸂φωνὴν γυνὴ⸃ ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· Μακαρία ἡ κοιλία ἡ βαστάσασά σε καὶ μαστοὶ οὓς ἐθήλασας· αὐτὸς δὲ εἶπεν· ⸀Μενοῦν μακάριοι οἱ ἀκούοντες τὸν λόγον τοῦ θεοῦ καὶ ⸀φυλάσσοντες.`
+- Luke 23:29: `ὅτι ἰδοὺ ἔρχονται ἡμέραι ἐν αἷς ἐροῦσιν Μακάριαι αἱ στεῖραι καὶ ⸀αἱ κοιλίαι αἳ οὐκ ἐγέννησαν καὶ μαστοὶ οἳ οὐκ ⸀ἔθρεψαν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

@@ -12,6 +12,7 @@
 - Controlled clean-reader candidate pass виконано; найближчий робочий пакет: true all-114 publication decision table.
 - Усі 114 карток логій мають `Gold-level status check v0.2`; актуальним card-quality audit є `corpus/cards/card-quality-audit-v0.2.md`.
 - Усі 114 карток логій мають `Five-source original-language apparatus v0.1`; актуальний аудит джерельного шару: `corpus/cards/five-source-apparatus-audit-v0.1.md`.
+- Canonical Greek extraction pass виконано: 81 картка має Матвій/Марк/Лука Greek control з локального SBLGNT; аудит: `corpus/cards/canonical-greek-extraction-audit-v0.1.md`.
 
 ## Поточні матеріали
 
@@ -34,6 +35,7 @@
 | Завершення | `project/publication-gap-audit-v0.1.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
 | Завершення | `corpus/cards/card-quality-audit-v0.2.md` | Аудит gold-level нормалізації карток: 114/114 мають поточний v0.2 status block; головна наступна прогалина - publication decision depth. |
 | Завершення | `corpus/cards/five-source-apparatus-audit-v0.1.md` | Аудит пʼятиджерельного апарату в картках: усі 114 мають P.Oxy./Coptic/canonical channel, але canonical Greek local extraction ще майже весь попереду. |
+| Завершення | `corpus/cards/canonical-greek-extraction-audit-v0.1.md` | Аудит canonical Greek extraction: 81 картка отримала SBLGNT Greek controls, 33 лишаються pending. |
 | Завершення | `corpus/tables/logia-workflow-matrix.md` | Операційна матриця 114 логій: картки, evidence notes, рішення, стан читабельного тексту й наступні дії. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-corpus-classification-v0.1.md` | Перша повна класифікація всіх 114 логій після завершення первинних карток: reader text, high-priority candidates, deferred clusters and secondary material. |
 | Завершення | `reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md` | Аудит перед фіналізацією clean reader: що вже стабільне, що потребує split-core review, і які документи застаріли. |
@@ -42,6 +44,7 @@
 | Робочий промпт | `project/ide-codex-master-project-prompt.md` | Головний промпт проекту для наступних кроків реконструкції, корпусної роботи, коментарів і фінального видання. |
 | Робочий промпт | `project/ide-codex-gold-card-quality-normalization-v0.2-prompt.md` | Промпт виконаного проходу: підняти всі 114 карток до єдиного gold-level status check v0.2 без передчасного промотування нових логій. |
 | Робочий промпт | `project/ide-codex-five-source-card-apparatus-v0.1-prompt.md` | Промпт виконаного проходу: внести в кожну картку пʼять джерельних каналів із текстами або явною позначкою відсутності. |
+| Робочий промпт | `project/ide-codex-canonical-greek-extraction-pass-v0.1-prompt.md` | Промпт виконаного проходу: витягнути canonical Greek controls із локального SBLGNT у картки. |
 | Робочий промпт | `project/ide-codex-corpus-sprint-081-100-quality-prompt.md` | Якісний промпт для Sprint G: первинні картки логій 81-100 і оновлення контрольних таблиць без передчасного розширення чистого читацького тексту. |
 | Робочий промпт | `project/ide-codex-corpus-sprint-101-114-quality-prompt.md` | Якісний промпт для Sprint H: завершити первинне покриття логій 101-114 і підготувати проект до загальної класифікації корпусу. |
 | Робочий промпт | `project/ide-codex-full-corpus-classification-prompt.md` | Промпт для першої повної класифікації 114 логій і вибору high-priority evidence-note set. |

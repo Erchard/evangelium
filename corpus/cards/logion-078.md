@@ -123,7 +123,8 @@ Controlled reader pass: keep appendix-only for now because the strong core belon
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 11:7-8: `Τούτων δὲ πορευομένων ἤρξατο ὁ Ἰησοῦς λέγειν τοῖς ὄχλοις περὶ Ἰωάννου· Τί ἐξήλθατε εἰς τὴν ἔρημον θεάσασθαι; κάλαμον ὑπὸ ἀνέμου σαλευόμενον; ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν ⸀μαλακοῖς ἠμφιεσμένον; ἰδοὺ οἱ τὰ μαλακὰ φοροῦντες ἐν τοῖς οἴκοις τῶν ⸀βασιλέων ⸀εἰσίν.`
+- Luke 7:24-25: `Ἀπελθόντων δὲ τῶν ἀγγέλων Ἰωάννου ἤρξατο λέγειν ⸂πρὸς τοὺς ὄχλους⸃ περὶ Ἰωάννου· Τί ⸀ἐξήλθατε εἰς τὴν ἔρημον θεάσασθαι; κάλαμον ὑπὸ ἀνέμου σαλευόμενον; ἀλλὰ τί ⸀ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἱματίοις ἠμφιεσμένον; ἰδοὺ οἱ ἐν ἱματισμῷ ἐνδόξῳ καὶ τρυφῇ ὑπάρχοντες ἐν τοῖς βασιλείοις εἰσίν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

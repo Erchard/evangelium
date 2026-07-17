@@ -135,7 +135,9 @@ Compare "not taste death" with Logia 1, 19, 111 and Mark 9:1 parallels.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 9:1: `καὶ ἔλεγεν αὐτοῖς· Ἀμὴν λέγω ὑμῖν ὅτι εἰσίν τινες ⸂τῶν ὧδε⸃ ἑστηκότων οἵτινες οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὴν βασιλείαν τοῦ θεοῦ ἐληλυθυῖαν ἐν δυνάμει.`
+- Matthew 16:28: `ἀμὴν λέγω ὑμῖν ⸀ὅτι εἰσίν τινες ⸂τῶν ὧδε ἑστώτων⸃ οἵτινες οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν τῇ βασιλείᾳ αὐτοῦ.`
+- Luke 9:27: `λέγω δὲ ὑμῖν ἀληθῶς, εἰσίν τινες τῶν ⸀αὐτοῦ ⸀ἑστηκότων οἳ οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὴν βασιλείαν τοῦ θεοῦ.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

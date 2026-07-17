@@ -134,8 +134,8 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Matthew 13:33 and Luke 13:20-21. This retroversion covers only the reader core; the Father frame, large-loaves result, and hearing formula are excluded.
+- Matthew 13:33: `Ἄλλην παραβολὴν ἐλάλησεν αὐτοῖς· Ὁμοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν ζύμῃ, ἣν λαβοῦσα γυνὴ ⸀ἐνέκρυψεν εἰς ἀλεύρου σάτα τρία ἕως οὗ ἐζυμώθη ὅλον.`
+- Luke 13:20-21: `⸀Καὶ πάλιν εἶπεν· Τίνι ὁμοιώσω τὴν βασιλείαν τοῦ θεοῦ; ὁμοία ἐστὶν ζύμῃ, ἣν λαβοῦσα γυνὴ ⸀ἔκρυψεν εἰς ἀλεύρου σάτα τρία ἕως οὗ ἐζυμώθη ὅλον.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

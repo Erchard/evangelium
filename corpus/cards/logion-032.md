@@ -150,7 +150,10 @@ English/Coptic/Greek/parallel rows added; later refine Matt 5:14 relation.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 5:14: `Ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου. οὐ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμένη·`
+- Mark 4:21: `Καὶ ἔλεγεν ⸀αὐτοῖς· Μήτι ⸂ἔρχεται ὁ λύχνος⸃ ἵνα ὑπὸ τὸν μόδιον τεθῇ ἢ ὑπὸ τὴν κλίνην, οὐχ ἵνα ἐπὶ τὴν λυχνίαν ⸀τεθῇ;`
+- Luke 8:16: `Οὐδεὶς δὲ λύχνον ἅψας καλύπτει αὐτὸν σκεύει ἢ ὑποκάτω κλίνης τίθησιν, ἀλλʼ ἐπὶ λυχνίας ⸀τίθησιν, ἵνα οἱ εἰσπορευόμενοι βλέπωσιν τὸ φῶς.`
+- Luke 11:33: `⸀Οὐδεὶς λύχνον ἅψας εἰς κρύπτην τίθησιν οὐδὲ ὑπὸ τὸν μόδιον ἀλλʼ ἐπὶ τὴν λυχνίαν, ἵνα οἱ εἰσπορευόμενοι τὸ ⸀φέγγος βλέπωσιν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

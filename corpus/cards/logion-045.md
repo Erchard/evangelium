@@ -126,8 +126,9 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Matthew 7:16 and Luke 6:44. This is a reader-core retroversion, not an extant Greek Thomas witness.
+- Matthew 7:16-20: `ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς. μήτι συλλέγουσιν ἀπὸ ἀκανθῶν ⸀σταφυλὰς ἢ ἀπὸ τριβόλων σῦκα; οὕτως πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ, τὸ δὲ σαπρὸν δένδρον καρποὺς πονηροὺς ποιεῖ· οὐ δύναται δένδρον ἀγαθὸν καρποὺς πονηροὺς ⸀ποιεῖν, οὐδὲ δένδρον σαπρὸν καρποὺς καλοὺς ποιεῖν. πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται. ἄρα γε ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς.`
+- Matthew 12:33-35: `Ἢ ποιήσατε τὸ δένδρον καλὸν καὶ τὸν καρπὸν αὐτοῦ καλόν, ἢ ποιήσατε τὸ δένδρον σαπρὸν καὶ τὸν καρπὸν αὐτοῦ σαπρόν· ἐκ γὰρ τοῦ καρποῦ τὸ δένδρον γινώσκεται. γεννήματα ἐχιδνῶν, πῶς δύνασθε ἀγαθὰ λαλεῖν πονηροὶ ὄντες; ἐκ γὰρ τοῦ περισσεύματος τῆς καρδίας τὸ στόμα λαλεῖ. ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ ἐκβάλλει ἀγαθά, καὶ ὁ πονηρὸς ἄνθρωπος ἐκ τοῦ πονηροῦ θησαυροῦ ἐκβάλλει πονηρά.`
+- Luke 6:43-45: `Οὐ γάρ ἐστιν δένδρον καλὸν ποιοῦν καρπὸν σαπρόν, οὐδὲ ⸀πάλιν δένδρον σαπρὸν ποιοῦν καρπὸν καλόν. ἕκαστον γὰρ δένδρον ἐκ τοῦ ἰδίου καρποῦ γινώσκεται· οὐ γὰρ ἐξ ἀκανθῶν συλλέγουσιν σῦκα, οὐδὲ ἐκ βάτου ⸂σταφυλὴν τρυγῶσιν⸃. ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ τῆς καρδίας ⸀αὐτοῦ προφέρει τὸ ἀγαθόν, καὶ ὁ ⸀πονηρὸς ἐκ τοῦ ⸀πονηροῦ προφέρει τὸ πονηρόν· ἐκ γὰρ ⸀περισσεύματος καρδίας λαλεῖ τὸ στόμα αὐτοῦ.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

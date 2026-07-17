@@ -122,7 +122,7 @@ High candidate: deepen Matt 13 weeds comparison.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 13:24-30: `Ἄλλην παραβολὴν παρέθηκεν αὐτοῖς λέγων· Ὡμοιώθη ἡ βασιλεία τῶν οὐρανῶν ἀνθρώπῳ ⸀σπείραντι καλὸν σπέρμα ἐν τῷ ἀγρῷ αὐτοῦ. ἐν δὲ τῷ καθεύδειν τοὺς ἀνθρώπους ἦλθεν αὐτοῦ ὁ ἐχθρὸς καὶ ⸀ἐπέσπειρεν ζιζάνια ἀνὰ μέσον τοῦ σίτου καὶ ἀπῆλθεν. ὅτε δὲ ἐβλάστησεν ὁ χόρτος καὶ καρπὸν ἐποίησεν, τότε ἐφάνη καὶ τὰ ζιζάνια. προσελθόντες δὲ οἱ δοῦλοι τοῦ οἰκοδεσπότου εἶπον αὐτῷ· Κύριε, οὐχὶ καλὸν σπέρμα ⸀ἔσπειρας ἐν τῷ σῷ ἀγρῷ; πόθεν οὖν ἔχει ζιζάνια; ὁ δὲ ἔφη αὐτοῖς· Ἐχθρὸς ἄνθρωπος τοῦτο ἐποίησεν. οἱ δὲ ⸂δοῦλοι αὐτῷ λέγουσιν⸃· Θέλεις οὖν ἀπελθόντες ⸀συλλέξωμεν αὐτά; ὁ δέ ⸀φησιν· Οὔ, μήποτε συλλέγοντες τὰ ζιζάνια ἐκριζώσητε ἅμα αὐτοῖς τὸν σῖτον· ἄφετε συναυξάνεσθαι ἀμφότερα ⸀μέχρι τοῦ θερισμοῦ· καὶ ἐν καιρῷ τοῦ θερισμοῦ ἐρῶ τοῖς θερισταῖς· Συλλέξατε πρῶτον τὰ ζιζάνια καὶ δήσατε αὐτὰ εἰς δέσμας πρὸς τὸ κατακαῦσαι αὐτά, τὸν δὲ σῖτον ⸀συναγάγετε εἰς τὴν ἀποθήκην μου.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

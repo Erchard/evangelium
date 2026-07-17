@@ -134,7 +134,9 @@ Split heaven/earth passing core from living/self/world cluster.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 13:31: `ὁ οὐρανὸς καὶ ἡ γῆ ⸀παρελεύσονται, οἱ δὲ λόγοι μου οὐ ⸀μὴ ⸁παρελεύσονται.`
+- Matthew 24:35: `ὁ οὐρανὸς καὶ ἡ γῆ ⸀παρελεύσεται, οἱ δὲ λόγοι μου οὐ μὴ παρέλθωσιν.`
+- Luke 21:33: `ὁ οὐρανὸς καὶ ἡ γῆ ⸀παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

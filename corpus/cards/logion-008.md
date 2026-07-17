@@ -125,7 +125,8 @@ Keep in apparatus; study one/many and large/small motifs before inclusion.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 13:47-50: `Πάλιν ὁμοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν σαγήνῃ βληθείσῃ εἰς τὴν θάλασσαν καὶ ἐκ παντὸς γένους συναγαγούσῃ· ἣν ὅτε ἐπληρώθη ἀναβιβάσαντες ἐπὶ τὸν αἰγιαλὸν καὶ καθίσαντες συνέλεξαν τὰ καλὰ εἰς ⸀ἄγγη, τὰ δὲ σαπρὰ ἔξω ἔβαλον. οὕτως ἔσται ἐν τῇ συντελείᾳ τοῦ αἰῶνος· ἐξελεύσονται οἱ ἄγγελοι καὶ ἀφοριοῦσιν τοὺς πονηροὺς ἐκ μέσου τῶν δικαίων καὶ βαλοῦσιν αὐτοὺς εἰς τὴν κάμινον τοῦ πυρός· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων.`
+- Matthew 13:47-48: `Πάλιν ὁμοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν σαγήνῃ βληθείσῃ εἰς τὴν θάλασσαν καὶ ἐκ παντὸς γένους συναγαγούσῃ· ἣν ὅτε ἐπληρώθη ἀναβιβάσαντες ἐπὶ τὸν αἰγιαλὸν καὶ καθίσαντες συνέλεξαν τὰ καλὰ εἰς ⸀ἄγγη, τὰ δὲ σαπρὰ ἔξω ἔβαλον.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

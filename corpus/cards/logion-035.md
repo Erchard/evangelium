@@ -158,8 +158,9 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Mark 3:27 and Matthew 12:29. Not an extant Greek Thomas witness.
+- Mark 3:27: `⸂ἀλλʼ οὐδεὶς δύναται⸃ ⸂εἰς τὴν οἰκίαν τοῦ ἰσχυροῦ εἰσελθὼν τὰ σκεύη⸃ αὐτοῦ διαρπάσαι ἐὰν μὴ πρῶτον τὸν ἰσχυρὸν δήσῃ, καὶ τότε τὴν οἰκίαν αὐτοῦ ⸀διαρπάσει.`
+- Matthew 12:29: `ἢ πῶς δύναταί τις εἰσελθεῖν εἰς τὴν οἰκίαν τοῦ ἰσχυροῦ καὶ τὰ σκεύη αὐτοῦ ⸀ἁρπάσαι, ἐὰν μὴ πρῶτον δήσῃ τὸν ἰσχυρόν; καὶ τότε τὴν οἰκίαν αὐτοῦ ⸀διαρπάσει.`
+- Luke 11:21-22: `ὅταν ὁ ἰσχυρὸς καθωπλισμένος φυλάσσῃ τὴν ἑαυτοῦ αὐλήν, ἐν εἰρήνῃ ἐστὶν τὰ ὑπάρχοντα αὐτοῦ· ἐπὰν ⸀δὲ ἰσχυρότερος ⸀αὐτοῦ ἐπελθὼν νικήσῃ αὐτόν, τὴν πανοπλίαν αὐτοῦ αἴρει ἐφʼ ᾗ ἐπεποίθει, καὶ τὰ σκῦλα αὐτοῦ διαδίδωσιν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

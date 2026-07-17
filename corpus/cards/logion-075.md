@@ -123,7 +123,7 @@ Keep in unity/monachos/bridal chamber cluster.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 25:1-13: `Τότε ὁμοιωθήσεται ἡ βασιλεία τῶν οὐρανῶν δέκα παρθένοις, αἵτινες λαβοῦσαι τὰς λαμπάδας ⸀ἑαυτῶν ἐξῆλθον εἰς ⸀ὑπάντησιν τοῦ νυμφίου. πέντε δὲ ⸂ἐξ αὐτῶν ἦσαν⸃ ⸂μωραὶ καὶ πέντε φρόνιμοι⸃. ⸂αἱ γὰρ⸃ μωραὶ λαβοῦσαι τὰς λαμπάδας αὐτῶν οὐκ ἔλαβον μεθʼ ἑαυτῶν ἔλαιον· αἱ δὲ φρόνιμοι ἔλαβον ἔλαιον ἐν τοῖς ⸀ἀγγείοις μετὰ τῶν λαμπάδων ⸀ἑαυτῶν. χρονίζοντος δὲ τοῦ νυμφίου ἐνύσταξαν πᾶσαι καὶ ἐκάθευδον. μέσης δὲ νυκτὸς κραυγὴ γέγονεν· Ἰδοὺ ὁ ⸀νυμφίος, ἐξέρχεσθε εἰς ἀπάντησιν ⸀αὐτοῦ. τότε ἠγέρθησαν πᾶσαι αἱ παρθένοι ἐκεῖναι καὶ ἐκόσμησαν τὰς λαμπάδας ⸀ἑαυτῶν. αἱ δὲ μωραὶ ταῖς φρονίμοις εἶπαν· Δότε ἡμῖν ἐκ τοῦ ἐλαίου ὑμῶν, ὅτι αἱ λαμπάδες ἡμῶν σβέννυνται. ἀπεκρίθησαν δὲ αἱ φρόνιμοι λέγουσαι· Μήποτε ⸂οὐ μὴ⸃ ἀρκέσῃ ἡμῖν καὶ ὑμῖν· ⸀πορεύεσθε μᾶλλον πρὸς τοὺς πωλοῦντας καὶ ἀγοράσατε ἑαυταῖς. ἀπερχομένων δὲ αὐτῶν ἀγοράσαι ἦλθεν ὁ νυμφίος, καὶ αἱ ἕτοιμοι εἰσῆλθον μετʼ αὐτοῦ εἰς τοὺς γάμους, καὶ ἐκλείσθη ἡ θύρα. ὕστερον δὲ ἔρχονται καὶ αἱ λοιπαὶ παρθένοι λέγουσαι· Κύριε κύριε, ἄνοιξον ἡμῖν· ὁ δὲ ἀποκριθεὶς εἶπεν· Ἀμὴν λέγω ὑμῖν, οὐκ οἶδα ὑμᾶς. γρηγορεῖτε οὖν, ὅτι οὐκ οἴδατε τὴν ἡμέραν οὐδὲ τὴν ⸀ὥραν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

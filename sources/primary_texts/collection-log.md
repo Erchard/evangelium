@@ -1,5 +1,26 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, canonical Greek extraction pass v0.1
+
+### Що додано
+
+- `project/ide-codex-canonical-greek-extraction-pass-v0.1-prompt.md` - промпт виконаного проходу canonical Greek extraction.
+- `corpus/cards/canonical-greek-extraction-audit-v0.1.md` - аудит результату.
+
+### Що оновлено
+
+- 81 картка логії отримала грецькі canonical controls із локального SBLGNT cache.
+- У пʼятиджерельних блоках карток додано 198 canonical references.
+- `corpus/cards/five-source-apparatus-audit-v0.1.md`, README/status документи і source register синхронізовано.
+
+### Методологічне рішення
+
+SBLGNT використано як відкритий робочий грецький контрольний текст для Матвія, Марка і Луки. Це не свідок тексту Фоми і не фінальне critical-edition рішення для публікації.
+
+### Наступна дія
+
+Pending P.Oxy. XML extraction pass для P.Oxy. 1 і P.Oxy. 655.
+
 ## 2026-07-17, five-source original-language card apparatus v0.1
 
 ### Що додано

@@ -123,7 +123,8 @@ Study with Logion 45 tree/fruit cluster and polemical framing.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 7:16-20: `ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς. μήτι συλλέγουσιν ἀπὸ ἀκανθῶν ⸀σταφυλὰς ἢ ἀπὸ τριβόλων σῦκα; οὕτως πᾶν δένδρον ἀγαθὸν καρποὺς καλοὺς ποιεῖ, τὸ δὲ σαπρὸν δένδρον καρποὺς πονηροὺς ποιεῖ· οὐ δύναται δένδρον ἀγαθὸν καρποὺς πονηροὺς ⸀ποιεῖν, οὐδὲ δένδρον σαπρὸν καρποὺς καλοὺς ποιεῖν. πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται. ἄρα γε ἀπὸ τῶν καρπῶν αὐτῶν ἐπιγνώσεσθε αὐτούς.`
+- Luke 6:43-44: `Οὐ γάρ ἐστιν δένδρον καλὸν ποιοῦν καρπὸν σαπρόν, οὐδὲ ⸀πάλιν δένδρον σαπρὸν ποιοῦν καρπὸν καλόν. ἕκαστον γὰρ δένδρον ἐκ τοῦ ἰδίου καρποῦ γινώσκεται· οὐ γὰρ ἐξ ἀκανθῶν συλλέγουσιν σῦκα, οὐδὲ ἐκ βάτου ⸂σταφυλὴν τρυγῶσιν⸃.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

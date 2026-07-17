@@ -157,8 +157,8 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Matthew 15:14 and Luke 6:39. Not an extant Greek Thomas witness.
+- Matthew 15:14: `ἄφετε αὐτούς· ⸂τυφλοί εἰσιν ὁδηγοὶ τυφλῶν⸃· τυφλὸς δὲ τυφλὸν ἐὰν ὁδηγῇ, ἀμφότεροι εἰς βόθυνον πεσοῦνται.`
+- Luke 6:39: `Εἶπεν δὲ ⸀καὶ παραβολὴν αὐτοῖς· Μήτι δύναται τυφλὸς τυφλὸν ὁδηγεῖν; οὐχὶ ἀμφότεροι εἰς βόθυνον ⸀ἐμπεσοῦνται;`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

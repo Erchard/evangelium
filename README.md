@@ -30,12 +30,12 @@
 - Clean Ukrainian reader: 34 логії або ядра.
 - Англійський, коптський, грецький і parallel шари синхронізовані для цих 34 одиниць.
 - 114 карток логій створені й вирівняні до gold-level status check v0.2: кожна картка має актуальне рішення, reader status, Greek status, evidence/control links або явну прогалину.
-- 114 карток мають `Five-source original-language apparatus v0.1`: P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, коптський NHC II і canonical Greek control channel прямо всередині картки.
+- 114 карток мають `Five-source original-language apparatus v0.1`: P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, коптський NHC II і canonical Greek control channel прямо всередині картки; canonical Greek заповнено для 81 картки.
 - Full 114-logion appendix має каркас для всіх 114 логій; усі 34 включені логії/ядра поточного clean reader мають принаймні апаратну підтримку, а попередні 31 уже розгорнуті до читацьких секцій.
 - Evidence dossier існує як робочий документ, але ще потребує publication pass.
 
 ## Найближчий робочий цикл
 
-1. Закрити source-critical gap: локально витягнути canonical Greek parallels і pending P.Oxy. XML extracts у card-ready форму.
+1. Закрити remaining source-critical gap: pending P.Oxy. XML extracts у card-ready Greek форму.
 2. Перетворити робочу таблицю рішень на справжню all-114 publication decision table.
 3. Після цього зафіксувати фінальний склад clean reader і розгорнути full appendix / evidence dossier до публікаційного рівня.

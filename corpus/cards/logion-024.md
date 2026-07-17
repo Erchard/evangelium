@@ -143,7 +143,8 @@ Create evidence note for P.Oxy. 655 and Thomas 24(?).
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 5:14-16: `Ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου. οὐ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμένη· οὐδὲ καίουσιν λύχνον καὶ τιθέασιν αὐτὸν ὑπὸ τὸν μόδιον ἀλλʼ ἐπὶ τὴν λυχνίαν, καὶ λάμπει πᾶσιν τοῖς ἐν τῇ οἰκίᾳ. οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς.`
+- Luke 11:34-36: `ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός ⸀σου. ⸀ὅταν ὁ ὀφθαλμός σου ἁπλοῦς ᾖ, καὶ ὅλον τὸ σῶμά σου φωτεινόν ἐστιν· ἐπὰν δὲ πονηρὸς ᾖ, καὶ τὸ σῶμά σου σκοτεινόν. σκόπει οὖν μὴ τὸ φῶς τὸ ἐν σοὶ σκότος ἐστίν. εἰ οὖν τὸ σῶμά σου ὅλον φωτεινόν, μὴ ἔχον ⸂μέρος τι⸃ σκοτεινόν, ἔσται φωτεινὸν ὅλον ὡς ὅταν ὁ λύχνος τῇ ἀστραπῇ φωτίζῃ σε.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

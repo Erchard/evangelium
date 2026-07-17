@@ -132,7 +132,7 @@ Study with Logia 63 and 110; test rich/renounce cluster.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Luke 12:16-21: `εἶπεν δὲ παραβολὴν πρὸς αὐτοὺς λέγων· Ἀνθρώπου τινὸς πλουσίου εὐφόρησεν ἡ χώρα. καὶ διελογίζετο ἐν ⸀ἑαυτῷ λέγων· Τί ποιήσω, ὅτι οὐκ ἔχω ποῦ συνάξω τοὺς καρπούς μου; καὶ εἶπεν· Τοῦτο ποιήσω· καθελῶ μου τὰς ἀποθήκας καὶ μείζονας οἰκοδομήσω, καὶ συνάξω ἐκεῖ πάντα ⸂τὸν σῖτον⸃ καὶ τὰ ἀγαθά μου, καὶ ἐρῶ τῇ ψυχῇ μου· Ψυχή, ἔχεις πολλὰ ἀγαθὰ κείμενα εἰς ἔτη πολλά· ἀναπαύου, φάγε, πίε, εὐφραίνου. εἶπεν δὲ αὐτῷ ὁ θεός· ⸀Ἄφρων, ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ⸀ἀπαιτοῦσιν ἀπὸ σοῦ· ἃ δὲ ἡτοίμασας, τίνι ἔσται; οὕτως ὁ θησαυρίζων ⸀ἑαυτῷ καὶ μὴ εἰς θεὸν πλουτῶν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

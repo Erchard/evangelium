@@ -135,8 +135,9 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Mark 3:31-35, Matthew 12:46-50, and Luke 8:19-21. This retroversion covers only the true-family core.
+- Mark 3:31-35: `⸂Καὶ ἔρχονται⸃ ⸂ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ⸃ καὶ ἔξω ⸀στήκοντες ἀπέστειλαν πρὸς αὐτὸν ⸀καλοῦντες αὐτόν. καὶ ἐκάθητο ⸂περὶ αὐτὸν ὄχλος⸃, ⸂καὶ λέγουσιν⸃ αὐτῷ· Ἰδοὺ ἡ μήτηρ σου καὶ οἱ ἀδελφοί ⸀σου ἔξω ζητοῦσίν σε. καὶ ⸂ἀποκριθεὶς αὐτοῖς λέγει⸃· Τίς ἐστιν ἡ μήτηρ μου ⸀ἢ οἱ ἀδελφοί ⸀μου; καὶ περιβλεψάμενος ⸂τοὺς περὶ αὐτὸν κύκλῳ⸃ καθημένους λέγει· Ἴδε ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· ὃς ⸀γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ θεοῦ, οὗτος ἀδελφός μου καὶ ⸀ἀδελφὴ καὶ μήτηρ ἐστίν.`
+- Matthew 12:46-50: `Ἔτι ⸀δὲ αὐτοῦ λαλοῦντος τοῖς ὄχλοις ἰδοὺ ἡ μήτηρ καὶ οἱ ἀδελφοὶ αὐτοῦ εἱστήκεισαν ἔξω ζητοῦντες αὐτῷ λαλῆσαι. ⸂εἶπεν δέ τις αὐτῷ· Ἰδοὺ ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἔξω ἑστήκασιν, ζητοῦντές σοι λαλῆσαι.⸃ ὁ δὲ ἀποκριθεὶς εἶπεν τῷ ⸀λέγοντι αὐτῷ· Τίς ἐστιν ἡ μήτηρ μου, καὶ τίνες εἰσὶν οἱ ἀδελφοί μου; καὶ ἐκτείνας τὴν χεῖρα αὐτοῦ ἐπὶ τοὺς μαθητὰς αὐτοῦ εἶπεν· Ἰδοὺ ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου· ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοῖς, αὐτός μου ἀδελφὸς καὶ ἀδελφὴ καὶ μήτηρ ἐστίν.`
+- Luke 8:19-21: `⸀Παρεγένετο δὲ πρὸς αὐτὸν ἡ μήτηρ καὶ οἱ ἀδελφοὶ αὐτοῦ, καὶ οὐκ ἠδύναντο συντυχεῖν αὐτῷ διὰ τὸν ὄχλον. ⸂ἀπηγγέλη δὲ⸃ ⸀αὐτῷ· Ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἑστήκασιν ἔξω ἰδεῖν ⸂σε θέλοντες⸃. ὁ δὲ ἀποκριθεὶς εἶπεν πρὸς αὐτούς· Μήτηρ μου καὶ ἀδελφοί μου οὗτοί εἰσιν οἱ τὸν λόγον τοῦ θεοῦ ἀκούοντες καὶ ⸀ποιοῦντες.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

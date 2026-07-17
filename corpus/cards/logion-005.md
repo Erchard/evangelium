@@ -172,7 +172,10 @@ Deepen hidden/revealed analysis if selected.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 4:22: `οὐ γάρ ἐστιν ⸀κρυπτὸν ἐὰν μὴ ⸀ἵνα φανερωθῇ, οὐδὲ ἐγένετο ἀπόκρυφον ἀλλʼ ἵνα ⸂ἔλθῃ εἰς φανερόν⸃.`
+- Matthew 10:26: `Μὴ οὖν φοβηθῆτε αὐτούς· οὐδὲν γάρ ἐστιν κεκαλυμμένον ὃ οὐκ ἀποκαλυφθήσεται, καὶ κρυπτὸν ὃ οὐ γνωσθήσεται.`
+- Luke 8:17: `οὐ γάρ ἐστιν κρυπτὸν ὃ οὐ φανερὸν γενήσεται, οὐδὲ ἀπόκρυφον ὃ οὐ ⸂μὴ γνωσθῇ⸃ καὶ εἰς φανερὸν ἔλθῃ.`
+- Luke 12:2: `οὐδὲν δὲ συγκεκαλυμμένον ἐστὶν ὃ οὐκ ἀποκαλυφθήσεται, καὶ κρυπτὸν ὃ οὐ γνωσθήσεται.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

@@ -124,7 +124,9 @@ High candidate: deepen blasphemy-Spirit synoptic controls.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Mark 3:28-29: `Ἀμὴν λέγω ὑμῖν ὅτι πάντα ἀφεθήσεται ⸂τοῖς υἱοῖς τῶν ἀνθρώπων, τὰ ἁμαρτήματα⸃ καὶ ⸂αἱ βλασφημίαι ὅσα ἐὰν⸃ βλασφημήσωσιν· ὃς δʼ ἂν βλασφημήσῃ εἰς τὸ πνεῦμα τὸ ἅγιον, οὐκ ἔχει ἄφεσιν εἰς τὸν αἰῶνα, ἀλλὰ ἔνοχός ἐστιν αἰωνίου ⸀ἁμαρτήματος.`
+- Matthew 12:31-32: `διὰ τοῦτο λέγω ὑμῖν, πᾶσα ἁμαρτία καὶ βλασφημία ἀφεθήσεται τοῖς ἀνθρώποις, ἡ δὲ τοῦ πνεύματος βλασφημία οὐκ ⸀ἀφεθήσεται. καὶ ὃς ἐὰν εἴπῃ λόγον κατὰ τοῦ υἱοῦ τοῦ ἀνθρώπου, ἀφεθήσεται αὐτῷ· ὃς δʼ ἂν εἴπῃ κατὰ τοῦ πνεύματος τοῦ ἁγίου, οὐκ ἀφεθήσεται αὐτῷ οὔτε ἐν ⸂τούτῳ τῷ⸃ αἰῶνι οὔτε ἐν τῷ μέλλοντι.`
+- Luke 12:10: `καὶ πᾶς ὃς ἐρεῖ λόγον εἰς τὸν υἱὸν τοῦ ἀνθρώπου, ἀφεθήσεται αὐτῷ τῷ δὲ εἰς τὸ ἅγιον πνεῦμα βλασφημήσαντι οὐκ ἀφεθήσεται.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

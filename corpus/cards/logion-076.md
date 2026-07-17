@@ -123,7 +123,9 @@ Controlled reader pass: keep pearl and imperishable-treasure cores appendix-only
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Matthew 13:45-46: `Πάλιν ὁμοία ἐστὶν ἡ βασιλεία τῶν οὐρανῶν ⸀ἀνθρώπῳ ἐμπόρῳ ζητοῦντι καλοὺς μαργαρίτας· ⸂εὑρὼν δὲ⸃ ἕνα πολύτιμον μαργαρίτην ἀπελθὼν πέπρακεν πάντα ὅσα εἶχεν καὶ ἠγόρασεν αὐτόν.`
+- Matthew 6:19-20: `Μὴ θησαυρίζετε ὑμῖν θησαυροὺς ἐπὶ τῆς γῆς, ὅπου σὴς καὶ βρῶσις ἀφανίζει, καὶ ὅπου κλέπται διορύσσουσιν καὶ κλέπτουσιν· θησαυρίζετε δὲ ὑμῖν θησαυροὺς ἐν οὐρανῷ, ὅπου οὔτε σὴς οὔτε βρῶσις ἀφανίζει, καὶ ὅπου κλέπται οὐ διορύσσουσιν οὐδὲ κλέπτουσιν·`
+- Luke 12:33: `πωλήσατε τὰ ὑπάρχοντα ὑμῶν καὶ δότε ἐλεημοσύνην· ποιήσατε ἑαυτοῖς βαλλάντια μὴ παλαιούμενα, θησαυρὸν ἀνέκλειπτον ἐν τοῖς οὐρανοῖς, ὅπου κλέπτης οὐκ ἐγγίζει οὐδὲ σὴς διαφθείρει·`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

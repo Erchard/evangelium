@@ -38,6 +38,7 @@ The current clean reconstructed reader covers 34 logia or marked cores.
 - Logion 2 remains the methodological gold-standard card.
 - All 114 logion cards now contain `Gold-level status check v0.2`; see `../../corpus/cards/card-quality-audit-v0.2.md`.
 - All 114 logion cards now contain `Five-source original-language apparatus v0.1`; see `../../corpus/cards/five-source-apparatus-audit-v0.1.md`.
+- Canonical Greek controls from the local SBLGNT cache have been inserted into 81 logion cards; see `../../corpus/cards/canonical-greek-extraction-audit-v0.1.md`.
 - The Ukrainian reader text is now a clean numbered text; technical cautions, markers, and explanations belong in `reconstructed-gospel-uk-apparatus.md` and `reader-commentary-uk.md`.
 - English, Coptic, Greek, and parallel layers are synchronized for the current 34-unit reader.
 - The Greek layer is controlled by `greek-retroversion-confidence-audit-v0.1.md`; hypothetical retroversions must not be treated as manuscript witnesses.

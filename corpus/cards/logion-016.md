@@ -173,8 +173,9 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Matthew 10:34-36 and Luke 12:51-53. Fire/sword/war and monachos material are excluded from this reader-core retroversion.
+- Matthew 10:34-36: `Μὴ νομίσητε ὅτι ἦλθον βαλεῖν εἰρήνην ἐπὶ τὴν γῆν· οὐκ ἦλθον βαλεῖν εἰρήνην ἀλλὰ μάχαιραν. ἦλθον γὰρ διχάσαι ἄνθρωπον κατὰ τοῦ πατρὸς αὐτοῦ καὶ θυγατέρα κατὰ τῆς μητρὸς αὐτῆς καὶ νύμφην κατὰ τῆς πενθερᾶς αὐτῆς, καὶ ἐχθροὶ τοῦ ἀνθρώπου οἱ οἰκιακοὶ αὐτοῦ.`
+- Luke 12:51-53: `δοκεῖτε ὅτι εἰρήνην παρεγενόμην δοῦναι ἐν τῇ γῇ; οὐχί, λέγω ὑμῖν, ἀλλʼ ἢ διαμερισμόν. ἔσονται γὰρ ἀπὸ τοῦ νῦν πέντε ἐν ⸂ἑνὶ οἴκῳ⸃ διαμεμερισμένοι, τρεῖς ἐπὶ δυσὶν καὶ δύο ἐπὶ τρισίν, ⸀διαμερισθήσονται πατὴρ ἐπὶ υἱῷ καὶ υἱὸς ἐπὶ πατρί, μήτηρ ⸀ἐπὶ ⸀θυγατέρα καὶ θυγάτηρ ἐπὶ ⸂τὴν μητέρα⸃, πενθερὰ ἐπὶ τὴν νύμφην αὐτῆς καὶ νύμφη ἐπὶ τὴν ⸀πενθεράν.`
+- Luke 12:52-53: `ἔσονται γὰρ ἀπὸ τοῦ νῦν πέντε ἐν ⸂ἑνὶ οἴκῳ⸃ διαμεμερισμένοι, τρεῖς ἐπὶ δυσὶν καὶ δύο ἐπὶ τρισίν, ⸀διαμερισθήσονται πατὴρ ἐπὶ υἱῷ καὶ υἱὸς ἐπὶ πατρί, μήτηρ ⸀ἐπὶ ⸀θυγατέρα καὶ θυγάτηρ ἐπὶ ⸂τὴν μητέρα⸃, πενθερὰ ἐπὶ τὴν νύμφην αὐτῆς καὶ νύμφη ἐπὶ τὴν ⸀πενθεράν.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

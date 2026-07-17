@@ -131,7 +131,7 @@ Study violent-kingdom and strong-man motifs; likely apparatus only.
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Luke 14:31-32: `ἢ τίς βασιλεὺς πορευόμενος ⸂ἑτέρῳ βασιλεῖ συμβαλεῖν⸃ εἰς πόλεμον οὐχὶ καθίσας πρῶτον ⸀βουλεύσεται εἰ δυνατός ἐστιν ἐν δέκα χιλιάσιν ⸀ὑπαντῆσαι τῷ μετὰ εἴκοσι χιλιάδων ἐρχομένῳ ἐπʼ αὐτόν; εἰ δὲ μήγε, ἔτι ⸂αὐτοῦ πόρρω⸃ ὄντος πρεσβείαν ἀποστείλας ἐρωτᾷ ⸀τὰ πρὸς εἰρήνην.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2

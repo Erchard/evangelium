@@ -134,8 +134,8 @@ Greek retroversion from Coptic/control layer:
 - Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
 
 Local Greek canonical/control text currently transcribed:
-- Greek canonical text has not yet been transcribed into the local control files for this logion.
-- Reconstruction note from current Greek layer: Coptic Thomas plus Matthew 18:12-14 and Luke 15:3-7. The "largest sheep" and "I love you more" elements are excluded from this reader-core retroversion.
+- Matthew 18:12-14: `τί ὑμῖν δοκεῖ; ἐὰν γένηταί τινι ἀνθρώπῳ ἑκατὸν πρόβατα καὶ πλανηθῇ ἓν ἐξ αὐτῶν, οὐχὶ ⸀ἀφήσει τὰ ἐνενήκοντα ἐννέα ἐπὶ τὰ ὄρη ⸀καὶ πορευθεὶς ζητεῖ τὸ πλανώμενον; καὶ ἐὰν γένηται εὑρεῖν αὐτό, ἀμὴν λέγω ὑμῖν ὅτι χαίρει ἐπʼ αὐτῷ μᾶλλον ἢ ἐπὶ τοῖς ἐνενήκοντα ἐννέα τοῖς μὴ πεπλανημένοις. οὕτως οὐκ ἔστιν θέλημα ⸀ἔμπροσθεν τοῦ πατρὸς ⸀ὑμῶν τοῦ ἐν οὐρανοῖς ἵνα ἀπόληται ⸀ἓν τῶν μικρῶν τούτων.`
+- Luke 15:3-7: `εἶπεν δὲ πρὸς αὐτοὺς τὴν παραβολὴν ταύτην λέγων· Τίς ἄνθρωπος ἐξ ὑμῶν ἔχων ἑκατὸν πρόβατα καὶ ⸀ἀπολέσας ⸂ἐξ αὐτῶν ἓν⸃ οὐ καταλείπει τὰ ἐνενήκοντα ἐννέα ἐν τῇ ἐρήμῳ καὶ πορεύεται ἐπὶ τὸ ἀπολωλὸς ἕως εὕρῃ αὐτό; καὶ εὑρὼν ἐπιτίθησιν ἐπὶ τοὺς ὤμους ⸀αὐτοῦ χαίρων, καὶ ἐλθὼν εἰς τὸν οἶκον συγκαλεῖ τοὺς φίλους καὶ τοὺς γείτονας, λέγων αὐτοῖς· Συγχάρητέ μοι ὅτι εὗρον τὸ πρόβατόν μου τὸ ἀπολωλός. λέγω ὑμῖν ὅτι οὕτως χαρὰ ⸂ἐν τῷ οὐρανῷ ἔσται⸃ ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι ἢ ἐπὶ ἐνενήκοντα ἐννέα δικαίοις οἵτινες οὐ χρείαν ἔχουσιν μετανοίας.`
 - Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2
