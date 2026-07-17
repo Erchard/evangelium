@@ -1,0 +1,273 @@
+# Greek Witnesses
+
+Status: working text v0.3. This file distinguishes extant Greek witnesses from explicitly marked hypothetical Greek retroversions. Retroversions are not manuscript witnesses.
+
+## Logion 1
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Witness: P.Oxy. 654, lines 3-5, from `02_Sources_And_Manuscripts/primary_texts/greek_poxy/poxy654-transcription-working.md`.
+
+> καὶ Θωμᾶ⟨ς⟩ καὶ εἶπεν· [ὅστις ἂν τὴν ἑρμηνεί]αν τῶν λόγων τούτ[ων εὑρίσκῃ, θανάτου] οὐ μὴ γεύσηται.
+
+Textual note: the core wording of Logion 1 is mostly reconstructed in lacunae.
+
+## Logion 2
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Witness: P.Oxy. 654, lines 5-9, from `02_Sources_And_Manuscripts/primary_texts/greek_poxy/poxy654-transcription-working.md`.
+
+> [λέγει Ἰησοῦς·] μὴ παυσάσθω ὁ ζη[τῶν τοῦ ζητεῖν ἕως ἂν] εὕρη, καὶ ὅταν εὕρῃ [θαμβηθήσεται καὶ θαμ]βηθεὶς βασιλεύσει κα[ὶ βασιλεύσας ἀναπα]ήσεται.
+
+Textual note: square brackets mark reconstructed lost text in the Greek papyrus tradition. The final `ἀναπα]ήσεται` is reconstructed and differs from the Coptic ending "will reign over the All."
+
+## Logion 3
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Witness: P.Oxy. 654, lines 9-21, from `02_Sources_And_Manuscripts/primary_texts/greek_poxy/poxy654-transcription-working.md`.
+
+> λέγει Ἰ[ησοῦς]· [ἐὰν] οἱ ἕλκοντες ὑμᾶς [εἴπωσιν ὑμῖν· ἰδοὺ] ἡ βασιλεία ἐν οὐρα[νῷ, ὑμᾶς φθήσεται] τὰ πετεινὰ τοῦ οὐρ[ανοῦ. ἐὰν δ’ εἴπωσιν ὅ]τι ὑπὸ τὴν γήν ἐστ[ιν, εἰσελεύσονται] οἱ ἰχθύες τῆς θαλά[σσης] [προφθάσαν]τες ὑμᾶς· καὶ ἡ βασ[ιλεία τοῦ θεοῦ] ἐντὸς ὑμῶν [ἐστι κἀκτός·] [ὃς ἂν ἑαυτὸν] γνῷ, ταύτην εὑρή[σει...]
+
+Textual note: the kingdom designation has major variants: God, Father, or heaven. The self-knowledge continuation is preserved with substantial reconstruction.
+
+## Logion 4
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Witness: P.Oxy. 654, lines 22-27, from `02_Sources_And_Manuscripts/primary_texts/greek_poxy/poxy654-transcription-working.md`.
+
+> οὐκ ἀποκνήσει ἄνθ[ρωπος] [πλήρης ἡμερῶν] ἐπερωτῆσαι πα[ιδίον] [ἑπτὰ] [ἡμερῶν] περὶ τοῦ τόπου τῆ?ς [ζωῆς, καὶ ζή]σεται· ⟨ὃτι⟩ πολλοὶ ἔσονται π?[ρῶτοι ἔσχατοι, καὶ] οἱ ἔσχατοι πρῶτοι, καὶ [εἰς ἓν καταντήσου]σιν.
+
+Textual note: the final phrase has a variant reconstruction, including Fitzmyer's "will have eternal life."
+
+## Logion 5
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Witness: P.Oxy. 654, lines 27-31, from `02_Sources_And_Manuscripts/primary_texts/greek_poxy/poxy654-transcription-working.md`.
+
+> λέγει Ἰησοῦς· γ[νῶθι τὸ ὃν ἔμπροσ]θεν τῆς ὄψεώς σου, καὶ [τὸ] [κεκαλυμμένον] ἀπό σου ἀποκαλυφ⟨θ⟩ήσετ[αί] [σοι· οὐ γάρ ἐσ]τιν κρυπτὸν ὃ οὐ φαν[ερὸν γενήσεται,] καὶ τεθαμμένον ὃ ο[ὐκ ἐγερθήσεται.]
+
+Textual note: line 28 has the important `κεκαλυμμένον` / `κεκρυμμένον` variant.
+
+## Logion 6
+
+Decision: ethical core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: P.Oxy. 654, lacunose/reconstructed for the ethical core.
+
+> [μὴ ψεύδεσθε καὶ ὃ] [τι μισ]εῖτε μὴ ποιεῖτ?[ε]
+
+Basis: P.Oxy. 654 lines 36-37 as represented in `poxy654-transcription-working.md`. The ethical core is important, but much of the Greek phrase is supplied in lacunae.
+
+## Logion 9
+
+Decision: sower core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> ἐξῆλθεν ὁ σπείρων σπεῖραι. ἄλλα μὲν ἔπεσεν παρὰ τὴν ὁδόν, ἄλλα ἐπὶ τὴν πέτραν, ἄλλα ἐπὶ τὰς ἀκάνθας, ἄλλα ἐπὶ τὴν γῆν τὴν καλὴν· μόνον ἡ γῆ ἡ καλὴ ἐποίησεν καρπόν.
+
+Basis: Coptic Thomas plus Mark/Matthew/Luke sower controls. This is a reconstruction of the reader core, not an extant Thomas Greek witness.
+
+## Logion 10
+
+Decision: fire-casting core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> πῦρ ἔβαλον ἐπὶ τὸν κόσμον.
+
+Basis: Coptic Thomas and Luke 12:49. The Coptic "world" differs from Luke's "earth/land"; this retroversion preserves the Thomas wording.
+
+## Logion 16
+
+Decision: division/household core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> οὐκ ἦλθον βαλεῖν εἰρήνην, ἀλλὰ διαμερισμόν· οἶκος διαμερισθήσεται.
+
+Basis: Coptic Thomas plus Matthew 10:34-36 and Luke 12:51-53. Fire/sword/war and monachos material are excluded from this reader-core retroversion.
+
+## Logion 20
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium-high.
+
+> ἡ βασιλεία τῶν οὐρανῶν ὁμοία ἐστὶν κόκκῳ σινάπεως· μικρόν ἐστιν παρὰ πάντα τὰ σπέρματα, ὅταν δὲ πέσῃ ἐπὶ τὴν γῆν τὴν ἐργαζομένην, ποιεῖ κλάδον μέγαν καὶ γίνεται σκέπη τοῖς πετεινοῖς τοῦ οὐρανοῦ.
+
+Basis: Coptic Thomas plus Mark 4:30-32, Matthew 13:31-32, and Luke 13:18-19. Not an extant Greek Thomas witness.
+
+## Logion 22
+
+Decision: children/kingdom core `INCLUDE_WITH_MARKER`; unity expansion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> τὰ παιδία τὰ θηλάζοντα ὅμοιά εἰσιν τοῖς εἰσερχομένοις εἰς τὴν βασιλείαν.
+
+Basis: Coptic Thomas plus children/kingdom controls in Mark, Matthew, and Luke. This retroversion covers only the reader core, not the unity-of-opposites expansion.
+
+## Logion 25
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> ἀγάπα τὸν ἀδελφόν σου ὡς τὴν ψυχήν σου· φύλαξον αὐτὸν ὡς κόρην τοῦ ὀφθαλμοῦ σου.
+
+Basis: Coptic Thomas plus Leviticus 19:18 and synoptic love-command controls. "Brother" is preserved as Thomas's narrower wording.
+
+## Logion 26
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: partial extant Greek witness, P.Oxy. 1.
+
+> καὶ τότε διαβλέψεις / ἐκβαλεῖν τὸ κάρφος / τὸ ἐν τῷ ὀφθαλμῷ / τοῦ ἀδελφοῦ σου
+
+Textual note: P.Oxy. 1 preserves the final clause only. The opening speck/beam contrast in the reader is supported by Coptic Thomas and Matthew/Luke controls; it is not fully extant in P.Oxy. 1.
+
+## Logion 31
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: extant Greek witness, P.Oxy. 1.
+
+> οὐκ ἔστιν δεκτὸς προφήτης ἐν τῇ πατρίδι αὐτοῦ οὐδὲ ἰατρὸς ποιεῖ θεραπείας εἰς τοὺς γινώσκοντας αὐτόν
+
+Textual note: P.Oxy. 1 strongly supports both prophet and physician clauses. The physician clause remains less independently controlled outside Thomas.
+
+## Logion 32
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: extant Greek witness, P.Oxy. 1.
+
+> πόλις ᾠκοδομημένη ἐπ’ ἄκρον ὄρους ὑψηλοῦ καὶ ἐστηριγμένη οὔτε πεσεῖν δύναται οὔτε κρυβῆναι
+
+Textual note: P.Oxy. 1 supports the fuller Thomas form with built/established and cannot-fall/cannot-be-hidden language.
+
+## Logion 33
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: P.Oxy. 1 preserves only the opening; lamp unit is `Greek retroversion, hypothetical`.
+
+Extant opening:
+
+> ἀκούεις ... τὸ ... ὠτίον σου ...
+
+Hypothetical lamp-unit retroversion:
+
+> οὐδεὶς λύχνον ἅψας τίθησιν αὐτὸν ὑπὸ τὸν μόδιον οὐδὲ εἰς κρυπτόν, ἀλλ᾽ ἐπὶ τὴν λυχνίαν, ἵνα πάντες ἴδωσιν τὸ φῶς.
+
+Textual note: the ear/rooftop unit has partial P.Oxy. 1 support. The lamp unit is controlled by Coptic Thomas and synoptic lamp traditions, but no extant Greek Thomas witness preserves it in P.Oxy. 1.
+
+## Logion 34
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium-high.
+
+> ἐὰν τυφλὸς τυφλὸν ὁδηγῇ, ἀμφότεροι εἰς βόθυνον πεσοῦνται.
+
+Basis: Coptic Thomas plus Matthew 15:14 and Luke 6:39. Not an extant Greek Thomas witness.
+
+## Logion 35
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> οὐ δύναταί τις εἰσελθεῖν εἰς τὴν οἰκίαν τοῦ ἰσχυροῦ καὶ λαβεῖν τὰ σκεύη αὐτοῦ, ἐὰν μὴ πρῶτον δήσῃ τὰς χεῖρας αὐτοῦ· τότε τὴν οἰκίαν αὐτοῦ διαρπάσει.
+
+Basis: Coptic Thomas plus Mark 3:27 and Matthew 12:29. Not an extant Greek Thomas witness.
+
+## Logion 36
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: extant but heavily restored Greek witness, P.Oxy. 655.
+
+> [μὴ μεριμνᾶτε] ἀπὸ πρωΐας ἕως ἑσπέρας [μηδὲ] ἀπὸ ἑσπέρας ἕως πρωΐας ... [τί φάγητε] ... [ἢ τί ἐνδύσησθε]
+
+Textual note: P.Oxy. 655 preserves a broader and heavily restored anti-anxiety complex. The clean reader follows the shorter Coptic clothing-focused form.
+
+## Logion 39
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: extant but heavily restored Greek witness, P.Oxy. 655.
+
+> [οἱ Φαρισαῖοι] καὶ οἱ γραμματεῖς ἔλ[αβον τὰς κλεῖδας] τῆς [γνώσεως] ... οὔτε εἰσῆ[λθον] ... ὑμεῖς δὲ γίν[εσθε φρόνι]μοι ὡς [ὄφεις] καὶ ἀκέραιοι ὡς [περιστεραί]
+
+Textual note: P.Oxy. 655 supports the key-of-knowledge and serpents/doves material, but the text is heavily supplied. The reader treats Thomas 39 as a composite of two marked units.
+
+## Logion 41
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> ὁ ἔχων ἐν τῇ χειρὶ αὐτοῦ δοθήσεται αὐτῷ· καὶ ὁ μὴ ἔχων, καὶ τὸ μικρὸν ὃ ἔχει ἀρθήσεται ἀπʼ αὐτοῦ.
+
+Basis: Coptic wording plus strong formulaic controls in Mark 4:25, Matthew 13:12, Matthew 25:29, Luke 8:18, and Luke 19:26. The phrase `ἐν τῇ χειρὶ αὐτοῦ` is a cautious rendering of the Coptic "in his hand" and is not extant Greek Thomas.
+
+## Logion 54
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium-high.
+
+> μακάριοι οἱ πτωχοί, ὅτι ὑμετέρα ἐστὶν ἡ βασιλεία τῶν οὐρανῶν.
+
+Basis: Coptic text plus Luke 6:20 and Matthew 5:3. The retroversion intentionally preserves Thomas's combination of direct "poor" with "kingdom of heaven." It is not an extant Greek witness.
+
+## Logion 72
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: low-medium.
+
+> εἶπέν τις αὐτῷ· εἰπὲ τοῖς ἀδελφοῖς μου ἵνα μερίσωνται μετʼ ἐμοῦ τὰ τοῦ πατρός μου. εἶπεν αὐτῷ· ἄνθρωπε, τίς με κατέστησεν μεριστήν; καὶ στραφεὶς πρὸς τοὺς μαθητὰς αὐτοῦ εἶπεν αὐτοῖς· μήτι εἰμὶ μεριστής;
+
+Basis: Coptic text plus Luke 12:13-14. Risk: elevated Luke-dependence risk, since Luke is the only strong external control. The retroversion is a working Greek back-translation, not an independent witness.
+
+## Logion 73
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium-high.
+
+> ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι· δεήθητε δὲ τοῦ κυρίου ἵνα ἐκβάλῃ ἐργάτας εἰς τὸν θερισμόν.
+
+Basis: Coptic text plus strong controls in Matthew 9:37-38 and Luke 10:2. The wording is formulaic and very likely Greek in circulation, but this is still not an extant Greek Thomas witness.

@@ -1,0 +1,48 @@
+# Logion 114
+
+Статус: первинна корпусна картка v0.1.
+
+## Текст
+
+### Коптський текст
+
+Джерело: `02_Sources_And_Manuscripts/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> 114 ⲡⲉϫⲉ ⲥⲓⲙⲱⲛ ⲡⲉⲧⲣⲟⲥ ⲛⲁⲩ ϫⲉ ⲙⲁⲣⲉ ⲙⲁⲣⲓϩⲁⲙ ⲉⲓ ⲉⲃⲟⲗ ⲛ̅ϩⲏⲧⲛ̅ ϫⲉ ⲛ̅ⲥϩⲓⲟⲙⲉ ⲙ̅ⲡϣⲁ ⲁⲛ` ⲙ̅ⲡⲱⲛϩ ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲉⲓⲥϩⲏⲏⲧⲉ ⲁⲛⲟⲕ` ϯⲛⲁⲥⲱⲕ` ⲙ̅ⲙⲟⲥ ϫⲉⲕⲁⲁⲥ ⲉⲉⲓⲛⲁⲁⲥ ⲛ̅ϩⲟⲟⲩⲧ` ϣⲓⲛⲁ ⲉⲥⲛⲁϣⲱⲡⲉ ϩⲱⲱⲥ ⲛ̅ⲟⲩⲡⲛ̅ⲁ̅ ⲉϥⲟⲛϩ ⲉϥⲉⲓⲛⲉ ⲙ̅ⲙⲱⲧⲛ̅ ⲛ̅ϩⲟⲟⲩⲧ ϫⲉ ⲥϩⲓⲙⲉ ⲛⲓⲙ` ⲉⲥⲛⲁⲁⲥ ⲛ̅ϩⲟⲟⲩⲧ` ⲥⲛⲁⲃⲱⲕ` ⲉϩⲟⲩⲛ ⲉⲧⲙⲛ̅ⲧⲉⲣⲟ ⲛⲙ̅ⲡⲏⲩⲉ
+
+### Грецький свідок
+
+No extant Greek in loaded witnesses.
+
+### Greek retroversion, hypothetical
+
+Not attempted. The saying is likely late/redactional and should not receive a reconstructed Greek layer unless needed for a dossier note.
+
+### Буквальний український переклад
+
+Симон Петро сказав їм: нехай Марія вийде з-поміж нас, бо жінки не гідні життя. Ісус сказав: ось, я сам поведу її, щоб зробити її чоловіком, щоб вона також стала живим духом, подібним до вас, чоловіків. Бо кожна жінка, яка зробить себе чоловіком, увійде в царство небес.
+
+### Робочий український переклад
+
+Симон Петро сказав: нехай Марія залишить нас, бо жінки не гідні життя. Ісус відповів: я поведу її, щоб зробити її чоловіком, аби вона стала живим духом, подібним до вас. Бо кожна жінка, яка зробить себе чоловіком, увійде в царство небес.
+
+### Робочий англійський переклад
+
+Simon Peter said to them, "Let Mary leave us, for women are not worthy of life." Jesus said, "Look, I will lead her so that I may make her male, so that she too may become a living spirit resembling you males. For every woman who makes herself male will enter the kingdom of heaven."
+
+## Попередні паралелі
+
+| Джерело | Місце | Нотатка |
+| --- | --- | --- |
+| Фома | 22 | Чоловіче/жіноче і unity transformation; внутрішній контроль. |
+| Фома | 13 | Петро/Фома/авторитет учня; broad authority cluster. |
+
+## Аналіз
+
+Фінальна логія має очевидну редакційну й спільнотну рамку: Петро, Марія, гідність жінок, перетворення на "чоловіка", доступ до царства. Вона важлива для історії рецепції Фоми, але майже напевно не належить до найдавнішого реконструйованого sayings core.
+
+## Попередній статус
+
+Рішення: `EXCLUDE_AS_SECONDARY`.
+
+Наступна дія: keep in evidence dossier as an exclusion example and explain carefully without polemical simplification.
