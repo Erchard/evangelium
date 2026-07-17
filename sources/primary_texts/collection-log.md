@@ -1,5 +1,27 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, five-source original-language card apparatus v0.1
+
+### Що додано
+
+- `project/ide-codex-five-source-card-apparatus-v0.1-prompt.md` - промпт виконаного проходу пʼятиджерельного апарату.
+- `corpus/cards/five-source-apparatus-audit-v0.1.md` - аудит нового шару в картках.
+
+### Що оновлено
+
+- Усі 114 файлів `corpus/cards/logion-XXX.md` отримали блок `## Five-source original-language apparatus v0.1`.
+- У кожній картці прямо показано пʼять каналів: P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, коптський NHC II і canonical Greek control.
+- Старе формулювання для `No loaded P.Oxy. witness` виправлено: тепер воно не виглядає як наявний папірусний witness.
+- README, project map, roadmap, publication gap audit, reconstruction README і source register оновлено.
+
+### Методологічне рішення
+
+Відсутність джерела тепер має бути видимою. Якщо папірус не зберігає логію, картка прямо пише `[not preserved in P.Oxy. X]`. Якщо XML-покриття є, але card-ready Greek extract ще не зроблено, картка прямо пише `pending local line extraction`.
+
+### Наступна дія
+
+Canonical Greek and pending P.Oxy. extraction pass.
+
 ## 2026-07-17, gold-level card quality normalization v0.2
 
 ### Що додано

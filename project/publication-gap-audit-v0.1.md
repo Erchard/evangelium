@@ -22,6 +22,7 @@
 | Final all-114 decision audit | Є, v0.1 |
 | Full 114-logion appendix | Є для всіх 114 як каркас; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку |
 | Card quality audit | Є, актуальний файл `corpus/cards/card-quality-audit-v0.2.md` |
+| Five-source card apparatus | Є, актуальний файл `corpus/cards/five-source-apparatus-audit-v0.1.md` |
 | Collection log | Є |
 
 ## Головні прогалини
@@ -67,7 +68,17 @@
 
 Усі planned high-candidate packages A/B/C тепер мають evidence notes і control files.
 
-### 2. Evidence notes and control files are uneven
+### 2. Source text visibility is improved, but canonical Greek is still uneven
+
+Усі 114 карток тепер мають `Five-source original-language apparatus v0.1`, тобто P.Oxy. 1 / 654 / 655, коптський NHC II і canonical Greek control channel видимі прямо в картці.
+
+Проблема: canonical Greek text локально виписаний тільки частково. Картки тепер показують цю прогалину явно. Наступний source-critical крок:
+
+- системно витягнути грецькі паралелі Матвія, Марка і Луки;
+- завершити pending card-level extraction з P.Oxy. 1 і P.Oxy. 655 XML;
+- після цього оновити картки, щоб canonical channel містив реальний грецький текст, а не лише статус прогалини.
+
+### 3. Evidence notes and control files are uneven
 
 Картки є для всіх 114 логій і всі мають gold-level status check v0.2, але evidence depth нерівний. За поточною workflow matrix 55 логій мають окремий evidence note, 59 ще потребують або note, або явного no-note rationale.
 
@@ -78,7 +89,7 @@
 - створити synoptic/control files для сильних синоптичних паралелей;
 - не вимагати однакової глибини для явно deferred/secondary логій, але пояснювати їх у додатку.
 
-### 3. Full appendix is partially expanded, but not finished
+### 4. Full appendix is partially expanded, but not finished
 
 Файл `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` уже дуже корисний, але це ще не фінальний коментар.
 
@@ -100,7 +111,7 @@
 - непевності;
 - причина включення або невключення.
 
-### 4. Greek retroversion confidence needs final publication polish
+### 5. Greek retroversion confidence needs final publication polish
 
 Проект правильно маркує `Greek retroversion, hypothetical`, і створено `reconstruction/earliest-sayings-gospel/greek-retroversion-confidence-audit-v0.1.md`. Перед публікацією ще потрібно:
 
@@ -108,7 +119,7 @@
 - вирівняти confidence labels;
 - не допустити, щоб ретроверсії виглядали як рукописні свідки.
 
-### 5. Evidence dossier is useful, but not final
+### 6. Evidence dossier is useful, but not final
 
 `evidence-dossier-en.md` уже має сильний каркас, але потребує publication pass:
 
@@ -119,7 +130,7 @@
 - rights/citation notes;
 - explicit uncertainty model.
 
-### 6. Inclusion decisions table is not yet the final control table
+### 7. Inclusion decisions table is not yet the final control table
 
 Потрібна фінальна таблиця для всіх 114 логій або підодиниць:
 
@@ -133,7 +144,7 @@
 
 Final all-114 decision audit v0.1 уже створено. Він показав, що `inclusion-decisions-table.md` корисний, але не є справжньою фінальною all-114 publication table: частина deferred/low-priority логій не має окремих decision rows, а деякі старі класифікаційні документи історично застаріли.
 
-### 7. Reader-facing explanation is still missing
+### 8. Reader-facing explanation is still missing
 
 Потрібен український вступ, який пояснить:
 

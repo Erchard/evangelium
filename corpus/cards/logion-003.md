@@ -130,9 +130,52 @@ Deepen kingdom/self-knowledge analysis.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
+## Five-source original-language apparatus v0.1
+
+Цей блок фіксує пʼять джерельних каналів для реконструкції мовою оригіналу. Він не замінює аналіз, але робить видимим, що саме є рукописним свідком, що є перекладом, а що є реконструкційним або канонічним контролем.
+
+### 1. P.Oxy. 1 Greek witness
+
+- Status: no P.Oxy. 1 witness for this logion in the loaded corpus.
+
+> [not preserved in P.Oxy. 1]
+
+- Use: no direct support from this papyrus.
+
+### 2. P.Oxy. 654 Greek witness
+
+- Status: extant/lacunose P.Oxy. 654 witness for this logion.
+
+> λέγει Ἰ[ησοῦς]· [ἐὰν] οἱ ἕλκοντες ὑμᾶς [εἴπωσιν ὑμῖν· ἰδοὺ] ἡ βασιλεία ἐν οὐρα[νῷ, ὑμᾶς φθήσεται] τὰ πετεινὰ τοῦ οὐρ[ανοῦ. ἐὰν δ’ εἴπωσιν ὅ]τι ὑπὸ τὴν γήν ἐστ[ιν, εἰσελεύσονται] οἱ ἰχθύες τῆς θαλά[σσης] [προφθάσαν]τες ὑμᾶς· καὶ ἡ βασ[ιλεία τοῦ θεοῦ] ἐντὸς ὑμῶν [ἐστι κἀκτός·] [ὃς ἂν ἑαυτὸν] γνῷ, ταύτην εὑρή[σει...]
+
+- Use: direct Greek manuscript control; square brackets mark supplied lost text in the working transcription.
+
+### 3. P.Oxy. 655 Greek witness
+
+- Status: no P.Oxy. 655 witness for this logion in the loaded corpus.
+
+> [not preserved in P.Oxy. 655]
+
+- Use: no direct support from this papyrus.
+
+### 4. Coptic NHC II translation channel
+
+- Status: extant Coptic NHC II,2 witness; this is the complete preserved Coptic line used as the base witness.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲉⲩϣⲁϫⲟⲟⲥ ⲛⲏⲧⲛ̅ ⲛ̅ϭⲓ ⲛⲉⲧ`ⲥⲱⲕ ϩⲏⲧ` ⲧⲏⲩⲧⲛ̅ ϫⲉ ⲉⲓⲥϩⲏⲏⲧⲉ ⲉⲧ`ⲙⲛ̅ⲧⲉⲣⲟ ϩⲛ̅ ⲧⲡⲉ ⲉⲉⲓⲉ ⲛ̅ϩⲁⲗⲏⲧ` ⲛⲁⲣ̅ ϣⲟⲣⲡ` ⲉⲣⲱⲧⲛ̅ ⲛ̅ⲧⲉ ⲧⲡⲉ ⲉⲩϣⲁⲛϫⲟⲟⲥ ⲛⲏⲧⲛ̅ ϫⲉ ⲥϩⲛ̅ ⲑⲁⲗⲁⲥⲥⲁ ⲉⲉⲓⲉ ⲛ̅ⲧⲃⲧ` ⲛⲁⲣ̅ ϣⲟⲣⲡ` ⲉⲣⲱⲧⲛ̅ ⲁⲗⲗⲁ ⲧⲙⲛ̅ⲧⲉⲣⲟ ⲥⲙ̅ⲡⲉⲧⲛ̅ϩⲟⲩⲛ` ⲁⲩⲱ ⲥⲙ̅ⲡⲉⲧⲛ̅ⲃⲁⲗ` ϩⲟⲧⲁⲛ ⲉⲧⲉⲧⲛ̅ϣⲁⲛⲥⲟⲩⲱⲛ ⲧⲏⲩⲧⲛ̅ ⲧⲟⲧⲉ ⲥⲉⲛⲁⲥⲟⲩⲱ_ ⲧⲏⲛⲉ ⲁⲩⲱ ⲧⲉⲧⲛⲁⲉⲓⲙⲉ ϫⲉ ⲛ̅ⲧⲱⲧⲛ̅ ⲡⲉ ⲛ̅ϣⲏⲣⲉ ⲙ̅ⲡⲉⲓⲱⲧ` ⲉⲧⲟⲛϩ ⲉϣⲱⲡⲉ ⲇⲉ ⲧⲉⲧⲛⲁⲥⲟⲩⲱⲛ ⲧⲏⲩⲧⲛ̅ ⲁⲛ ⲉⲉⲓⲉ ⲧⲉⲧⲛ̅ϣⲟⲟⲡ` ϩⲛ̅ ⲟⲩⲙⲛ̅ⲧϩⲏⲕⲉ ⲁⲩⲱ ⲛ̅ⲧⲱⲧⲛ̅ ⲡⲉⲧⲙⲛ̅ⲧϩⲏⲕⲉ
+
+
+- Use: primary preserved base for this logion; because it is a translation, it can support a Greek Vorlage only with explicit uncertainty.
+
+### 5. Canonical Greek reconstruction/control channel
+
+- Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
+
+Local Greek canonical/control text currently transcribed:
+- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2
-
 Джерело актуального статусу: `corpus/tables/logia-workflow-matrix.md`. Цей блок є поточним синхронізаційним шаром і має пріоритет над старішими робочими позначками картки, якщо вони розходяться.
 
 ### Publication Status

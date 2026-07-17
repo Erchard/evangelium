@@ -116,9 +116,52 @@ English/Coptic/Greek/parallel rows added; Greek witness preserves final clause o
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
+## Five-source original-language apparatus v0.1
+
+Цей блок фіксує пʼять джерельних каналів для реконструкції мовою оригіналу. Він не замінює аналіз, але робить видимим, що саме є рукописним свідком, що є перекладом, а що є реконструкційним або канонічним контролем.
+
+### 1. P.Oxy. 1 Greek witness
+
+- Status: extant/partial P.Oxy. 1 witness already card-ready in the local Greek layer.
+
+> καὶ τότε διαβλέψεις / ἐκβαλεῖν τὸ κάρφος / τὸ ἐν τῷ ὀφθαλμῷ / τοῦ ἀδελφοῦ σου
+
+- Use: direct Greek manuscript control; still check lacunae and exact extent before publication.
+
+### 2. P.Oxy. 654 Greek witness
+
+- Status: no P.Oxy. 654 witness for this logion; P.Oxy. 654 covers the prologue and Logia 1-7.
+
+> [not preserved in P.Oxy. 654]
+
+- Use: no direct support from this papyrus.
+
+### 3. P.Oxy. 655 Greek witness
+
+- Status: no P.Oxy. 655 witness for this logion in the loaded corpus.
+
+> [not preserved in P.Oxy. 655]
+
+- Use: no direct support from this papyrus.
+
+### 4. Coptic NHC II translation channel
+
+- Status: extant Coptic NHC II,2 witness; this is the complete preserved Coptic line used as the base witness.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲡϫⲏ ⲉⲧϩⲙ̅ ⲡⲃⲁⲗ ⲙ̅ⲡⲉⲕ`ⲥⲟⲛ ⲕⲛⲁⲩ ⲉⲣⲟϥ` ⲡⲥⲟⲉⲓ ⲇⲉ ⲉⲧϩⲙ̅ ⲡⲉⲕⲃⲁⲗ` ⲕⲛⲁⲩ ⲁⲛ ⲉⲣⲟϥ` ϩⲟⲧⲁⲛ ⲉⲕϣⲁⲛⲛⲟⲩϫⲉ ⲙ̅ⲡⲥⲟⲉⲓ ⲉⲃⲟⲗ ϩⲙ̅ ⲡⲉⲕ`ⲃⲁⲗ` ⲧⲟⲧⲉ ⲕⲛⲁⲛⲁⲩ ⲉⲃⲟⲗ ⲉⲛⲟⲩϫⲉ ⲙ̅ⲡϫⲏ ⲉⲃⲟⲗ ϩⲙ̅ ⲡⲃⲁⲗ ⲙ̅ⲡⲉⲕⲥⲟⲛ
+
+
+- Use: primary preserved base for this logion; because it is a translation, it can support a Greek Vorlage only with explicit uncertainty.
+
+### 5. Canonical Greek reconstruction/control channel
+
+- Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
+
+Local Greek canonical/control text currently transcribed:
+- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2
-
 Джерело актуального статусу: `corpus/tables/logia-workflow-matrix.md`. Цей блок є поточним синхронізаційним шаром і має пріоритет над старішими робочими позначками картки, якщо вони розходяться.
 
 ### Publication Status

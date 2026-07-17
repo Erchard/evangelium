@@ -81,9 +81,52 @@ Publication polish: refine appendix explanation for banquet core and anti-mercha
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
+## Five-source original-language apparatus v0.1
+
+Цей блок фіксує пʼять джерельних каналів для реконструкції мовою оригіналу. Він не замінює аналіз, але робить видимим, що саме є рукописним свідком, що є перекладом, а що є реконструкційним або канонічним контролем.
+
+### 1. P.Oxy. 1 Greek witness
+
+- Status: no P.Oxy. 1 witness for this logion in the loaded corpus.
+
+> [not preserved in P.Oxy. 1]
+
+- Use: no direct support from this papyrus.
+
+### 2. P.Oxy. 654 Greek witness
+
+- Status: no P.Oxy. 654 witness for this logion; P.Oxy. 654 covers the prologue and Logia 1-7.
+
+> [not preserved in P.Oxy. 654]
+
+- Use: no direct support from this papyrus.
+
+### 3. P.Oxy. 655 Greek witness
+
+- Status: no P.Oxy. 655 witness for this logion in the loaded corpus.
+
+> [not preserved in P.Oxy. 655]
+
+- Use: no direct support from this papyrus.
+
+### 4. Coptic NHC II translation channel
+
+- Status: extant Coptic NHC II,2 witness; this is the complete preserved Coptic line used as the base witness.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲟⲩⲣⲱⲙⲉ ⲛⲉⲩⲛ̅ⲧⲁϥ ϩⲛ̅ϣⲙ̅ⲙⲟ ⲁⲩⲱ ⲛ̅ⲧⲁⲣⲉϥⲥⲟⲃⲧⲉ ⲙ̅ⲡⲇⲓⲡⲛⲟⲛ ⲁϥϫⲟⲟⲩ ⲙ̅ⲡⲉϥϩⲙϩ̅ⲁ̅ⲗ̅ ϣⲓⲛⲁ ⲉϥⲛⲁⲧⲱϩⲙ ⲛ̅ⲛ̅ϣⲙ̅ⲙⲟⲉⲓ ⲁϥⲃⲱⲕ` ⲙ̅ⲡϣⲟⲣⲡ` ⲡⲉϫⲁϥ ⲛⲁϥ` ϫⲉ ⲡⲁ ϫⲟⲉⲓⲥ ⲧⲱϩⲙ̅ ⲙ̅ⲙⲟⲕ` ⲡⲉϫⲁϥ ϫⲉ ⲟⲩⲛ̅ⲧⲁⲉⲓ ϩⲛ̅ϩⲟⲙⲧ` ⲁϩⲉⲛⲉⲙⲡⲟⲣⲟⲥ ⲥⲉⲛ̅ⲛⲏⲩ ϣⲁⲣⲟⲉⲓ ⲉⲣⲟⲩϩⲉ ϯⲛⲁⲃⲱⲕ` ⲛ̅ⲧⲁⲟⲩⲉϩ ⲥⲁϩⲛⲉ ⲛⲁⲩ ϯⲣ̅ⲡⲁⲣⲁⲓⲧⲉⲓ ⲙ̅ⲡⲇⲓⲡⲛⲟⲛ ⲁϥⲃⲱⲕ` ϣⲁ ⲕⲉⲟⲩⲁ ⲡⲉϫⲁϥ ⲛⲁϥ` ϫⲉ ⲁⲡⲁϫⲟⲉⲓⲥ ⲧⲱϩⲙ̅ ⲙ̅ⲙⲟⲕ` ⲡⲉϫⲁϥ ⲛⲁϥ ϫⲉ ⲁⲉⲓⲧⲟⲟⲩ ⲟⲩⲏⲉⲓ ⲁⲩⲱ ⲥⲉⲣ̅ⲁⲓⲧⲉⲓ ⲙ̅ⲙⲟⲉⲓ ⲛ̅ⲟⲩϩⲏⲙⲉⲣⲁ ϯⲛⲁⲥⲣ̅ϥⲉ ⲁ_ ⲁϥⲉⲓ ϣⲁ ⲕⲉⲟⲩⲁ ⲡⲉϫⲁϥ ⲛⲁϥ` ϫⲉ ⲡⲁϫⲟⲉⲓⲥ ⲧⲱϩⲙ̅ ⲙ̅ⲙⲟⲕ` ⲡⲉϫⲁϥ ⲛⲁϥ ϫⲉ ⲡⲁϣⲃⲏⲣ ⲛⲁⲣ̅ ϣⲉⲗⲉⲉⲧ ⲁⲩⲱ ⲁⲛⲟⲕ` ⲉⲧⲛⲁⲣ̅ ⲇⲓⲡⲛⲟⲛ ϯⲛⲁϣⲓ ⲁⲛ ϯⲣ̅ⲡⲁⲣⲁⲓⲧⲉⲓ ⲙ̅ⲡⲇⲓⲡⲛⲟⲛ` ⲁϥ`ⲃⲱⲕ` ϣⲁ ⲕⲉⲟⲩⲁ ⲡⲉϫⲁϥ ⲛⲁϥ ϫⲉ ⲡⲁϫⲟⲉⲓⲥ ⲧⲱϩⲙ ⲙ̅ⲙⲟⲕ` ⲡⲉϫⲁϥ ⲛⲁϥ` ϫⲉ ⲁⲉⲓⲧⲟⲟⲩ ⲛ̅ⲟⲩⲕⲱⲙⲏ ⲉⲉⲓⲃⲏⲕ` ⲁ ϫⲓ ⲛ̅ϣⲱⲙ ϯⲛⲁϣⲓ ⲁⲛ ϯⲣ̅ⲡⲁⲣⲁⲓⲧⲉⲓ ⲁϥⲉⲓ ⲛ̅ϭⲓ ⲡϩⲙϩ̅ⲁ̅ⲗ̅ ⲁϥϫⲟⲟⲥ ⲁⲡⲉϥϫⲟⲉⲓⲥ ϫⲉ ⲛⲉⲛⲧⲁⲕ`ⲧⲁϩⲙⲟⲩ ⲁⲡⲇⲓⲡⲛⲟⲛ ⲁⲩⲡⲁⲣⲁⲓⲧⲉⲓ ⲡⲉϫⲉ ⲡϫⲟⲉⲓⲥ ⲙ̅ⲡⲉϥϩⲙϩ̅ⲁ̅ⲗ̅ ϫⲉ ⲃⲱⲕ` ⲉⲡⲥⲁ ⲛⲃⲟⲗ ⲁⲛϩⲓⲟⲟⲩⲉ ⲛⲉⲧⲕⲛⲁϩⲉ ⲉⲣⲟⲟⲩ ⲉⲛⲓⲟⲩ ϫⲉⲕⲁⲁⲥ ⲉⲩⲛⲁⲣ̅ⲇⲓⲡⲛⲉⲓ ⲛ̅ⲣⲉϥⲧⲟⲟⲩ ⲙⲛ̅ ⲛⲉϣⲟ[ⲧⲉ ⲉⲩⲛⲁⲃⲱⲕ] ⲁⲛ` ⲉϩⲟⲩⲛ` ⲉⲛⲧⲟⲡⲟⲥ ⲙ̅ⲡⲁⲓ̈ⲱⲧ`
+
+
+- Use: primary preserved base for this logion; because it is a translation, it can support a Greek Vorlage only with explicit uncertainty.
+
+### 5. Canonical Greek reconstruction/control channel
+
+- Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
+
+Local Greek canonical/control text currently transcribed:
+- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2
-
 Джерело актуального статусу: `corpus/tables/logia-workflow-matrix.md`. Цей блок є поточним синхронізаційним шаром і має пріоритет над старішими робочими позначками картки, якщо вони розходяться.
 
 ### Publication Status
@@ -106,7 +149,7 @@ Synoptic/control files:
 ### Greek/Coptic Policy
 
 - Coptic base: тримати коптський текст як основний збережений witness, доки немає сильнішого первинного контролю.
-- Greek layer: Перевіряти лакуни, реконструкції й частковість папірусного свідчення перед публікаційним висновком.
+- Greek layer: Немає завантаженого грецького папірусного свідчення; будь-який грецький шар має бути реконструкційним або відсутнім.
 - Якщо грецький текст не збережений, реконструювати його лише як імовірну ретроверсію й прямо маркувати ступінь гіпотетичності.
 
 ### Reader/Appendix Obligation

@@ -89,9 +89,56 @@ High candidate: compare lost-sheep tradition in Matt/Luke.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
+## Five-source original-language apparatus v0.1
+
+Цей блок фіксує пʼять джерельних каналів для реконструкції мовою оригіналу. Він не замінює аналіз, але робить видимим, що саме є рукописним свідком, що є перекладом, а що є реконструкційним або канонічним контролем.
+
+### 1. P.Oxy. 1 Greek witness
+
+- Status: no P.Oxy. 1 witness for this logion in the loaded corpus.
+
+> [not preserved in P.Oxy. 1]
+
+- Use: no direct support from this papyrus.
+
+### 2. P.Oxy. 654 Greek witness
+
+- Status: no P.Oxy. 654 witness for this logion; P.Oxy. 654 covers the prologue and Logia 1-7.
+
+> [not preserved in P.Oxy. 654]
+
+- Use: no direct support from this papyrus.
+
+### 3. P.Oxy. 655 Greek witness
+
+- Status: no P.Oxy. 655 witness for this logion in the loaded corpus.
+
+> [not preserved in P.Oxy. 655]
+
+- Use: no direct support from this papyrus.
+
+### 4. Coptic NHC II translation channel
+
+- Status: extant Coptic NHC II,2 witness; this is the complete preserved Coptic line used as the base witness.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲧⲙⲛ̅ⲧⲉⲣⲟ ⲉⲥⲧⲛ̅ⲧⲱ_ ⲉⲩⲣⲱⲙⲉ ⲛ̅ϣⲱⲥ ⲉⲩⲛ̅ⲧⲁϥ` ⲙ̅ⲙⲁⲩ ⲛ̅ϣⲉ ⲛ̅ⲉⲥⲟⲟⲩ ⲁⲟⲩⲁ ⲛ̅ϩⲏⲧⲟⲩ ⲥⲱⲣⲙ` ⲉⲡⲛⲟϭ ⲡⲉ ⲁϥⲕⲱ ⲙ̅ⲡⲥⲧⲉⲯⲓⲧ ⲁϥϣⲓⲛⲉ ⲛ̅ⲥⲁ ⲡⲓⲟⲩⲁ ϣⲁⲛⲧⲉϥϩⲉ ⲉⲣⲟϥ ⲛ̅ⲧⲁⲣⲉϥϩⲓⲥⲉ ⲡⲉϫⲁϥ` ⲙ̅ⲡⲉⲥⲟ{ⲩ}ⲟⲩ ϫⲉ ϯⲟⲩⲟϣⲕ` ⲡⲁⲣⲁ ⲡⲥⲧⲉⲯⲓⲧ`
+
+
+Greek retroversion from Coptic/control layer:
+> ἄνθρωπος ποιμὴν εἶχεν ἑκατὸν πρόβατα. ἓν ἐξ αὐτῶν ἀπώλετο· ἀφῆκεν τὰ ἐνενήκοντα ἐννέα καὶ ἐζήτησεν τὸ ἕν ἕως εὗρεν αὐτό.
+
+- Use: primary preserved base for this logion; because it is a translation, it can support a Greek Vorlage only with explicit uncertainty.
+
+### 5. Canonical Greek reconstruction/control channel
+
+- Status: canonical-gospel control/reconstruction channel. This is not a Thomas manuscript witness; it is used to test shared tradition, dependence, and possible Greek wording.
+
+Local Greek canonical/control text currently transcribed:
+- Greek canonical text has not yet been transcribed into the local control files for this logion.
+- Reconstruction note from current Greek layer: Coptic Thomas plus Matthew 18:12-14 and Luke 15:3-7. The "largest sheep" and "I love you more" elements are excluded from this reader-core retroversion.
+- Use: supports or challenges reconstruction only when direction of dependence and redactional risk are discussed.
 
 ## Gold-level status check v0.2
-
 Джерело актуального статусу: `corpus/tables/logia-workflow-matrix.md`. Цей блок є поточним синхронізаційним шаром і має пріоритет над старішими робочими позначками картки, якщо вони розходяться.
 
 ### Publication Status
