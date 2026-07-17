@@ -1681,3 +1681,10 @@ Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
 - Synchronized workflow matrix, all-114 publication table, evidence-control inventory, cards, and project docs.
 - Direct evidence-note coverage now covers 91 logia; `NEEDS_EVIDENCE_BEFORE_FINAL` is reduced to 0.
 - Clean reader unchanged.
+
+## 2026-07-17 - Arabic Injil Reader Layer v0.1
+
+- Added `project/arabic-injil-layer-editorial-policy.md`.
+- Added `reconstruction/earliest-sayings-gospel/reconstructed-gospel-ar-quranic-register.md`.
+- The Arabic layer renders the 34-unit clean reader as `The Reconstructed Injil of Isa ibn Maryam` in a high classical Arabic / Qur'anic-adjacent register.
+- Editorial boundary: the file explicitly states that it is not Qur'an, not a sura, not revelation, and not a claim to the historical Islamic Injil.

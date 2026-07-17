@@ -21,6 +21,7 @@ The reconstruction is not a simple translation of the Coptic Gospel of Thomas. I
 | `reconstructed-gospel-coptic.md` | Coptic base witness for included units. |
 | `reconstructed-gospel-greek.md` | Extant Greek witnesses where available. |
 | `reconstructed-gospel-en.md` | English reader-facing reconstruction. |
+| `reconstructed-gospel-ar-quranic-register.md` | Arabic literary reader layer in a high classical / Qur'anic-adjacent register; explicitly not Qur'an, not a sura, and not a claim of revelation. |
 | `parallel-edition.md` | Parallel research edition. |
 | `inclusion-decisions-table.md` | Inclusion / exclusion decisions. |
 | `evidence-dossier-en.md` | English evidence dossier. |
@@ -41,11 +42,11 @@ The current clean reconstructed reader covers 34 logia or marked cores.
 - All 114 logion cards now contain `Five-source original-language apparatus v0.1`; see `../../corpus/cards/five-source-apparatus-audit-v0.1.md`.
 - Canonical Greek controls from the local SBLGNT cache have been inserted into 81 logion cards; see `../../corpus/cards/canonical-greek-extraction-audit-v0.1.md`.
 - The Ukrainian reader text is now a clean numbered text; technical cautions, markers, and explanations belong in `reconstructed-gospel-uk-apparatus.md` and `reader-commentary-uk.md`.
-- English, Coptic, Greek, and parallel layers are synchronized for the current 34-unit reader.
+- English, Coptic, Greek, Arabic literary, and parallel layers are synchronized for the current 34-unit reader.
 - The Greek layer is controlled by `greek-retroversion-confidence-audit-v0.1.md`; hypothetical retroversions must not be treated as manuscript witnesses.
 - `full-logion-commentary-appendix-uk.md` covers all 114 logia as a scaffold. Reader-facing sections have been expanded for the previous 31 clean-reader logia/cores; new reader units 45A, 47B, and 63 have apparatus support and need later full appendix expansion.
 - The first Phase 5 P1 non-reader appendix package has expanded sections for Logia 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, and 106.
-- The first matching evidence-rationale pass created direct English evidence notes for those 11 logia; Package A then added direct notes for Logia 14, 17, 18, 21, 40, 42, 48, 49, 50, and 51, reducing `NEEDS_EVIDENCE_BEFORE_FINAL` to 0 rows.
+- The first matching evidence-rationale pass created direct English evidence notes for those 11 logia; Packages A and B then reduced `NEEDS_EVIDENCE_BEFORE_FINAL` to 0 rows.
 
 This is a working reconstruction, not a final academic edition.
 

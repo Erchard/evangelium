@@ -5,7 +5,7 @@
 ## Поточний стан у стислому вигляді
 
 - Clean Ukrainian reader: 34 логії/ядра.
-- Англійський, коптський, грецький і parallel шари синхронізовані для цих 34 одиниць.
+- Англійський, коптський, грецький, арабський літературний і parallel шари синхронізовані для цих 34 одиниць.
 - Greek retroversion confidence audit створено; гіпотетичні ретроверсії не рахуються рукописними свідками.
 - Full 114-logion appendix існує для всіх 114 логій як каркас; попередні 31 включені логії/ядра вже розгорнуті до читацьких секцій, нові 45A/47B/63 мають апаратну підтримку, а перший P1 non-reader package розгорнуто для 23, 24, 28, 29, 30, 37, 38, 75, 77, 104 і 106.
 - Evidence dossier: робочий v1.3, ще не публікаційний.
@@ -30,6 +30,7 @@
 | Кінцевий продукт | `project/final-product-specification.md` | Специфікація реконструйованого найдавнішого євангелія висловів: український, коптський, грецький, англійський шари й англомовний доказовий апарат. |
 | Кінцевий продукт | `project/clean-text-plus-commentary-concept.md` | Концепція фінального видання: спочатку чистий реконструйований текст, потім коментар і повний додаток до всіх 114 логій. |
 | Кінцевий продукт | `project/clean-reader-text-first-page-principle.md` | Правило першої читацької сторінки: у головному українському тексті тільки пронумеровані логії, без дисклеймерів, статусів, квадратних дужок і коментарів. |
+| Кінцевий продукт | `project/arabic-injil-layer-editorial-policy.md` | Політика арабського Injil-layer: високий класичний / коранічно-суміжний регістр без претензії на суру, Коран або одкровення. |
 | Завершення | `project/project-completion-roadmap.md` | Актуальна дорожня карта: 34-unit reader, синхронізовані мовні шари, Greek audit, пакетне розгортання full appendix і публікаційні прогалини. |
 | Завершення | `project/project-quality-audit-v0.1.md` | Повний аудит якості проекту: сильні сторони, P0/P1/P2 недоліки, метрики, ризики публікації й рекомендована послідовність закриття прогалин. |
 | Завершення | `project/project-quality-remediation-plan-v0.1.md` | Практичний план усунення недоліків після quality audit: фази, пріоритети, acceptance criteria і порядок доведення проекту до публікаційної якості. |
@@ -64,6 +65,7 @@
 | Робочий промпт | `project/ide-codex-full-corpus-classification-prompt.md` | Промпт для першої повної класифікації 114 логій і вибору high-priority evidence-note set. |
 | Реконструкція | `reconstruction/earliest-sayings-gospel/README.md` | Карта поточного реконструкційного пакета: clean reader, apparatus, мовні шари, dossier, full appendix і Greek audit. |
 | Реконструкція | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md` | Чистий український текст реконструкції: лише пронумеровані логії, без статусів і коментарів. |
+| Реконструкція | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-ar-quranic-register.md` | Арабський літературний reader layer для 34 поточних логій у високому класичному регістрі з явною редакційною межею: не Коран і не сура. |
 | Реконструкція | `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` | Повний український додаток до 114 логій: усі логії мають каркас; включені логії розгортаються до читацьких секцій. |
 | Реконструкція | `reconstruction/earliest-sayings-gospel/greek-retroversion-confidence-audit-v0.1.md` | Контроль грецького шару: extant, lacunose, partial, mixed і hypothetical retroversion. |
 
