@@ -1666,3 +1666,10 @@ Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
 ### Наступна дія
 
 Після логії 16 найкраще або перейти до корпусного спринту 40-60, або поглибити ще один уже сильний притчевий кандидат: логію 9, притчу про сіяча без алегоричного тлумачення.
+
+## 2026-07-17 - P1 Remaining Evidence Rationale Package A
+
+- Saved prompt: `project/ide-codex-p1-remaining-evidence-rationale-package-a-v0.1-prompt.md`.
+- Created direct evidence/no-note rationale files for Logia 14, 17, 18, 21, 40, 42, 48, 49, 50, and 51.
+- Synchronized workflow matrix, all-114 publication table, evidence-control inventory, cards, and project docs.
+- Direct evidence-note coverage now covers 75 logia; `NEEDS_EVIDENCE_BEFORE_FINAL` is reduced to 16.

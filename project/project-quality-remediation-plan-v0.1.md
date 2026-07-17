@@ -148,8 +148,9 @@
 - 114/114 логій покрито.
 - `READER_INCLUDE_MARKED`: 34.
 - `APPENDIX_ONLY_STABLE`: 20.
-- `DEFER_TO_CLUSTER`: 22.
-- `NEEDS_EVIDENCE_BEFORE_FINAL`: 26 after first P1 evidence-rationale pass.
+- `APPENDIX_ONLY_UNCERTAIN`: 7 after Package A evidence-rationale pass.
+- `DEFER_TO_CLUSTER`: 36 after Package A evidence-rationale pass.
+- `NEEDS_EVIDENCE_BEFORE_FINAL`: 16 after Package A evidence-rationale pass.
 - `EXCLUDE_AS_SECONDARY`: 1.
 - Clean reader не змінено; Phase 5 має розгортати пояснювальний appendix.
 
@@ -214,7 +215,7 @@
 - P1 non-reader package: 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
 - Clean reader не змінено.
 - Evidence-rationale pass для цього пакета виконано в `reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md`.
-- Наступна дія: створити evidence/no-note rationale files для решти 26 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
+- Наступна дія: створити evidence/no-note rationale files для решти 16 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
 
 ## Phase 6. Evidence Dossier Publication Pass
 
@@ -333,7 +334,7 @@
 2. Phase 2: Documentation sync pass. Basic sync done after P.Oxy. cleanup.
 3. Phase 3: Evidence and control inventory. Done in `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
 4. Phase 4: True all-114 publication decision table. Done in `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
-5. Phase 5: Full appendix expansion by packages. Started; next recommended package is evidence/no-note rationale files for the remaining 26 `NEEDS_EVIDENCE_BEFORE_FINAL` logia.
+5. Phase 5: Full appendix expansion by packages. Started; next recommended package is evidence/no-note rationale files for the remaining 16 `NEEDS_EVIDENCE_BEFORE_FINAL` logia.
 6. Phase 6: Evidence dossier publication pass.
 7. Phase 7: Rights, bibliography, reproducibility.
 8. Phase 8: Greek retroversion polish.

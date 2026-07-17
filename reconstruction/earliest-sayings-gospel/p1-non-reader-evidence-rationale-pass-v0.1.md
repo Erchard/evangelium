@@ -45,4 +45,4 @@ These notes close the first evidence-note coverage gap, but deeper publication w
 
 ## Recommended Next Step
 
-Synchronization and count update have been completed in the all-114 decision table and evidence-control inventory. Continue Phase 5 with the next batch of the remaining 26 `NEEDS_EVIDENCE_BEFORE_FINAL` logia.
+Synchronization and count update were completed in the all-114 decision table and evidence-control inventory for this pass. Superseded note, 2026-07-17: Package A has since reduced the remaining `NEEDS_EVIDENCE_BEFORE_FINAL` backlog to 16 logia.

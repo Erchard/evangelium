@@ -48,7 +48,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 50.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: світло, походження, обраність, знак Отця.
-- Поточний робочий статус: Primary card v0.1.
+- Поточний робочий статус: Evidence rationale v0.1.
 
 ### Ймовірнісний профіль
 
@@ -62,7 +62,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 50.
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-050-evidence-en.md`
 - Synoptic/control files:
 немає окремого файлу; прогалина лишається видимою.
 - Cluster/context notes:
@@ -133,14 +133,14 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: `UNCERTAIN`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
-- Current work status: Primary card v0.1.
-- Evidence note in matrix: NO.
+- Current work status: Evidence rationale v0.1.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-050-evidence-en.md`
 
 Synoptic/control files:
 - окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.

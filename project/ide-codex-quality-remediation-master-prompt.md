@@ -97,7 +97,7 @@ Phase 3 created:
 Key findings:
 
 - no clean-reader unit lacks an evidence trail;
-- 65 logia have direct evidence-note coverage after the first P1 evidence-rationale pass;
+- 75 logia have direct evidence-note coverage after the Package A evidence-rationale pass;
 - workflow matrix evidence-note status is aligned for the first P1 package;
 - 27 logia remain P1 evidence/control targets;
 - 22 logia are P2 appendix/no-note-rationale targets.
@@ -112,7 +112,7 @@ Key findings:
 
 - 114/114 logia are covered;
 - 34 units remain `READER_INCLUDE_MARKED`;
-- 26 non-reader rows need evidence/no-note rationale before final publication after the first P1 evidence-rationale pass;
+- 26 non-reader rows need evidence/no-note rationale before final publication after the Package A evidence-rationale pass;
 - the clean reader was not expanded in this pass.
 
 ## Completed Phase 5 Work So Far

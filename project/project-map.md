@@ -9,7 +9,7 @@
 - Greek retroversion confidence audit створено; гіпотетичні ретроверсії не рахуються рукописними свідками.
 - Full 114-logion appendix існує для всіх 114 логій як каркас; попередні 31 включені логії/ядра вже розгорнуті до читацьких секцій, нові 45A/47B/63 мають апаратну підтримку, а перший P1 non-reader package розгорнуто для 23, 24, 28, 29, 30, 37, 38, 75, 77, 104 і 106.
 - Evidence dossier: робочий v1.3, ще не публікаційний.
-- All-114 publication decision table v0.1 виконано; перший Phase 5 P1 non-reader appendix package і evidence-rationale pass виконано; найближчий робочий пакет: evidence/no-note rationale files для решти 26 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
+- All-114 publication decision table v0.1 виконано; перший Phase 5 P1 non-reader appendix package і evidence-rationale pass виконано; найближчий робочий пакет: evidence/no-note rationale files для решти 16 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
 - Усі 114 карток логій мають `Gold-level status check v0.2`; актуальним card-quality audit є `corpus/cards/card-quality-audit-v0.2.md`.
 - Усі 114 карток логій мають `Five-source original-language apparatus v0.1`; актуальний аудит джерельного шару: `corpus/cards/five-source-apparatus-audit-v0.1.md`.
 - Canonical Greek extraction pass виконано: 81 картка має Матвій/Марк/Лука Greek control з локального SBLGNT; аудит: `corpus/cards/canonical-greek-extraction-audit-v0.1.md`.
@@ -43,9 +43,10 @@
 | Завершення | `reconstruction/earliest-sayings-gospel/full-corpus-classification-v0.1.md` | Перша повна класифікація всіх 114 логій після завершення первинних карток: reader text, high-priority candidates, deferred clusters and secondary material. |
 | Завершення | `reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md` | Аудит перед фіналізацією clean reader: що вже стабільне, що потребує split-core review, і які документи застаріли. |
 | Завершення | `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md` | Інвентаризація фактичних evidence notes і control files для 114 логій перед true all-114 publication decision table. |
-| Завершення | `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md` | Publication-control table для всіх 114 логій: 34 reader-marked, 20 appendix-stable, 22 cluster-deferred, 37 evidence-before-final, 1 secondary exclusion. |
+| Завершення | `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md` | Publication-control table для всіх 114 логій: актуально 34 reader-marked, 20 appendix-stable, 7 appendix-uncertain, 36 cluster-deferred, 16 evidence-before-final, 1 secondary exclusion. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-p1-non-reader-package-v0.1.md` | Audit виконаного Phase 5 appendix expansion для P1 non-reader логій 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106. |
-| Завершення | `reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md` | Audit виконаного evidence-rationale pass: створено 11 direct evidence notes, all-114 `NEEDS_EVIDENCE_BEFORE_FINAL` зменшено до 26. |
+| Завершення | `reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md` | Audit попереднього evidence-rationale pass: створено 11 direct evidence notes; цей стан superseded Package A row нижче. |
+| Завершення | `reconstruction/earliest-sayings-gospel/p1-remaining-evidence-rationale-package-a-v0.1.md` | Audit Package A evidence-rationale pass: створено 10 direct evidence notes для логій 14, 17, 18, 21, 40, 42, 48, 49, 50, 51; all-114 `NEEDS_EVIDENCE_BEFORE_FINAL` зменшено до 16. |
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-a-v0.1.md` | Перевірка логій 45, 47, 63, 64, 65-66: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md` | Перевірка логій 76, 78, 79, 94, 103, 109, 113: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Робочий промпт | `project/ide-codex-master-project-prompt.md` | Головний промпт проекту для наступних кроків реконструкції, корпусної роботи, коментарів і фінального видання. |

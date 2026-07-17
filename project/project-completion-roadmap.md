@@ -200,7 +200,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: evidence/no-note rationale pass для решти 26 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
+Найважливіша наступна дія: evidence/no-note rationale pass для решти 16 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
 
 Виконані пакети:
 
@@ -218,6 +218,6 @@
 
 Наступний рекомендований пакет:
 
-- Evidence/no-note rationale files для наступного пакета з решти 26 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
+- Evidence/no-note rationale files для наступного пакета з решти 16 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
 
 Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; перший P1 non-reader appendix package і matching evidence-rationale pass виконано. Тепер слабке місце - citable evidence/no-note rationale для решти невключених логій.

@@ -27,14 +27,14 @@
 | 11 | YES | YES | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Deepened v0.2 | Keep in apparatus; heaven-passing subunit has partial synoptic control, but full unit is composite and one/two material belongs to Thomas unity cluster. |
 | 12 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep as James/community succession layer. |
 | 13 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep as Thomas authority and collection-frame material. |
-| 14 | YES | NO | `DEFER` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split ritual critique, mission instruction, and defilement saying. |
+| 14 | YES | YES | `DEFER` | NO | Greek retroversion, hypothetical | Evidence rationale v0.1 | Use evidence rationale in appendix; split ritual, mission, and defilement subunits before any reader change. |
 | 15 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study born-not-of-woman / Father cluster. |
 | 16 | YES | YES | division/household core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; fire/sword/war and monachos remain apparatus. |
-| 17 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Compare with 1 Cor 2:9 and Isa 64:4; study hand motif. |
-| 18 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Compare "not taste death" with Logia 1, 19, 111 and Mark 9:1 parallels. |
+| 17 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; compare Isaiah 64:4 and 1 Cor 2:9 before any reader change. |
+| 18 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; compare deathlessness cluster before any reader change. |
 | 19 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Split into sub-units; study five trees of paradise. |
 | 20 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; later refine retroversion bibliography. |
-| 21 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Split thief/watchfulness/harvest sub-units. |
+| 21 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; create split-unit control note before any reader change. |
 | 22 | YES | YES | children/kingdom core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; unity expansion remains apparatus. |
 | 23 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Evidence rationale v0.1 created; keep appendix-only unless election/remnant controls emerge. |
 | 24 | YES | YES | `DEFER` | NO | P.Oxy. 655 possible/uncertain | Evidence rationale v0.1 | Evidence rationale v0.1 created; keep P.Oxy. 655 / Thomas 24(?) uncertainty explicit. |
@@ -53,18 +53,18 @@
 | 37 | YES | YES | `UNCERTAIN` | NO | P.Oxy. 655 | Evidence rationale v0.1 | Evidence rationale v0.1 created; possible shorter Greek-supported core remains future candidate only. |
 | 38 | YES | YES | `UNCERTAIN` | NO | P.Oxy. 655 fragmentary | Evidence rationale v0.1 | Evidence rationale v0.1 created; keep restored P.Oxy. 655 text explicitly fragmentary. |
 | 39 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 655 | Multilingual sync v0.1 | English/Coptic/Greek/parallel rows added; composite split retained. |
-| 40 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Deepen Matt 15:13 plant-not-Father control. |
+| 40 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; deepen Matthew 15:13 control before any reader change. |
 | 41 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; later refine full dossier. |
-| 42 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Search wider passersby/stranger parallels. |
+| 42 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; search wider passersby/stranger parallels before any reader change. |
 | 43 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logion 45 tree/fruit cluster and polemical framing. |
 | 44 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Keep outside reader; possible short Spirit-blasphemy core only after further decision pass. |
 | 45 | YES | YES | 45A `INCLUDE_WITH_MARKER`; 45B `KEEP_APPENDIX_ONLY_FOR_NOW`; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Controlled reader pass v0.1 | Clean reader prints only grapes/thorns core; heart-treasure continuation remains appendix material. |
 | 46 | YES | YES | `UNCERTAIN`; possible marked core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Compare with Logion 22 before any reader change. |
 | 47 | YES | YES | 47B `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Controlled reader pass v0.1 | Clean reader prints only two-masters core; incompatibility chain remains appendix material. |
-| 48 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Thomas 106 and Matt 18:19-20. |
-| 49 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in unity/monachos cluster. |
-| 50 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study in light/election cluster. |
-| 51 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study realized eschatology with Thomas 3 and 113. |
+| 48 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; deepen unity/mountain cluster before any reader change. |
+| 49 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; keep in unity/monachos cluster. |
+| 50 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; create light/election/image cluster before any reader change. |
+| 51 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence rationale v0.1 | Use evidence rationale in appendix; create realized-eschatology cluster before any reader change. |
 | 52 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study living/dead and prophets cluster. |
 | 53 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Add to ritual-practice cluster. |
 | 54 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; later refine full dossier. |

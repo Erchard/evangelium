@@ -60,7 +60,7 @@ If you fast, you will bring sin upon yourselves; if you pray, you will be condem
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: ритуальна критика / місія / їжа / осквернення устами.
-- Поточний робочий статус: Primary card v0.1.
+- Поточний робочий статус: Evidence rationale v0.1.
 
 ### Ймовірнісний профіль
 
@@ -74,7 +74,7 @@ If you fast, you will bring sin upon yourselves; if you pray, you will be condem
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-014-evidence-en.md`
 - Synoptic/control files:
   - `controls/synoptic-parallels/logia-008-020-022-high-candidate-controls.md`
 - Cluster/context notes:
@@ -148,13 +148,14 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: `DEFER`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
-- Current work status: Primary card v0.1.
-- Evidence note in matrix: NO.
+- Current work status: Evidence rationale v0.1.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
 
 ### Evidence Links
 
 Evidence note / dossier files:
+- `reconstruction/earliest-sayings-gospel/notes/logion-014-evidence-en.md`
 - `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
 
 Synoptic/control files:
