@@ -83,3 +83,48 @@ Evidence note: `06_Reconstructions/earliest-sayings-gospel/notes/logion-016-evid
 > Я прийшов не принести мир, а поділ; дім буде розділений.
 
 Не включати в основний текст тріаду `вогонь / меч / війна` і фінал `monachos`.
+
+## Еталонне вирівнювання картки v0.1
+
+Еталон: `05_Logia_Corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `05_Logia_Corpus/cards/logion-006.md`.
+
+### Поточне рішення
+
+- Рішення: division/household core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`.
+- Reader text: YES.
+- Greek witness status: Greek retroversion, hypothetical.
+- Попередній шар: не мир, а поділ; родинний конфлікт; monachos.
+- Поточний робочий статус: Multilingual sync v0.1.
+
+### Ймовірнісний профіль
+
+| Період | Ймовірність | Нотатка |
+| --- | ---: | --- |
+| До 60 року | 20% | Робоча оцінка з `05_Logia_Corpus/tables/logia-index.md`; не є математичним доказом. |
+| 60-90 роки | 35% | Робоча оцінка з індексу; переглядати після поглиблення evidence note. |
+| 90-130 роки | 35% | Робоча оцінка з індексу; особливо важлива для томиного/редакційного шару. |
+| Після 130 року | 10% | Робоча оцінка з індексу; високий показник тут послаблює включення до найдавнішої реконструкції. |
+
+### Доказовий апарат
+
+- Evidence note:
+  - `06_Reconstructions/earliest-sayings-gospel/notes/logion-016-evidence-en.md`
+- Synoptic/control files:
+  - `04_Synoptic_Parallels/logia-008-020-022-high-candidate-controls.md`
+  - `04_Synoptic_Parallels/logion-016-division-core-final-controls.md`
+  - `04_Synoptic_Parallels/logion-016-division-family.md`
+- Cluster/context notes:
+  - `06_Reconstructions/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
+
+### Шарова модель для реконструкції
+
+- Можливе раннє ядро: є реконструкційний кандидат, але друкувати/оцінювати тільки з маркером непевності.
+- Вторинні / томині ризики: наявні мотиви, які можуть належати до томиного богословського розгортання.
+- Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
+
+### Наступна дія
+
+English/Coptic/Greek/parallel rows added; fire/sword/war and monachos remain apparatus.
+
+Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
+

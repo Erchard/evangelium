@@ -49,3 +49,46 @@ If you fast, you will bring sin upon yourselves; if you pray, you will be condem
 Рішення: `DEFER`.
 
 Наступна дія: split ritual critique, mission instruction, and defilement saying; compare with Logia 6, 104, Mark 7:15, Matt 15:11, and Luke 10:8-9.
+
+## Еталонне вирівнювання картки v0.1
+
+Еталон: `05_Logia_Corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `05_Logia_Corpus/cards/logion-006.md`.
+
+### Поточне рішення
+
+- Рішення: `DEFER`.
+- Reader text: NO.
+- Greek witness status: Greek retroversion, hypothetical.
+- Попередній шар: ритуальна критика / місія / їжа / осквернення устами.
+- Поточний робочий статус: Primary card v0.1.
+
+### Ймовірнісний профіль
+
+| Період | Ймовірність | Нотатка |
+| --- | ---: | --- |
+| До 60 року | 10% | Робоча оцінка з `05_Logia_Corpus/tables/logia-index.md`; не є математичним доказом. |
+| 60-90 роки | 30% | Робоча оцінка з індексу; переглядати після поглиблення evidence note. |
+| 90-130 роки | 40% | Робоча оцінка з індексу; особливо важлива для томиного/редакційного шару. |
+| Після 130 року | 20% | Робоча оцінка з індексу; високий показник тут послаблює включення до найдавнішої реконструкції. |
+
+### Доказовий апарат
+
+- Evidence note:
+немає окремого файлу; прогалина лишається видимою.
+- Synoptic/control files:
+  - `04_Synoptic_Parallels/logia-008-020-022-high-candidate-controls.md`
+- Cluster/context notes:
+  - `06_Reconstructions/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
+
+### Шарова модель для реконструкції
+
+- Можливе раннє ядро: поки не використовується як раннє ядро; потрібне окреме кластерне або джерельне поглиблення.
+- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці.
+- Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
+
+### Наступна дія
+
+Split ritual critique, mission instruction, and defilement saying.
+
+Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
+

@@ -1,5 +1,223 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, project documentation refresh
+
+### Що оновлено
+
+- `00_Project/project-map.md` - додано актуальний стислий стан проекту.
+- `00_Project/final-product-specification.md` - оновлено до v0.2 і додано current working state.
+- `00_Project/project-completion-roadmap.md` - оновлено до v0.3; готовність тепер 55-60%, full appendix більше не описується як чистий skeleton.
+- `00_Project/publication-gap-audit-v0.1.md` - оновлено зміст до v0.2: 31-unit reader, 23 expanded appendix sections, next packet 34/35/36/39/41.
+- `00_Project/clean-text-plus-commentary-concept.md` - зафіксовано, що перший тест clean text + commentary уже виконано.
+- `06_Reconstructions/earliest-sayings-gospel/README.md` - оновлено current scope до 31 логії/ядра і додано Greek audit / full appendix status.
+- `06_Reconstructions/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` - статус оновлено до v0.3.
+
+### Поточний стан після актуалізації
+
+- Clean Ukrainian reader має 31 логію/ядро.
+- English/Coptic/Greek/parallel layers синхронізовані для 31 одиниці.
+- Greek retroversion confidence audit створено.
+- Full 114-logion appendix має каркас для всіх 114 логій і розгорнуті секції для 23 включених одиниць.
+
+### Наступна дія
+
+Продовжити full appendix expansion для логій 34, 35, 36, 39, 41.
+
+## 2026-07-17, Greek retroversion confidence audit
+
+### Що додано
+
+- `00_Project/ide-codex-greek-retroversion-confidence-audit-prompt.md` - промпт для аудиту грецького шару.
+- `06_Reconstructions/earliest-sayings-gospel/greek-retroversion-confidence-audit-v0.1.md` - аудит усіх 31 одиниці current reader за категоріями Greek layer і confidence.
+
+### Що оновлено
+
+- `06_Reconstructions/earliest-sayings-gospel/reconstructed-gospel-greek.md`: статус оновлено до v0.5 і додано посилання на confidence audit.
+- `00_Project/project-completion-roadmap.md`: Greek layer більше не позначений як без audit; наступний крок - full appendix expansion для включених 31 логій/ядер.
+- `00_Project/publication-gap-audit-v0.1.md`: оновлено стан Greek layer і рекомендований порядок наступних дій.
+
+### Методологічне рішення
+
+Аудит розділяє:
+
+- extant Greek witnesses;
+- lacunose extant witnesses;
+- partial extant witnesses;
+- mixed extant-plus-retroversion units;
+- `Greek retroversion, hypothetical`.
+
+Ретроверсії не рахуються як рукописні свідки й мають бути явно позначені в будь-якому публічному виданні.
+
+### Наступна дія
+
+Розширити повний український додаток для включених 31 логій/ядер, щоб чистий reader мав повний читацький другий шар.
+
+## 2026-07-17, multilingual sync for new reader additions 86, 89, 95, 96, 99, 100, 107
+
+### Що додано
+
+- `00_Project/ide-codex-multilingual-sync-new-reader-additions-086-089-095-096-099-100-107-prompt.md` - промпт для синхронізації семи нових reader additions.
+
+### Що оновлено
+
+- `06_Reconstructions/earliest-sayings-gospel/reconstructed-gospel-en.md`: додано англійські тексти логій 86, 89, 95, 96, 99, 100 і 107.
+- `06_Reconstructions/earliest-sayings-gospel/reconstructed-gospel-coptic.md`: додано коптські базові свідки для семи одиниць із нотатками про скорочене ядро.
+- `06_Reconstructions/earliest-sayings-gospel/reconstructed-gospel-greek.md`: додано тільки позначені `Greek retroversion, hypothetical` для семи одиниць; жодна не подана як extant Greek witness.
+- `06_Reconstructions/earliest-sayings-gospel/parallel-edition.md`: додано сім рядків; parallel edition тепер покриває 31 одиницю.
+- `06_Reconstructions/earliest-sayings-gospel/evidence-dossier-en.md`: оновлено до v1.3 і додано summaries для семи нових одиниць.
+- `06_Reconstructions/earliest-sayings-gospel/reader-commentary-uk.md`: додано українські читацькі коментарі для семи нових одиниць.
+- `00_Project/project-completion-roadmap.md` і `00_Project/publication-gap-audit-v0.1.md`: наступним кроком визначено Greek retroversion confidence audit.
+
+### Методологічне рішення
+
+Чистий український reader не змінювався в цьому проході. Синхронізовано другий шар довкола вже ухваленого складу з 31 логії/ядра.
+
+### Наступна дія
+
+Провести Greek retroversion confidence audit для поточного 31-unit reader, особливо для одиниць без extant Greek Thomas witness.
+
+## 2026-07-17, final high-candidate decision pass
+
+### Що додано
+
+- `00_Project/ide-codex-final-high-candidate-decision-pass-prompt.md` - промпт для фінального decision pass по Sprint A/B/C.
+- `06_Reconstructions/earliest-sayings-gospel/final-high-candidate-decision-pass-v0.1.md` - документ із рішеннями, промоціями, відхиленнями і cluster decisions.
+
+### Що оновлено
+
+- `06_Reconstructions/earliest-sayings-gospel/reconstructed-gospel-uk.md`: додано чисті ядра логій 86, 89, 95, 96, 99, 100 і 107.
+- `06_Reconstructions/earliest-sayings-gospel/inclusion-decisions-table.md`: сім нових одиниць переведено в `INCLUDE_WITH_MARKER` або `INCLUDE_WITH_MARKER` для core.
+- `05_Logia_Corpus/tables/logia-workflow-matrix.md`: для 86, 89, 95, 96, 99, 100 і 107 тепер `Reader text = YES`.
+- `06_Reconstructions/earliest-sayings-gospel/reconstructed-gospel-uk-apparatus.md`: додано пояснення для семи нових reader additions.
+- `00_Project/project-completion-roadmap.md` і `00_Project/publication-gap-audit-v0.1.md`: clean reader тепер має 31 логію/ядро; наступним кроком є multilingual synchronization pass.
+
+### Методологічне рішення
+
+До clean reader додано тільки короткі ядра, не повні форми з пізніми або томиними розгортаннями:
+
+- 86 - foxes/birds/Son of Man homelessness;
+- 89 - cup inside/outside;
+- 95 - anti-usury / giving without return;
+- 96 - leaven parable core;
+- 99 - true-family core;
+- 100 - Caesar/God core;
+- 107 - lost-sheep core.
+
+Логії 44, 46, 55, 57, 76, 78, 79, 90, 93, 94, 103, 109 і 113 залишаються поза clean reader, але зберігаються в appendix/evidence layer.
+
+### Наступна дія
+
+Синхронізувати нові reader additions у `reconstructed-gospel-en.md`, `reconstructed-gospel-coptic.md`, `reconstructed-gospel-greek.md`, `parallel-edition.md`, `evidence-dossier-en.md` і читацькому коментарі.
+
+## 2026-07-17, high-candidate deepening sprint C
+
+### Що додано
+
+- `00_Project/ide-codex-high-candidate-deepening-sprint-c-prompt.md` - промпт для фінального planned high-candidate evidence/control спринту.
+- Evidence notes для логій 99, 100, 103, 107, 109 і 113.
+- Synoptic/control files для логій 99, 100, 103, 107, 109 і 113.
+
+### Що оновлено
+
+- `05_Logia_Corpus/tables/logia-workflow-matrix.md`: Sprint C має `Evidence note = YES`; усі шість логій залишаються `Reader text = NO`.
+- `06_Reconstructions/earliest-sayings-gospel/inclusion-decisions-table.md`: додано рішення для логій 99, 100, 103, 107, 109 і 113.
+- `05_Logia_Corpus/cards/card-quality-audit-v0.1.md`, `00_Project/publication-gap-audit-v0.1.md` і `00_Project/project-completion-roadmap.md`: наступним кроком тепер є final high-candidate decision pass, а не новий evidence sprint.
+
+### Методологічне рішення
+
+Жодна з логій Sprint C не додана до clean reader у цьому проході. Логії 99, 100, 103 і 109 позначені як split-core candidates; 107 як possible marked parable-core candidate; 113 як possible marked-core candidate, але з ризиком дублювання логії 3.
+
+Для всіх Sprint C логій без extant Greek Thomas witness будь-який грецький шар має бути тільки `Greek retroversion, hypothetical`.
+
+### Наступна дія
+
+Провести final high-candidate decision pass для Sprint A/B/C: вирішити, які короткі ядра можуть увійти до clean reader, які лишаються тільки в appendix, і які потрібно відкласти як занадто залежні або вторинні.
+
+## 2026-07-17, high-candidate deepening sprint B
+
+### Що додано
+
+- `00_Project/ide-codex-high-candidate-deepening-sprint-b-prompt.md` - промпт для другого high-candidate evidence/control спринту.
+- Evidence notes для логій 86, 89, 90, 93, 94, 95 і 96.
+- Synoptic/control files для логій 86, 89, 90, 93, 94, 95 і 96.
+
+### Що оновлено
+
+- `05_Logia_Corpus/tables/logia-workflow-matrix.md`: Sprint B має `Evidence note = YES`; усі сім логій залишаються `Reader text = NO`.
+- `06_Reconstructions/earliest-sayings-gospel/inclusion-decisions-table.md`: додано рішення для логій 86, 89, 90, 93, 94, 95 і 96.
+- `05_Logia_Corpus/cards/card-quality-audit-v0.1.md`, `00_Project/publication-gap-audit-v0.1.md` і `00_Project/project-completion-roadmap.md`: наступним high-candidate пакетом тепер є 99, 100, 103, 107, 109, 113.
+
+### Методологічне рішення
+
+Жодна з логій Sprint B не додана до clean reader у цьому проході. Найсильнішими майбутніми кандидатами виглядають 86, 89, 94, 95 і 96, але кожна потребує фінального decision pass. Логії 90 і 93 залишаються обережнішими через вузький матеєвий контроль або сильну secrecy-функцію.
+
+Для логій без extant Greek Thomas witness будь-який грецький шар має бути тільки `Greek retroversion, hypothetical`.
+
+### Наступна дія
+
+Виконати high-candidate deepening sprint C для логій 99, 100, 103, 107, 109 і 113, а потім перейти до decision pass для кандидатів Sprint A/B/C.
+
+## 2026-07-17, high-candidate deepening sprint A
+
+- Збережено і виконано промпт: `00_Project/ide-codex-high-candidate-deepening-sprint-a-prompt.md`.
+- Створено evidence notes для Logia 44, 46, 55, 57, 76, 78, 79.
+- Створено synoptic/control files: `04_Synoptic_Parallels/logion-044-blasphemy-spirit-controls.md`, `logion-046-john-least-kingdom-controls.md`, `logion-055-discipleship-cross-controls.md`, `logion-057-weeds-controls.md`, `logion-076-pearl-treasure-controls.md`, `logion-078-wilderness-reed-controls.md`, `logion-079-womb-word-controls.md`.
+- Оновлено `05_Logia_Corpus/tables/logia-workflow-matrix.md`: evidence note для цих семи логій тепер `YES`.
+- Оновлено `06_Reconstructions/earliest-sayings-gospel/inclusion-decisions-table.md`: додано робочі рішення для цих семи логій.
+- Оновлено `05_Logia_Corpus/cards/card-quality-audit-v0.1.md`, `00_Project/publication-gap-audit-v0.1.md` і `00_Project/project-completion-roadmap.md`: наступним high-candidate пакетом тепер є 86, 89, 90, 93, 94, 95, 96.
+- Жодну з цих логій не додано до clean reader; всі залишаються `UNCERTAIN`, але 46 і 78 позначені як можливі майбутні marked-core candidates, 76 і 79 як split-core candidates.
+- Чистий український reader не змінювався.
+
+## 2026-07-17, publication gap audit and roadmap refresh
+
+- Збережено і виконано промпт: `00_Project/ide-codex-publication-gap-audit-and-roadmap-refresh-prompt.md`.
+- Оновлено дорожню карту завершення: `00_Project/project-completion-roadmap.md`.
+- Створено публікаційний аудит прогалин: `00_Project/publication-gap-audit-v0.1.md`.
+- Дорожня карта тепер відображає реальний стан: 114 карток існують, усі картки вирівняні, clean reader має 24 логії/ядра, повний додаток до 114 логій існує як skeleton.
+- Зафіксовано наступні ключові робочі фази: high-candidate deepening, evidence/control gap closure, final decision audit, full appendix expansion, Greek retroversion confidence audit, evidence dossier publication pass, bibliography/rights pass, final editorial pass.
+- Чистий український reader не змінювався.
+
+## 2026-07-17, full 114-logion commentary appendix skeleton
+
+- Збережено і виконано промпт: `00_Project/ide-codex-full-114-logion-commentary-appendix-skeleton-prompt.md`.
+- Створено робочий український каркас повного додатку: `06_Reconstructions/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md`.
+- Додаток охоплює всі 114 логій: включені, частково включені, `UNCERTAIN`, `DEFER` і `EXCLUDE_AS_SECONDARY`.
+- Для кожної логії додано статус у реконструкції, коротку мітку шару, причину включення/невключення, Greek witness status, evidence/control/cluster links і наступну дію.
+- Оновлено `06_Reconstructions/earliest-sayings-gospel/README.md`, щоб новий файл був частиною карти реконструкції.
+- Чистий український reader не змінювався.
+- Наступний якісний крок: перетворювати цей каркас на повноцінні читацькі коментарі пакетами, починаючи з включених 24 логій або з найсильніших невключених high-candidate логій.
+
+## 2026-07-17, full appendix principle for excluded logia
+
+- Зафіксовано важливе уточнення кінцевої мети: чистий reconstructed gospel є вибірковим текстом найдавнішого шару, але коментований додаток має охопити всі 114 логій.
+- Оновлено `00_Project/final-product-specification.md`: додано принцип повного покриття всіх логій у додатку, включно з `UNCERTAIN`, `DEFER` і `EXCLUDE_AS_SECONDARY`.
+- Оновлено `00_Project/clean-text-plus-commentary-concept.md`: розширено модель коментаря від включених логій до повного 114-логійного додатку.
+- Оновлено `00_Project/logion-card-gold-standard.md`: якісна картка тепер має готувати матеріал і для пояснення невключених логій.
+- Оновлено `06_Reconstructions/earliest-sayings-gospel/README.md`: додано Full Commentary Principle і виправлено current scope до 24 поточних логій clean reader.
+- Оновлено `05_Logia_Corpus/cards/LOGION_TEMPLATE.md`: додано поля для пояснення невключених логій у повному коментованому додатку.
+- Чистий український reader не змінювався.
+
+## 2026-07-17, logion card quality normalization
+
+- Збережено і виконано промпт: `00_Project/ide-codex-logion-card-quality-normalization-prompt.md`.
+- Зафіксовано стандарт якості карток: `00_Project/logion-card-gold-standard.md`.
+- Формальний еталон: `05_Logia_Corpus/cards/logion-002.md`; додатковий приклад для складених логій: `05_Logia_Corpus/cards/logion-006.md`.
+- Оновлено шаблон майбутніх карток: `05_Logia_Corpus/cards/LOGION_TEMPLATE.md`.
+- Усі 114 карток `05_Logia_Corpus/cards/logion-*.md` отримали блок `Еталонне вирівнювання картки v0.1` з рішенням, reader status, Greek witness status, попереднім шаром, ймовірнісним профілем, evidence/control посиланнями і наступною дією.
+- Створено аудит якості карток: `05_Logia_Corpus/cards/card-quality-audit-v0.1.md`.
+- Рішення про включення логій не змінювалися; чистий український reader не змінювався.
+- Наступний якісний крок: поглиблювати не всі логії однаково, а спершу high-candidate картки без evidence notes/control files, які реально можуть змінити фінальний склад реконструкції.
+
+## 2026-07-17, evidence dossier consolidation for current reader
+
+- Збережено і виконано промпт: `00_Project/ide-codex-evidence-dossier-current-reader-consolidation-prompt.md`.
+- Оновлено `06_Reconstructions/earliest-sayings-gospel/evidence-dossier-en.md` до робочої версії v1.2.
+- Current Block Summary тепер явно включає всі 24 логії поточного clean reader: 1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 54, 72, 73.
+- Додано summary-блоки для Logia 41, 54, 72, 73 з рішенням, reader text, аргументом включення, Greek witness status, evidence note і synoptic control reference.
+- Для Logia 41, 54, 72, 73 явно зафіксовано: немає loaded extant Greek Thomas witness; будь-яка грецька форма має лишатися `Greek retroversion, hypothetical`.
+- Чистий український reader не змінювався.
+- Наступний якісний крок: створити completeness audit для всіх 24 dossier-блоків і вирівняти їх у єдиний публікаційний шаблон.
+
 ## 2026-07-17, normalized current parallel edition
 
 - Збережено і виконано промпт: `00_Project/ide-codex-normalize-parallel-edition-current-reader-prompt.md`.

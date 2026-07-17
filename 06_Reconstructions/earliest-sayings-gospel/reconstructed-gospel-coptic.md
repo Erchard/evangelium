@@ -1,6 +1,6 @@
 # Coptic Base Witness
 
-Status: working text v0.3. The Coptic text is not itself the reconstructed early layer; it is the main complete surviving witness used as a base for reconstruction. This file is still being synchronized with the current Ukrainian reader.
+Status: working text v0.4. The Coptic text is not itself the reconstructed early layer; it is the main complete surviving witness used as a base for reconstruction. This file is synchronized with the 31-unit Ukrainian clean reader.
 
 ## Logion 1
 
@@ -241,3 +241,73 @@ Source: NHC II,2 as represented in `02_Sources_And_Manuscripts/primary_texts/cop
 > ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲡⲱϩⲥ ⲙⲉⲛ ⲛⲁϣⲱϥ` ⲛ̅ⲉⲣⲅⲁⲧⲏⲥ ⲇⲉ ⲥⲟⲃⲕ` ⲥⲟⲡⲥ̅ ⲇⲉ ⲙ̅ⲡϫⲟⲉⲓⲥ ϣⲓⲛⲁ ⲉϥⲛⲁⲛⲉϫ` ⲉⲣⲅⲁⲧⲏⲥ ⲉⲃⲟⲗ` ⲉⲡⲱϩ̅ⲥ̅
 
 Reconstruction note: the harvest/workers saying is included with marker; the Coptic form is compact and closely controlled by Matthew 9:37-38 and Luke 10:2.
+
+## Logion 86
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Source: NHC II,2 as represented in `02_Sources_And_Manuscripts/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫ[ⲉ ⲛ̅ⲃⲁϣⲟⲣ ⲟⲩⲛ̅ⲧⲁ]ⲩ ⲛ[ⲟⲩⲃⲏⲃ ⲁⲩ]ⲱ ⲛ̅ϩⲁⲗⲁⲧⲉ ⲟⲩⲛ̅ⲧⲁⲩ ⲙ̅ⲙⲁⲩ ⲙ̅[ⲛⲟ]ⲩⲙⲁϩ ⲡϣⲏⲣⲉ ⲇⲉ ⲙ̅ⲡⲣⲱⲙⲉ ⲙⲛ̅ⲧⲁϥ` ⲛ[ⲛⲟⲩ]ⲙⲁ ⲉⲣⲓⲕⲉ ⲛ̅ⲧⲉϥ`ⲁⲡⲉ ⲛ̅ϥ`ⲙ̅ⲧⲟⲛ` ⲙ̅[ⲙⲟϥ]`
+
+Reconstruction note: the clean reader prints the foxes/birds/Son-of-Man homelessness core and omits the final rest nuance.
+
+## Logion 89
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Source: NHC II,2 as represented in `02_Sources_And_Manuscripts/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲉⲧⲃⲉ ⲟⲩ ⲧⲉⲧⲛ̅ⲉⲓⲱⲉ ⲙ̅ⲡⲥⲁ ⲛⲃⲟⲗ` ⲙ̅ⲡⲡⲟⲧⲏⲣⲓⲟⲛ ⲧⲉⲧⲛ̅ⲣ̅ⲛⲟⲉⲓ ⲁⲛ ϫⲉ ⲡⲉⲛⲧⲁϩⲧⲁⲙⲓⲟ ⲙ̅ⲡⲥⲁ ⲛϩⲟⲩⲛ ⲛ̅ⲧⲟϥ ⲟⲛ` ⲡⲉⲛⲧⲁϥⲧⲁⲙⲓⲟ ⲙ̅ⲡⲥⲁ ⲛⲃⲟⲗ`
+
+Reconstruction note: the full short Coptic logion is used in the clean reader.
+
+## Logion 95
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Source: NHC II,2 as represented in `02_Sources_And_Manuscripts/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> [ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲉ]ϣⲱⲡⲉ ⲟⲩⲛ̅ⲧⲏⲧⲛ̅ ϩⲟⲙⲧ` ⲙ̅ⲡⲣ̅ϯ ⲉⲧⲙⲏⲥⲉ ⲁⲗⲗⲁ [ϯ ⲙ̅ⲙⲟϥ ⲙ̅ⲡⲉⲧⲉ]ⲧⲛⲁϫⲓⲧⲟⲩ ⲁⲛ ⲛ̅ⲧⲟⲟⲧϥ`
+
+Reconstruction note: the clean reader uses the anti-interest / giving-without-return core. The opening is damaged in the Coptic witness.
+
+## Logion 96
+
+Decision: leaven core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Source: NHC II,2 as represented in `02_Sources_And_Manuscripts/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> [ⲡⲉϫⲉ] ⲓ̅ⲥ̅ ϫⲉ ⲧⲙⲛ̅ⲧⲉⲣⲟ ⲙ̅ⲡⲉⲓⲱⲧ` ⲉⲥⲧⲛ̅ⲧⲱ[ⲛ ⲁⲩ]ⲥϩⲓⲙⲉ ⲁⲥϫⲓ ⲛ̅ⲟⲩⲕⲟⲩⲉⲓ ⲛ̅ⲥⲁⲉⲓⲣ [ⲁⲥϩⲟ]ⲡ ϥ` ϩⲛ̅ ⲟⲩϣⲱⲧⲉ ⲁⲥⲁⲁϥ ⲛ̅ϩⲛ̅ⲛ[ⲟϭ ⲛ̅]ⲛⲟⲉⲓⲕ` ⲡⲉⲧⲉⲩⲙ̅ ⲙⲁⲁϫⲉ ⲙ̅ⲙⲟϥ ⲙⲁ[ⲣⲉϥⲥⲱ]ⲧⲙ̅
+
+Reconstruction note: the clean reader uses only the woman/leaven/dough core. The Father frame, large-loaves result, and hearing formula remain apparatus material.
+
+## Logion 99
+
+Decision: true-family core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Source: NHC II,2 as represented in `02_Sources_And_Manuscripts/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲡⲉϫⲉ ⲙ̅ⲙⲁⲑⲏⲧⲏⲥ ⲛⲁϥ ϫⲉ ⲛⲉⲕ`ⲥⲛⲏⲩ ⲙⲛ̅ ⲧⲉⲕⲙⲁⲁⲩ ⲥⲉⲁϩⲉⲣⲁⲧⲟⲩ ϩⲓ ⲡⲥⲁ ⲛⲃⲟⲗ ⲡⲉϫⲁϥ ⲛⲁⲩ ϫⲉ ⲛⲉⲧⲛ̅ⲛⲉⲉⲓⲙⲁ ⲉϯⲣⲉ ⲙ̅ⲡⲟⲩⲱϣ ⲙ̅ⲡⲁⲉⲓⲱⲧ` ⲛⲁⲉⲓⲛⲉ ⲛⲁⲥⲛⲏⲩ ⲙⲛ̅ ⲧⲁⲙⲁⲁⲩ ⲛ̅ⲧⲟⲟⲩ ⲡⲉ ⲉⲧⲛⲁⲃⲱⲕ` ⲉϩⲟⲩⲛ ⲉⲧⲙⲛ̅ⲧⲉⲣⲟ ⲙ̅ⲡⲁⲉⲓⲱⲧ`
+
+Reconstruction note: the clean reader uses only the true-family core. The family-outside scene and kingdom-of-Father ending remain apparatus material.
+
+## Logion 100
+
+Decision: Caesar/God core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Source: NHC II,2 as represented in `02_Sources_And_Manuscripts/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲁⲩⲧⲥⲉⲃⲉ ⲓ̅ⲥ̅ ⲁⲩⲛⲟⲩⲃ ⲁⲩⲱ ⲡⲉϫⲁⲩ ⲛⲁϥ` ϫⲉ ⲛⲉⲧⲏⲡ` ⲁⲕⲁⲓⲥⲁⲣ` ⲥⲉϣⲓⲧⲉ ⲙ̅ⲙⲟⲛ ⲛ̅ⲛ̅ϣⲱⲙ` ⲡⲉϫⲁϥ ⲛⲁⲩ ϫⲉ ϯ ⲛⲁ ⲕⲁⲓⲥⲁⲣ` ⲛ̅ⲕⲁⲓⲥⲁⲣ ϯ ⲛⲁ ⲡⲛⲟⲩⲧⲉ ⲙ̅ⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲡⲉⲧⲉ ⲡⲱⲉⲓ ⲡⲉ ⲙⲁⲧⲛ̅ⲛⲁⲉⲓϥ
+
+Reconstruction note: the clean reader uses only the Caesar/God core. The Thomas-specific third clause remains apparatus material.
+
+## Logion 107
+
+Decision: lost-sheep core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Source: NHC II,2 as represented in `02_Sources_And_Manuscripts/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲡⲉϫⲉ ⲓ̅ⲥ̅ ϫⲉ ⲧⲙⲛ̅ⲧⲉⲣⲟ ⲉⲥⲧⲛ̅ⲧⲱ_ ⲉⲩⲣⲱⲙⲉ ⲛ̅ϣⲱⲥ ⲉⲩⲛ̅ⲧⲁϥ` ⲙ̅ⲙⲁⲩ ⲛ̅ϣⲉ ⲛ̅ⲉⲥⲟⲟⲩ ⲁⲟⲩⲁ ⲛ̅ϩⲏⲧⲟⲩ ⲥⲱⲣⲙ` ⲉⲡⲛⲟϭ ⲡⲉ ⲁϥⲕⲱ ⲙ̅ⲡⲥⲧⲉⲯⲓⲧ ⲁϥϣⲓⲛⲉ ⲛ̅ⲥⲁ ⲡⲓⲟⲩⲁ ϣⲁⲛⲧⲉϥϩⲉ ⲉⲣⲟϥ ⲛ̅ⲧⲁⲣⲉϥϩⲓⲥⲉ ⲡⲉϫⲁϥ` ⲙ̅ⲡⲉⲥⲟ{ⲩ}ⲟⲩ ϫⲉ ϯⲟⲩⲟϣⲕ` ⲡⲁⲣⲁ ⲡⲥⲧⲉⲯⲓⲧ`
+
+Reconstruction note: the clean reader uses the one-lost-sheep search core. The "largest sheep" and "I love you more" elements remain apparatus material.

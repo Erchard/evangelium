@@ -57,9 +57,9 @@
 | 41 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; later refine full dossier. |
 | 42 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Search wider passersby/stranger parallels. |
 | 43 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logion 45 tree/fruit cluster and polemical framing. |
-| 44 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | High candidate: deepen blasphemy-Spirit synoptic controls. |
+| 44 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Keep outside reader; possible short Spirit-blasphemy core only after further decision pass. |
 | 45 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1 | Split grapes/thorns and good/evil treasure before reader decision. |
-| 46 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | High candidate: compare Matt 11:11 / Luke 7:28 and Thomas 22. |
+| 46 | YES | YES | `UNCERTAIN`; possible marked core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Compare with Logion 22 before any reader change. |
 | 47 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1 | Split two masters, new wine, and patch units. |
 | 48 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Thomas 106 and Matt 18:19-20. |
 | 49 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in unity/monachos cluster. |
@@ -68,9 +68,9 @@
 | 52 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study living/dead and prophets cluster. |
 | 53 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Add to ritual-practice cluster. |
 | 54 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; later refine full dossier. |
-| 55 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | High candidate: deepen radical discipleship and cross motif. |
+| 55 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Keep outside reader; cross-bearing language requires caution. |
 | 56 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study world/corpse cluster with 80 and 111. |
-| 57 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | High candidate: deepen Matt 13 weeds comparison. |
+| 57 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Keep outside reader; Matthew-dependence risk remains high. |
 | 58 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Search beatitude/labor/life parallels. |
 | 59 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study living/death cluster with 11, 52, and 111. |
 | 60 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study living/dead/rest cluster; no reader inclusion yet. |
@@ -89,42 +89,42 @@
 | 73 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; later refine full dossier. |
 | 74 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Search wider well/access/initiation parallels. |
 | 75 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in unity/monachos/bridal chamber cluster. |
-| 76 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | High candidate: split pearl parable and imperishable treasure unit. |
+| 76 | YES | YES | `UNCERTAIN`; split-core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Split pearl and imperishable-treasure units before decision. |
 | 77 | YES | NO | `DEFER` | NO | P.Oxy. 1 overlap for 77b only | Primary card v0.1 | Deepen light/all and 77b presence units separately. |
-| 78 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | High candidate: deepen John Baptist wilderness/reed controls. |
-| 79 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | High candidate: deepen Luke 11:27-28 and Luke 23:29 controls. |
+| 78 | YES | YES | `UNCERTAIN`; possible marked core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Separate wilderness/reed core from final truth clause. |
+| 79 | YES | YES | `UNCERTAIN`; split-core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Consider hearing/keeping word core only after further study. |
 | 80 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study world/body cluster with 56 and 111. |
 | 81 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logia 63 and 110; test rich/renounce cluster. |
 | 82 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Deepen with Logion 10 and Luke 12:49 fire imagery. |
 | 83 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logia 24, 50, and 84 image/light cluster. |
 | 84 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep with image/pre-existence cluster; no reader inclusion. |
 | 85 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study Adam/anthropology cluster with Logia 1 and 19. |
-| 86 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: deepen Matt 8:20 / Luke 9:58 controls. |
+| 86 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Decision pass v0.1 | Needs multilingual sync and apparatus/dossier expansion. |
 | 87 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logia 29 and 112 body/soul cluster. |
 | 88 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study prophet/angel and possession-transfer motifs. |
-| 89 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: deepen Matt 23:25-26 / Luke 11:39-40 controls. |
-| 90 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: deepen Matt 11:28-30 control. |
+| 89 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Decision pass v0.1 | Needs multilingual sync and apparatus/dossier expansion. |
+| 90 | YES | YES | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Keep outside reader unless a later pass accepts a marked Matthean-control unit. |
 | 91 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split dialogue frame from recognition-of-time core. |
 | 92 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split seek/find core from dialogue-memory expansion. |
-| 93 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: compare Matt 7:6 and Thomas secrecy motifs. |
-| 94 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: deepen with Logia 2 and ask/seek/knock tradition. |
-| 95 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | High ethical candidate: compare Luke 6:34-35 and anti-usury traditions. |
-| 96 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: deepen leaven parable against Matt/Luke. |
+| 93 | YES | YES | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Keep in appendix; one-source Matthean control and secrecy function require caution. |
+| 94 | YES | YES | `UNCERTAIN`; possible marked-core candidate | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Decide with Logia 2 and 92 before any reader change. |
+| 95 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Decision pass v0.1 | Needs multilingual sync and apparatus/dossier expansion. |
+| 96 | YES | YES | `INCLUDE_WITH_MARKER` for leaven core; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Decision pass v0.1 | Needs multilingual sync; Father/ears frame remains apparatus material. |
 | 97 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study as possible independent parable; needs evidence note. |
 | 98 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study violent-kingdom and strong-man motifs; likely apparatus only. |
-| 99 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: split family-redefinition core from kingdom ending. |
-| 100 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: test Caesar/God core and Thomas-specific third clause. |
+| 99 | YES | YES | `INCLUDE_WITH_MARKER` for true-family core; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Decision pass v0.1 | Needs multilingual sync; kingdom-of-Father ending remains apparatus material. |
+| 100 | YES | YES | `INCLUDE_WITH_MARKER` for Caesar/God core; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Decision pass v0.1 | Needs multilingual sync; Thomas-specific third clause remains apparatus material. |
 | 101 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split family-renunciation core from true-mother/life expansion. |
 | 102 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logion 39 and Luke 11:52; likely polemical cluster. |
-| 103 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: compare thief/watchfulness controls. |
+| 103 | YES | YES | `UNCERTAIN`; split-core candidate | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Decide with Logion 21 thief/watchfulness cluster. |
 | 104 | YES | NO | `DEFER` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split bridegroom-fasting core from Thomas ritual/bridal-chamber frame. |
 | 105 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study father/mother/birth cluster with Logia 15 and 101. |
 | 106 | YES | NO | `DEFER` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Study unity/mountain-moving cluster with Logia 22 and 48. |
-| 107 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: compare lost-sheep tradition in Matt/Luke. |
+| 107 | YES | YES | `INCLUDE_WITH_MARKER` for lost-sheep core; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Decision pass v0.1 | Needs multilingual sync; largest/love-more ending remains apparatus material. |
 | 108 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in Thomasine mysticism/transmission cluster. |
-| 109 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: split hidden-treasure core from expansion. |
+| 109 | YES | YES | `UNCERTAIN`; split-core candidate | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Hidden-treasure core only; inheritance/sale/usury expansion remains problematic. |
 | 110 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study world-renunciation cluster with 56, 80, 81, 111. |
 | 111 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split heaven/earth passing core from living/self/world cluster. |
 | 112 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study body/soul cluster with Logia 29 and 87. |
-| 113 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | High candidate: compare Luke 17:20-21 and Logion 3. |
+| 113 | YES | YES | `UNCERTAIN`; possible marked-core candidate | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Decide with Logion 3 kingdom-not-here-or-there cluster. |
 | 114 | YES | NO | `EXCLUDE_AS_SECONDARY` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep as exclusion example in evidence dossier. |

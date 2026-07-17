@@ -38,3 +38,46 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 73.
 Рішення: `UNCERTAIN`.
 
 Наступна дія: high-candidate deepening; possible `INCLUDE_WITH_MARKER` after checking Matt/Luke controls.
+
+## Еталонне вирівнювання картки v0.1
+
+Еталон: `05_Logia_Corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `05_Logia_Corpus/cards/logion-006.md`.
+
+### Поточне рішення
+
+- Рішення: `INCLUDE_WITH_MARKER`.
+- Reader text: YES.
+- Greek witness status: No loaded P.Oxy. witness.
+- Попередній шар: жниво велике, робітників мало.
+- Поточний робочий статус: Multilingual sync v0.1.
+
+### Ймовірнісний профіль
+
+| Період | Ймовірність | Нотатка |
+| --- | ---: | --- |
+| До 60 року | 30% | Робоча оцінка з `05_Logia_Corpus/tables/logia-index.md`; не є математичним доказом. |
+| 60-90 роки | 40% | Робоча оцінка з індексу; переглядати після поглиблення evidence note. |
+| 90-130 роки | 25% | Робоча оцінка з індексу; особливо важлива для томиного/редакційного шару. |
+| Після 130 року | 5% | Робоча оцінка з індексу; високий показник тут послаблює включення до найдавнішої реконструкції. |
+
+### Доказовий апарат
+
+- Evidence note:
+  - `06_Reconstructions/earliest-sayings-gospel/notes/logion-073-evidence-en.md`
+- Synoptic/control files:
+  - `04_Synoptic_Parallels/logion-073-harvest-workers-controls.md`
+- Cluster/context notes:
+немає окремого файлу; прогалина лишається видимою.
+
+### Шарова модель для реконструкції
+
+- Можливе раннє ядро: є реконструкційний кандидат, але друкувати/оцінювати тільки з маркером непевності.
+- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
+
+### Наступна дія
+
+English/Coptic/Greek retroversion/parallel rows added; later refine full dossier.
+
+Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
+

@@ -1,6 +1,6 @@
 # A Reconstruction of the Earliest Sayings Gospel
 
-Status: working text v0.3. This English layer is not yet fully synchronized with the Ukrainian clean reader. This pass adds Logia 41, 54, 72, and 73 after the Ukrainian clean-reader update.
+Status: working text v0.4. Synchronized with the 31-unit Ukrainian clean reader after the final high-candidate decision pass.
 
 ## Logion 1
 
@@ -121,3 +121,31 @@ And turning to his disciples, he said, "Am I a divider?"
 ## Logion 73
 
 The harvest is great, but the workers are few. Ask the Lord to send workers into the harvest.
+
+## Logion 86
+
+Foxes have holes, birds have nests, but the Son of Man has nowhere to lay his head.
+
+## Logion 89
+
+Why do you clean the outside of the cup? Do you not understand that the one who made the inside also made the outside?
+
+## Logion 95
+
+If you have money, do not lend at interest; give to the one from whom you do not expect to receive it back.
+
+## Logion 96
+
+The kingdom is like a woman who took a little leaven and hid it in dough.
+
+## Logion 99
+
+Those who do the Father's will are my brothers and my mother.
+
+## Logion 100
+
+Give Caesar what belongs to Caesar, and God what belongs to God.
+
+## Logion 107
+
+A shepherd had one hundred sheep. One of them went astray; he left the ninety-nine and searched for it until he found it.

@@ -50,3 +50,47 @@ Evidence note: `06_Reconstructions/earliest-sayings-gospel/notes/logion-011-evid
 5. `один / два` - частина томиного unity cluster, пор. логії 22, 23, 30, 106.
 
 Публікаційна нотатка: не додавати логію 11 до українського читацького тексту зараз. Навіть найсильніший фрагмент про небо, що минає, поки лишається в апараті через відмінність від синоптичної формули і складну композицію всієї логії.
+
+## Еталонне вирівнювання картки v0.1
+
+Еталон: `05_Logia_Corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `05_Logia_Corpus/cards/logion-006.md`.
+
+### Поточне рішення
+
+- Рішення: `UNCERTAIN`.
+- Reader text: NO.
+- Greek witness status: Greek retroversion, hypothetical.
+- Попередній шар: небо мине / мертві й живі / світло / один і два.
+- Поточний робочий статус: Deepened v0.2.
+
+### Ймовірнісний профіль
+
+| Період | Ймовірність | Нотатка |
+| --- | ---: | --- |
+| До 60 року | 10% | Робоча оцінка з `05_Logia_Corpus/tables/logia-index.md`; не є математичним доказом. |
+| 60-90 роки | 25% | Робоча оцінка з індексу; переглядати після поглиблення evidence note. |
+| 90-130 роки | 45% | Робоча оцінка з індексу; особливо важлива для томиного/редакційного шару. |
+| Після 130 року | 20% | Робоча оцінка з індексу; високий показник тут послаблює включення до найдавнішої реконструкції. |
+
+### Доказовий апарат
+
+- Evidence note:
+  - `06_Reconstructions/earliest-sayings-gospel/notes/logion-011-evidence-en.md`
+- Synoptic/control files:
+  - `04_Synoptic_Parallels/logia-008-020-022-high-candidate-controls.md`
+  - `04_Synoptic_Parallels/logion-011-heaven-passing-controls.md`
+- Cluster/context notes:
+  - `06_Reconstructions/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
+
+### Шарова модель для реконструкції
+
+- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
+- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці. наявні мотиви, які можуть належати до томиного богословського розгортання.
+- Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
+
+### Наступна дія
+
+Keep in apparatus; heaven-passing subunit has partial synoptic control, but full unit is composite and one/two material belongs to Thomas unity cluster.
+
+Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
+

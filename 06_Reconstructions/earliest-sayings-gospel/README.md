@@ -1,6 +1,6 @@
 # Earliest Sayings Gospel Reconstruction
 
-Status: working reconstruction v0.3.
+Status: working reconstruction v0.6, updated 2026-07-17.
 
 This folder contains the projected public-facing reconstruction of the earliest recoverable layer of the sayings gospel tradition preserved in the Gospel of Thomas.
 
@@ -24,15 +24,32 @@ The reconstruction is not a simple translation of the Coptic Gospel of Thomas. I
 | `parallel-edition.md` | Parallel research edition. |
 | `inclusion-decisions-table.md` | Inclusion / exclusion decisions. |
 | `evidence-dossier-en.md` | English evidence dossier. |
+| `full-logion-commentary-appendix-uk.md` | Ukrainian full 114-logion commentary appendix: complete scaffold for all 114 logia, with reader-facing expansion underway for included units. |
 | `notes/` | Detailed logion-level evidence notes. |
+| `greek-retroversion-confidence-audit-v0.1.md` | Audit distinguishing extant Greek witnesses, lacunose/partial Greek witnesses, mixed cases, and hypothetical Greek retroversions. |
 
 ## Current Scope
 
-The first reconstructed block covers Logia 1-5.
+The current clean reconstructed reader covers 31 logia or marked cores.
 
-- Logia 1-5 are currently `INCLUDE_WITH_MARKER`.
+- Logia 1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 54, 72, 73, 86, 89, 95, 96, 99, 100, and 107 are currently printed in the clean Ukrainian reader.
 - Logion 2 remains the methodological gold-standard card.
-- Logia 6-7 have source audits and evidence notes, but remain `UNCERTAIN` and are not included in the main reconstructed text.
 - The Ukrainian reader text is now a clean numbered text; technical cautions, markers, and explanations belong in `reconstructed-gospel-uk-apparatus.md` and `reader-commentary-uk.md`.
+- English, Coptic, Greek, and parallel layers are synchronized for the current 31-unit reader.
+- The Greek layer is controlled by `greek-retroversion-confidence-audit-v0.1.md`; hypothetical retroversions must not be treated as manuscript witnesses.
+- `full-logion-commentary-appendix-uk.md` covers all 114 logia as a scaffold. Reader-facing sections have been expanded for 23 included logia/cores: 1-6, 9, 10, 16, 20, 22, 25, 26, 31-33, 86, 89, 95, 96, 99, 100, 107.
 
-This is a working reconstruction, not a final academic edition. The next publication-level tasks are full synoptic comparison tables, collation with major academic editions, and wider ancient-parallel research for non-synoptic material.
+This is a working reconstruction, not a final academic edition.
+
+## Full Commentary Principle
+
+The clean reconstruction is selective. Not all 114 logia of the Gospel of Thomas belong in the reconstructed earliest sayings gospel.
+
+However, the reader-facing appendix and commentary must eventually cover all 114 logia. Excluded, deferred, and uncertain logia still need context, interpretation, source notes, parallels, and a clear explanation of why they were not included in the clean reconstruction.
+
+The final reader experience should therefore have two layers:
+
+1. clean reconstructed text: only the most responsible early reconstruction;
+2. full commentary appendix: all 114 logia, including rejected or deferred material.
+
+The next publication-level task is to continue full appendix expansion for the remaining included units, beginning with Logia 34, 35, 36, 39, and 41. After that, expand 54, 72, and 73, then turn to excluded/deferred/uncertain logia and the evidence dossier publication pass.

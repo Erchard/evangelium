@@ -1,6 +1,6 @@
 # Evidence Dossier
 
-Status: working evidence dossier v1.1.
+Status: working evidence dossier v1.3.
 
 ## Aim
 
@@ -55,7 +55,7 @@ Protected modern translations are not used as the base text. Public domain or op
 
 ## Current Block Summary
 
-The first reconstructed block covers Logia 1-6 ethical core, 9-10 cores, 16 core, 20, 22 core, 25-26, 31-36, and 39 as marked sayings. Logia 7, 8, 11, 23, 27, 37, and 38 have evidence notes, cards, or cluster checks, but they are not included in the main reconstructed text because their current decision is `UNCERTAIN`.
+The current reconstructed reader block covers 31 logia or cores: 1-6 ethical core, 9-10 cores, 16 core, 20, 22 core, 25-26, 31-36, 39, 41, 54, 72-73, 86, 89, 95-96, 99-100, and 107 as marked sayings. Logia 7, 8, 11, 23, 27, 37, 38, 44, 46, 55, 57, 76, 78, 79, 90, 93, 94, 103, 109, and 113 have evidence notes, cards, or cluster checks, but they are not included in the main reconstructed text because their current decision is `UNCERTAIN`, split-core pending, or too duplicative.
 
 ## Logion 1 Summary
 
@@ -470,6 +470,86 @@ Synoptic evidence table: `04_Synoptic_Parallels/logia-036-039-poxy655-synoptic-c
 
 Reconstruction implication: include Logion 39 in the Ukrainian reader text with split-unit markers.
 
+## Logion 41 Summary
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Marked reader text:
+
+> Whoever has will be given more; whoever does not have will lose even the little that they have.
+
+Reason: Thomas 41 preserves a compact has/given formula with very strong synoptic controls in Mark 4:25, Matthew 13:12, Matthew 25:29, Luke 8:18, and Luke 19:26. The saying is short, aphoristic, portable, and broadly attested across different synoptic contexts. This makes it a strong candidate for early circulating tradition.
+
+The marker remains necessary because no loaded extant Greek Thomas witness preserves Logion 41, because Thomas has distinctive "in hand" and "little" wording, and because standalone transmission may reflect either early oral form or later extraction from parabolic contexts.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 41. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-041-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-041-has-given-controls.md`.
+
+Reconstruction implication: include Logion 41 in the Ukrainian reader text with a marker; do not treat the hypothetical Greek retroversion as manuscript evidence.
+
+## Logion 54 Summary
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Marked reader text:
+
+> Blessed are the poor, for the kingdom of heaven belongs to you.
+
+Reason: Thomas 54 is one of the shortest and strongest beatitude candidates in the current reconstruction. Luke 6:20 closely controls the direct address to the poor and the "yours" form, while Matthew 5:3 controls the kingdom-of-heaven wording. The compact poor/kingdom beatitude plausibly belongs to an early shared beatitude tradition.
+
+The marker remains necessary because Thomas appears to stand between Lukan and Matthean forms: "poor" is closer to Luke, while "kingdom of heaven" is closer to Matthew. This may reflect shared tradition, secondary harmonization, Coptic transmission, or Thomasine wording. Direction of dependence remains unresolved.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 54. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-054-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-054-blessed-poor-controls.md`.
+
+Reconstruction implication: include Logion 54 in the Ukrainian reader text with a marker; a shorter early core may be "Blessed are the poor, for yours is the kingdom."
+
+## Logion 72 Summary
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Marked reader text:
+
+> A man asked Jesus to make his brothers divide the father's property with him. Jesus refused the role of divider and asked, "Am I a divider?"
+
+Reason: Thomas 72 and Luke 12:13-15 share a distinctive inheritance-dispute scene. In both, a man asks Jesus to intervene in a family inheritance matter, and Jesus refuses the role of judge or divider. The scene is concrete, socially plausible, and not dependent on later ecclesial doctrine. Thomas preserves a compact version that may represent an extracted or shorter refusal saying.
+
+The marker remains necessary because Luke is the only major synoptic control currently entered, and literary direction remains unresolved. Luke may expand a short refusal saying into an anti-greed discourse, or Thomas may abbreviate Luke's scene.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 72. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-072-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-072-inheritance-dispute-controls.md`.
+
+Reconstruction implication: include Logion 72 in the Ukrainian reader text with a marker; keep Luke-dependence as an explicit warning in the apparatus.
+
+## Logion 73 Summary
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Marked reader text:
+
+> The harvest is great, but the workers are few. Ask the Lord to send workers into the harvest.
+
+Reason: Thomas 73 preserves the short harvest/workers formula also known from Matthew 9:37-38 and Luke 10:2. The saying is compact, memorable, and mission-oriented, with weak Thomasine secondary markers. Its broad early mission setting makes it a strong candidate for circulating Jesus-tradition, even though its precise Sitz im Leben remains open.
+
+The marker remains necessary because no loaded extant Greek Thomas witness preserves Logion 73, and the wording of "Lord" / "Lord of the harvest" requires careful Greek retroversion control.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 73. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-073-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-073-harvest-workers-controls.md`.
+
+Reconstruction implication: include Logion 73 in the Ukrainian reader text with a marker; use the Matthew/Luke control table to refine any later Greek retroversion.
+
 ## Thomas Unity / Monachos Cluster Summary
 
 Decision rule: unity / monachos language should be treated as a Thomasine theological marker unless it is supported by independent controls.
@@ -483,3 +563,115 @@ Implication for Logion 22: the children/kingdom core remains promising, but the 
 Implication for Logion 23: the logion is now `UNCERTAIN`; it should not enter the reader text. Its "one from a thousand / two from ten thousand / stand as one" pattern may reflect Thomasine elect/solitary identity language rather than a secure earliest saying.
 
 Next test case: Logion 16, because it has a strong synoptic division core plus a probable Thomasine monachos ending.
+
+## Logion 86 Summary
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Marked reader text:
+
+> Foxes have holes, birds have nests, but the Son of Man has nowhere to lay his head.
+
+Reason: the aphoristic core is strongly controlled by Matthew 8:20 and Luke 9:58. Thomas preserves the saying outside the narrative following context, which may reflect a sayings-collection form or secondary decontextualization.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 86. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-086-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-086-foxes-birds-son-of-man-controls.md`.
+
+## Logion 89 Summary
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Marked reader text:
+
+> Why do you clean the outside of the cup? Do you not understand that the one who made the inside also made the outside?
+
+Reason: Luke 11:39-40 strongly controls the maker-of-inside/outside argument, while Matthew 23:25-26 controls the cup and inside/outside motif. The reader prints the compact critique, but the Luke-dependence warning remains.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 89. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-089-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-089-cup-inside-outside-controls.md`.
+
+## Logion 95 Summary
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Marked reader text:
+
+> If you have money, do not lend at interest; give to the one from whom you do not expect to receive it back.
+
+Reason: the saying combines Jewish anti-usury tradition with the radical non-repayment motif controlled by Luke 6:34-35. It is ethically coherent with the reconstruction, especially Logion 6, but remains marked because the Coptic opening is damaged and the combination may be secondary.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 95. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-095-evidence-en.md`.
+
+Synoptic/control table: `04_Synoptic_Parallels/logion-095-money-lending-controls.md`.
+
+## Logion 96 Summary
+
+Decision: leaven core `INCLUDE_WITH_MARKER`; full Logion 96 `UNCERTAIN`.
+
+Marked reader text:
+
+> The kingdom is like a woman who took a little leaven and hid it in dough.
+
+Reason: the leaven parable core is strongly controlled by Matthew 13:33 and Luke 13:20-21. The Thomas-specific Father frame, large-loaves result, and hearing formula remain outside the clean reader.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 96. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-096-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-096-leaven-controls.md`.
+
+## Logion 99 Summary
+
+Decision: true-family core `INCLUDE_WITH_MARKER`; full Logion 99 `UNCERTAIN`.
+
+Marked reader text:
+
+> Those who do the Father's will are my brothers and my mother.
+
+Reason: Mark 3:31-35, Matthew 12:46-50, and Luke 8:19-21 strongly control the true-family core. The family-outside narrative frame and Thomas's kingdom-of-the-Father ending remain outside the clean reader.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 99. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-099-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-099-true-family-controls.md`.
+
+## Logion 100 Summary
+
+Decision: Caesar/God core `INCLUDE_WITH_MARKER`; full Logion 100 `UNCERTAIN`.
+
+Marked reader text:
+
+> Give Caesar what belongs to Caesar, and God what belongs to God.
+
+Reason: the Caesar/God core is strongly controlled by Mark 12:13-17, Matthew 22:15-22, and Luke 20:20-26. The Thomas-specific third clause, "give me what is mine," remains outside the clean reader.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 100. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-100-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-100-caesar-god-controls.md`.
+
+## Logion 107 Summary
+
+Decision: lost-sheep core `INCLUDE_WITH_MARKER`; full Logion 107 `UNCERTAIN`.
+
+Marked reader text:
+
+> A shepherd had one hundred sheep. One of them went astray; he left the ninety-nine and searched for it until he found it.
+
+Reason: the lost-sheep parable core is strongly controlled by Matthew 18:12-14 and Luke 15:3-7. Thomas's "largest sheep" and "I love you more" elements likely reshape the parable around the singular one and remain outside the clean reader.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 107. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-107-evidence-en.md`.
+
+Synoptic evidence table: `04_Synoptic_Parallels/logion-107-lost-sheep-controls.md`.

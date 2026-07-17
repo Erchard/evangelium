@@ -1,6 +1,6 @@
 # Greek Witnesses
 
-Status: working text v0.3. This file distinguishes extant Greek witnesses from explicitly marked hypothetical Greek retroversions. Retroversions are not manuscript witnesses.
+Status: working text v0.5. This file distinguishes extant Greek witnesses from explicitly marked hypothetical Greek retroversions. Retroversions are not manuscript witnesses. Confidence levels and publication instructions are controlled in `greek-retroversion-confidence-audit-v0.1.md`.
 
 ## Logion 1
 
@@ -271,3 +271,87 @@ Confidence: medium-high.
 > ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι· δεήθητε δὲ τοῦ κυρίου ἵνα ἐκβάλῃ ἐργάτας εἰς τὸν θερισμόν.
 
 Basis: Coptic text plus strong controls in Matthew 9:37-38 and Luke 10:2. The wording is formulaic and very likely Greek in circulation, but this is still not an extant Greek Thomas witness.
+
+## Logion 86
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> αἱ ἀλώπεκες φωλεοὺς ἔχουσιν καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνώσεις· ὁ δὲ υἱὸς τοῦ ἀνθρώπου οὐκ ἔχει ποῦ τὴν κεφαλὴν κλίνῃ.
+
+Basis: Coptic Thomas plus Matthew 8:20 and Luke 9:58. This is a reader-core retroversion, not an extant Greek Thomas witness.
+
+## Logion 89
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> διὰ τί καθαρίζετε τὸ ἔξωθεν τοῦ ποτηρίου; οὐ νοεῖτε ὅτι ὁ ποιήσας τὸ ἔσωθεν καὶ τὸ ἔξωθεν ἐποίησεν;
+
+Basis: Coptic Thomas plus Luke 11:39-40 and Matthew 23:25-26. This is not an extant Greek Thomas witness.
+
+## Logion 95
+
+Decision: `INCLUDE_WITH_MARKER`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> ἐὰν ἔχητε ἀργύριον, μὴ δανείζετε ἐπὶ τόκῳ, ἀλλὰ δότε ᾧ οὐ προσδοκᾶτε λαβεῖν παρʼ αὐτοῦ.
+
+Basis: Coptic Thomas plus Luke 6:34-35 and Jewish anti-usury controls. The Coptic opening is damaged, so the retroversion remains cautious.
+
+## Logion 96
+
+Decision: leaven core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> ὁμοία ἐστὶν ἡ βασιλεία γυναικὶ λαβούσῃ μικρὸν ζύμης καὶ κρυψάσῃ αὐτὴν ἐν ἀλεύρῳ.
+
+Basis: Coptic Thomas plus Matthew 13:33 and Luke 13:20-21. This retroversion covers only the reader core; the Father frame, large-loaves result, and hearing formula are excluded.
+
+## Logion 99
+
+Decision: true-family core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> οἱ ποιοῦντες τὸ θέλημα τοῦ πατρός μου οὗτοί εἰσιν οἱ ἀδελφοί μου καὶ ἡ μήτηρ μου.
+
+Basis: Coptic Thomas plus Mark 3:31-35, Matthew 12:46-50, and Luke 8:19-21. This retroversion covers only the true-family core.
+
+## Logion 100
+
+Decision: Caesar/God core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium-high.
+
+> ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ.
+
+Basis: Coptic Thomas plus Mark 12:13-17, Matthew 22:15-22, and Luke 20:20-26. The Thomas-specific third clause is excluded from this reader-core retroversion.
+
+## Logion 107
+
+Decision: lost-sheep core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> ἄνθρωπος ποιμὴν εἶχεν ἑκατὸν πρόβατα. ἓν ἐξ αὐτῶν ἀπώλετο· ἀφῆκεν τὰ ἐνενήκοντα ἐννέα καὶ ἐζήτησεν τὸ ἕν ἕως εὗρεν αὐτό.
+
+Basis: Coptic Thomas plus Matthew 18:12-14 and Luke 15:3-7. The "largest sheep" and "I love you more" elements are excluded from this reader-core retroversion.
