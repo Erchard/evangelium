@@ -24,7 +24,7 @@ The reconstruction is not a simple translation of the Coptic Gospel of Thomas. I
 | `parallel-edition.md` | Parallel research edition. |
 | `inclusion-decisions-table.md` | Inclusion / exclusion decisions. |
 | `evidence-dossier-en.md` | English evidence dossier. |
-| `full-logion-commentary-appendix-uk.md` | Ukrainian full 114-logion commentary appendix: complete scaffold for all 114 logia, with reader-facing expansion underway for included units. |
+| `full-logion-commentary-appendix-uk.md` | Ukrainian full 114-logion commentary appendix: complete scaffold for all 114 logia, with all current clean-reader units expanded to reader-facing commentary sections. |
 | `notes/` | Detailed logion-level evidence notes. |
 | `greek-retroversion-confidence-audit-v0.1.md` | Audit distinguishing extant Greek witnesses, lacunose/partial Greek witnesses, mixed cases, and hypothetical Greek retroversions. |
 
@@ -37,7 +37,7 @@ The current clean reconstructed reader covers 31 logia or marked cores.
 - The Ukrainian reader text is now a clean numbered text; technical cautions, markers, and explanations belong in `reconstructed-gospel-uk-apparatus.md` and `reader-commentary-uk.md`.
 - English, Coptic, Greek, and parallel layers are synchronized for the current 31-unit reader.
 - The Greek layer is controlled by `greek-retroversion-confidence-audit-v0.1.md`; hypothetical retroversions must not be treated as manuscript witnesses.
-- `full-logion-commentary-appendix-uk.md` covers all 114 logia as a scaffold. Reader-facing sections have been expanded for 28 included logia/cores: 1-6, 9, 10, 16, 20, 22, 25, 26, 31-36, 39, 41, 86, 89, 95, 96, 99, 100, 107.
+- `full-logion-commentary-appendix-uk.md` covers all 114 logia as a scaffold. Reader-facing sections have been expanded for all 31 current clean-reader logia/cores: 1-6, 9, 10, 16, 20, 22, 25, 26, 31-36, 39, 41, 54, 72, 73, 86, 89, 95, 96, 99, 100, 107.
 
 This is a working reconstruction, not a final academic edition.
 
@@ -52,4 +52,4 @@ The final reader experience should therefore have two layers:
 1. clean reconstructed text: only the most responsible early reconstruction;
 2. full commentary appendix: all 114 logia, including rejected or deferred material.
 
-The next publication-level task is to continue full appendix expansion for the remaining included units, beginning with Logia 54, 72, and 73. After that, turn to excluded/deferred/uncertain logia and the evidence dossier publication pass.
+The next publication-level task is the final all-114 decision audit. After that, turn to excluded/deferred/uncertain logia and the evidence dossier publication pass.

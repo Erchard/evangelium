@@ -1,5 +1,32 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, full appendix expansion for Logia 54, 72, 73
+
+### Що додано
+
+- `project/ide-codex-full-appendix-logia-054-072-073-expansion-prompt.md` - промпт для закриття останнього пакета включених clean-reader логій, які ще мали каркасний appendix-розділ.
+
+### Що оновлено
+
+- `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md`: логії 54, 72 і 73 перетворено з каркасних секцій на читацькі коментарі.
+- `README.md`, `project/project-map.md`, `project/project-completion-roadmap.md`, `project/final-product-specification.md`, `project/publication-gap-audit-v0.1.md`, `project/repository-structure.md`, `reconstruction/earliest-sayings-gospel/README.md`: статус full appendix оновлено з 28 розгорнутих включених секцій до всіх 31 включених одиниць поточного clean reader.
+
+### Методологічне рішення
+
+Чистий український reader не змінювався. Логії 54, 72 і 73 вже були включені до clean reader; цей прохід додав другий читацький шар: сенс логії, підстави включення, синоптичні контролі, можливі тлумачення, Greek retroversion status і межі впевненості.
+
+Особливо зафіксовано:
+
+- Logion 54 має сильну beatitude-паралель із Лукою 6:20 і Матвієм 5:3, але змішує Luke-like direct poverty і Matthew-like kingdom-of-heaven wording.
+- Logion 72 лишається найобережнішою з трьох, бо має дуже близький, але одиничний контроль у Луці 12:13-15.
+- Logion 73 має сильний формульний подвійний контроль у Матвія 9:37-38 і Луки 10:2.
+
+Для всіх трьох логій немає loaded extant Greek Thomas witness; будь-яка грецька форма має лишатися `Greek retroversion, hypothetical`.
+
+### Наступна дія
+
+Провести final all-114 decision audit перед фіналізацією складу clean reader.
+
 ## 2026-07-17, repository structure reorganization
 
 ### Що змінено
@@ -12,7 +39,7 @@
 
 Реорганізація не змінює зміст реконструкції. Вона лише робить робочий простір ближчим до фактичної логіки проекту: джерела окремо, корпус карток окремо, контролі паралелей окремо, реконструкція і читацькі тексти окремо.
 
-### Наступна дія
+### Наступна дія на той момент
 
 Після структурного прибирання продовжити full appendix expansion для логій 54, 72, 73.
 

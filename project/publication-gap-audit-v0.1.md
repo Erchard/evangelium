@@ -19,7 +19,7 @@
 | Parallel edition | Є, 31 рядок |
 | Evidence dossier | Є, робочий v1.3 |
 | Inclusion decisions table | Є, але не фінальна |
-| Full 114-logion appendix | Є для всіх 114 як каркас; 28 включених логій/ядер вже розгорнуті |
+| Full 114-logion appendix | Є для всіх 114 як каркас; усі 31 включені логії/ядра поточного clean reader вже розгорнуті |
 | Card quality audit | Є |
 | Collection log | Є |
 
@@ -81,12 +81,13 @@
 
 Файл `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` уже дуже корисний, але це ще не фінальний коментар.
 
-Він має каркас для всіх 114 логій. Розгорнуті читацькі секції вже створено для 28 включених логій/ядер:
+Він має каркас для всіх 114 логій. Розгорнуті читацькі секції вже створено для всіх 31 включених логій/ядер поточного clean reader:
 
 - 1, 2, 3, 4, 5, 6;
 - 9, 10, 16, 20, 22;
 - 25, 26, 31, 32, 33;
 - 34, 35, 36, 39, 41;
+- 54, 72, 73;
 - 86, 89, 95, 96, 99, 100, 107.
 
 Потрібно продовжити перетворювати решту розділів із каркаса на читацький коментар:
@@ -152,13 +153,12 @@
 
 ## Рекомендований порядок наступних дій
 
-1. Continue full appendix expansion for included 31 logia/cores; next packet: 54, 72, 73.
-2. Final decision audit for all 114 logia.
-3. Clean reader finalization after the all-114 decision audit.
-4. Full appendix expansion for excluded/deferred/uncertain logia.
-5. Evidence dossier publication pass.
-6. Greek retroversion publication polish against academic editions.
-7. Bibliography, rights, and final editorial pass.
+1. Final decision audit for all 114 logia.
+2. Clean reader finalization after the all-114 decision audit.
+3. Full appendix expansion for excluded/deferred/uncertain logia.
+4. Evidence dossier publication pass.
+5. Greek retroversion publication polish against academic editions.
+6. Bibliography, rights, and final editorial pass.
 
 ## Publication-ready criteria
 

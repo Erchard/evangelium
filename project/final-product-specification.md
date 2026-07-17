@@ -23,10 +23,10 @@
 - синхронізовані English, Coptic, Greek і parallel шари для цих 31 одиниць;
 - Greek retroversion confidence audit для всього current reader;
 - evidence dossier v1.3 як робочий, але ще не публікаційний документ;
-- full 114-logion appendix: каркас для всіх 114 логій і розгорнуті читацькі секції для 28 включених логій/ядер;
-- виконані full-appendix пакети: 1-6; 9, 10, 16, 20, 22; 25, 26, 31, 32, 33; 86, 89, 95, 96, 99, 100, 107.
+- full 114-logion appendix: каркас для всіх 114 логій і розгорнуті читацькі секції для всіх 31 включених логій/ядер поточного clean reader;
+- виконані full-appendix пакети: 1-6; 9, 10, 16, 20, 22; 25, 26, 31, 32, 33; 34, 35, 36, 39, 41; 54, 72, 73; 86, 89, 95, 96, 99, 100, 107.
 
-Найближчий editorial/research крок: продовжити full appendix expansion для логій 54, 72, 73.
+Найближчий editorial/research крок: final all-114 decision audit перед фіналізацією складу clean reader.
 
 ## Повний додаток до всіх 114 логій
 
