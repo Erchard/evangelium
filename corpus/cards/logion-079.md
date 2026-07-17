@@ -45,7 +45,7 @@ Composite high-candidate with strong Lukan controls. Треба відділит
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: 79A `PROMOTE_CANDIDATE_FOR_READER_PASS`; reversal ending `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: блаженна утроба; слухати слово Отця.
@@ -63,21 +63,20 @@ Composite high-candidate with strong Lukan controls. Треба відділит
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+`reconstruction/earliest-sayings-gospel/notes/logion-079-evidence-en.md`.
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+`controls/synoptic-parallels/logion-079-womb-word-controls.md`.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster note не створювався; Review B виконує функцію split-core context note.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці.
+- Можливе раннє ядро: Review B визначив hearing/keeping word core як кандидат для майбутнього reader pass.
+- Вторинні / томині ризики: повна форма поєднує Luke 11-like і Luke 23-like матеріал; reversal ending лишається appendix-only.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-High candidate: deepen Luke 11:27-28 and Luke 23:29 controls.
+Split-core review B: consider the hearing/keeping word core in a later clean-reader candidate pass; keep the barren-womb reversal in the appendix.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

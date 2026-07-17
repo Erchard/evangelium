@@ -54,7 +54,7 @@ The kingdom is like a man who had a hidden treasure in his field and did not kno
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: прихований скарб у полі з розгорнутою історією спадку.
@@ -72,21 +72,20 @@ The kingdom is like a man who had a hidden treasure in his field and did not kno
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+`reconstruction/earliest-sayings-gospel/notes/logion-109-evidence-en.md`.
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+`controls/synoptic-parallels/logion-109-hidden-treasure-controls.md`.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster note не створювався; Review B виконує функцію hidden-treasure expansion context note.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: hidden-treasure image лишається цікавим, але Review B залишив логію appendix-only.
+- Вторинні / томині ризики: Matthew-only close control, inheritance/sale expansion and usury ending create high dependence and secondary-layer risk.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-High candidate: split hidden-treasure core from expansion.
+Split-core review B: keep appendix-only for now because Matthew-only close control and the expanded inheritance/sale/usury ending create high dependence and secondary-layer risk.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

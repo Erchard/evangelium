@@ -35,8 +35,7 @@
 
 ## Найближчий робочий цикл
 
-1. Провести split-core decision review B для логій 76, 78, 79, 94, 103, 109, 113.
-2. Після Review B зробити controlled clean-reader candidate pass для ядер, промотованих у Review A/B.
-3. Перетворити робочу таблицю рішень на справжню all-114 publication decision table.
-4. Після цього зафіксувати фінальний склад clean reader.
-5. Розгорнути коментарі для excluded/deferred/uncertain логій і довести evidence dossier, бібліографію, права й редактуру до публікаційного рівня.
+1. Зробити controlled clean-reader candidate pass для ядер, промотованих у Reviews A/B.
+2. Перетворити робочу таблицю рішень на справжню all-114 publication decision table.
+3. Після цього зафіксувати фінальний склад clean reader.
+4. Розгорнути коментарі для excluded/deferred/uncertain логій і довести evidence dossier, бібліографію, права й редактуру до публікаційного рівня.

@@ -156,14 +156,13 @@ Final all-114 decision audit v0.1 уже створено. Він показав
 
 ## Рекомендований порядок наступних дій
 
-1. Split-core decision review B: Logia 76, 78, 79, 94, 103, 109, 113.
-2. Controlled clean-reader candidate pass for promoted cores from Reviews A and B.
-3. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table.
-4. Clean reader finalization after split-core reviews.
-5. Full appendix expansion for excluded/deferred/uncertain logia.
-6. Evidence dossier publication pass.
-7. Greek retroversion publication polish against academic editions.
-8. Bibliography, rights, and final editorial pass.
+1. Controlled clean-reader candidate pass for promoted cores from Reviews A and B.
+2. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table.
+3. Clean reader finalization after split-core reviews.
+4. Full appendix expansion for excluded/deferred/uncertain logia.
+5. Evidence dossier publication pass.
+6. Greek retroversion publication polish against academic editions.
+7. Bibliography, rights, and final editorial pass.
 
 ## Publication-ready criteria
 
@@ -218,4 +217,4 @@ The dossier is ready when it can be read independently by an external reviewer a
 
 The project is no longer in the "build the corpus" phase. It is now in the "defend and refine the reconstruction" phase.
 
-The most valuable immediate work is now Split-Core Decision Review B. Review A identified several possible future reader candidates but did not edit the clean reader; the project should finish the second review before any new clean-reader additions.
+The most valuable immediate work is now a controlled clean-reader candidate pass. Reviews A and B identified possible future reader candidates but did not edit the clean reader; the project should now decide which, if any, genuinely belong in the clean reconstruction.

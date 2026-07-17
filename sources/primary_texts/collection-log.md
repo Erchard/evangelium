@@ -1,5 +1,35 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, split-core decision review B
+
+### Що додано
+
+- `project/ide-codex-split-core-decision-review-b-prompt.md` - промпт для split-core review B.
+- `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md` - підсумковий review по логіях 76, 78, 79, 94, 103, 109, 113.
+
+### Що оновлено
+
+- `reconstruction/earliest-sayings-gospel/inclusion-decisions-table.md`: додано split-core decisions для 76A/76B, 78A, 79A, 94, 103A, 109, 113.
+- `corpus/tables/logia-workflow-matrix.md`: цільові логії позначено як Split-core review B v0.1.
+- `corpus/cards/logion-076.md`, `logion-078.md`, `logion-079.md`, `logion-094.md`, `logion-103.md`, `logion-109.md`, `logion-113.md`: доказовий апарат синхронізовано з уже наявними evidence/control файлами.
+- `README.md`, `project/project-map.md`, `project/project-completion-roadmap.md`, `project/publication-gap-audit-v0.1.md`, `project/repository-structure.md`, `project/final-product-specification.md`, `reconstruction/earliest-sayings-gospel/README.md`: наступний крок оновлено до controlled clean-reader candidate pass.
+
+### Методологічне рішення
+
+Clean Ukrainian reader не змінювався. Review B промотував як candidate cores лише:
+
+- 76A pearl/merchant core;
+- 76B imperishable treasure core;
+- 78A wilderness/reed/soft-clothing core;
+- 79A hearing/keeping word core;
+- 103A thief/watchfulness core.
+
+Logia 94, 109 і 113 залишено appendix-only for now через дублювання вже представлених мотивів або високий dependence/secondary-layer risk.
+
+### Наступна дія
+
+Controlled clean-reader candidate pass для ядер, промотованих у Reviews A/B.
+
 ## 2026-07-17, split-core decision review A
 
 ### Що додано

@@ -54,7 +54,7 @@ Blessed is the one who knows in which watch the thieves are coming, so that he m
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: 103A `PROMOTE_CANDIDATE_FOR_READER_PASS`; expansion `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: блаженний, хто знає час приходу злодія.
@@ -72,21 +72,20 @@ Blessed is the one who knows in which watch the thieves are coming, so that he m
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+`reconstruction/earliest-sayings-gospel/notes/logion-103-evidence-en.md`.
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+`controls/synoptic-parallels/logion-103-thief-watchfulness-controls.md`.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster note не створювався; Review B виконує функцію thief/watchfulness split-core context note.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: Review B визначив short thief/watchfulness core як кандидат для майбутнього reader pass.
+- Вторинні / томині ризики: gather-domain/girding expansion лишається appendix-only через складну ймовірно вторинну форму.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-High candidate: compare thief/watchfulness controls.
+Split-core review B: consider the short thief/watchfulness core in a later clean-reader candidate pass; keep the gather-domain/girding expansion in the appendix.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

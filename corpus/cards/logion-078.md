@@ -45,7 +45,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 78.
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: 78A `PROMOTE_CANDIDATE_FOR_READER_PASS`; truth ending `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: пустеля, очерет, м'який одяг.
@@ -63,21 +63,20 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 78.
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+`reconstruction/earliest-sayings-gospel/notes/logion-078-evidence-en.md`.
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+`controls/synoptic-parallels/logion-078-wilderness-reed-controls.md`.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster note не створювався; Review B виконує функцію split-core context note.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: Review B визначив wilderness/reed/soft-clothing core як кандидат для майбутнього reader pass.
+- Вторинні / томині ризики: фінальна truth/soft-clothing clause ймовірно є томиним або вторинним застосуванням.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-High candidate: deepen John Baptist wilderness/reed controls.
+Split-core review B: consider the wilderness/reed/soft-clothing core in a later clean-reader candidate pass; keep the final truth clause in the appendix.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

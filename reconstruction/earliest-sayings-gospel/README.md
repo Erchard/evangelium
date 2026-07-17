@@ -54,4 +54,4 @@ The final reader experience should therefore have two layers:
 1. clean reconstructed text: only the most responsible early reconstruction;
 2. full commentary appendix: all 114 logia, including rejected or deferred material.
 
-Split-Core Decision Review A now exists. The next publication-level task is Split-Core Decision Review B for Logia 76, 78, 79, 94, 103, 109, and 113. After Review B, prepare a controlled clean-reader candidate pass for the promoted cores, then turn to the publication decision table, excluded/deferred/uncertain appendix sections, and the evidence dossier publication pass.
+Split-Core Decision Reviews A and B now exist. The next publication-level task is a controlled clean-reader candidate pass for the promoted cores. After that, turn to the publication decision table, excluded/deferred/uncertain appendix sections, and the evidence dossier publication pass.

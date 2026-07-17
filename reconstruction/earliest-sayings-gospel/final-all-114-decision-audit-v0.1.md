@@ -60,9 +60,11 @@ These logia could still change the final clean reader if a split-core review sup
 
 Review A completed: split-core review for Logia 45, 47, 63, 64, 65-66 now exists in `split-core-decision-review-a-v0.1.md`.
 
-Current next package: split-core review B for Logia 76, 78, 79, 94, 103, 109, 113.
+Review B completed: split-core review for Logia 76, 78, 79, 94, 103, 109, 113 now exists in `split-core-decision-review-b-v0.1.md`.
 
-Reason: Review A identified candidate cores for a later reader pass but did not edit the clean reader. Review B should complete the same control pass for the second group of live split-core candidates before any clean-reader additions are made.
+Current next package: controlled clean-reader candidate pass for the promoted cores from Reviews A and B.
+
+Reason: Reviews A and B identified candidate cores for a later reader pass but did not edit the clean reader. The next pass should decide which, if any, genuinely belong in the clean reconstruction without creating duplication or lowering the evidentiary threshold.
 
 ## Appendix-Only or Deferred Material
 
@@ -86,22 +88,21 @@ The audit found three types of stale state:
 
 The project should not freeze the final clean reader until:
 
-1. split-core review A is completed for Logia 45, 47, 63, 64, 65-66;
-2. split-core review B is completed for Logia 76, 78, 79, 94, 103, 109, 113;
-3. `inclusion-decisions-table.md` is replaced or upgraded into a true all-114 publication decision table;
-4. full appendix sections for excluded/deferred/uncertain logia are expanded beyond skeleton level;
-5. evidence dossier receives a publication pass with bibliography and rights/citation policy.
+1. controlled clean-reader candidate pass is completed for the promoted cores from split-core reviews A/B;
+2. `inclusion-decisions-table.md` is replaced or upgraded into a true all-114 publication decision table;
+3. full appendix sections for excluded/deferred/uncertain logia are expanded beyond skeleton level;
+4. evidence dossier receives a publication pass with bibliography and rights/citation policy.
 
 ## Next Work Package
 
-Review A has been completed. Next prompt should perform:
+Reviews A and B have been completed. Next prompt should perform:
 
-**Split-Core Decision Review B: Logia 76, 78, 79, 94, 103, 109, 113**
+**Controlled Clean-Reader Candidate Pass: promoted cores from Reviews A/B**
 
 Required outputs:
 
-- dedicated control notes where missing;
-- decision rows for each subunit;
-- recommendation: promote core, keep appendix-only, or defer;
+- reader-candidate evaluation for 45A/45B, 47B, 63, 64A, 76A/76B, 78A, 79A, and 103A;
+- explicit duplication/dependence warnings;
+- update clean reader only if a candidate clearly improves the reconstruction;
 - update workflow matrix and publication gap audit;
-- do not edit the clean Ukrainian reader until after the review.
+- keep Greek retroversions labeled hypothetical unless an extant Greek witness is loaded.

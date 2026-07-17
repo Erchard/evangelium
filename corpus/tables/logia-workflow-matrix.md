@@ -89,10 +89,10 @@
 | 73 | YES | YES | `INCLUDE_WITH_MARKER` | YES | No loaded P.Oxy. witness | Multilingual sync v0.1 | English/Coptic/Greek retroversion/parallel rows added; later refine full dossier. |
 | 74 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Search wider well/access/initiation parallels. |
 | 75 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in unity/monachos/bridal chamber cluster. |
-| 76 | YES | YES | `UNCERTAIN`; split-core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Split pearl and imperishable-treasure units before decision. |
+| 76 | YES | YES | 76A/76B `PROMOTE_CANDIDATE_FOR_READER_PASS`; full logion `UNCERTAIN` | NO | No loaded P.Oxy. witness | Split-core review B v0.1 | Consider pearl and imperishable-treasure cores in later clean-reader candidate pass; do not promote full logion. |
 | 77 | YES | NO | `DEFER` | NO | P.Oxy. 1 overlap for 77b only | Primary card v0.1 | Deepen light/all and 77b presence units separately. |
-| 78 | YES | YES | `UNCERTAIN`; possible marked core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Separate wilderness/reed core from final truth clause. |
-| 79 | YES | YES | `UNCERTAIN`; split-core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Consider hearing/keeping word core only after further study. |
+| 78 | YES | YES | 78A `PROMOTE_CANDIDATE_FOR_READER_PASS`; truth ending `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | No loaded P.Oxy. witness | Split-core review B v0.1 | Consider wilderness/reed/soft-clothing core in later clean-reader candidate pass. |
+| 79 | YES | YES | 79A `PROMOTE_CANDIDATE_FOR_READER_PASS`; reversal ending `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | No loaded P.Oxy. witness | Split-core review B v0.1 | Consider hearing/keeping word core only; keep Luke 23-like reversal in appendix. |
 | 80 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study world/body cluster with 56 and 111. |
 | 81 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logia 63 and 110; test rich/renounce cluster. |
 | 82 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Deepen with Logion 10 and Luke 12:49 fire imagery. |
@@ -107,7 +107,7 @@
 | 91 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split dialogue frame from recognition-of-time core. |
 | 92 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split seek/find core from dialogue-memory expansion. |
 | 93 | YES | YES | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Keep in appendix; one-source Matthean control and secrecy function require caution. |
-| 94 | YES | YES | `UNCERTAIN`; possible marked-core candidate | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Decide with Logia 2 and 92 before any reader change. |
+| 94 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | Greek retroversion, hypothetical | Split-core review B v0.1 | Strong tradition, but likely redundant with Logion 2 in this reconstruction. |
 | 95 | YES | YES | `INCLUDE_WITH_MARKER` | YES | Greek retroversion, hypothetical | Full appendix expanded v0.5 | Publication polish: clarify damaged opening and anti-usury controls. |
 | 96 | YES | YES | `INCLUDE_WITH_MARKER` for leaven core; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Full appendix expanded v0.5 | Publication polish: Father/ears frame remains apparatus material. |
 | 97 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study as possible independent parable; needs evidence note. |
@@ -116,15 +116,15 @@
 | 100 | YES | YES | `INCLUDE_WITH_MARKER` for Caesar/God core; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Full appendix expanded v0.5 | Publication polish: Thomas-specific third clause remains apparatus material. |
 | 101 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split family-renunciation core from true-mother/life expansion. |
 | 102 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logion 39 and Luke 11:52; likely polemical cluster. |
-| 103 | YES | YES | `UNCERTAIN`; split-core candidate | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Decide with Logion 21 thief/watchfulness cluster. |
+| 103 | YES | YES | 103A `PROMOTE_CANDIDATE_FOR_READER_PASS`; expansion `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | Greek retroversion, hypothetical | Split-core review B v0.1 | Consider short thief/watchfulness core later; exclude gather-domain expansion from clean reader. |
 | 104 | YES | NO | `DEFER` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split bridegroom-fasting core from Thomas ritual/bridal-chamber frame. |
 | 105 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study father/mother/birth cluster with Logia 15 and 101. |
 | 106 | YES | NO | `DEFER` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Study unity/mountain-moving cluster with Logia 22 and 48. |
 | 107 | YES | YES | `INCLUDE_WITH_MARKER` for lost-sheep core; full logion `UNCERTAIN` | YES | Greek retroversion, hypothetical | Full appendix expanded v0.5 | Publication polish: largest/love-more ending remains apparatus material. |
 | 108 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in Thomasine mysticism/transmission cluster. |
-| 109 | YES | YES | `UNCERTAIN`; split-core candidate | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Hidden-treasure core only; inheritance/sale/usury expansion remains problematic. |
+| 109 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | Greek retroversion, hypothetical | Split-core review B v0.1 | Keep as appendix case; Matthew-only close control and long expansion remain risky. |
 | 110 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study world-renunciation cluster with 56, 80, 81, 111. |
 | 111 | YES | NO | `UNCERTAIN` | NO | Greek retroversion, hypothetical | Primary card v0.1 | Split heaven/earth passing core from living/self/world cluster. |
 | 112 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study body/soul cluster with Logia 29 and 87. |
-| 113 | YES | YES | `UNCERTAIN`; possible marked-core candidate | NO | Greek retroversion, hypothetical | Evidence note v0.1; control file v0.1 | Decide with Logion 3 kingdom-not-here-or-there cluster. |
+| 113 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | Greek retroversion, hypothetical | Split-core review B v0.1 | Keep appendix-only because Logion 3 already represents this kingdom motif. |
 | 114 | YES | NO | `EXCLUDE_AS_SECONDARY` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep as exclusion example in evidence dossier. |

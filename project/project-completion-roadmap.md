@@ -213,6 +213,6 @@
 
 Наступний рекомендований пакет:
 
-- Split-core decision review B: Logia 76, 78, 79, 94, 103, 109, 113.
+- Controlled clean-reader candidate pass for promoted cores from split-core reviews A/B.
 
-Причина: Split-core review A вже визначив кандидатні ядра 45A/45B, 47B, 63 і 64A для майбутнього controlled clean-reader pass, а 65-66 залишив appendix-only. Тепер треба так само перевірити другий пакет сильних невключених кандидатів: 76, 78, 79, 94, 103, 109, 113. Лише після Review B варто робити окремий clean-reader candidate pass.
+Причина: Split-core reviews A/B вже визначили кандидатні ядра для майбутнього controlled clean-reader pass. Тепер треба не просто додати все сильне, а суворо перевірити, які з цих ядер справді покращують clean reader і не дублюють уже представлені мотиви.

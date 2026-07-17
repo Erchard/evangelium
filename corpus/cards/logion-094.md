@@ -55,7 +55,7 @@ The one who seeks will find; to the one who knocks, it will be opened.
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: хто шукає, знайде; хто стукає, тому відкриють.
@@ -73,21 +73,20 @@ The one who seeks will find; to the one who knocks, it will be opened.
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+`reconstruction/earliest-sayings-gospel/notes/logion-094-evidence-en.md`.
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+`controls/synoptic-parallels/logion-094-seek-knock-controls.md`.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster note не створювався; Review B виконує функцію seek/find duplication context note.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: традиція сильна, але Review B залишив логію appendix-only через дублювання з Logion 2.
+- Вторинні / томині ризики: головний ризик не слабкість вислову, а надмірне дублювання seek/find motif у clean reader.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-High candidate: deepen with Logia 2 and ask/seek/knock tradition.
+Split-core review B: keep appendix-only for now because Logion 2 already represents the seek/find motif in the clean reconstruction.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

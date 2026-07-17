@@ -53,7 +53,7 @@ His disciples said to him, "When will the kingdom come?" It will not come by obs
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: царство не приходить через спостереження; розпростерте на землі.
@@ -71,21 +71,20 @@ His disciples said to him, "When will the kingdom come?" It will not come by obs
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+`reconstruction/earliest-sayings-gospel/notes/logion-113-evidence-en.md`.
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+`controls/synoptic-parallels/logion-113-kingdom-not-observed-controls.md`.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster note не створювався; Review B виконує функцію kingdom-motif duplication context note.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: kingdom-not-observed core is controlled, but Review B left it appendix-only because Logion 3 already represents this motif.
+- Вторинні / томині ризики: spread-out-hidden ending fits Thomasine hidden-presence theology and should not enter the clean reader without a separate argument.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-High candidate: compare Luke 17:20-21 and Logion 3.
+Split-core review B: keep appendix-only for now because Logion 3 already represents the kingdom-not-here-or-there motif and the spread-out ending is distinctly Thomasine.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-

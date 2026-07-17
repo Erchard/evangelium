@@ -71,6 +71,6 @@ These retroversions may be useful for comparison but must not be counted as manu
 
 Next package:
 
-**Split-Core Decision Review B: Logia 76, 78, 79, 94, 103, 109, 113.**
+Split-Core Decision Review B has now been completed in `split-core-decision-review-b-v0.1.md`.
 
-After Review B, create a controlled clean-reader candidate pass for the strongest promoted cores from Reviews A and B.
+Next: create a controlled clean-reader candidate pass for the strongest promoted cores from Reviews A and B.

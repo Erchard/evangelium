@@ -45,7 +45,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 76.
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: 76A/76B `PROMOTE_CANDIDATE_FOR_READER_PASS`; full logion `UNCERTAIN`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: перлина і нетлінний скарб.
@@ -63,21 +63,20 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 76.
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+`reconstruction/earliest-sayings-gospel/notes/logion-076-evidence-en.md`.
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+`controls/synoptic-parallels/logion-076-pearl-treasure-controls.md`.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+окремий cluster note не створювався; Review B виконує функцію split-core context note.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці.
+- Можливе раннє ядро: Review B визначив два кандидатні ядра: pearl/merchant core і imperishable-treasure core.
+- Вторинні / томині ризики: повна форма є складеною; не промотувати як одну примітивну логію.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-High candidate: split pearl parable and imperishable treasure unit.
+Split-core review B: consider pearl and imperishable-treasure cores in a later clean-reader candidate pass; do not promote the full composite logion.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
-
