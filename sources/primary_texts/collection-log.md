@@ -1673,3 +1673,11 @@ Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
 - Created direct evidence/no-note rationale files for Logia 14, 17, 18, 21, 40, 42, 48, 49, 50, and 51.
 - Synchronized workflow matrix, all-114 publication table, evidence-control inventory, cards, and project docs.
 - Direct evidence-note coverage now covers 75 logia; `NEEDS_EVIDENCE_BEFORE_FINAL` is reduced to 16.
+
+## 2026-07-17 - P1 Remaining Evidence Rationale Package B
+
+- Saved prompt: `project/ide-codex-p1-remaining-evidence-rationale-package-b-v0.1-prompt.md`.
+- Created direct evidence/no-note rationale files for Logia 52, 56, 58, 59, 60, 62, 67, 68, 69, 81, 82, 91, 92, 97, 101, and 111.
+- Synchronized workflow matrix, all-114 publication table, evidence-control inventory, cards, and project docs.
+- Direct evidence-note coverage now covers 91 logia; `NEEDS_EVIDENCE_BEFORE_FINAL` is reduced to 0.
+- Clean reader unchanged.

@@ -11,25 +11,25 @@
 | Metric | Count |
 | --- | ---: |
 | Logia covered | 114 |
-| Matrix evidence YES | 65 |
-| Matrix evidence NO | 49 |
-| Actual direct evidence-note coverage | 75 |
+| Matrix evidence YES | 81 |
+| Matrix evidence NO | 33 |
+| Actual direct evidence-note coverage | 91 |
 | Logia with direct control file | 42 |
 | Logia with cluster/range control file | 14 |
 | Logia with cluster/context note but no direct evidence note | 6 |
 | Matrix YES but no actual direct evidence note found | 0 |
 | Matrix NO but actual direct evidence note found | 0 |
-| Logia with neither evidence note nor control/cluster support | 39 |
+| Logia with neither evidence note nor control/cluster support | 23 |
 
 ## Priority Counts
 
 | Priority | Count | Meaning |
 | --- | ---: | --- |
 | `P0` | 0 | Clean-reader unit lacks evidence trail |
-| `P1` | 17 | High-impact missing evidence/control after Package A evidence-rationale pass |
+| `P1` | 1 | Remaining high-impact item after Package B; Logion 114 still needs explicit exclusion rationale. |
 | `P1-control` | 1 | Included/reader unit has evidence but may need dedicated control check |
 | `P2` | 22 | Low-priority appendix/no-note rationale needed |
-| `covered v0.1` | 21 | First P1 package plus Package A now have direct notes |
+| `covered v0.1` | 37 | First P1 package plus Packages A and B now have direct notes |
 | `OK` | 53 | Sufficient for next decision-table pass |
 
 ## Mismatches
@@ -38,7 +38,7 @@
 - Matrix says `NO` but actual direct evidence note found: none.
 - Cards still claiming missing evidence despite an actual evidence note file: 1, 2, 3, 5, 7, 8, 9, 10, 20, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 44, 46, 54, 55, 57, 65, 66, 72, 73, 86, 89, 90, 93, 95, 96, 99, 100, 107.
 
-Interpretation: the workflow matrix is aligned for the first P1 package and Package A. Logion 23 now has a dedicated `logion-023-evidence-en.md` file in addition to the Thomas unity / monachos cluster note. Remaining work is therefore not broad matrix repair; it is creating targeted evidence/control coverage for the remaining 16 `NEEDS_EVIDENCE_BEFORE_FINAL` rows and later P2 appendix rationales.
+Interpretation: the workflow matrix is aligned for the first P1 package and Package A. Logion 23 now has a dedicated `logion-023-evidence-en.md` file in addition to the Thomas unity / monachos cluster note. Remaining work is therefore no longer all-114 evidence-gap closure; the next quality work is cluster-control notes, P2 appendix rationales, and explicit exclusion rationale for Logion 114.
 
 ## Highest-Priority Next Work
 
@@ -51,26 +51,10 @@ Interpretation: the workflow matrix is aligned for the first P1 package and Pack
 - Logion 30: UNCERTAIN; reader `NO`; Greek `P.Oxy. 1, textually complex with 77b`; no evidence/control file. Next: Create direct evidence note because source/control material already exists.
 - Logion 37: UNCERTAIN; reader `NO`; Greek `P.Oxy. 655`; cluster control, cluster note. Next: Create direct evidence note because source/control material already exists.
 - Logion 38: UNCERTAIN; reader `NO`; Greek `P.Oxy. 655 fragmentary`; cluster control. Next: Create direct evidence note because source/control material already exists.
-- Logion 52: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 56: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 58: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 59: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 60: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 62: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 67: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 68: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 69: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
 - Logion 75: DEFER; reader `NO`; Greek `No loaded P.Oxy. witness`; cluster note. Next: Create direct evidence note because source/control material already exists.
 - Logion 77: DEFER; reader `NO`; Greek `P.Oxy. 1 overlap for 77b only`; no evidence/control file. Next: Create direct evidence note because source/control material already exists.
-- Logion 81: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 82: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 91: UNCERTAIN; reader `NO`; Greek `Greek retroversion, hypothetical`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 92: UNCERTAIN; reader `NO`; Greek `Greek retroversion, hypothetical`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 97: UNCERTAIN; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
-- Logion 101: UNCERTAIN; reader `NO`; Greek `Greek retroversion, hypothetical`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
 - Logion 104: DEFER; reader `NO`; Greek `Greek retroversion, hypothetical`; cluster note. Next: Create direct evidence note because source/control material already exists.
 - Logion 106: DEFER; reader `NO`; Greek `Greek retroversion, hypothetical`; cluster note. Next: Create direct evidence note because source/control material already exists.
-- Logion 111: UNCERTAIN; reader `NO`; Greek `Greek retroversion, hypothetical`; no evidence/control file. Next: Create evidence/no-note rationale before deciding whether this can affect the final corpus.
 - Logion 114: EXCLUDE_AS_SECONDARY; reader `NO`; Greek `No loaded P.Oxy. witness`; no evidence/control file. Next: Create explicit rationale before all-114 publication decision table.
 
 ### P1-control
@@ -157,24 +141,24 @@ Interpretation: the workflow matrix is aligned for the first P1 package and Pack
 | 49 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-049-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package A evidence rationale in appendix/dossier; no reader promotion. |
 | 50 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-050-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package A evidence rationale in appendix/dossier; no reader promotion. |
 | 51 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-051-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package A evidence rationale in appendix/dossier; no reader promotion. |
-| 52 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 52 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-052-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 53 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 54 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-054-evidence-en.md` | `controls/synoptic-parallels/logion-054-blessed-poor-controls.md` | YES | INCLUDE_WITH_MARKER | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 55 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-055-evidence-en.md` | `controls/synoptic-parallels/logion-055-discipleship-cross-controls.md` | NO | UNCERTAIN | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 56 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 56 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-056-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 57 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-057-evidence-en.md` | `controls/synoptic-parallels/logion-057-weeds-controls.md` | NO | UNCERTAIN | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 58 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
-| 59 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
-| 60 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 58 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-058-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
+| 59 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-059-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
+| 60 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-060-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 61 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
-| 62 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 62 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-062-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 63 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-063-evidence-en.md` | `controls/synoptic-parallels/logion-063-rich-fool-luke-control.md` | YES | INCLUDE_WITH_MARKER; full logion UNCERTAIN | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 64 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-064-evidence-en.md` | `controls/synoptic-parallels/logion-064-banquet-invitation-controls.md` | NO | 64A/64B KEEP_APPENDIX_ONLY_FOR_NOW | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 65 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-065-066-evidence-en.md` | `controls/synoptic-parallels/logia-065-066-tenants-stone-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 66 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-065-066-evidence-en.md` | `controls/synoptic-parallels/logia-065-066-tenants-stone-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 67 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
-| 68 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
-| 69 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 67 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-067-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
+| 68 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-068-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
+| 69 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-069-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 70 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 71 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 72 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-072-evidence-en.md` | `controls/synoptic-parallels/logion-072-inheritance-dispute-controls.md` | YES | INCLUDE_WITH_MARKER | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
@@ -186,8 +170,8 @@ Interpretation: the workflow matrix is aligned for the first P1 package and Pack
 | 78 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-078-evidence-en.md` | `controls/synoptic-parallels/logion-078-wilderness-reed-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 79 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-079-evidence-en.md` | `controls/synoptic-parallels/logion-079-womb-word-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | No loaded P.Oxy. witness | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 80 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
-| 81 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
-| 82 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 81 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-081-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
+| 82 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-082-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 83 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 84 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 85 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
@@ -196,17 +180,17 @@ Interpretation: the workflow matrix is aligned for the first P1 package and Pack
 | 88 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 89 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-089-evidence-en.md` | `controls/synoptic-parallels/logion-089-cup-inside-outside-controls.md` | YES | INCLUDE_WITH_MARKER | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 90 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-090-evidence-en.md` | `controls/synoptic-parallels/logion-090-yoke-rest-controls.md` | NO | UNCERTAIN | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 91 | NO | — | — | NO | UNCERTAIN | Greek retroversion, hypothetical | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
-| 92 | NO | — | — | NO | UNCERTAIN | Greek retroversion, hypothetical | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 91 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-091-evidence-en.md` | — | NO | UNCERTAIN | Greek retroversion, hypothetical | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
+| 92 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-092-evidence-en.md` | — | NO | UNCERTAIN | Greek retroversion, hypothetical | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 93 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-093-evidence-en.md` | `controls/synoptic-parallels/logion-093-holy-dogs-pearls-swine-controls.md` | NO | UNCERTAIN | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 94 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-094-evidence-en.md` | `controls/synoptic-parallels/logion-094-seek-knock-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 95 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-095-evidence-en.md` | `controls/synoptic-parallels/logion-095-money-lending-controls.md` | YES | INCLUDE_WITH_MARKER | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 96 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-096-evidence-en.md` | `controls/synoptic-parallels/logion-096-leaven-controls.md` | YES | INCLUDE_WITH_MARKER for leaven core; full logion UNCERTAIN | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 97 | NO | — | — | NO | UNCERTAIN | No loaded P.Oxy. witness | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 97 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-097-evidence-en.md` | — | NO | UNCERTAIN | No loaded P.Oxy. witness | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 98 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 99 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-099-evidence-en.md` | `controls/synoptic-parallels/logion-099-true-family-controls.md` | YES | INCLUDE_WITH_MARKER for true-family core; full logion UNCERTAIN | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 100 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-100-evidence-en.md` | `controls/synoptic-parallels/logion-100-caesar-god-controls.md` | YES | INCLUDE_WITH_MARKER for Caesar/God core; full logion UNCERTAIN | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
-| 101 | NO | — | — | NO | UNCERTAIN | Greek retroversion, hypothetical | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 101 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-101-evidence-en.md` | — | NO | UNCERTAIN | Greek retroversion, hypothetical | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 102 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 103 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-103-evidence-en.md` | `controls/synoptic-parallels/logion-103-thief-watchfulness-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 104 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-104-evidence-en.md` | `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md` | NO | DEFER | Greek retroversion, hypothetical | covered v0.1 | Use new evidence rationale in appendix/dossier; no reader promotion. |
@@ -216,11 +200,11 @@ Interpretation: the workflow matrix is aligned for the first P1 package and Pack
 | 108 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 109 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-109-evidence-en.md` | `controls/synoptic-parallels/logion-109-hidden-treasure-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 110 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
-| 111 | NO | — | — | NO | UNCERTAIN | Greek retroversion, hypothetical | `P1` | Create evidence/no-note rationale before deciding whether this can affect the final corpus. |
+| 111 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-111-evidence-en.md` | — | NO | UNCERTAIN | Greek retroversion, hypothetical | covered v0.1 | Use Package B evidence rationale in appendix/dossier; no reader promotion. |
 | 112 | NO | — | — | NO | DEFER | No loaded P.Oxy. witness | `P2` | Provide short appendix rationale / no-note rationale. |
 | 113 | YES | `reconstruction/earliest-sayings-gospel/notes/logion-113-evidence-en.md` | `controls/synoptic-parallels/logion-113-kingdom-not-observed-controls.md` | NO | KEEP_APPENDIX_ONLY_FOR_NOW | Greek retroversion, hypothetical | `OK` | Carry forward into all-114 decision table; polish as needed. |
 | 114 | NO | — | — | NO | EXCLUDE_AS_SECONDARY | No loaded P.Oxy. witness | `P1` | Create explicit rationale before all-114 publication decision table. |
 
 ## Recommended Next Step
 
-Superseded next-step note, 2026-07-17: Phase 4 and the first Phase 5 P1 evidence-rationale package have been completed. Continue by creating direct evidence/no-note rationale files for the remaining P1 rows, beginning with the remaining `NEEDS_EVIDENCE_BEFORE_FINAL` group.
+Superseded next-step note, 2026-07-17: Phase 4 and the first Phase 5 P1 evidence-rationale package have been completed. Continue by creating direct evidence/no-note rationale files for the remaining P1 rows, beginning with cluster-control notes and the remaining explicit exclusion rationale for Logion 114.

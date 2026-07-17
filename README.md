@@ -33,11 +33,11 @@
 - 114 карток мають `Five-source original-language apparatus v0.1`: P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, коптський NHC II і canonical Greek control channel прямо всередині картки; canonical Greek заповнено для 81 картки.
 - Full 114-logion appendix має каркас для всіх 114 логій; усі 34 включені логії/ядра поточного clean reader мають принаймні апаратну підтримку, а попередні 31 уже розгорнуті до читацьких секцій.
 - Перший Phase 5 appendix pass виконано для P1 non-reader логій 23, 24, 28, 29, 30, 37, 38, 75, 77, 104 і 106.
-- Package A evidence-rationale pass додатково закрив логії 14, 17, 18, 21, 40, 42, 48, 49, 50 і 51; пряме evidence-note coverage зросло до 75 логій, а `NEEDS_EVIDENCE_BEFORE_FINAL` в all-114 таблиці зменшено до 16.
+- Package B evidence-rationale pass закрив останні evidence-blocked логії 52, 56, 58, 59, 60, 62, 67, 68, 69, 81, 82, 91, 92, 97, 101 і 111; пряме evidence-note coverage зросло до 91 логії, а `NEEDS_EVIDENCE_BEFORE_FINAL` в all-114 таблиці зменшено до 0.
 - Evidence dossier існує як робочий документ, але ще потребує publication pass.
 
 ## Найближчий робочий цикл
 
-1. Продовжити evidence/no-note rationale pass для решти 16 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
-2. Продовжити full appendix expansion для решти cluster-deferred і evidence-blocked логій.
-3. Після цього виконати clean-reader freeze pass на основі `all-114-publication-decision-table-v0.1.md`.
+1. Створити cluster-control notes для найбільших deferred-груп: living/dead/world, beatitudes, seek/find, family-renunciation, fire/kingdom.
+2. Продовжити full appendix expansion для deferred і appendix-only логій.
+3. Після цього виконати evidence dossier publication pass і clean-reader freeze pass.

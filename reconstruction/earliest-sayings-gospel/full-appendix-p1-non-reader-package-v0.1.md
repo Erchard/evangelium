@@ -61,4 +61,4 @@ Superseded note, 2026-07-17: the matching evidence-rationale pass has now create
 
 ## Recommended Next Step
 
-Proceed to evidence/no-note rationale files for the remaining 16 `NEEDS_EVIDENCE_BEFORE_FINAL` rows, while reserving deeper technical control notes for Logion 24, Logia 30/77, Logia 37/38, and related clusters.
+Proceed to cluster-control notes and appendix expansion now that Package B has closed the `NEEDS_EVIDENCE_BEFORE_FINAL` rows, while reserving deeper technical control notes for Logion 24, Logia 30/77, Logia 37/38, and related clusters.

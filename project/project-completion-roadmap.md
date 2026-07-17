@@ -63,7 +63,7 @@
 3. Evidence dossier ще не є публікаційним академічним документом.
 4. Canonical Greek control layer суттєво покращено: 81 картка має SBLGNT Greek controls, 33 не мають локально виписаного canonical Greek text через відсутність явного reference або відсутність потреби в синоптичному контролі.
 5. Pending P.Oxy. XML extraction gap закрито для логій 24, 27, 28, 29, 30, 37, 38 і 77; тепер потрібна звірка цих витягів з академічними виданнями.
-6. All-114 publication decision table v0.1 покриває всі 114 логій; після першого P1 evidence-rationale pass 26 non-reader rows ще потребують evidence/no-note rationale перед фінальним виданням.
+6. All-114 publication decision table v0.1 покриває всі 114 логій; після Package B evidence-rationale pass `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0.
 7. Greek retroversion layer має confidence audit v0.1, але перед публікацією потрібна фінальна редакція й перевірка проти академічних видань.
 8. Bibliography / rights / citation policy існують як принципи, але ще не як фінальний апарат.
 9. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
@@ -200,7 +200,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: evidence/no-note rationale pass для решти 16 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
+Найважливіша наступна дія: cluster-control deepening для найбільших deferred-груп після закриття `NEEDS_EVIDENCE_BEFORE_FINAL`.
 
 Виконані пакети:
 
@@ -218,6 +218,6 @@
 
 Наступний рекомендований пакет:
 
-- Evidence/no-note rationale files для наступного пакета з решти 16 `NEEDS_EVIDENCE_BEFORE_FINAL` логій.
+- Cluster-control notes для living/dead/world, beatitudes, seek/find, family-renunciation і fire/kingdom груп.
 
 Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; перший P1 non-reader appendix package і matching evidence-rationale pass виконано. Тепер слабке місце - citable evidence/no-note rationale для решти невключених логій.

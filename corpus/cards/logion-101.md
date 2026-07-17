@@ -58,7 +58,7 @@ Whoever does not hate father and mother as I do cannot be my disciple, and whoev
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: родинна відмова; справжня мати і життя.
-- Поточний робочий статус: Primary card v0.1.
+- Поточний робочий статус: Evidence rationale v0.1.
 
 ### Ймовірнісний профіль
 
@@ -72,7 +72,7 @@ Whoever does not hate father and mother as I do cannot be my disciple, and whoev
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-101-evidence-en.md`
 - Synoptic/control files:
 немає окремого файлу; прогалина лишається видимою.
 - Cluster/context notes:
@@ -144,14 +144,14 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: `UNCERTAIN`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
-- Current work status: Primary card v0.1.
-- Evidence note in matrix: NO.
+- Current work status: Evidence rationale v0.1.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-101-evidence-en.md`
 
 Synoptic/control files:
 - окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
