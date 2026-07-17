@@ -28,6 +28,7 @@ The reconstruction is not a simple translation of the Coptic Gospel of Thomas. I
 | `notes/` | Detailed logion-level evidence notes. |
 | `greek-retroversion-confidence-audit-v0.1.md` | Audit distinguishing extant Greek witnesses, lacunose/partial Greek witnesses, mixed cases, and hypothetical Greek retroversions. |
 | `final-all-114-decision-audit-v0.1.md` | Audit before final clean-reader freeze: current reader support, live split-core candidates, stale files, and next work package. |
+| `split-core-decision-review-a-v0.1.md` | Split-core review for Logia 45, 47, 63, 64, and 65-66. |
 
 ## Current Scope
 
@@ -53,4 +54,4 @@ The final reader experience should therefore have two layers:
 1. clean reconstructed text: only the most responsible early reconstruction;
 2. full commentary appendix: all 114 logia, including rejected or deferred material.
 
-The final all-114 decision audit v0.1 now exists. The next publication-level task is Split-Core Decision Review A for Logia 45, 47, 63, 64, and 65-66. After the split-core reviews, turn to the publication decision table, excluded/deferred/uncertain appendix sections, and the evidence dossier publication pass.
+Split-Core Decision Review A now exists. The next publication-level task is Split-Core Decision Review B for Logia 76, 78, 79, 94, 103, 109, and 113. After Review B, prepare a controlled clean-reader candidate pass for the promoted cores, then turn to the publication decision table, excluded/deferred/uncertain appendix sections, and the evidence dossier publication pass.

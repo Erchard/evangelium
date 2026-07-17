@@ -58,9 +58,11 @@ These logia could still change the final clean reader if a split-core review sup
 | 109 | `SPLIT_CORE_REVIEW` | Hidden treasure core has Matthean control, but Thomas's inheritance/sale/usury expansion is problematic. |
 | 113 | `SPLIT_CORE_REVIEW` | Kingdom-not-observed core has Luke 17 and Logion 3 controls; duplication risk is high. |
 
-Recommended next package: split-core review for Logia 45, 47, 63, 64, 65-66.
+Review A completed: split-core review for Logia 45, 47, 63, 64, 65-66 now exists in `split-core-decision-review-a-v0.1.md`.
 
-Reason: these are the strongest remaining candidates not already settled by the current reader. They are also the ones most likely to affect the final composition if handled well.
+Current next package: split-core review B for Logia 76, 78, 79, 94, 103, 109, 113.
+
+Reason: Review A identified candidate cores for a later reader pass but did not edit the clean reader. Review B should complete the same control pass for the second group of live split-core candidates before any clean-reader additions are made.
 
 ## Appendix-Only or Deferred Material
 
@@ -84,17 +86,17 @@ The audit found three types of stale state:
 
 The project should not freeze the final clean reader until:
 
-1. split-core review is completed for Logia 45, 47, 63, 64, 65-66;
-2. secondary split-core review is completed for Logia 76, 78, 79, 94, 103, 109, 113;
+1. split-core review A is completed for Logia 45, 47, 63, 64, 65-66;
+2. split-core review B is completed for Logia 76, 78, 79, 94, 103, 109, 113;
 3. `inclusion-decisions-table.md` is replaced or upgraded into a true all-114 publication decision table;
 4. full appendix sections for excluded/deferred/uncertain logia are expanded beyond skeleton level;
 5. evidence dossier receives a publication pass with bibliography and rights/citation policy.
 
 ## Next Work Package
 
-Next prompt should perform:
+Review A has been completed. Next prompt should perform:
 
-**Split-Core Decision Review A: Logia 45, 47, 63, 64, 65-66**
+**Split-Core Decision Review B: Logia 76, 78, 79, 94, 103, 109, 113**
 
 Required outputs:
 

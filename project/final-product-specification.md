@@ -26,7 +26,7 @@
 - full 114-logion appendix: каркас для всіх 114 логій і розгорнуті читацькі секції для всіх 31 включених логій/ядер поточного clean reader;
 - виконані full-appendix пакети: 1-6; 9, 10, 16, 20, 22; 25, 26, 31, 32, 33; 34, 35, 36, 39, 41; 54, 72, 73; 86, 89, 95, 96, 99, 100, 107.
 
-Найближчий editorial/research крок: split-core decision review A для логій 45, 47, 63, 64, 65-66 перед фіналізацією складу clean reader.
+Найближчий editorial/research крок: split-core decision review B для логій 76, 78, 79, 94, 103, 109, 113 перед будь-яким новим clean-reader candidate pass.
 
 ## Повний додаток до всіх 114 логій
 

@@ -209,9 +209,10 @@
 Виконано також:
 
 - Final all-114 decision audit.
+- Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
 
 Наступний рекомендований пакет:
 
-- Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
+- Split-core decision review B: Logia 76, 78, 79, 94, 103, 109, 113.
 
-Причина: Greek retroversion confidence audit уже створено, всі 31 включені одиниці clean reader мають розгорнуті українські секції у full appendix, і final all-114 audit показав головний залишковий ризик: не поточний reader, а сильні невключені split-core candidates. Перед фіналізацією clean reader треба перевірити, чи логії 45, 47, 63, 64 і 65-66 не містять коротких ранніх ядер, які слід промотувати або чітко залишити в appendix.
+Причина: Split-core review A вже визначив кандидатні ядра 45A/45B, 47B, 63 і 64A для майбутнього controlled clean-reader pass, а 65-66 залишив appendix-only. Тепер треба так само перевірити другий пакет сильних невключених кандидатів: 76, 78, 79, 94, 103, 109, 113. Лише після Review B варто робити окремий clean-reader candidate pass.

@@ -1,5 +1,43 @@
 # Журнал збирання корпусу
 
+## 2026-07-17, split-core decision review A
+
+### Що додано
+
+- `project/ide-codex-split-core-decision-review-a-prompt.md` - промпт для split-core review A.
+- `reconstruction/earliest-sayings-gospel/split-core-decision-review-a-v0.1.md` - підсумковий review по логіях 45, 47, 63, 64, 65-66.
+- Control files:
+  - `controls/synoptic-parallels/logion-045-tree-fruit-heart-controls.md`
+  - `controls/synoptic-parallels/logion-047-incompatibility-sayings-controls.md`
+  - `controls/synoptic-parallels/logion-063-rich-fool-luke-control.md`
+  - `controls/synoptic-parallels/logion-064-banquet-invitation-controls.md`
+  - `controls/synoptic-parallels/logia-065-066-tenants-stone-controls.md`
+
+### Що оновлено
+
+- `reconstruction/earliest-sayings-gospel/inclusion-decisions-table.md`: додано split-core decisions для 45A/45B, 47B, 63, 64A/64B, 65-66.
+- `corpus/tables/logia-workflow-matrix.md`: цільові логії позначено як Split-core review A v0.1.
+- `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md`: зведену таблицю синхронізовано з рішеннями Review A.
+- `README.md`, `project/project-map.md`, `project/project-completion-roadmap.md`, `project/publication-gap-audit-v0.1.md`, `project/repository-structure.md`, `project/final-product-specification.md`, `reconstruction/earliest-sayings-gospel/README.md`: наступний крок оновлено до Review B.
+
+### Методологічне рішення
+
+Clean Ukrainian reader не змінювався. Review A не промотував повні складені логії. Натомість він визначив candidate cores для майбутнього controlled clean-reader pass:
+
+- 45A grapes/thorns;
+- 45B good/evil heart treasure;
+- 47B two masters;
+- 63 rich-fool core;
+- 64A banquet invitation core.
+
+Logia 65-66 залишено appendix-only for now через сильний allegorical / passion-interpretation risk.
+
+Для всіх цільових логій немає loaded extant Greek Thomas witness; будь-яка грецька форма має лишатися `Greek retroversion, hypothetical`.
+
+### Наступна дія
+
+Split-core decision review B: Logia 76, 78, 79, 94, 103, 109, 113.
+
 ## 2026-07-17, final all-114 decision audit
 
 ### Що додано

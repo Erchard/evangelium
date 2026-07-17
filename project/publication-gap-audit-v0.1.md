@@ -156,8 +156,8 @@ Final all-114 decision audit v0.1 уже створено. Він показав
 
 ## Рекомендований порядок наступних дій
 
-1. Split-core decision review A: Logia 45, 47, 63, 64, 65-66.
-2. Split-core decision review B: Logia 76, 78, 79, 94, 103, 109, 113.
+1. Split-core decision review B: Logia 76, 78, 79, 94, 103, 109, 113.
+2. Controlled clean-reader candidate pass for promoted cores from Reviews A and B.
 3. Upgrade `inclusion-decisions-table.md` into a true all-114 publication decision table.
 4. Clean reader finalization after split-core reviews.
 5. Full appendix expansion for excluded/deferred/uncertain logia.
@@ -218,4 +218,4 @@ The dossier is ready when it can be read independently by an external reviewer a
 
 The project is no longer in the "build the corpus" phase. It is now in the "defend and refine the reconstruction" phase.
 
-The most valuable immediate work is now split-core review of the strongest remaining non-included candidates. The current reader has its second layer; the remaining risk is whether a few excluded or uncertain logia contain short early cores that should alter the final reconstruction.
+The most valuable immediate work is now Split-Core Decision Review B. Review A identified several possible future reader candidates but did not edit the clean reader; the project should finish the second review before any new clean-reader additions.

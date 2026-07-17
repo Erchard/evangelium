@@ -58,9 +58,9 @@
 | 42 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Search wider passersby/stranger parallels. |
 | 43 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Logion 45 tree/fruit cluster and polemical framing. |
 | 44 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Keep outside reader; possible short Spirit-blasphemy core only after further decision pass. |
-| 45 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1 | Split grapes/thorns and good/evil treasure before reader decision. |
+| 45 | YES | YES | 45A/45B `PROMOTE_CANDIDATE_FOR_READER_PASS`; full logion `UNCERTAIN` | NO | No loaded P.Oxy. witness | Split-core review A v0.1 | Consider 45A and possibly 45B in later clean-reader candidate pass; do not promote full logion. |
 | 46 | YES | YES | `UNCERTAIN`; possible marked core candidate | NO | No loaded P.Oxy. witness | Evidence note v0.1; control file v0.1 | Compare with Logion 22 before any reader change. |
-| 47 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Evidence note v0.1 | Split two masters, new wine, and patch units. |
+| 47 | YES | YES | 47B `PROMOTE_CANDIDATE_FOR_READER_PASS`; full logion `UNCERTAIN` | NO | No loaded P.Oxy. witness | Split-core review A v0.1 | Consider two-masters core in later clean-reader candidate pass; keep chain as appendix material. |
 | 48 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study with Thomas 106 and Matt 18:19-20. |
 | 49 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Keep in unity/monachos cluster. |
 | 50 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study in light/election cluster. |
@@ -76,10 +76,10 @@
 | 60 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Study living/dead/rest cluster; no reader inclusion yet. |
 | 61 | YES | NO | `DEFER` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Split Luke 17:34 control, Salome dialogue, and whole/divided unit. |
 | 62 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Deepen Matt 6:3 right/left hand control; separate secrecy frame. |
-| 63 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Coptic extraction v0.1 | Compare Luke 12 rich fool; decide core separately. |
-| 64 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Coptic extraction v0.1 | Split banquet core and anti-merchant ending; compare Luke 14 / Matt 22. |
-| 65 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Coptic extraction v0.1 | Study with Logion 66 and synoptic tenants tradition. |
-| 66 | YES | YES | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Cluster evidence note v0.1 | Study with Logion 65 and Psalm 118 rejected-stone citation. |
+| 63 | YES | YES | `PROMOTE_CANDIDATE_FOR_READER_PASS`; full logion `UNCERTAIN` | NO | No loaded P.Oxy. witness | Split-core review A v0.1 | Consider short rich-fool core in later clean-reader candidate pass with Luke-dependence warning. |
+| 64 | YES | YES | 64A `PROMOTE_CANDIDATE_FOR_READER_PASS`; 64B `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | No loaded P.Oxy. witness | Split-core review A v0.1 | Consider banquet core only; keep anti-merchant ending in appendix. |
+| 65 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | No loaded P.Oxy. witness | Split-core review A v0.1 | Use as appendix case study; do not promote tenants cluster yet. |
+| 66 | YES | YES | `KEEP_APPENDIX_ONLY_FOR_NOW` | NO | No loaded P.Oxy. witness | Split-core review A v0.1 | Keep rejected-stone saying with tenants cluster in appendix. |
 | 67 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Search wider self-knowledge parallels; compare Thomas 3 and 70. |
 | 68 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Deepen persecution beatitude with Matt 5 / Luke 6 controls. |
 | 69 | YES | NO | `UNCERTAIN` | NO | No loaded P.Oxy. witness | Primary card v0.1 | Deepen beatitude cluster with 54 and 68. |
