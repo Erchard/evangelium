@@ -1,10 +1,10 @@
-# Logion 91 Evidence Rationale v0.1
+# Logion 91 Evidence Rationale v0.3
 
 ## Decision
 
-Current publication decision: `DEFER_TO_CLUSTER`.
+Current publication decision: 91A `INCLUDE_WITH_MARKER`; full Logion 91 appendix-only.
 
-Reader implication: do not include Logion 91 as a full saying in the clean reconstruction.
+Reader implication: include only the recognition-of-time core in the clean reconstruction; do not include the dialogue frame.
 
 ## Source Basis
 
@@ -25,5 +25,12 @@ Use Logion 91 to explain split-unit reasoning: a strong controlled subunit can e
 
 ## Next Action
 
-Create a recognition-of-time control note comparing Thomas 91, Luke 12:54-56, and Matthew 16:2-3.
+Use the recognition-of-time control note comparing Thomas 91, Luke 12:54-56, and Matthew 16:2-3:
 
+- `controls/synoptic-parallels/logion-091-recognition-time-controls.md`
+
+Split-Core / High-Early Pressure Review C recommended promoting only the recognition-of-time core to a controlled clean-reader candidate pass. Controlled reader-candidate pass 46A/91A now includes that core with a marker. The full dialogue-framed logion remains appendix-only.
+
+Controlled reader pass:
+
+- `../controlled-reader-candidate-pass-46a-91a-v0.1.md`

@@ -1,6 +1,6 @@
 # Logion 68
 
-Статус: первинна корпусна картка v0.1.
+Статус: normalized corpus card; current workflow status: `Cluster-control v0.1`.
 
 ## Текст
 
@@ -32,6 +32,30 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 68.
 ## Аналіз
 
 Сильна beatitude-паралель, але друга клауза про "місце" темна і може бути томиним або есхатологічним розгортанням.
+
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія має форму блаженства: вона називає щасливими або благословенними тих, кого звичайний погляд міг би вважати слабкими, переслідуваними, бідними або виснаженими. Така форма перевертає звичну шкалу успіху. У робочому українському перекладі це звучить так: "Блаженні переслідувані: ненависть і гоніння не матимуть останнього місця або влади."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як перевертання звичної шкали щастя.
+2. Як підтримку тих, хто переживає нестачу або переслідування.
+3. Як форму, яку треба порівнювати з канонічними блаженствами.
+
+Оскільки картка не входить до чистого тексту, її функція - допомогти читачеві зрозуміти, що саме лишилося поза реконструкцією і чому це чесне рішення. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як appendix-only матеріал: вона допомагає читачеві зрозуміти межі корпусу, навіть якщо її не можна чесно друкувати як частину найдавнішого тексту. Робоче рішення картки: UNCERTAIN; позначка для чистого читача: NO; попередньо визначений шар: блаженні ненависні й переслідувані.
+
+### Обережність
+
+У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
 ## Попередній статус
 
@@ -65,19 +89,20 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 68.
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-068-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/beatitudes-cluster-control-en.md`
+  - MERGE_WITH_EXISTING_CLUSTER: Persecution/hatred beatitude belongs under the beatitudes cluster.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/beatitudes-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: persecution beatitude; important beatitudes-cluster material, but current form remains appendix-only because Logion 54 is the stronger clean-reader representative.
+- Вторинні / томині ризики: persecution beatitude is plausible, but Thomas wording and overlap with stronger beatitude representatives keep it outside the clean reader.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-Deepen persecution beatitude with Matt 5 / Luke 6 controls.
+Use beatitudes cluster-control v0.1; keep appendix-only despite strong persecution-beatitude motif controls because the Thomas ending remains difficult.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -146,6 +171,7 @@ Evidence note / dossier files:
 
 Synoptic/control files:
 - окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/beatitudes-cluster-control-en.md`
 
 ### Greek/Coptic Policy
 
@@ -161,5 +187,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Deepen persecution beatitude with Matt 5 / Luke 6 controls.
+- Next action: Use beatitudes cluster-control v0.1; keep appendix-only despite strong persecution-beatitude motif controls because the Thomas ending remains difficult.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

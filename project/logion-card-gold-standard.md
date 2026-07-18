@@ -1,6 +1,6 @@
 # Еталон якості картки логії
 
-Статус: робочий стандарт v0.2, актуалізовано 2026-07-17.
+Статус: робочий стандарт v0.3, актуалізовано 2026-07-18.
 
 ## Еталонна картка
 
@@ -85,5 +85,5 @@
 
 - 114/114 карток мають `## Gold-level status check v0.2`;
 - 34 логії/ядра зараз входять до clean Ukrainian reader;
-- 55 логій мають окремі evidence notes у workflow matrix;
+- evidence/control inventory виконано; direct evidence-note coverage піднято до 91 логії, а `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0;
 - 59 логій ще потребують або evidence note, або явного no-note rationale перед публікаційним рівнем.

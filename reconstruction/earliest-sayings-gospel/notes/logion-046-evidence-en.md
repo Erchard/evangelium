@@ -1,10 +1,10 @@
 # Logion 46 Evidence Note
 
-Status: working evidence note v0.1.
+Status: working evidence note v0.3.
 
 ## Decision
 
-`UNCERTAIN`; possible `INCLUDE_WITH_MARKER` candidate after further control.
+46A `INCLUDE_WITH_MARKER`; full Logion 46 appendix-only.
 
 Confidence: medium.
 
@@ -61,8 +61,18 @@ No extant Greek Thomas witness is loaded. The relationship between Thomas, Matth
 
 ## Reconstruction Implication
 
-Do not add Logion 46 yet. It is a strong candidate for a future marked core, but the Thomas-specific "knowing the kingdom" element must remain under review.
+Do not add the full Logion 46. Controlled reader-candidate pass 46A/91A includes only the short John / least-in-kingdom core in the clean reader.
+
+Potential reader candidate:
+
+> Among those born of women none is greater than John; yet the least/small one in the kingdom is greater than he.
+
+The Thomas-specific "knowing the kingdom" wording remains outside the clean-reader core because dependence and Thomasine reshaping remain plausible.
 
 ## Next Work
 
-Use `controls/synoptic-parallels/logion-046-john-least-kingdom-controls.md`; compare with Logion 22 before any reader change.
+Use `controls/synoptic-parallels/logion-046-john-least-kingdom-controls.md`; compare with Logion 22 again during final reader freeze.
+
+Review C: `../split-core-high-early-pressure-review-c-v0.1.md`.
+
+Controlled reader pass: `../controlled-reader-candidate-pass-46a-91a-v0.1.md`.

@@ -38,6 +38,8 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-016-evidence
 
 Кластерна перевірка: `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`.
 
+Family-renunciation cluster-control: `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`.
+
 ## Лінгвістичні та текстові нотатки
 
 Форма Фоми поєднує матеріал про поділ у домі з тріадою `вогонь / меч / війна` і фіналом про `ⲙⲟⲛⲁⲭⲟⲥ`. Саме цей фінал може бути томиним переосмисленням відомої традиції.
@@ -65,7 +67,9 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-016-evidence
 
 Рішення: коротке division/household core `INCLUDE_WITH_MARKER`; повна логія `UNCERTAIN`.
 
-Ймовірність:
+Історична локальна ймовірність:
+
+Примітка: superseded historical probability table; для поточного аудиту використовувати нижчий розділ `### Ймовірнісний профіль`.
 
 | Період | Ймовірність |
 | --- | ---: |
@@ -84,6 +88,30 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-016-evidence
 
 Не включати в основний текст тріаду `вогонь / меч / війна` і фінал `monachos`.
 
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія переосмислює найсильніші людські звʼязки: родину, дім, матір, батька, братів, сестер і справжню належність. Вона звучить різко, бо ставить учнівство або життя вище звичних соціальних гарантій. У робочому українському перекладі це звучить так: "Люди можуть думати, що я прийшов принести мир. Але я прийшов принести поділ: вогонь, меч і війну. В одному домі п'ятеро стануть одні проти одних, і зрештою стоятимуть як одинаки."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як радикальну вимогу поставити учнівство вище родинної лояльності.
+2. Як гіперболу, тобто навмисно різкий вислів.
+3. Як слід реальної соціальної напруги довкола руху Ісуса.
+
+Оскільки картка включена з маркером, читачеві треба одразу пояснити подвійність: є реконструкційно цінне ядро, але є й елементи, які не можна подавати з тією самою впевненістю. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива, але не як безумовно прозорий вислів. Її можна друкувати в чистому тексті, проте повний додаток має пояснити, що саме вважається ядром, а що може бути рамкою, редакційним розширенням або пізнішою інтерпретацією. Робоче рішення картки: division/household core INCLUDE_WITH_MARKER; full logion UNCERTAIN; позначка для чистого читача: YES; попередньо визначений шар: не мир, а поділ; родинний конфлікт; monachos.
+
+### Обережність
+
+Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - змішати сам вислів із пізнішим поясненням або з нашою сучасною інтерпретацією.
+
 ## Еталонне вирівнювання картки v0.1
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
@@ -94,7 +122,7 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-016-evidence
 - Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: не мир, а поділ; родинний конфлікт; monachos.
-- Поточний робочий статус: Multilingual sync v0.1.
+- Поточний робочий статус: Cluster-control v0.1.
 
 ### Ймовірнісний профіль
 
@@ -115,16 +143,17 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-016-evidence
   - `controls/synoptic-parallels/logion-016-division-family.md`
 - Cluster/context notes:
   - `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
+  - `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: є реконструкційний кандидат, але друкувати/оцінювати тільки з маркером непевності.
+- Можливе раннє ядро: household-division saying про розрив усередині дому; формула "вогонь, меч, війна" і monachos-ending потребують окремого маркера як розширення.
 - Вторинні / томині ризики: наявні мотиви, які можуть належати до томиного богословського розгортання.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-English/Coptic/Greek/parallel rows added; fire/sword/war and monachos remain apparatus.
+Family-renunciation cluster-control v0.1 exists; keep division/household core in clean reader with marker; fire/sword/war and monachos remain apparatus.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -186,7 +215,7 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: division/household core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`.
 - Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
-- Current work status: Multilingual sync v0.1.
+- Current work status: Cluster-control v0.1.
 - Evidence note in matrix: YES.
 - Clean-reader implication: Входить до clean Ukrainian reader як поточна реконструкційна одиниця; у чистому тексті друкувати без статусів і коментарів, а всі застереження переносити в apparatus / appendix.
 
@@ -194,6 +223,7 @@ Local Greek canonical/control text currently transcribed:
 
 Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-016-evidence-en.md`
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`
 
 Synoptic/control files:
 - `controls/synoptic-parallels/logion-016-division-core-final-controls.md`
@@ -213,5 +243,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: English/Coptic/Greek/parallel rows added; fire/sword/war and monachos remain apparatus.
+- Next action: Family-renunciation cluster-control v0.1 exists; keep division/household core in clean reader with marker; fire/sword/war and monachos remain apparatus.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

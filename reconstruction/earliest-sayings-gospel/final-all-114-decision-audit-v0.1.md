@@ -20,7 +20,7 @@ Audit result:
 - Synoptic/control files: present for all reader units that need a dedicated control file, with some cluster-level files for grouped controls.
 - Language layers: Ukrainian, English, Coptic, Greek, and parallel layers exist for the 34 current reader units.
 - Greek policy: current Greek layer is controlled by `greek-retroversion-confidence-audit-v0.1.md`; hypothetical retroversions are not treated as witnesses.
-- Full appendix: the previous 31 current reader units have expanded Ukrainian reader-facing sections; newly added 45A, 47B, and 63 have apparatus and summary support and need later full appendix expansion.
+- Full appendix: all 114 logia now have reader-facing explanation; Logia 1-20 are editorially consolidated, while Logia 21-114 still need print-safe editorial consolidation.
 
 Conclusion: the current reader is defensible as a working reader. It is not yet final because the remaining 83 logia have not all received final decision-level explanation.
 
@@ -64,7 +64,7 @@ Review B completed: split-core review for Logia 76, 78, 79, 94, 103, 109, 113 no
 
 Controlled clean-reader candidate pass completed: `controlled-clean-reader-candidate-pass-v0.1.md`.
 
-Superseded next-package note, 2026-07-17: the true all-114 publication decision table now exists in `all-114-publication-decision-table-v0.1.md`; current next package is Phase 5 full appendix expansion.
+Superseded next-package note, 2026-07-18: the true all-114 publication decision table, reader-interpretation sync, editorial consolidation packages for Logia 1-20, and print/digital architecture now exist; current next package is print-safe full appendix editorial consolidation for Logia 21-30.
 
 Reason: Reviews A/B and the controlled reader pass have already decided the live split-core candidates. The project now needs one publication-level decision table that covers all 114 logia and prevents scattered or stale decisions from controlling the final edition.
 

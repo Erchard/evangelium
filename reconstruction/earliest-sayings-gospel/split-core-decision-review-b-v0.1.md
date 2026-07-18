@@ -71,4 +71,4 @@ Especially important appendix explanations:
 
 Controlled clean-reader candidate pass has now been completed in `controlled-clean-reader-candidate-pass-v0.1.md`.
 
-Superseded next step note, 2026-07-17: the true all-114 publication decision table now exists in `all-114-publication-decision-table-v0.1.md`; current next step is Phase 5 full appendix expansion.
+Superseded next step note, 2026-07-18: the true all-114 publication decision table, reader-interpretation sync, editorial consolidation packages for Logia 1-20, and print/digital architecture now exist; current next step is print-safe full appendix editorial consolidation for Logia 21-30.

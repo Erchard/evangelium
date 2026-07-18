@@ -222,6 +222,16 @@ Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-
 
 Reconstruction note: only the grapes/thorns and figs/thistles core is used in the clean reader. The good/evil treasure-of-heart continuation remains appendix material.
 
+## Logion 46
+
+Decision: John / least-in-kingdom core `INCLUDE_WITH_MARKER`; full logion appendix-only.
+
+Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ϫⲓⲛ` ⲁⲇⲁⲙ ϣⲁ ⲓ̈ⲱϩⲁ_ⲛⲏⲥ ⲡⲃⲁⲡⲧⲓⲥⲧⲏⲥ ... ⲙⲛ̅ ⲡⲉⲧϫⲟⲥⲉ ⲁⲓ̈ⲱϩⲁⲛⲛⲏⲥ ... ⲡⲉⲧⲛⲁϣⲱⲡⲉ ϩⲛ̅ ⲧⲏⲩⲧⲛ̅ ⲉϥⲟ ⲛ̅ⲕⲟⲩⲉⲓ ... ϥⲛⲁϫⲓⲥⲉ ⲁⲓ̈ⲱϩⲁⲛⲛⲏⲥ
+
+Reconstruction note: the clean reader uses only the John / least-in-kingdom core. The Adam-to-John frame and Thomas's knowledge wording remain apparatus material.
+
 ## Logion 47
 
 Decision: two-masters core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
@@ -292,6 +302,16 @@ Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-
 
 Reconstruction note: the full short Coptic logion is used in the clean reader.
 
+## Logion 91
+
+Decision: recognition-of-time core `INCLUDE_WITH_MARKER`; full logion appendix-only.
+
+Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲧⲉⲧⲛ̅ⲣ̅ⲡⲓⲣⲁⲍⲉ ⲙ̅ⲡϩⲟ ⲛ̅ⲧⲡⲉ ⲙⲛ̅ ⲡⲕⲁϩ ... ⲡⲉⲉⲓⲕⲁⲓⲣⲟⲥ ⲧⲉⲧⲛ̅ⲥⲟⲟⲩⲛ ⲁⲛ ⲛ̅ⲣ̅ⲡⲓⲣⲁⲍⲉ ⲙ̅ⲙⲟϥ`
+
+Reconstruction note: the clean reader uses only the recognition-of-time core. The dialogue opening, "Tell us who you are," remains appendix material.
+
 ## Logion 95
 
 Decision: `INCLUDE_WITH_MARKER`
@@ -331,6 +351,16 @@ Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-
 > ⲁⲩⲧⲥⲉⲃⲉ ⲓ̅ⲥ̅ ⲁⲩⲛⲟⲩⲃ ⲁⲩⲱ ⲡⲉϫⲁⲩ ⲛⲁϥ` ϫⲉ ⲛⲉⲧⲏⲡ` ⲁⲕⲁⲓⲥⲁⲣ` ⲥⲉϣⲓⲧⲉ ⲙ̅ⲙⲟⲛ ⲛ̅ⲛ̅ϣⲱⲙ` ⲡⲉϫⲁϥ ⲛⲁⲩ ϫⲉ ϯ ⲛⲁ ⲕⲁⲓⲥⲁⲣ` ⲛ̅ⲕⲁⲓⲥⲁⲣ ϯ ⲛⲁ ⲡⲛⲟⲩⲧⲉ ⲙ̅ⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲡⲉⲧⲉ ⲡⲱⲉⲓ ⲡⲉ ⲙⲁⲧⲛ̅ⲛⲁⲉⲓϥ
 
 Reconstruction note: the clean reader uses only the Caesar/God core. The Thomas-specific third clause remains apparatus material.
+
+## Logion 103
+
+Decision: thief/watchfulness core `INCLUDE_WITH_MARKER`; full logion appendix-only.
+
+Source: NHC II,2 as represented in `sources/primary_texts/coptic/linssen-thomas-coptic-unicode-working.txt`.
+
+> ⲟⲩⲙ[ⲁⲕⲁ]ⲣⲓⲟⲥ ⲡⲉ ⲡⲣⲱⲙⲉ ⲡⲁⲉⲓ ⲉⲧⲥⲟⲟⲩ_ ϫⲉ ϩ[ⲛ̅ ⲁϣ ⲙ̅]ⲙⲉⲣⲟⲥ ⲉⲛⲗⲏⲥⲧⲏⲥ ⲛⲏⲩ ⲉϩⲟⲩ_
+
+Reconstruction note: the clean reader uses only the short thief/watchfulness core. The gathering-domain, girding, and expanded entry scene remain appendix material.
 
 ## Logion 107
 

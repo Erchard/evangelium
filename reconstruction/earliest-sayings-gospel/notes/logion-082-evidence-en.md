@@ -2,9 +2,9 @@
 
 ## Decision
 
-Current publication decision: `DEFER_TO_CLUSTER`.
+Current publication decision: `APPENDIX_ONLY_UNCERTAIN` after fire/kingdom cluster-control v0.1.
 
-Reader implication: do not include Logion 82 in the clean reconstruction in this pass.
+Reader implication: do not include Logion 82 in the clean reconstruction.
 
 ## Source Basis
 
@@ -18,7 +18,7 @@ Reader implication: do not include Logion 82 in the clean reconstruction in this
 
 The aphorism is vivid: nearness to Jesus is nearness to fire, and distance from Jesus is distance from the kingdom. It may preserve early eschatological or charismatic fire language, but present support is mostly thematic.
 
-It should be deferred to a fire/kingdom cluster rather than printed as a clean early saying.
+It has now been reviewed in the fire/kingdom cluster-control pass. The result is appendix-only: the saying is important for interpretation, but its support remains mostly internal and thematic rather than direct external textual control.
 
 ## Appendix Use
 
@@ -26,5 +26,4 @@ Use it to explain how Thomas links proximity to Jesus with danger, purification,
 
 ## Next Action
 
-Study with Logion 10 and Luke 12:49 in a fire-imagery control note.
-
+Use `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md`; keep appendix-only unless stronger external control emerges.

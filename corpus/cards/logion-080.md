@@ -1,6 +1,6 @@
 # Logion 80
 
-Статус: первинна корпусна картка v0.1.
+Статус: normalized corpus card; current workflow status: `Cluster-control v0.1`.
 
 ## Текст
 
@@ -33,6 +33,30 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 80.
 
 Внутрішньотоминий world/body cluster. Важливий для розуміння Фоми, але слабкий як earliest sayings candidate без зовнішніх контролів.
 
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія протиставляє справжнє життя і смерть, живе і мертве, світ і те, що не зводиться до світу. Такі вислови змушують переглянути звичні критерії успіху, безпеки, тіла, душі й реальності. У робочому українському перекладі це звучить так: "Хто пізнав світ, знайшов тіло; а хто справді зрозумів тіло, для того світ уже не має вартості."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як протиставлення справжнього життя й існування без розуміння.
+2. Як критику світу, коли світ означає систему сліпоти й привʼязаності.
+3. Як можливий пізніший томиний шар, якщо мова стає надто дуалістичною.
+
+Оскільки картка відкладена до подальшого рішення, її треба читати не ізольовано, а поруч із близькими логіями, які повторюють той самий мотив або словник. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія зараз важлива передусім як матеріал для подальшого контрольного рішення. Окремо вона не дає достатньо надійного висновку, але поруч зі спорідненими висловами може показати повторюваний мотив, редакційний шар або справді раннє ядро. Робоче рішення картки: DEFER; позначка для чистого читача: NO; попередньо визначений шар: світ і тіло.
+
+### Обережність
+
+У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
+
 ## Попередній статус
 
 Рішення: `DEFER`.
@@ -49,7 +73,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 80.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: світ і тіло.
-- Поточний робочий статус: Primary card v0.1.
+- Поточний workflow status: `Cluster-control v0.1`.
 
 ### Ймовірнісний профіль
 
@@ -63,21 +87,22 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 80.
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-080-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
+  - MERGE_WITH_EXISTING_CLUSTER: World/body saying belongs under living/dead/world control.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: поки не використовується як раннє ядро; потрібне окреме кластерне або джерельне поглиблення.
-- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці. наявні мотиви, які можуть належати до томиного богословського розгортання.
+- Можливе раннє ядро: world/body relation saying відкладається до body-world-corpse cluster; без групового контролю він надто легко читається як пізня анти-космічна рефлексія.
+- Вторинні / томині ризики: world/body valuation language belongs to a broad Thomasine anthropology cluster and needs separation from later anti-world discourse. наявні мотиви, які можуть належати до томиного богословського розгортання.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-Study world/body cluster with 56 and 111.
+Use living/dead/world cluster-control v0.1; keep appendix-only and do not count this as direct evidence-note coverage.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -134,17 +159,18 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: `DEFER`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
-- Current work status: Primary card v0.1.
+- Current workflow status: `Cluster-control v0.1`.
 - Evidence note in matrix: NO.
 - Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- окремого direct evidence note ще немає; cluster-control support exists in `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`.
 
 Synoptic/control files:
 - окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
 
 ### Greek/Coptic Policy
 
@@ -160,5 +186,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Study world/body cluster with 56 and 111.
+- Next action: Use living/dead/world cluster-control v0.1; keep appendix-only and do not count this as direct evidence-note coverage.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

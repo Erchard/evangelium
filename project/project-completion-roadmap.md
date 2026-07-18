@@ -1,6 +1,6 @@
 # Дорожня карта завершення проєкту
 
-Статус: оновлена робоча дорожня карта v0.3, 2026-07-17.
+Статус: оновлена робоча дорожня карта v0.3, 2026-07-18.
 
 ## Мета
 
@@ -17,7 +17,7 @@
 
 ## Поточна оцінка стану
 
-Орієнтовна готовність: 70-73%.
+Орієнтовна готовність: 74-76%.
 
 Це вже не початковий корпусний етап. Найскладніший хаос знято: корпус покритий повністю, є метод, є чистий reader, є багатомовні шари для поточної реконструкції, є evidence dossier і є каркас повного 114-логійного додатку.
 
@@ -39,34 +39,44 @@
 | Картки 114 логій | Є |
 | Вирівнювання якості всіх карток | Є, 114/114 мають `Gold-level status check v0.2` |
 | Пʼятиджерельний апарат у картках | Є, 114/114 мають `Five-source original-language apparatus v0.1`; canonical Greek заповнено для 81 картки; pending P.Oxy. XML extraction gap закрито |
-| Чистий український reader | 34 логії / ядра |
-| Англійський reader | Є для 34 логій / ядер |
-| Коптський шар | Є для 34 логій / ядер |
-| Грецький шар | Є для 34 логій / ядер; confidence audit v0.1 оновлено |
-| Паралельне видання | 34 рядки поточного reader |
+| Читацьке тлумачення в картках | Є, 114/114 мають окремий український розділ із простим сенсом, можливими прочитаннями, реконструкційним значенням і застереженням |
+| Чистий український reader | 37 логій / ядер |
+| Англійський reader | Є для 37 логій / ядер |
+| Коптський шар | Є для 37 логій / ядер |
+| Грецький шар | Є для 37 логій / ядер; confidence audit v0.1 оновлено |
+| Паралельне видання | 37 рядків поточного reader |
 | Evidence dossier | Робочий v1.3 |
-| Повний додаток до 114 логій | Є як каркас для всіх 114; попередні 31 включені секції розгорнуті, нові 45A/47B/63 мають апаратну підтримку; P1 non-reader package 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106 розгорнуто і має direct evidence notes |
+| Print/digital publication architecture | Є, v0.1 |
+| Повний додаток до 114 логій | Є для всіх 114; усі секції мають читацьке пояснення; Logia 1-60 уже редакційно консолідовані, Logia 61-114 ще потребують інтеграції card-derived blocks і усунення дублювань |
+| Structural QA baseline | Є: `tools/qa_crosscheck.py` перевіряє 114 карток, 114 appendix-секцій, синхронізацію clean-reader шарів і точні appendix anchors |
+| Cluster-control notes | Розпочато; living/dead/world, beatitudes, seek/find, family-renunciation і fire/kingdom passes v0.1 виконано |
 | Inclusion decisions table | Є як робоча таблиця; all-114 publication decision table v0.1 створено як головний контрольний документ перед appendix/dossier polish |
+| Open-task prompt queue | Є: `project/open-task-prompt-queue-2026-07-18.md`; поточний `NEXT` - appendix editorial consolidation Logia 61-70 |
 
 ## Поточний склад clean reader
 
-У чистому українському тексті зараз 34 логії або ядра:
+У чистому українському тексті зараз 37 логій або ядер:
 
-1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 45A, 47B, 54, 63, 72, 73, 86, 89, 95, 96, 99, 100, 107.
+1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 45A, 46A, 47B, 54, 63, 72, 73, 86, 89, 91A, 95, 96, 99, 100, 103A, 107.
 
 Цей список не є фінальним. Його можуть змінити high-candidate deepening passes.
 
 ## Основні прогалини
 
-1. Не всі high-candidate `UNCERTAIN` логії мають evidence notes і synoptic/control files.
-2. Повний 114-логійний додаток частково розгорнутий, але більшість невключених і частина включених логій ще мають каркасний формат.
+1. Найбільша поточна прогалина - повний 114-логійний додаток уже синхронізований із картковим читацьким шаром 114/114, але ще не доведений до єдиного print-safe публікаційного формату: треба прибрати дублювання, вирівняти стиль, додати бібліографічні привʼязки й відділити друковані посилання від digital-only paths.
+2. Cluster-control notes для deferred-груп суттєво просунуті: living/dead/world, beatitudes, seek/find, family-renunciation і fire/kingdom уже виконано, але wealth/renunciation ще треба закрити.
 3. Evidence dossier ще не є публікаційним академічним документом.
-4. Canonical Greek control layer суттєво покращено: 81 картка має SBLGNT Greek controls, 33 не мають локально виписаного canonical Greek text через відсутність явного reference або відсутність потреби в синоптичному контролі.
-5. Pending P.Oxy. XML extraction gap закрито для логій 24, 27, 28, 29, 30, 37, 38 і 77; тепер потрібна звірка цих витягів з академічними виданнями.
-6. All-114 publication decision table v0.1 покриває всі 114 логій; після Package B evidence-rationale pass `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0.
-7. Greek retroversion layer має confidence audit v0.1, але перед публікацією потрібна фінальна редакція й перевірка проти академічних видань.
-8. Bibliography / rights / citation policy існують як принципи, але ще не як фінальний апарат.
-9. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
+4. Паперова й цифрова архітектура тепер зафіксована: наступні редакційні проходи мають писатися print-safe, щоб українська й англійська книги не залежали від клікабельних repo links.
+5. Canonical Greek control layer суттєво покращено: 81 картка має SBLGNT Greek controls, 33 не мають локально виписаного canonical Greek text через відсутність явного reference або відсутність потреби в синоптичному контролі.
+6. Pending P.Oxy. XML extraction gap закрито для логій 24, 27, 28, 29, 30, 37, 38 і 77; тепер потрібна звірка цих витягів з академічними виданнями.
+7. All-114 publication decision table v0.1 покриває всі 114 логій; після Package B evidence-rationale pass `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0; пʼять cluster-control груп уже мають контрольні документи.
+8. Greek retroversion layer має confidence audit v0.1, але перед публікацією потрібна фінальна редакція й перевірка проти академічних видань.
+9. Bibliography / rights / citation policy існують як принципи, але ще не як фінальний апарат.
+10. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
+11. Probability-pressure review виконано. Logion 1 frame-status review також виконано. Split-core / high-early pressure Review C і controlled reader-candidate pass 46A/91A виконано: 46A та 91A додано до clean reader як марковані ядра, 90 лишено appendix-only.
+12. Thief/watchfulness cluster-control для Logia 21/103 виконано: 103A додано до clean reader як марковане ядро; повні Logia 21 і 103 лишаються appendix-only.
+
+Поточні технічні борги після technical-debt closure pass закрито на рівні структурного контролю: `python3 tools/qa_crosscheck.py` проходить і має запускатися перед/після великих редакційних пакетів.
 
 ## Фаза 1. High-Candidate Deepening
 
@@ -104,7 +114,7 @@
 - кожна логія зі strong synoptic control має окремий control file або посилання на cluster file;
 - workflow matrix, card-quality audit і appendix skeleton не суперечать одне одному.
 
-Стан після card-quality pass v0.2: усі 114 карток мають однаковий поточний status block; 55 логій мають evidence notes у workflow matrix, а 59 ще потребують evidence note або explicit no-note rationale.
+Стан після evidence-rationale packages: усі 114 карток мають однаковий поточний status block; evidence/control inventory виконано, direct evidence-note coverage піднято до 91 логії, а `NEEDS_EVIDENCE_BEFORE_FINAL` у all-114 publication decision table зведено до 0.
 
 ## Фаза 3. Final Decision Audit
 
@@ -135,6 +145,8 @@
 ## Фаза 5. Full 114-Logion Commentary Expansion
 
 Мета: перетворити `full-logion-commentary-appendix-uk.md` з каркаса на справжній читацький додаток.
+
+Після print/digital publication architecture v0.1 кожен appendix pass має дотримуватися print-safe правил: у прозі для читача використовувати номери логій, witness labels, canonical references і bibliography keys; внутрішні repo paths тримати в окремому source/control шарі, який може бути автоматично вилучений або трансформований для друку.
 
 Кожна логія має отримати:
 
@@ -200,7 +212,13 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: cluster-control deepening для найбільших deferred-груп після закриття `NEEDS_EVIDENCE_BEFORE_FINAL`.
+Найважливіша наступна редакційна дія за актуальною prompt queue: print-safe full appendix editorial consolidation для Logia 61-70. Найважливіша pre-freeze змістова дія після цього: wealth/renunciation cluster-control. Evidence dossier publication pass лишається наступним великим публікаційним кроком після цих пакетів.
+
+Перед початком і після завершення пакета запускати:
+
+```bash
+python3 tools/qa_crosscheck.py
+```
 
 Виконані пакети:
 
@@ -210,6 +228,7 @@
 - Logia 25, 26, 31, 32, 33.
 - Logia 34, 35, 36, 39, 41.
 - Logia 54, 72, 73.
+- Logia 51-60.
 
 Виконано також:
 
@@ -218,6 +237,10 @@
 
 Наступний рекомендований пакет:
 
-- Cluster-control notes для living/dead/world, beatitudes, seek/find, family-renunciation і fire/kingdom груп.
+- Cluster-control note для wealth/renunciation групи.
 
-Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; перший P1 non-reader appendix package і matching evidence-rationale pass виконано. Тепер слабке місце - citable evidence/no-note rationale для решти невключених логій.
+Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; P1 evidence-rationale packages виконано; living/dead/world, beatitudes, seek/find, family-renunciation і fire/kingdom cluster-control passes виконано. Тепер слабке місце - wealth/renunciation cluster-control, Logion 114 exclusion rationale і публікаційна редактура appendix/dossier.
+
+Після reader-interpretation expansion v0.1 і full-appendix reader-interpretation sync v0.1 усі 114 карток і всі 114 appendix-секцій мають читацький шар. Editorial consolidation виконано для Logia 1-60. Усі 37 clean-reader одиниць мають точний `Чистий текст реконструкції` anchor у full appendix. Наступний якісний крок за `project/open-task-prompt-queue-2026-07-18.md` - продовжити вирівнювання appendix пакетом Logia 61-70, прибираючи дублювання між старими розгорнутими секціями й новим синхронізованим блоком, а потім перейти до wealth/renunciation cluster-control.
+
+Цей наступний пакет має вже виконувати нове print-safe правило: не покладатися на клікабельні посилання як єдиний апарат, а давати друковані відповідники для кожного важливого джерельного або паралельного посилання.

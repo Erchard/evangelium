@@ -1,6 +1,6 @@
 # Структура репозиторію
 
-Статус: актуалізовано 2026-07-17 після реорганізації папок.
+Статус: актуалізовано 2026-07-18 після technical-debt closure pass.
 
 ## Навігаційний принцип
 
@@ -17,7 +17,8 @@
 | `controls/` | Synoptic/control files, кластерні порівняння, паралелі й контрольні аргументи. |
 | `research/` | Методологія, історія досліджень, датування, історичні гіпотези. |
 | `bibliography/` | Місце для фінальної бібліографії, rights/citation notes і списків літератури. |
-| `output/` | Місце для майбутніх експортів: стаття, книга, публічні редакції. |
+| `output/` | Місце для майбутніх експортів: українська паперова книга, англійська паперова книга, digital scholarly companion, статті й публічні редакції. |
+| `tools/` | Локальні QA/consistency scripts для перевірки структури, нумерації, reader sync і appendix anchors. |
 | `archive/` | Неактивні матеріали, які треба зберегти, але не використовувати як робочий центр. |
 
 ## Де шукати головне
@@ -36,8 +37,10 @@
 | Операційна матриця 114 логій | `corpus/tables/logia-workflow-matrix.md` |
 | Першоджерела | `sources/primary_texts/` |
 | Synoptic/control матеріали | `controls/synoptic-parallels/` |
+| Structural QA / crosscheck | `tools/qa_crosscheck.py` |
 | Головна дорожня карта | `project/project-completion-roadmap.md` |
 | Специфікація кінцевого продукту | `project/final-product-specification.md` |
+| Print/digital publication architecture | `project/print-and-digital-publication-architecture.md` |
 | Головний промпт проєкту | `project/ide-codex-master-project-prompt.md` |
 
 ## Поточний стан після реорганізації
@@ -45,8 +48,11 @@
 - Clean Ukrainian reader містить 34 логії або ядра.
 - Мовні шари синхронізовані для 34 одиниць.
 - Корпус має 114 карток логій.
-- Full 114-logion appendix має каркас для всіх 114 логій; попередні 31 включені секції розгорнуті, а нові 45A/47B/63 мають апаратну підтримку.
-- Наступний робочий пакет: Phase 5 full appendix expansion для excluded/deferred/evidence-blocked логій.
+- Full 114-logion appendix має 114/114 секцій із читацьким поясненням; Logia 1-60 уже редакційно консолідовані, Logia 61-114 ще потребують такого самого вирівнювання.
+- Усі 34 clean-reader одиниці мають точний `Чистий текст реконструкції` anchor у full appendix.
+- Structural QA baseline проходить через `python3 tools/qa_crosscheck.py`.
+- Print/digital publication architecture v0.1 зафіксована: українська й англійська паперові книги мають бути самодостатніми, а повний evidence apparatus лишається digital scholarly companion.
+- Наступний робочий пакет: print-safe full appendix editorial consolidation для Logia 61-70.
 
 ## Правило для майбутньої роботи
 
@@ -54,7 +60,9 @@
 
 - новий промпт або план - у `project/`;
 - новий текст реконструкції або коментар - у `reconstruction/earliest-sayings-gospel/`;
+- майбутній print/digital export - у `output/print/uk/`, `output/print/en/` або `output/digital/scholarly/`;
 - нову картку логії - у `corpus/cards/`;
 - нове першоджерело або snapshot - у `sources/primary_texts/`;
 - новий контроль паралелей - у `controls/synoptic-parallels/`;
 - нове методологічне або історичне дослідження - у `research/`.
+- новий QA/consistency script - у `tools/`.

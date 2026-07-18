@@ -51,6 +51,30 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-011-evidence
 
 Публікаційна нотатка: не додавати логію 11 до українського читацького тексту зараз. Навіть найсильніший фрагмент про небо, що минає, поки лишається в апараті через відмінність від синоптичної формули і складну композицію всієї логії.
 
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія протиставляє справжнє життя і смерть, живе і мертве, світ і те, що не зводиться до світу. Такі вислови змушують переглянути звичні критерії успіху, безпеки, тіла, душі й реальності. У робочому українському перекладі це звучить так: "Це небо мине, і те, що над ним, мине. Мертві не живі, а живі не помруть. Коли ви їли мертве, ви робили його живим. Коли будете у світлі, що зробите? Коли були одним, стали двома; коли станете двома, що зробите?"
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як протиставлення справжнього життя й існування без розуміння.
+2. Як критику світу, коли світ означає систему сліпоти й привʼязаності.
+3. Як можливий пізніший томиний шар, якщо мова стає надто дуалістичною.
+
+Оскільки картка не входить до чистого тексту, її функція - допомогти читачеві зрозуміти, що саме лишилося поза реконструкцією і чому це чесне рішення. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як appendix-only матеріал: вона допомагає читачеві зрозуміти межі корпусу, навіть якщо її не можна чесно друкувати як частину найдавнішого тексту. Робоче рішення картки: UNCERTAIN; позначка для чистого читача: NO; попередньо визначений шар: небо мине / мертві й живі / світло / один і два.
+
+### Обережність
+
+Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
+
 ## Еталонне вирівнювання картки v0.1
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
@@ -81,16 +105,17 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-011-evidence
   - `controls/synoptic-parallels/logion-011-heaven-passing-controls.md`
 - Cluster/context notes:
   - `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
+  - `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці. наявні мотиви, які можуть належати до томиного богословського розгортання.
+- Можливе раннє ядро: окремі формули про минущість неба/землі або живих і мертвих; повна композиція надто щільно поєднує кілька томиних тем, тому потребує розділення на підодиниці.
+- Вторинні / томині ризики: saying combines cosmic passing-away, living/dead contrast, light imagery and one/two language; each subunit needs separate control before reconstruction use. наявні мотиви, які можуть належати до томиного богословського розгортання.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-Keep in apparatus; heaven-passing subunit has partial synoptic control, but full unit is composite and one/two material belongs to Thomas unity cluster.
+Use living/dead/world cluster-control v0.1; keep full logion outside clean reader, with heaven-passing treated as a controlled subunit in appendix/dossier.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -160,6 +185,7 @@ Evidence note / dossier files:
 
 Synoptic/control files:
 - `controls/synoptic-parallels/logion-011-heaven-passing-controls.md`
+- `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
 
 ### Greek/Coptic Policy
 
@@ -175,5 +201,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Keep in apparatus; heaven-passing subunit has partial synoptic control, but full unit is composite and one/two material belongs to Thomas unity cluster.
+- Next action: Use living/dead/world cluster-control v0.1; keep full logion outside clean reader, with heaven-passing treated as a controlled subunit in appendix/dossier.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

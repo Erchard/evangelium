@@ -248,6 +248,18 @@ Confidence: medium.
 
 Basis: Coptic Thomas plus Matthew 7:16 and Luke 6:44. This is a reader-core retroversion, not an extant Greek Thomas witness.
 
+## Logion 46
+
+Decision: John / least-in-kingdom core `INCLUDE_WITH_MARKER`; full logion appendix-only.
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> ἐν γεννητοῖς γυναικῶν οὐδεὶς μείζων Ἰωάννου· ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ μείζων αὐτοῦ ἐστιν.
+
+Basis: Coptic Thomas plus Matthew 11:11 and Luke 7:28. The retroversion covers only the John / least-in-kingdom core, not Thomas's full Adam-to-John and knowledge wording.
+
 ## Logion 47
 
 Decision: two-masters core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
@@ -332,6 +344,18 @@ Confidence: medium.
 
 Basis: Coptic Thomas plus Luke 11:39-40 and Matthew 23:25-26. This is not an extant Greek Thomas witness.
 
+## Logion 91
+
+Decision: recognition-of-time core `INCLUDE_WITH_MARKER`; full logion appendix-only.
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: low-medium to medium.
+
+> τὸ πρόσωπον τῆς γῆς καὶ τοῦ οὐρανοῦ οἴδατε δοκιμάζειν, τὸν δὲ καιρὸν τοῦτον οὐκ οἴδατε δοκιμάζειν.
+
+Basis: Coptic Thomas plus Luke 12:54-56 and Matthew 16:2-3. The retroversion covers only the recognition-of-time core, not the dialogue frame.
+
 ## Logion 95
 
 Decision: `INCLUDE_WITH_MARKER`
@@ -379,6 +403,18 @@ Confidence: medium-high.
 > ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ.
 
 Basis: Coptic Thomas plus Mark 12:13-17, Matthew 22:15-22, and Luke 20:20-26. The Thomas-specific third clause is excluded from this reader-core retroversion.
+
+## Logion 103
+
+Decision: thief/watchfulness core `INCLUDE_WITH_MARKER`; full logion appendix-only.
+
+Greek status: `Greek retroversion, hypothetical`; no loaded extant Greek Thomas witness.
+
+Confidence: medium.
+
+> μακάριος ὁ γινώσκων πότε ὁ κλέπτης ἔρχεται καὶ γρηγορεῖ πρὸ τῆς ἐλεύσεως αὐτοῦ.
+
+Basis: Coptic Thomas plus Matthew 24:43, Luke 12:39, and Mark 13:33-37. This retroversion covers only the reader core; the gathering-domain, girding, and expanded entry scene are excluded.
 
 ## Logion 107
 

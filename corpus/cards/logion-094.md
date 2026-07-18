@@ -1,6 +1,6 @@
 # Logion 94
 
-Статус: первинна корпусна картка v0.1.
+Статус: normalized corpus card; current workflow status: `Cluster-control v0.1`.
 
 ## Текст
 
@@ -43,9 +43,33 @@ The one who seeks will find; to the one who knocks, it will be opened.
 
 Дуже сильний кандидат для поглиблення як коротке ядро. Потрібно вирішити, чи включати його окремо, чи трактувати разом із логією 2 як дублет/варіант seeking tradition. Через відсутність P.Oxy. поки не включати автоматично.
 
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія говорить про пошук. Істина тут не подається як готова формула: людина має шукати, питати, витримувати нерозуміння і не зупинятися передчасно. У робочому українському перекладі це звучить так: "Хто шукає, знайде; хто стукає, тому відкриють."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як заклик до активного пошуку, де віра не скасовує питання.
+2. Як опис внутрішнього шляху від пошуку до відкриття.
+3. Як традицію мудрості, що могла мати раннє ядро і пізніше розгортання.
+
+Оскільки картка не входить до чистого тексту, її функція - допомогти читачеві зрозуміти, що саме лишилося поза реконструкцією і чому це чесне рішення. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як appendix-only матеріал: вона допомагає читачеві зрозуміти межі корпусу, навіть якщо її не можна чесно друкувати як частину найдавнішого тексту. Робоче рішення картки: KEEP_APPENDIX_ONLY_FOR_NOW; позначка для чистого читача: NO; попередньо визначений шар: хто шукає, знайде; хто стукає, тому відкриють.
+
+### Обережність
+
+Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
+
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 
 Наступна дія: high candidate; deepen with Logia 2 and synoptic ask/seek/knock tradition.
 
@@ -59,7 +83,7 @@ The one who seeks will find; to the one who knocks, it will be opened.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: хто шукає, знайде; хто стукає, тому відкриють.
-- Поточний робочий статус: Primary card v0.1.
+- Поточний workflow status: `Cluster-control v0.1`.
 
 ### Ймовірнісний профіль
 
@@ -70,6 +94,12 @@ The one who seeks will find; to the one who knocks, it will be opened.
 | 90-130 роки | 25% | Робоча оцінка з індексу; особливо важлива для томиного/редакційного шару. |
 | Після 130 року | 5% | Робоча оцінка з індексу; високий показник тут послаблює включення до найдавнішої реконструкції. |
 
+### Probability / reader-decision rationale v0.1
+
+Early score 70 робить логію 94 найсильнішим non-reader tension case. Невключення не означає, що seek/knock saying слабке; навпаки, воно занадто близьке до вже представленого seek/find motif у Logion 2.
+
+Поточна реконструкція тримає Logion 2 як сильніший clean-reader representative, а логію 94 лишає в appendix, щоб не створювати в чистому тексті дубль того самого мотиву без додаткового реконструкційного виграшу. У додатку її треба подати як сильну, але redundant tradition.
+
 ### Доказовий апарат
 
 - Evidence note:
@@ -77,7 +107,8 @@ The one who seeks will find; to the one who knocks, it will be opened.
 - Synoptic/control files:
 `controls/synoptic-parallels/logion-094-seek-knock-controls.md`.
 - Cluster/context notes:
-окремий cluster note не створювався; Review B виконує функцію seek/find duplication context note.
+  - `reconstruction/earliest-sayings-gospel/notes/seek-find-cluster-control-en.md`
+  - `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md`
 
 ### Шарова модель для реконструкції
 
@@ -87,7 +118,7 @@ The one who seeks will find; to the one who knocks, it will be opened.
 
 ### Наступна дія
 
-Split-core review B: keep appendix-only for now because Logion 2 already represents the seek/find motif in the clean reconstruction.
+Use seek/find cluster-control v0.1; keep appendix-only for now because Logion 2 already represents the seek/find motif in the clean reconstruction.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -158,6 +189,7 @@ Evidence note / dossier files:
 
 Synoptic/control files:
 - `controls/synoptic-parallels/logion-094-seek-knock-controls.md`
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/seek-find-cluster-control-en.md`
 
 ### Greek/Coptic Policy
 
@@ -173,5 +205,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Strong tradition, but likely redundant with Logion 2 in this reconstruction.
+- Next action: Use seek/find cluster-control v0.1; keep appendix-only for now as strong but likely redundant with Logion 2 in this reconstruction.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

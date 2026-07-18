@@ -1,10 +1,10 @@
 # Logion 1 Evidence Note
 
-Status: working evidence note v0.1.
+Status: working evidence note v0.2.
 
 ## Decision
 
-`INCLUDE_WITH_MARKER`
+`INCLUDE_WITH_MARKER`; pre-freeze review recommends the more precise editorial label `FRAME_INCLUDED_WITH_MARKER`.
 
 ## Reconstructed Function
 
@@ -65,4 +65,11 @@ Reasons for marking:
 
 - Collate the Greek reconstruction with major academic editions.
 - Study "not taste death" across early Christian and Jewish literature.
-- Decide whether the public edition should print Logion 1 in the main text or in a prefatory apparatus.
+- During the clean-reader freeze pass, decide the final display rule: numbered opening frame inside the clean text, or visually distinct prologue retaining the number "1" for lookup.
+- During the evidence dossier publication pass, separate Logion 1 from ordinary included sayings as a collection-frame case.
+
+## Frame-Status Review, 2026-07-18
+
+The pre-freeze review in `../logion-001-frame-status-review-v0.1.md` recommends `FRAME_INCLUDED_WITH_MARKER`.
+
+This means Logion 1 may remain in the synchronized source-layer reader for now, but it must not be presented as an ordinary high-confidence early Jesus saying. Its strongest function is editorial and hermeneutical: it frames the collection as words requiring interpretation. The final print model should handle it as an opening frame or prologue while preserving the number "1" for reader lookup.

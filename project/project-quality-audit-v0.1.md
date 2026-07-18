@@ -1,27 +1,26 @@
-# Project Quality Audit v0.1
+# Project Quality Audit v0.2
 
-Статус: повний аудит якості, 2026-07-17.
+Статус: актуалізований аудит якості, 2026-07-18.
+
+Примітка: файл збережено під історичною назвою `project-quality-audit-v0.1.md`, щоб не ламати наявні посилання. Поточний зміст відповідає audit v0.2.
 
 ## Мета аудиту
 
-Цей документ фіксує не те, що проект уже вміє, а те, що може завадити йому стати переконливою публікаційною реконструкцією найдавнішого досяжного євангелія висловів.
+Цей документ фіксує актуальні недоліки, які ще відділяють проект EUAGELIA від переконливого публікаційного результату:
 
-Фокус аудиту:
-
-- якість джерельного шару;
-- рівномірність карток логій;
-- повнота evidence notes і control files;
-- готовність clean reader і повного додатку;
-- публікаційна безпека: метод, права, бібліографія, цитування;
-- внутрішня синхронізація документації.
+- чистого українського reconstructed reader;
+- повного українського appendix до всіх 114 логій;
+- коптського, грецького, англійського й арабського reader/language layers;
+- англомовного evidence dossier;
+- прозорої методології, бібліографії, прав і citation policy.
 
 ## Executive Assessment
 
-Орієнтовна готовність проекту до кінцевої мети: 70-73%.
+Орієнтовна готовність проекту до кінцевої мети: 79-82%.
 
-Це вже сильний робочий корпус, а не початкова збірка нотаток. Найважливіше вже зроблено: є повне покриття 114 логій картками, є clean Ukrainian reader, є концепція двошарового видання, є пʼятиджерельний апарат у картках, є коптський корпус, є P.Oxy. корпус, є SBLGNT canonical Greek controls для більшості релевантних карток.
+Проект уже не перебуває на етапі побудови корпусу. Корпус покрито повністю, clean reader існує, all-114 decision table створено, evidence-blocking gap зведено до нуля, картки мають пʼятиджерельний апарат і читацьке тлумачення, а full appendix синхронізовано з цим читацьким шаром для всіх 114 логій.
 
-Але проект ще не є бездоганним виданням. Головний ризик: структура випереджає доказову глибину. Тобто майже всюди вже є місце для правильного матеріалу, але не всюди цей матеріал доведено до публікаційного рівня.
+Головний актуальний ризик змінився. Раніше слабким місцем була відсутність пояснень і evidence-control покриття. Тепер слабке місце - публікаційна цілісність: матеріал є, але його ще треба редакційно звести, прибрати дублювання, завершити кілька cluster-control груп і зробити evidence dossier самостійним англомовним захистом реконструкції.
 
 ## Поточні Метрики
 
@@ -30,246 +29,256 @@
 | Картки логій | 114/114 |
 | Картки з `Gold-level status check v0.2` | 114/114 |
 | Картки з `Five-source original-language apparatus v0.1` | 114/114 |
+| Картки з `Читацьке тлумачення` | 114/114 |
 | Картки з реальним локальним canonical Greek text | 81/114 |
 | Картки з canonical Greek channel, але без локально виписаного Greek text | 33/114 |
-| Картки з pending P.Oxy. line extraction | 0/114 after `poxy-xml-extraction-audit-v0.1.md` |
-| Evidence note у workflow matrix | 55/114 |
-| Без evidence note у workflow matrix | 59/114 |
-| Картки з явним повідомленням, що окремого evidence note ще немає | 58/114 |
-| Картки з явним повідомленням, що окремого control file ще немає | 60/114 |
-| Full appendix headings | 114/114 |
-| Appendix sections still using short navigation-label wording | 83 |
-| Clean Ukrainian reader | 34 логії / ядра |
-
-Примітка: після повторної звірки workflow matrix показує 55 `YES` і 59 `NO` у колонці `Evidence note`. Окремий evidence-file audit pass усе одно потрібен, бо matrix треба звірити з фактичними файлами notes/control.
+| Картки з pending P.Oxy. line extraction | 0/114 |
+| Full appendix logion sections | 114/114 |
+| Appendix sections with reader-facing explanation | 114/114 |
+| Appendix sections already editorially consolidated | 60/114 |
+| Appendix sections still carrying separate card-derived blocks | 53/114 |
+| Застаріла фраза `перетворити з каркаса...` | 0 |
+| Navigation-label skeleton prose still present | 38 |
+| All-114 publication decision table | Є, v0.1 |
+| `NEEDS_EVIDENCE_BEFORE_FINAL` у all-114 table | 0 |
+| Clean Ukrainian reader | 37 логій / ядер |
+| Cluster-control passes completed | 6 груп |
+| Evidence dossier | Робочий, не публікаційний |
 
 ## Що Вже Сильне
 
-1. **Корпус повністю покритий.** Немає логій без картки; це критично важливий фундамент.
-2. **Картки вирівняні структурно.** Усі 114 мають однаковий gold-level status layer.
-3. **Джерельні канали стали видимими.** У картках прямо показано P.Oxy. 1 / 654 / 655, Coptic NHC II і canonical Greek control channel.
-4. **Коптський базовий текст внесено прямо в картки.** Це відповідає рішенню брати коптський текст як головний збережений witness.
-5. **Clean reader уже читається як окремий текст.** 34 логії/ядра можна показувати читачеві як робочу реконструкцію без коментарів і дисклеймерів.
-6. **Проект має правильну двошарову концепцію.** Спочатку чистий текст, потім повний додаток до всіх 114 логій, включно з відкинутими.
-7. **Гіпотетичний грецький шар методологічно відокремлено від рукописних свідків.**
+1. **Повне корпусне покриття.** 114/114 логій мають картки.
+2. **Картки структурно вирівняні.** 114/114 мають gold-level status block.
+3. **Джерельний шар видимий у кожній картці.** P.Oxy. 1 / 654 / 655, Coptic NHC II і canonical Greek control channel прямо в картках.
+4. **Читацьке тлумачення тепер є всюди.** 114/114 карток і 114/114 appendix-секцій мають окремий reader-facing український шар.
+5. **Full appendix більше не є порожнім каркасом.** Він ще потребує редактури, і 38 секцій досі мають navigation-label skeleton prose, але читач уже має базове пояснення для кожної включеної, невключеної, відкладеної й відкинутої логії.
+6. **All-114 decision control існує.** `all-114-publication-decision-table-v0.1.md` покриває всі логії й прибрав головний хаос у статусах.
+7. **Evidence-blocking gap закрито.** `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0 після P1 evidence-rationale packages.
+8. **Гіпотетичний грецький шар методологічно відділено від manuscript witness.**
+9. **Clean reader лишається чистим.** Коментарі, статуси й дужки не потрапляють у перший читацький шар.
+
+## Закриті Попередні Недоліки
+
+| Попередній недолік | Поточний стан |
+| --- | --- |
+| Pending P.Oxy. XML extraction | Закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`. |
+| Відсутність true all-114 decision table | Закрито в `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`. |
+| Evidence-control inventory не виконано | Закрито в `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`. |
+| Більшість карток без зрозумілого тлумачення | Закрито на рівні v0.1: `corpus/cards/reader-interpretation-expansion-audit-v0.1.md`. |
+| Full appendix мав 70+ старих scaffold-заглушок типу `перетворити з каркаса...` | Закрито на рівні v0.1: `reconstruction/earliest-sayings-gospel/full-appendix-reader-interpretation-sync-v0.1.md`; однак 38 navigation-label skeleton фраз ще треба прибрати editorial consolidation packages. |
+| Невключені логії пояснювалися слабше за включені | Суттєво покращено: усі 114 appendix-секцій мають читацьке пояснення, включно з excluded/deferred/uncertain. |
+| Відсутність reusable consistency script | Закрито в `tools/qa_crosscheck.py`; поточний запуск проходить для 114 карток, 114 appendix-секцій, 37 clean-reader одиниць і exact clean-text anchors. |
 
 ## P0 Недоліки: Критичні Для Публікаційної Якості
 
-### 1. Evidence Depth Нерівномірний
+### 1. Full Appendix Ще Не Є Єдиним Відредагованим Текстом
 
-Найбільший недолік зараз: не всі логії мають доказовий рівень, достатній для зовнішньої перевірки.
+Найбільший актуальний недолік: appendix тепер повний за покриттям, але не фінальний за редакційною якістю. Перші шість editorial consolidation packages уже виконано для Logia 1-60; решта appendix ще потребує такого самого проходу.
 
 Фактичний стан:
 
-- workflow matrix має 55 `YES` у колонці `Evidence note`;
-- 59 логій мають `NO`;
-- 58 карток прямо кажуть, що окремого evidence note ще немає;
-- 60 карток прямо кажуть, що окремого control file ще немає.
+- 114/114 секцій мають читацьке пояснення;
+- 60/114 секцій уже редакційно консолідовані;
+- раніше розгорнуті секції збережені;
+- у частині логій 51-114 ще є дублювання між старим розгорнутим commentary і новим card-derived reader block;
+- стиль секцій нерівний: частина виглядає як повноцінний коментар, частина як синхронізований технічний шар.
 
-Ризик: читач або критик побачить рішення, але не завжди побачить достатньо доказів, чому логію включено, відкладено або відкинуто.
+Ризик: читач уже отримає пояснення, але appendix може виглядати як зведення робочих шарів, а не як цілісний текст.
 
 Потрібно:
 
-- провести evidence-file audit: звірити реальні файли в `reconstruction/earliest-sayings-gospel/notes/` з workflow matrix;
-- для всіх included reader logia мати окремий evidence note або section у dossier;
-- для excluded/deferred high-impact logia мати не менший за якістю appendix rationale;
-- для low-priority deferred logia дозволити коротший note, але не мовчання.
+- пройти appendix від 41 до 114 наступними пакетами;
+- для кожної логії обʼєднати старий розгорнутий commentary і card-derived interpretation в один плавний розділ;
+- залишити джерела, Greek status, evidence links і uncertainty;
+- прибрати повтори;
+- уніфікувати порядок підрозділів.
 
-### 2. Pending P.Oxy. XML Extraction Закрито Після Аудиту
+### 2. Cluster-Control Notes Ще Не Закриті Для Всіх Deferred-Груп
 
-Цей P0 недолік закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`. До проходу у 8 картках був реальний папірусний шанс, але card-level Greek extract ще не було зроблено:
+Виконані cluster-control passes:
 
-- P.Oxy. 1: логії 27, 28, 29, 30, 77;
-- P.Oxy. 655: логії 24, 37, 38.
+- living/dead/world;
+- beatitudes;
+- seek/find;
+- family-renunciation;
+- fire/kingdom.
 
-Поточний стан: pending marker прибрано з усіх 8 карток. Логія 24 отримала уточнення, що P.Oxy. 655 не є прямим card-ready witness до коптського світлового вислову; решта отримала відповідні Greek extracts або фрагментарні controls.
+Найважливіші незакриті групи:
 
-### 3. Немає Фінальної All-114 Publication Decision Table
+- wealth/renunciation;
+- ritual/practice;
+- image/light;
+- body/soul;
+- authority/community;
+- parables with high dependence risk.
 
-Є `inclusion-decisions-table.md`, `final-all-114-decision-audit-v0.1.md` і workflow matrix, але ще немає одного фінального контрольного документа, де для всіх 114 логій або підодиниць буде:
+Ризик: 46-47 логій усе ще мають логіку `DEFER_TO_CLUSTER` або близький статус. Appendix уже пояснює їх базово, але фінальне рішення має спиратися на cluster-level аргумент, а не тільки на окрему картку.
 
-- decision;
-- reader status;
-- confidence;
-- main reason;
-- evidence note;
-- Greek witness status;
-- appendix status;
-- reason for inclusion / exclusion / deferral.
+Потрібно:
 
-Ризик: фінальний clean reader може виглядати як добірка хороших місць, а не як наслідок послідовного методу по всьому корпусу.
+- почати з wealth/renunciation, бо вона вже явно названа наступною групою;
+- після кожного cluster-control pass оновлювати cards, all-114 table, appendix і dossier;
+- не промотувати логії в clean reader без окремого decision pass.
 
-### 4. Full Appendix Є Як Каркас, Але Не Як Повний Коментар
+### 3. Evidence Dossier Не Готовий Як Англомовний Публікаційний Захист
 
-`reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` має 114 headings, але 83 місця ще використовують коротку навігаційну формулу на кшталт "Цей опис узято з робочого індексу логій".
-
-Ризик: задум "дати читачеві можливість дослідити кожну логію" ще не виконаний повністю. Особливо важливо, що невключені логії теж мають отримати серйозне пояснення, інакше читач не побачить чесності відбору.
-
-Потрібно для кожної логії:
-
-- короткий зміст;
-- джерела і текстові свідки;
-- грецький статус;
-- канонічні / позаканонічні / внутрішньотоміні паралелі;
-- можливі тлумачення;
-- що лишається непевним;
-- чому включено, не включено або відкладено.
-
-### 5. Evidence Dossier Не Готовий Як Англомовний Публікаційний Захист
-
-Evidence dossier існує як робочий документ, але ще не є фінальною академічною аргументацією.
+Evidence dossier існує і вже корисний, але ще не є документом, який можна дати зовнішньому reviewer без пояснень.
 
 Потрібно:
 
 - methodological introduction;
 - source hierarchy;
 - explicit uncertainty model;
-- logion-by-logion evidence summaries;
+- logion-by-logion summaries для included units;
+- selected summaries для excluded/deferred high-impact logia;
 - inclusion/exclusion rationale;
 - bibliography;
 - rights and citation policy;
-- окреме пояснення, чому реконструкція не дорівнює "перекладу Фоми".
+- окреме пояснення, чому reconstruction не дорівнює translation of Thomas.
+
+Ризик: clean reader може виглядати переконливо літературно, але без dossier зовнішній читач не побачить повного доказового ланцюга.
+
+### 4. Logion 114 Потребує Publication-Level Exclusion Rationale
+
+Logion 114 уже має статус `EXCLUDE_AS_SECONDARY`, і це правильний напрям. Але для фінального видання цього недостатньо.
+
+Потрібно:
+
+- окремий evidence/no-note rationale або dossier subsection;
+- пояснення, чому ця логія не входить до earliest sayings-gospel reconstruction;
+- спокійне тлумачення без полеміки;
+- пояснення, чому її все одно треба показати в appendix.
+
+Ризик: читач може сприйняти виключення як ідеологічний жест, якщо не побачить чіткого історико-критичного rationale.
 
 ## P1 Недоліки: Високий Пріоритет
 
-### 6. Canonical Greek Layer Частково Залежить Від Локального Cache
+### 5. Canonical Greek Layer Потребує Reproducibility Fix
 
-SBLGNT Greek controls внесені в 81 картку, але джерельний cache описано як `/tmp/euagelia-sblgnt/Matt.txt`, `/tmp/euagelia-sblgnt/Mark.txt`, `/tmp/euagelia-sblgnt/Luke.txt`.
-
-Ризик: `/tmp` не є стабільним проектним джерелом. Через рік буде важче відтворити extraction pass.
+SBLGNT Greek controls внесені в 81 картку, але довготривала відтворюваність ще слабка.
 
 Потрібно:
 
-- або внести дозволений open-source SBLGNT source snapshot у `sources/primary_texts/`;
-- або створити точний reproducibility note з URL, commit/hash, license і extraction script;
-- оновити `sources/primary_texts/source-register.md`, щоб SYN-MATT / SYN-MARK / SYN-LUKE не виглядали як повністю "потрібно знайти", якщо SBLGNT уже використано.
+- стабільний source snapshot або reproducibility note;
+- URL / commit / license / extraction method;
+- оновлення source register;
+- чітке розрізнення working open control text і final critical-edition verification target.
 
-### 7. Source Register Має Застарілі Рядки
-
-`sources/primary_texts/source-register.md` уже має `SBLGNT-LOCAL`, але нижче SYN-MARK / SYN-MATT / SYN-LUKE досі кажуть `потрібно знайти`.
-
-Це можна пояснити тим, що SYN rows означають "final chosen edition", але документ цього не пояснює достатньо явно.
-
-Потрібно:
-
-- розділити `working open control text` і `final publication critical edition`;
-- позначити SBLGNT як current working canonical Greek control;
-- позначити NA28/UBS або інше академічне видання як final verification target, без внесення захищеного тексту.
-
-### 8. Документація Має Несинхронні Формулювання
-
-Виявлені приклади:
-
-- `project/publication-gap-audit-v0.1.md` мав title `Publication Gap Audit v0.2`; після documentation sync актуальний файл `project/publication-gap-audit-v0.2.md`, а v0.1 лишено як redirect.
-- `project/project-completion-roadmap.md` мав дубльовану нумерацію в "Основні прогалини" - два пункти `5`; після documentation sync нумерацію виправлено.
-- `project/project-completion-roadmap.md` одночасно казав, що найближча дія - pending P.Oxy. XML extraction pass, і що наступний рекомендований пакет - true all-114 publication decision table. Після Phase 1/2/3 це уточнено: P.Oxy. cleanup і evidence/control inventory закрито, наступний крок - true all-114 publication decision table.
-
-Ризик: новий виконавець або читач документації може піти не в той наступний крок.
-
-### 9. Prompt Sprawl Повернувся
-
-У `project/` знову є багато історичних `ide-codex-...-prompt.md`. Частина з них виконані, частина застарілі, частина все ще корисні як журнал.
-
-Ризик: складно зрозуміти, який prompt є головним, а які лишилися історичними.
-
-Потрібно:
-
-- створити `project/prompts/archived/` або інший зрозумілий архів;
-- залишити в корені тільки master prompt і поточний next-step prompt;
-- у `project/project-map.md` позначити архів як історію виконаних проходів.
-
-### 10. Грецькі Ретроверсії Потребують Publication Polish
+### 6. Greek Retroversion Layer Потребує Publication Polish
 
 Проект правильно маркує `Greek retroversion, hypothetical`, але фінальна якість потребує:
 
-- єдиної шкали confidence;
+- єдиної confidence шкали;
 - звірки з коптською граматикою;
 - звірки з extant Greek Thomas fragments;
 - звірки з canonical Greek formulae;
-- чіткого пояснення для читача, що це не рукописний текст.
+- пояснення для читача, що retroversion не є рукописним текстом.
 
-### 11. Права І Цитування Ще Не Доведені До Фінального Апарату
+### 7. Rights, Bibliography, Citation Policy Ще Не Фінальні
 
-Є source register і notes, але ще немає фінального rights/citation pass.
-
-Ризик: проект може ненавмисно виглядати так, ніби використовує захищені сучасні переклади або critical editions як базовий публічний текст.
+Є source register і working notes, але нема повного фінального апарату.
 
 Потрібно:
 
-- окремий rights and citation policy;
-- окрема bibliography;
-- короткий список open / public-domain / protected sources;
-- правило, що захищені видання використовуються для перевірки, а не для повного відтворення.
+- `project/rights-and-citation-policy.md`;
+- `project/bibliography.md`;
+- список open / public-domain / protected sources;
+- правила короткого цитування modern scholarship;
+- явне правило: захищені видання використовуються для перевірки, а не як базовий публічний текст.
+
+### 8. Documentation Sync Потребує Ще Одного Проходу Після Нових Змін
+
+README, project map і roadmap вже оновлювалися, але проект рухається швидко.
+
+Потрібно звірити:
+
+- `project/final-product-specification.md`;
+- `project/clean-text-plus-commentary-concept.md`;
+- `project/repository-structure.md`;
+- `project/publication-gap-audit-v0.2.md`;
+- `project/project-quality-remediation-plan-v0.1.md`;
+- `reconstruction/earliest-sayings-gospel/README.md`;
+- поточний audit-файл.
+
+Ризик: частина документів ще може казати, що appendix тільки каркас або що evidence-note coverage старе.
+
+### 9. Prompt Sprawl Повернувся
+
+У `project/` знову багато `ide-codex-...-prompt.md`, включно з уже виконаними промптами.
+
+Потрібно:
+
+- залишити в корені master prompt і актуальний next-step prompt;
+- перенести виконані prompts в архів;
+- у `project/project-map.md` пояснити, де історія виконаних prompts.
+
+Ризик: наступний executor витратить час на старі prompts або виконає застарілий крок.
 
 ## P2 Недоліки: Полірування І Читабельність
 
-### 12. Український Вступ Для Читача Ще Не Написано
+### 10. Український Вступ Для Читача Ще Не Написано
 
-Clean reader має починатися без дисклеймерів, але перед або після чистого тексту потрібен reader-facing introduction у другому шарі:
+Clean reader має починатися без дисклеймерів. Але в другому шарі потрібен читабельний вступ:
 
 - що означає "найдавніше євангеліє";
-- чому це реконструкція, а не знайдений рукопис;
-- чому нумерація логій лишається томиною;
-- чому частина логій не включена;
-- як користуватися appendix.
+- чому це reconstruction, а не знайдений рукопис;
+- чому за основу взято Фому;
+- чому не всі логії включено;
+- як користуватися clean reader і appendix.
 
-### 13. Clean Reader Потребує Фінального Літературного Редагування
+### 11. Clean Reader Потребує Фінального Літературного Редагування
 
-34 логії/ядра читаються добре, але перед фіналом треба:
+34 логії/ядра читаються добре, але перед freeze потрібно:
 
-- уніфікувати стиль української мови;
-- перевірити, чи немає надто "церковно звичних" пізніших формулювань там, де ми реконструюємо ранніший шар;
-- не додавати пояснення в сам чистий текст;
-- зберегти нумерацію за Gospel of Thomas.
+- уніфікувати український стиль;
+- перевірити терміни;
+- не впустити коментарі в чистий текст;
+- зберегти нумерацію за Gospel of Thomas;
+- звірити включені split-core units із apparatus.
 
-### 14. Parallel Edition Ще Не Фінальна
+### 12. Parallel Edition Ще Не Фінальна
 
-Поточний multilingual/parallel layer покриває reader units, але після final all-114 decision table його треба оновити:
+Поточний multilingual/parallel layer покриває 34 reader units, але після final freeze треба синхронізувати:
 
-- українська;
-- англійська;
-- коптська;
+- українську;
+- англійську;
+- коптську;
 - extant Greek або Greek retroversion with confidence;
-- canonical parallels тільки як control, не як witness.
+- арабський literary/Injil layer;
+- canonical parallels only as control, not witness.
 
-### 15. Автоматичні Перевірки Майже Відсутні
+### 13. Автоматичні Перевірки Майже Відсутні
 
 Проект уже достатньо великий, щоб мати прості consistency checks:
 
 - 114 карток існують;
 - кожна має five-source block;
 - кожна має gold status block;
-- appendix має 114 sections;
+- кожна має reader interpretation block;
+- appendix має 114 секцій і 114 reader interpretation blocks;
 - clean reader logia збігаються зі списком у roadmap;
-- workflow matrix не суперечить cards.
+- workflow matrix не суперечить cards/all-114 table.
 
-Це не замінює дослідження, але зменшує ризик технічних розсинхронів.
+### 14. Локальний Робочий Шум
 
-### 16. У Робочому Дереві Є `.DS_Store`
+У минулих аудитах було зафіксовано `.DS_Store`. Також у git status є багато untracked audit/prompt/pass files, які треба або заархівувати, або зафіксувати комітом.
 
-Файли `.DS_Store` знайдено в:
-
-- `./.DS_Store`;
-- `./output/.DS_Store`;
-- `./reconstruction/.DS_Store`.
-
-Вони не відстежуються git і `.gitignore` вже має `.DS_Store`, але їх варто прибрати локально, щоб не засмічувати audits/search results.
+Ризик: важче відрізнити активні зміни від завершених робочих пакетів.
 
 ## Рекомендована Послідовність Закриття Недоліків
 
-1. **P.Oxy. XML extraction pass.** Закрито в `corpus/cards/poxy-xml-extraction-audit-v0.1.md`.
-2. **Documentation sync pass.** Частково закрито: roadmap numbering, publication audit filename/title, source register SBLGNT/SYN rows, evidence-note statistics.
-3. **Evidence-file audit pass.** Виконано в `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`.
-4. **True all-114 publication decision table.** Виконано в `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
-5. **Full appendix expansion pass.** Наступний крок: пакетами перетворити каркасні розділи на реальні пояснювальні коментарі.
-6. **Evidence dossier publication pass.** Англомовний доказовий документ із методологією, bibliography і uncertainty model.
-7. **Rights and citation pass.** Зафіксувати, що можна публікувати, що тільки цитувати коротко, що тільки використовувати для перевірки.
-8. **Greek retroversion polish.** Confidence labels, wording, no-confusion rule.
-9. **Final reader polish.** Український clean reader, English reader, parallel edition, introduction і editorial consistency.
-10. **Consistency check scripts.** Маленькі технічні перевірки перед фінальним freeze.
+1. **Full appendix editorial consolidation.** Продовжити після виконаних пакетів Logia 1-10, 11-20, 21-30, 31-40, 41-50 і 51-60; наступний пакет Logia 61-70.
+2. **Wealth/renunciation cluster-control pass.** Закрити наступну найбільшу deferred-групу.
+3. **Logion 114 publication-level exclusion rationale.** Зробити окремий спокійний доказ невключення.
+4. **Evidence dossier publication pass.** Англомовний метод, source hierarchy, logion-by-logion argument, bibliography.
+5. **Rights / bibliography / reproducibility pass.** Закрити citation і license ризики.
+6. **Greek retroversion publication polish.** Confidence labels і звірка з академічними виданнями.
+7. **Final clean reader and parallel edition freeze.**
+8. **Run structural QA before/after major passes.** `python3 tools/qa_crosscheck.py` уже існує; його треба запускати як guardrail, а не створювати заново.
+9. **Prompt/archive cleanup and git hygiene.**
 
 ## Найважливіший Наступний Крок
 
-Найлогічніше наступне завдання після Phase 4: **Full appendix expansion for excluded/deferred/evidence-blocked logia**.
+Найлогічніше наступне завдання: **Full appendix editorial consolidation, package Logia 61-70**.
 
-Причина: P.Oxy. cleanup, evidence/control inventory і all-114 publication decision table вже виконані; тепер найслабше місце проекту - не відбір clean reader, а якість пояснення тих логій, які не ввійшли в реконструкцію або ще мають evidence gaps.
+Причина: проект уже має 114/114 карток із тлумаченнями і 114/114 appendix-секцій із синхронізованим читацьким шаром. Тепер найбільший видимий недолік для читача - не відсутність пояснення, а нерівність і дублювання appendix. Якщо цей шар зробити цілісним, проект різко наблизиться до формату справжнього видання.

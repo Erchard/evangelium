@@ -1,6 +1,6 @@
 # Logion 46
 
-Статус: первинна корпусна картка v0.1.
+Статус: корпусна картка з controlled reader pass 46A/91A v0.1.
 
 ## Текст
 
@@ -34,11 +34,35 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 46.
 
 Сильний кандидат через Мт 11:11 / Лк 7:28. Фома додає "пізнає царство", що зближує вислів із томиною мовою знання. Потрібне поглиблення, щоб відділити спільне ядро від томиного розгортання.
 
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія торкається авторитету, учнівства, спільноти або полеміки. Вона показує не тільки окрему думку, а й те, як ранні або пізніші групи осмислювали право говорити від імені Ісуса. У робочому українському перекладі це звучить так: "Від Адама до Йоана Хрестителя серед народжених жінками не було більшого за Йоана. Але хто стане серед вас малим, той пізнає царство і стане більшим за Йоана."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як памʼять про суперечки щодо справжнього розуміння Ісуса.
+2. Як спільнотну сцену або полемічний вислів.
+3. Як важливе свідчення рецепції, навіть якщо воно не входить до найдавнішого шару.
+
+Оскільки картка не входить до чистого тексту, її функція - допомогти читачеві зрозуміти, що саме лишилося поза реконструкцією і чому це чесне рішення. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як appendix-only матеріал: вона допомагає читачеві зрозуміти межі корпусу, навіть якщо її не можна чесно друкувати як частину найдавнішого тексту. Робоче рішення картки: UNCERTAIN; possible marked core candidate; позначка для чистого читача: NO; попередньо визначений шар: Іван Хреститель і найменший у царстві.
+
+### Обережність
+
+У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
+
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: 46A `INCLUDE_WITH_MARKER`; повна логія appendix-only.
 
-Наступна дія: поглибити як high-candidate для можливого короткого ядра.
+Наступна дія: carry 46A into final reader freeze with apparatus marker; keep full form appendix-only.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -46,11 +70,11 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 46.
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
-- Reader text: NO.
+- Рішення: 46A `INCLUDE_WITH_MARKER`; повна логія appendix-only.
+- Reader text: YES.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: Іван Хреститель і найменший у царстві.
-- Поточний робочий статус: Primary card v0.1.
+- Поточний робочий статус: Evidence note v0.3; control file v0.1; Review C v0.1; controlled reader pass 46A/91A v0.1.
 
 ### Ймовірнісний профіль
 
@@ -64,21 +88,22 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 46.
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-046-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `controls/synoptic-parallels/logion-046-john-least-kingdom-controls.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/split-core-high-early-pressure-review-c-v0.1.md`
+  - `reconstruction/earliest-sayings-gospel/controlled-reader-candidate-pass-46a-91a-v0.1.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Включене раннє ядро: John / least-in-kingdom core, printed as 46A with marker.
+- Вторинні / томині ризики: повна форма логії і wider Thomas framing лишаються appendix-only; напрям залежності й незалежність традиції мають бути пояснені в апараті.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-High candidate: compare Matt 11:11 / Luke 7:28 and Thomas 22.
+Publication polish: carry 46A into final reader freeze with apparatus marker; keep the full Thomas form appendix-only.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -133,12 +158,12 @@ Local Greek canonical/control text currently transcribed:
 
 ### Publication Status
 
-- Current decision: `UNCERTAIN`; possible marked core candidate.
-- Reader text: NO.
+- Current decision: 46A `INCLUDE_WITH_MARKER`; full logion appendix-only.
+- Reader text: YES for 46A only.
 - Greek witness status: No loaded P.Oxy. witness.
-- Current work status: Evidence note v0.1; control file v0.1.
+- Current work status: Evidence note v0.1; control file v0.1; controlled reader pass 46A/91A v0.1.
 - Evidence note in matrix: YES.
-- Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
+- Clean-reader implication: До clean reader входить лише ядро 46A; повна форма логії залишається в appendix із поясненням вторинного або композитного ризику.
 
 ### Evidence Links
 
@@ -156,11 +181,11 @@ Synoptic/control files:
 
 ### Reader/Appendix Obligation
 
-- Для clean reader: не додавати до чистого тексту без нового контрольованого рішення.
+- Для clean reader: друкувати тільки 46A як марковане ядро; не додавати повну логію без нового контрольованого рішення.
 - Для full appendix: подати походження, джерельний текст, паралелі, текстологічні ризики, можливі інтерпретації та причину включення або невключення.
 - Для відкинутих / відкладених логій: пояснення має бути таким самим серйозним, як для включених логій; читач повинен бачити не лише результат, а й логіку відбору.
 
 ### Remaining Work
 
-- Next action: Compare with Logion 22 before any reader change.
+- Next action: Carry 46A into final reader freeze with apparatus marker; compare with Logion 22 only in the appendix/dossier.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

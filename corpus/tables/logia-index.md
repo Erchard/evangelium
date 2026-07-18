@@ -11,13 +11,13 @@
 | 7 | [logion-007.md](../cards/logion-007.md) | можливий незалежний символічний вислів | 10 | 20 | 45 | 25 | `UNCERTAIN`; не включено в головний текст |
 | 8 | [logion-008.md](../cards/logion-008.md) | притча про мудрого рибалку / вибір великої риби | 10 | 25 | 45 | 20 | `UNCERTAIN`; поглиблена картка v0.2; не додано в український текст |
 | 9 | [logion-009.md](../cards/logion-009.md) | коротке неалегоричне ядро притчі про сіяча | 20 | 30 | 35 | 15 | ядро `INCLUDE_WITH_MARKER`; повна логія `UNCERTAIN`; картка v0.3; додано ядро |
-| 10 | [logion-010.md](../cards/logion-010.md) | коротке ядро про вогонь, кинутий на світ | 20 | 35 | 35 | 10 | ядро `INCLUDE_WITH_MARKER`; повна логія `UNCERTAIN`; картка v0.2; додано ядро |
+| 10 | [logion-010.md](../cards/logion-010.md) | коротке ядро про вогонь, кинутий на світ | 20 | 35 | 35 | 10 | ядро `INCLUDE_WITH_MARKER`; повна логія `UNCERTAIN`; fire/kingdom cluster-control v0.1 |
 | 11 | [logion-011.md](../cards/logion-011.md) | небо мине / мертві й живі / світло / один і два | 10 | 25 | 45 | 20 | `UNCERTAIN`; поглиблена картка v0.2; не додано в український текст |
 | 12 | [logion-012.md](../cards/logion-012.md) | Яків Праведний і наступництво | 5 | 20 | 45 | 30 | `DEFER`; первинна картка; громадовий/наступницький шар |
 | 13 | [logion-013.md](../cards/logion-013.md) | Фома, таємні слова і авторитет збірки | 5 | 20 | 45 | 30 | `DEFER`; первинна картка; рамковий матеріал |
 | 14 | [logion-014.md](../cards/logion-014.md) | ритуальна критика / місія / їжа / осквернення устами | 10 | 30 | 40 | 20 | `DEFER`; первинна картка; composite control cluster |
 | 15 | [logion-015.md](../cards/logion-015.md) | ненароджений від жінки / Отче поклоніння | 5 | 25 | 45 | 25 | `DEFER`; первинна картка; birth/Father cluster |
-| 16 | [logion-016.md](../cards/logion-016.md) | не мир, а поділ; родинний конфлікт; monachos | 20 | 35 | 35 | 10 | division core `INCLUDE_WITH_MARKER`; повна логія `UNCERTAIN`; картка v0.3; додано ядро |
+| 16 | [logion-016.md](../cards/logion-016.md) | не мир, а поділ; родинний конфлікт; monachos | 20 | 35 | 35 | 10 | division core `INCLUDE_WITH_MARKER`; повна логія `UNCERTAIN`; family-renunciation cluster-control v0.1 |
 | 17 | [logion-017.md](../cards/logion-017.md) | око/вухо/рука/серце; прихований дар | 10 | 30 | 40 | 20 | `UNCERTAIN`; первинна картка |
 | 18 | [logion-018.md](../cards/logion-018.md) | початок і кінець; не скуштувати смерті | 10 | 30 | 40 | 20 | `UNCERTAIN`; первинна картка |
 | 19 | [logion-019.md](../cards/logion-019.md) | передіснування; п'ять дерев раю; не скуштувати смерті | 5 | 20 | 50 | 25 | `DEFER`; первинна картка; складна композиція |
@@ -56,7 +56,7 @@
 | 52 | [logion-052.md](../cards/logion-052.md) | пророки, живий і мертві | 5 | 20 | 50 | 25 | `UNCERTAIN`; первинна картка |
 | 53 | [logion-053.md](../cards/logion-053.md) | обрізання і дух | 5 | 25 | 45 | 25 | `DEFER`; первинна картка; ritual-practice cluster |
 | 54 | [logion-054.md](../cards/logion-054.md) | блаженні убогі | 30 | 40 | 25 | 5 | `UNCERTAIN`; первинна картка; високий кандидат |
-| 55 | [logion-055.md](../cards/logion-055.md) | ненавидіти родину; нести хрест | 20 | 35 | 35 | 10 | `UNCERTAIN`; первинна картка; високий кандидат з обережністю |
+| 55 | [logion-055.md](../cards/logion-055.md) | ненавидіти родину; нести хрест | 20 | 35 | 35 | 10 | `UNCERTAIN`; family-renunciation cluster-control v0.1; appendix-only з обережністю щодо cross-bearing/worthiness |
 | 56 | [logion-056.md](../cards/logion-056.md) | світ як труп | 5 | 20 | 50 | 25 | `UNCERTAIN`; первинна картка; world/corpse cluster |
 | 57 | [logion-057.md](../cards/logion-057.md) | притча про бур'ян серед пшениці | 15 | 35 | 35 | 15 | `UNCERTAIN`; первинна картка; високий кандидат |
 | 58 | [logion-058.md](../cards/logion-058.md) | блаженний, хто трудився і знайшов життя | 10 | 30 | 40 | 20 | `UNCERTAIN`; первинна картка |
@@ -83,7 +83,7 @@
 | 79 | [logion-079.md](../cards/logion-079.md) | блаженна утроба; слухати слово Отця | 20 | 40 | 30 | 10 | `UNCERTAIN`; первинна картка; високий composite-кандидат |
 | 80 | [logion-080.md](../cards/logion-080.md) | світ і тіло | 5 | 20 | 50 | 25 | `DEFER`; первинна картка; world/body cluster |
 | 81 | [logion-081.md](../cards/logion-081.md) | багатство, царювання і зречення сили | 10 | 30 | 40 | 20 | `UNCERTAIN`; первинна картка; rich/renounce cluster |
-| 82 | [logion-082.md](../cards/logion-082.md) | близькість до Ісуса, вогонь і царство | 15 | 30 | 40 | 15 | `UNCERTAIN`; первинна картка; fire candidate |
+| 82 | [logion-082.md](../cards/logion-082.md) | близькість до Ісуса, вогонь і царство | 15 | 30 | 40 | 15 | `APPENDIX_ONLY_UNCERTAIN`; fire/kingdom cluster-control v0.1; не промотувати без зовнішнього контролю |
 | 83 | [logion-083.md](../cards/logion-083.md) | образи, світло Отця і приховане явлення | 5 | 20 | 50 | 25 | `DEFER`; первинна картка; image/light cluster |
 | 84 | [logion-084.md](../cards/logion-084.md) | подоба, передіснуючі образи і невмирущість | 5 | 20 | 50 | 25 | `DEFER`; первинна картка; image/pre-existence cluster |
 | 85 | [logion-085.md](../cards/logion-085.md) | Адам, сила, багатство і не скуштувати смерті | 5 | 20 | 50 | 25 | `DEFER`; первинна картка; Adam/anthropology cluster |
@@ -100,9 +100,9 @@
 | 96 | [logion-096.md](../cards/logion-096.md) | притча про закваску і великі хліби | 25 | 40 | 25 | 10 | `UNCERTAIN`; первинна картка; високий притчевий кандидат |
 | 97 | [logion-097.md](../cards/logion-097.md) | притча про глечик борошна, втрату і порожнечу | 10 | 30 | 45 | 15 | `UNCERTAIN`; первинна картка; possible independent parable |
 | 98 | [logion-098.md](../cards/logion-098.md) | притча про меч, стіну і вбивство вельможі | 5 | 25 | 45 | 25 | `DEFER`; первинна картка; violent-kingdom motif |
-| 99 | [logion-099.md](../cards/logion-099.md) | справжня родина Ісуса як ті, хто чинить волю Отця | 25 | 40 | 25 | 10 | `UNCERTAIN`; первинна картка; високий синоптичний кандидат |
+| 99 | [logion-099.md](../cards/logion-099.md) | справжня родина Ісуса як ті, хто чинить волю Отця | 25 | 40 | 25 | 10 | true-family core `INCLUDE_WITH_MARKER`; повна логія `UNCERTAIN`; family-renunciation cluster-control v0.1 |
 | 100 | [logion-100.md](../cards/logion-100.md) | кесареве кесареві, Боже Богові, моє мені | 25 | 40 | 25 | 10 | `UNCERTAIN`; первинна картка; високий синоптичний кандидат |
-| 101 | [logion-101.md](../cards/logion-101.md) | родинна відмова; справжня мати і життя | 20 | 35 | 35 | 10 | `UNCERTAIN`; первинна картка; split candidate |
+| 101 | [logion-101.md](../cards/logion-101.md) | родинна відмова; справжня мати і життя | 20 | 35 | 35 | 10 | `UNCERTAIN`; family-renunciation cluster-control v0.1; appendix-only, split-core apparatus candidate |
 | 102 | [logion-102.md](../cards/logion-102.md) | фарисеї як собака в яслах | 5 | 25 | 45 | 25 | `DEFER`; первинна картка; polemical cluster |
 | 103 | [logion-103.md](../cards/logion-103.md) | блаженний, хто знає час приходу злодія | 25 | 40 | 25 | 10 | `UNCERTAIN`; первинна картка; високий синоптичний кандидат |
 | 104 | [logion-104.md](../cards/logion-104.md) | молитва, піст і наречений | 20 | 40 | 30 | 10 | `DEFER`; первинна картка; bridegroom-fasting candidate |

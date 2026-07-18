@@ -1,6 +1,6 @@
 # Project Quality Remediation Plan v0.1
 
-Статус: план усунення недоліків після `project-quality-audit-v0.1`, 2026-07-17.
+Статус: план усунення недоліків після `project-quality-audit-v0.1`, актуалізовано 2026-07-18.
 
 ## Мета
 
@@ -206,7 +206,7 @@
 
 ### Acceptance Criteria
 
-- Кожен пакет зменшує кількість skeletal appendix sections.
+- Кожен пакет зменшує кількість unconsolidated/card-derived appendix sections і дотримується print-safe reference rules.
 - Відкинуті логії отримують таку саму повагу до пояснення, як включені.
 - Коментарі не змінюють чистий reader без окремого decision pass.
 
@@ -215,7 +215,7 @@
 - P1 non-reader package: 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
 - Clean reader не змінено.
 - Evidence-rationale pass для цього пакета виконано в `reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md`.
-- Наступна дія: перейти від evidence-gap closure до cluster-control notes і full appendix expansion.
+- Наступна дія: продовжити print-safe full appendix editorial consolidation з Logia 61-70; після цього закрити wealth/renunciation cluster-control.
 
 ## Phase 6. Evidence Dossier Publication Pass
 
@@ -307,13 +307,13 @@
 
 ## Phase 10. Consistency Checks
 
-**Пріоритет:** P2.
+**Пріоритет:** P2. Status: baseline completed in `tools/qa_crosscheck.py`.
 
 **Мета:** зменшити технічні розсинхрони.
 
 ### Tasks
 
-- Додати простий consistency script або manual checklist.
+- Підтримувати й запускати reusable consistency script `tools/qa_crosscheck.py`.
 - Перевірити:
   - 114 card files;
   - 114 gold blocks;
@@ -327,6 +327,10 @@
 
 - Перед фінальним freeze можна одним проходом перевірити structural integrity.
 - Виявлені розсинхрони стають явними.
+
+### Current Baseline
+
+`python3 tools/qa_crosscheck.py` already verifies card count and numbering, appendix section coverage, source/control sections, clean-reader synchronization across Ukrainian/English/Greek/Coptic/Arabic/apparatus/parallel layers, workflow/decision alignment, appendix status agreement, and exact clean-text anchors for all current reader units.
 
 ## Recommended Execution Order
 

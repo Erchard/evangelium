@@ -1,6 +1,6 @@
 # Logion 91
 
-Статус: первинна корпусна картка v0.1.
+Статус: корпусна картка з controlled reader pass 46A/91A v0.1.
 
 ## Текст
 
@@ -16,7 +16,7 @@ No extant Greek in loaded witnesses.
 
 ### Greek retroversion, hypothetical
 
-Not attempted. Some vocabulary likely reflects Greek loanwords (`pisteue`, `peiraze`, `kairos`), but the saying is dialogic and composite.
+Greek retroversion, hypothetical; confidence: `low-medium to medium` for the recognition-of-time core only. The full dialogue frame remains appendix material.
 
 ### Буквальний український переклад
 
@@ -41,11 +41,35 @@ They said to him, "Tell us who you are, so that we may believe in you." He said,
 
 Є сильний синоптичний контроль для другої половини, але перша половина є христологічною діалоговою рамкою. Найімовірніше треба розщепити: recognition-of-time saying може бути раннім; "who are you so we may believe" може бути збірковою рамкою.
 
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія протиставляє справжнє життя і смерть, живе і мертве, світ і те, що не зводиться до світу. Такі вислови змушують переглянути звичні критерії успіху, безпеки, тіла, душі й реальності. У робочому українському перекладі це звучить так: "Вони сказали: скажи нам, хто ти, щоб ми повірили тобі. Він відповів: ви розпізнаєте вигляд неба й землі, але не пізнали того, хто перед вами, і не вмієте розпізнати цей час."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як протиставлення справжнього життя й існування без розуміння.
+2. Як критику світу, коли світ означає систему сліпоти й привʼязаності.
+3. Як можливий пізніший томиний шар, якщо мова стає надто дуалістичною.
+
+Оскільки до чистого тексту входить лише коротке recognition-of-time core, функція картки - показати читачеві різницю між включеним ядром і невключеною діалоговою рамкою. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як частково включений матеріал. Clean reader друкує тільки recognition-of-time core: "Ви розпізнаєте вигляд неба й землі, але не розпізнаєте цей час." Діалогова рамка "скажи нам, хто ти" лишається appendix-only. Робоче рішення картки: 91A `INCLUDE_WITH_MARKER`; повна логія appendix-only.
+
+### Обережність
+
+Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
+
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: 91A `INCLUDE_WITH_MARKER`; повна логія appendix-only.
 
-Наступна дія: high candidate for subunit analysis; split recognition-of-time core from dialogue frame.
+Наступна дія: carry 91A into final reader freeze with apparatus marker; keep dialogue frame appendix-only.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -53,11 +77,11 @@ They said to him, "Tell us who you are, so that we may believe in you." He said,
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
-- Reader text: NO.
+- Рішення: 91A `INCLUDE_WITH_MARKER`; повна логія appendix-only.
+- Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: розпізнати небо/землю, але не цей час.
-- Поточний робочий статус: Evidence rationale v0.1.
+- Поточний робочий статус: Evidence rationale v0.3; control file v0.1; Review C v0.1; controlled reader pass 46A/91A v0.1.
 
 ### Ймовірнісний профіль
 
@@ -73,19 +97,20 @@ They said to him, "Tell us who you are, so that we may believe in you." He said,
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-091-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `controls/synoptic-parallels/logion-091-recognition-time-controls.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/split-core-high-early-pressure-review-c-v0.1.md`
+  - `reconstruction/earliest-sayings-gospel/controlled-reader-candidate-pass-46a-91a-v0.1.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: рамка або діалогічне оформлення може бути вторинним.
+- Включене раннє ядро: recognition-of-time core, printed as 91A with marker.
+- Вторинні / томині ризики: рамка або діалогічне оформлення лишається appendix-only.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-Split dialogue frame from recognition-of-time core.
+Publication polish: carry 91A into final reader freeze with apparatus marker; keep dialogue frame appendix-only.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -140,12 +165,12 @@ Local Greek canonical/control text currently transcribed:
 
 ### Publication Status
 
-- Current decision: `UNCERTAIN`.
-- Reader text: NO.
+- Current decision: 91A `INCLUDE_WITH_MARKER`; full logion appendix-only.
+- Reader text: YES for 91A only.
 - Greek witness status: Greek retroversion, hypothetical.
-- Current work status: Evidence rationale v0.1.
+- Current work status: Evidence rationale v0.1; control file v0.2; controlled reader pass 46A/91A v0.1.
 - Evidence note in matrix: YES.
-- Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
+- Clean-reader implication: До clean reader входить лише recognition-of-time core 91A; повна діалогічна форма залишається в appendix із поясненням редакційного ризику.
 
 ### Evidence Links
 
@@ -163,11 +188,11 @@ Synoptic/control files:
 
 ### Reader/Appendix Obligation
 
-- Для clean reader: не додавати до чистого тексту без нового контрольованого рішення.
+- Для clean reader: друкувати тільки 91A як марковане ядро; не додавати повну діалогову форму без нового контрольованого рішення.
 - Для full appendix: подати походження, джерельний текст, паралелі, текстологічні ризики, можливі інтерпретації та причину включення або невключення.
 - Для відкинутих / відкладених логій: пояснення має бути таким самим серйозним, як для включених логій; читач повинен бачити не лише результат, а й логіку відбору.
 
 ### Remaining Work
 
-- Next action: Split dialogue frame from recognition-of-time core.
+- Next action: Carry 91A into final reader freeze with apparatus marker; keep dialogue frame appendix-only.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

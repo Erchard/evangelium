@@ -1,6 +1,6 @@
 # Logion 82
 
-Статус: первинна корпусна картка v0.1.
+Статус: корпусна картка з fire/kingdom cluster-control v0.1.
 
 ## Текст
 
@@ -41,11 +41,37 @@ Whoever is near me is near the fire, and whoever is far from me is far from the 
 
 Короткий і сильний афоризм, але залежить від символіки близькості до Ісуса і вогню. Може зберігати ранній харизматичний вислів, однак без P.Oxy. і з внутрішньотоминим контекстом його не можна включати без поглибленої перевірки.
 
+Fire/kingdom cluster-control: `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md`.
+
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі образ вогню говорить про кризу, очищення або вирішальний момент. Це не спокійна моральна порада, а різкий образ: слово Ісуса щось запалює, виявляє або робить нейтральність неможливою. У робочому українському перекладі це звучить так: "Хто близько до мене, той близько до вогню; хто далеко від мене, той далеко від царства."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як образ суду або кризи.
+2. Як образ очищення й пробудження.
+3. Як мотив, який треба перевіряти поруч із fire/kingdom cluster.
+
+Оскільки картка не входить до чистого тексту, її функція - допомогти читачеві зрозуміти, що саме лишилося поза реконструкцією і чому це чесне рішення. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як appendix-only матеріал: вона допомагає читачеві зрозуміти межі корпусу, навіть якщо її не можна чесно друкувати як частину найдавнішого тексту. Робоче рішення картки: APPENDIX_ONLY_UNCERTAIN; позначка для чистого читача: NO; попередньо визначений шар: близькість до Ісуса, вогонь і царство.
+
+### Обережність
+
+У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
+
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: `APPENDIX_ONLY_UNCERTAIN`.
 
-Наступна дія: deepen with Logion 10 and Luke 12:49; test whether "fire" is early eschatological or Thomasine symbolic.
+Наступна дія: fire/kingdom cluster-control v0.1 уже виконано; тримати поза clean reader, бо підтримка переважно внутрішньо-томина й тематична.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -53,11 +79,11 @@ Whoever is near me is near the fire, and whoever is far from me is far from the 
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
+- Рішення: `APPENDIX_ONLY_UNCERTAIN`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: близькість до Ісуса, вогонь і царство.
-- Поточний робочий статус: Evidence rationale v0.1.
+- Поточний робочий статус: Cluster-control v0.1.
 
 ### Ймовірнісний профіль
 
@@ -73,19 +99,20 @@ Whoever is near me is near the fire, and whoever is far from me is far from the 
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-082-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md`
+  - MERGE_WITH_EXISTING_CLUSTER: Nearness/fire/kingdom language belongs under fire/kingdom control.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: fire/kingdom saying about nearness to Jesus; remains appendix-only because support is mainly internal and thematic rather than external textual control.
+- Вторинні / томині ризики: nearness-to-Jesus fire/kingdom language is vivid but mainly internally controlled, unlike the better-supported fire core in Logion 10.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-Deepen with Logion 10 and Luke 12:49 fire imagery.
+Fire/kingdom cluster-control v0.1 exists; keep appendix-only because support is mostly internal/thematic rather than direct external control.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -139,10 +166,10 @@ Local Greek canonical/control text currently transcribed:
 
 ### Publication Status
 
-- Current decision: `UNCERTAIN`.
+- Current decision: `APPENDIX_ONLY_UNCERTAIN`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
-- Current work status: Evidence rationale v0.1.
+- Current work status: Cluster-control v0.1.
 - Evidence note in matrix: YES.
 - Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
 
@@ -150,6 +177,7 @@ Local Greek canonical/control text currently transcribed:
 
 Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-082-evidence-en.md`
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md`
 
 Synoptic/control files:
 - окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
@@ -168,5 +196,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Deepen with Logion 10 and Luke 12:49 fire imagery.
+- Next action: Fire/kingdom cluster-control v0.1 exists; keep appendix-only because support is mostly internal/thematic rather than direct external control.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

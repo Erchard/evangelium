@@ -1,6 +1,6 @@
 # Logion 104 Evidence Note
 
-Status: evidence rationale v0.1.
+Status: evidence rationale v0.2.
 
 ## Decision
 
@@ -30,8 +30,10 @@ The project cannot yet separate a possibly early bridegroom-fasting core from th
 
 ## Reconstruction Implication
 
-Do not print Logion 104 in the clean reader. Use it as appendix evidence for the ritual-ethics cluster and for possible Thomasine adaptation of the bridegroom tradition.
+Do not print Logion 104 in the clean reader. Split-Core / High-Early Pressure Review C keeps the full logion appendix-only and defers any short bridegroom-fasting core until a ritual-ethics / bridegroom-focused control pass.
 
 ## Remaining Work
 
 Compare the Thomas form closely with Mark, Matthew, and Luke. If a short core is considered later, it must be marked as dependent-control risk rather than direct Thomas manuscript evidence.
+
+Review C: `../split-core-high-early-pressure-review-c-v0.1.md`.

@@ -1,6 +1,6 @@
 # Logion 111
 
-Статус: первинна корпусна картка v0.1.
+Статус: normalized corpus card; current workflow status: `Cluster-control v0.1`.
 
 ## Текст
 
@@ -44,6 +44,30 @@ The heavens and the earth will pass away before you, and the living one from the
 
 Композиційна логія з кількох мотивів. Перша підодиниця має синоптичний контроль, але весь вислів об'єднує есхатологію, живого від Живого, самознайдення і world-unworthy cluster. Потрібне розщеплення.
 
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія протиставляє справжнє життя і смерть, живе і мертве, світ і те, що не зводиться до світу. Такі вислови змушують переглянути звичні критерії успіху, безпеки, тіла, душі й реальності. У робочому українському перекладі це звучить так: "Небеса й земля минуть перед вами; а живий від Живого не побачить смерті. Хіба Ісус не каже: хто знайшов себе, того світ не вартий?"
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як протиставлення справжнього життя й існування без розуміння.
+2. Як критику світу, коли світ означає систему сліпоти й привʼязаності.
+3. Як можливий пізніший томиний шар, якщо мова стає надто дуалістичною.
+
+Оскільки картка не входить до чистого тексту, її функція - допомогти читачеві зрозуміти, що саме лишилося поза реконструкцією і чому це чесне рішення. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як appendix-only матеріал: вона допомагає читачеві зрозуміти межі корпусу, навіть якщо її не можна чесно друкувати як частину найдавнішого тексту. Робоче рішення картки: UNCERTAIN; позначка для чистого читача: NO; попередньо визначений шар: небо і земля минуть; живий, смерть і світ.
+
+### Обережність
+
+Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
+
 ## Попередній статус
 
 Рішення: `UNCERTAIN`.
@@ -76,19 +100,20 @@ The heavens and the earth will pass away before you, and the living one from the
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-111-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
+  - MERGE_WITH_EXISTING_CLUSTER: Heaven/earth passing plus living/death/world clauses belongs under living/dead/world control.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: можлива складена форма; за потреби розділити на підодиниці. наявні мотиви, які можуть належати до томиного богословського розгортання.
+- Можливе раннє ядро: heaven-and-earth-passing saying; the added living/death/world clauses require separation in the living/dead/world cluster before reader use.
+- Вторинні / томині ризики: heaven/earth passing may be early, but living/death/world clauses extend it into Thomasine living/dead/world theology. наявні мотиви, які можуть належати до томиного богословського розгортання.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-Split heaven/earth passing core from living/self/world cluster.
+Use living/dead/world cluster-control v0.1; keep full logion outside clean reader and split heaven/earth passing from deathlessness/world-unworthy material.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -158,6 +183,7 @@ Evidence note / dossier files:
 
 Synoptic/control files:
 - окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
 
 ### Greek/Coptic Policy
 
@@ -173,5 +199,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Split heaven/earth passing core from living/self/world cluster.
+- Next action: Use living/dead/world cluster-control v0.1; keep full logion outside clean reader and split heaven/earth passing from deathlessness/world-unworthy material.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

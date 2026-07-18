@@ -1,6 +1,6 @@
 # Logion 99
 
-Статус: первинна корпусна картка v0.1.
+Статус: корпусна картка з family-renunciation cluster-control v0.1.
 
 ## Текст
 
@@ -42,11 +42,37 @@ The disciples said to him, "Your brothers and your mother are standing outside."
 
 Сильний синоптичний кандидат, але форма Фоми має явну редакційну кінцівку про вхід у царство Отця. Потрібно розщепити традиційне ядро про справжню родину і томине/редакційне царственне завершення.
 
+Family-renunciation cluster-control: `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`.
+
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія переосмислює найсильніші людські звʼязки: родину, дім, матір, батька, братів, сестер і справжню належність. Вона звучить різко, бо ставить учнівство або життя вище звичних соціальних гарантій. У робочому українському перекладі це звучить так: "Учні сказали: твої брати й мати стоять надворі. Він відповів: ті, хто тут виконує волю мого Отця, є моїми братами й матір'ю; саме вони ввійдуть у царство мого Отця."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як радикальну вимогу поставити учнівство вище родинної лояльності.
+2. Як гіперболу, тобто навмисно різкий вислів.
+3. Як слід реальної соціальної напруги довкола руху Ісуса.
+
+Оскільки картка включена з маркером, читачеві треба одразу пояснити подвійність: є реконструкційно цінне ядро, але є й елементи, які не можна подавати з тією самою впевненістю. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива, але не як безумовно прозорий вислів. Її можна друкувати в чистому тексті, проте повний додаток має пояснити, що саме вважається ядром, а що може бути рамкою, редакційним розширенням або пізнішою інтерпретацією. Робоче рішення картки: INCLUDE_WITH_MARKER for true-family core; full logion UNCERTAIN; позначка для чистого читача: NO; попередньо визначений шар: справжня родина Ісуса як ті, хто чинить волю Отця.
+
+### Обережність
+
+Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - змішати сам вислів із пізнішим поясненням або з нашою сучасною інтерпретацією.
+
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: true-family core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`.
 
-Наступна дія: high candidate for split analysis; compare Mark/Matt/Luke and isolate possible early family-redefinition core.
+Наступна дія: family-renunciation cluster-control v0.1 уже виконано; true-family core лишається в clean reader, kingdom-of-Father ending лишається в апараті.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -54,11 +80,11 @@ The disciples said to him, "Your brothers and your mother are standing outside."
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
-- Reader text: NO.
+- Рішення: `INCLUDE_WITH_MARKER` for true-family core; full logion `UNCERTAIN`.
+- Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: справжня родина Ісуса як ті, хто чинить волю Отця.
-- Поточний робочий статус: Primary card v0.1.
+- Поточний робочий статус: Cluster-control v0.1.
 
 ### Ймовірнісний профіль
 
@@ -72,21 +98,21 @@ The disciples said to him, "Your brothers and your mother are standing outside."
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-099-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `controls/synoptic-parallels/logion-099-true-family-controls.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Включене раннє ядро: true-family core, printed with marker.
+- Вторинні / томині ризики: true-family core is controlled, but Thomas crowd/family scene and Father-language formulation require marked treatment.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-High candidate: split family-redefinition core from kingdom ending.
+Family-renunciation cluster-control v0.1 exists; keep true-family core in clean reader with marker; kingdom-of-Father ending remains apparatus.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -148,7 +174,7 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: `INCLUDE_WITH_MARKER` for true-family core; full logion `UNCERTAIN`.
 - Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
-- Current work status: Full appendix expanded v0.5.
+- Current work status: Cluster-control v0.1.
 - Evidence note in matrix: YES.
 - Clean-reader implication: Входить до clean Ukrainian reader як поточна реконструкційна одиниця; у чистому тексті друкувати без статусів і коментарів, а всі застереження переносити в apparatus / appendix.
 
@@ -156,6 +182,7 @@ Local Greek canonical/control text currently transcribed:
 
 Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-099-evidence-en.md`
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`
 
 Synoptic/control files:
 - `controls/synoptic-parallels/logion-099-true-family-controls.md`
@@ -174,5 +201,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Publication polish: kingdom-of-Father ending remains apparatus material.
+- Next action: Family-renunciation cluster-control v0.1 exists; keep true-family core in clean reader with marker; kingdom-of-Father ending remains apparatus.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

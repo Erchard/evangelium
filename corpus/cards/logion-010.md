@@ -31,6 +31,8 @@ Greek not extant in loaded Oxyrhynchus witnesses. Будь-яка грецька
 
 Синоптична таблиця: `controls/synoptic-parallels/logion-010-fire-luke-control.md`.
 
+Fire/kingdom cluster-control: `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md`.
+
 ## Аналіз
 
 Коротка афористична форма робить логію потенційно важливою. Водночас мотив вогню може бути апокаліптичним, символічним або томиним. Без зіставлення з Лк 12:49 і внутрішнім матеріалом Фоми не варто включати її в головну реконструкцію.
@@ -47,6 +49,30 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-010-evidence
 
 Публікаційна нотатка: не включати в головний текст продовження `і пильную його, доки він не спалахне`. Це може бути самостійний варіант, томине символічне розгортання або вторинна форма; наразі воно лишається в апараті.
 
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі образ вогню говорить про кризу, очищення або вирішальний момент. Це не спокійна моральна порада, а різкий образ: слово Ісуса щось запалює, виявляє або робить нейтральність неможливою. У робочому українському перекладі це звучить так: "Я кинув вогонь на світ, і пильную його, доки він не спалахне."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як образ суду або кризи.
+2. Як образ очищення й пробудження.
+3. Як мотив, який треба перевіряти поруч із fire/kingdom cluster.
+
+Оскільки картка включена з маркером, читачеві треба одразу пояснити подвійність: є реконструкційно цінне ядро, але є й елементи, які не можна подавати з тією самою впевненістю. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива, але не як безумовно прозорий вислів. Її можна друкувати в чистому тексті, проте повний додаток має пояснити, що саме вважається ядром, а що може бути рамкою, редакційним розширенням або пізнішою інтерпретацією. Робоче рішення картки: fire-casting core INCLUDE_WITH_MARKER; full logion UNCERTAIN; позначка для чистого читача: YES; попередньо визначений шар: коротке ядро про вогонь, кинутий на світ.
+
+### Обережність
+
+Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - змішати сам вислів із пізнішим поясненням або з нашою сучасною інтерпретацією.
+
 ## Еталонне вирівнювання картки v0.1
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
@@ -57,7 +83,7 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-010-evidence
 - Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: коротке ядро про вогонь, кинутий на світ.
-- Поточний робочий статус: Multilingual sync v0.1.
+- Поточний робочий статус: Cluster-control v0.1.
 
 ### Ймовірнісний профіль
 
@@ -76,17 +102,17 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-010-evidence
   - `controls/synoptic-parallels/logia-008-020-022-high-candidate-controls.md`
   - `controls/synoptic-parallels/logion-010-fire-luke-control.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: є реконструкційний кандидат, але друкувати/оцінювати тільки з маркером непевності.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: fire-casting saying про вже кинутий вогонь; мотив очікування, доки він запалає, лишається маркованим як есхатологічно-редакційне уточнення.
+- Вторинні / томині ризики: продовження про сторожування вогню може бути томиним розвитком; clean reader друкує тільки контрольований fire-casting core.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-English/Coptic/Greek/parallel rows added; watching/blazing continuation remains apparatus.
+Fire/kingdom cluster-control v0.1 exists; keep short fire-casting core in clean reader with marker; watching/blazing continuation remains apparatus.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -146,7 +172,7 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: fire-casting core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`.
 - Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
-- Current work status: Multilingual sync v0.1.
+- Current work status: Cluster-control v0.1.
 - Evidence note in matrix: YES.
 - Clean-reader implication: Входить до clean Ukrainian reader як поточна реконструкційна одиниця; у чистому тексті друкувати без статусів і коментарів, а всі застереження переносити в apparatus / appendix.
 
@@ -154,6 +180,7 @@ Local Greek canonical/control text currently transcribed:
 
 Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-010-evidence-en.md`
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md`
 
 Synoptic/control files:
 - `controls/synoptic-parallels/logion-010-fire-luke-control.md`
@@ -172,5 +199,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: English/Coptic/Greek/parallel rows added; watching/blazing continuation remains apparatus.
+- Next action: Fire/kingdom cluster-control v0.1 exists; keep short fire-casting core in clean reader with marker; watching/blazing continuation remains apparatus.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

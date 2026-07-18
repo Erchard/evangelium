@@ -1,10 +1,10 @@
 # Logion 103 Evidence Note
 
-Status: working evidence note v0.1.
+Status: working evidence note v0.3.
 
 ## Decision
 
-`UNCERTAIN`; split-core candidate.
+`INCLUDE_WITH_MARKER` for 103A; full Logion 103 appendix-only.
 
 Confidence: medium.
 
@@ -36,9 +36,9 @@ Thomas's form is more elaborate: the person knows the watch, rises, gathers his 
 
 ## Early-Core Assessment
 
-Possible early core:
+Included marked reader core:
 
-> Blessed is the one who knows when the thief is coming and stays ready.
+> Blessed is the one who knows when the thief is coming and keeps watch before he comes.
 
 The thief/watchfulness image is strong. The "gather his kingdom/domain" clause is not needed for the core.
 
@@ -61,8 +61,10 @@ No extant Greek Thomas witness is loaded. The synoptic controls are strong but d
 
 ## Reconstruction Implication
 
-Do not add in this pass. Consider only a short watchfulness core later, and only after comparing Logia 21 and 103.
+The Logion 21 / 103 thief-watchfulness cluster-control pass now promotes only 103A to the clean reader with marker. The full Thomas form remains appendix-only because the gathering-domain and girding language is damaged, expanded, and likely interpretive.
 
 ## Next Work
 
-Use `controls/synoptic-parallels/logion-103-thief-watchfulness-controls.md`.
+Use `notes/thief-watchfulness-cluster-control-21-103-en.md` and `controls/synoptic-parallels/logion-103-thief-watchfulness-controls.md`.
+
+Review C: `../split-core-high-early-pressure-review-c-v0.1.md`.

@@ -55,7 +55,58 @@ Protected modern translations are not used as the base text. Public domain or op
 
 ## Current Block Summary
 
-The current reconstructed reader block covers 34 logia or cores: 1-6 ethical core, 9-10 cores, 16 core, 20, 22 core, 25-26, 31-36, 39, 41, 45A, 47B, 54, 63, 72-73, 86, 89, 95-96, 99-100, and 107 as marked sayings. Logia 7, 8, 11, 23, 27, 37, 38, 44, 46, 55, 57, 64, 76, 78, 79, 90, 93, 94, 103, 109, and 113 have evidence notes, cards, or cluster checks, but they are not included in the main reconstructed text because their current decision is `UNCERTAIN`, appendix-only, too duplicative, or too dependence-risky.
+The current reconstructed reader block covers 37 logia or cores: 1-6 ethical core, 9-10 cores, 16 core, 20, 22 core, 25-26, 31-36, 39, 41, 45A, 46A, 47B, 54, 63, 72-73, 86, 89, 91A, 95-96, 99-100, 103A, and 107 as marked sayings. Logia 7, 8, 11, 23, 27, 37, 38, 44, 55, 57, 64, 76, 78, 79, 90, 93, 94, 104, 109, and 113 have evidence notes, cards, or cluster checks, but they are not included in the main reconstructed text because their current decision is `UNCERTAIN`, appendix-only, too duplicative, cluster-deferred, or too dependence-risky.
+
+## Probability And Reader-Decision Control
+
+The project does not use probability scores as an automatic inclusion rule. A high early score means that a motif, form, or partial core may plausibly belong to an early tradition. It does not by itself prove that the preserved Thomas form is clean enough to print in the reconstructed reader.
+
+This distinction currently controls the main tension cases:
+
+- Logion 1 remains in the clean reader only as a marked collection-frame / prologue unit, despite its late-leaning profile.
+- Logia 64, 76, 78, 79, 90, 93, 94, 104, 109, and 113 remain outside the clean reader despite early-score pressure because they are composite, dependent-risky, duplicative of a stronger reader unit, or not yet safely separated into a short core.
+
+Card-level rationale blocks have been added for these cases. The final print and digital editions should preserve this principle in reader-friendly prose: probability of early tradition is not identical to clean-reader inclusion.
+
+## Beatitudes Cluster Summary
+
+Cluster note: `notes/beatitudes-cluster-control-en.md`.
+
+Decision implication: Logion 54 remains in the clean reader with marker; Logia 58, 68, and 69 remain appendix-only.
+
+Reason: the beatitude form is a genuine early-tradition form, but form alone is not enough for inclusion. Logion 54 is short and strongly controlled by Luke 6:20 and Matthew 5:3. Logia 68 and 69 have real persecution and hunger beatitude controls, but their Thomas forms are distinctive and difficult. Logion 58 is plausible wisdom material but lacks close direct control.
+
+Methodological use: this cluster shows that the project can include one saying from a shared form-type while treating related sayings seriously in the appendix rather than flattening them into the clean reconstruction.
+
+## Seek / Find Cluster Summary
+
+Cluster note: `notes/seek-find-cluster-control-en.md`.
+
+Decision implication: Logion 2 remains in the clean reader with marker; Logia 92 and 94 remain appendix-only.
+
+Reason: Logion 2 has the strongest position in the cluster because it is programmatic and has P.Oxy. 654 support, even though the Greek witness is lacunose and the ending differs from the Coptic. Logion 92 has a strong seek/find opening but embeds it in collection-memory expansion. Logion 94 is short and strongly controlled by Matthew 7:7-8 and Luke 11:9-10, but it likely duplicates the seek/find motif already represented by Logion 2.
+
+Methodological use: this cluster shows that a saying can be strong as tradition and still remain appendix-only when a stronger or more programmatic witness already represents the same motif in the clean reader.
+
+## Family-Renunciation Cluster Summary
+
+Cluster note: `notes/family-renunciation-cluster-control-en.md`.
+
+Decision implication: Logia 16 and 99 remain in the clean reader as marked cores; Logia 55 and 101 remain appendix-only.
+
+Reason: the cluster contains several related but not identical ideas: social conflict caused by Jesus' message, true kinship defined by doing God's will, radical family-renunciation, cross-bearing discipleship, and Thomasine symbolic mother/life language. Logion 16 has strong Matthew/Luke controls for the division / household-conflict core. Logion 99 has strong Mark/Matthew/Luke controls for the true-family core. Logion 55 is important but joins hate-family language to cross-bearing and worthiness language. Logion 101 has a controlled family-renunciation opening, but it is mixed with true-mother / life symbolism.
+
+Methodological use: this cluster shows that appendix-only placement is not dismissal. The project preserves difficult material for reader study while refusing to overprint composite or later forms as the earliest recoverable clean text.
+
+## Fire / Kingdom Cluster Summary
+
+Cluster note: `notes/fire-kingdom-cluster-control-en.md`.
+
+Decision implication: Logion 10 remains in the clean reader as a marked fire-casting core; Logion 82 remains appendix-only.
+
+Reason: Luke 12:49 strongly controls the compact fire-casting core in Logion 10. The full Thomas 10 continuation about watching or guarding the fire until it blazes remains outside the clean reader because it differs from Luke and may reflect Thomasine symbolic development. Logion 82 is vivid and important, but its support is mostly internal and thematic: it links nearness to Jesus with fire and distance from Jesus with distance from the kingdom. That is not the same as direct external textual control.
+
+Methodological use: this cluster shows the difference between motif control and textual control. A shared motif can strengthen interpretation without automatically justifying clean-reader inclusion.
 
 ## Logion 1 Summary
 
@@ -84,6 +135,8 @@ The following sequence is retained with a marker:
 Reason: Matthew 7:7 and Luke 11:9 preserve a search/find motif, but Thomas 2 does not reproduce the full synoptic triad "ask / seek / knock." Thomas expands the search/find motif into a distinctive sequence of disturbance, amazement, reigning, and possibly rest.
 
 Evidence note: `notes/logion-002-evidence-en.md`.
+
+Cluster note: `notes/seek-find-cluster-control-en.md`.
 
 ## Logion 3 Summary
 
@@ -224,6 +277,8 @@ Evidence note: `notes/logion-010-evidence-en.md`.
 
 Synoptic evidence table: `controls/synoptic-parallels/logion-010-fire-luke-control.md`.
 
+Cluster-control note: `notes/fire-kingdom-cluster-control-en.md`.
+
 Reconstruction implication: add only the short marked fire-casting core to the main reader text. Keep the watching/blazing continuation in the apparatus. Any Greek form must be labeled `Greek retroversion, hypothetical`.
 
 ## Logion 11 Summary
@@ -255,6 +310,8 @@ Reason: Thomas 16 has strong synoptic controls in Matthew 10:34-36 and especiall
 Evidence note: `notes/logion-016-evidence-en.md`.
 
 Synoptic evidence table: `controls/synoptic-parallels/logion-016-division-family.md`.
+
+Cluster-control note: `notes/family-renunciation-cluster-control-en.md`.
 
 Reconstruction implication: include only the marked short division/household core in the main reader text. Do not include the fire/sword/war sequence or the monachos ending. Any Greek form must be labeled `Greek retroversion, hypothetical`.
 
@@ -548,6 +605,8 @@ Evidence note: `notes/logion-054-evidence-en.md`.
 
 Synoptic evidence table: `controls/synoptic-parallels/logion-054-blessed-poor-controls.md`.
 
+Cluster note: `notes/beatitudes-cluster-control-en.md`.
+
 Reconstruction implication: include Logion 54 in the Ukrainian reader text with a marker; a shorter early core may be "Blessed are the poor, for yours is the kingdom."
 
 ## Logion 63 Summary
@@ -706,6 +765,8 @@ Evidence note: `notes/logion-099-evidence-en.md`.
 
 Synoptic evidence table: `controls/synoptic-parallels/logion-099-true-family-controls.md`.
 
+Cluster-control note: `notes/family-renunciation-cluster-control-en.md`.
+
 ## Logion 100 Summary
 
 Decision: Caesar/God core `INCLUDE_WITH_MARKER`; full Logion 100 `UNCERTAIN`.
@@ -721,6 +782,24 @@ Greek note: no loaded extant Greek Thomas witness preserves Logion 100. Any Gree
 Evidence note: `notes/logion-100-evidence-en.md`.
 
 Synoptic evidence table: `controls/synoptic-parallels/logion-100-caesar-god-controls.md`.
+
+## Logion 103 Summary
+
+Decision: thief/watchfulness core `INCLUDE_WITH_MARKER`; full Logion 103 appendix-only.
+
+Marked reader text:
+
+> Blessed is the one who knows when the thief is coming and keeps watch before he comes.
+
+Reason: Matthew 24:43 and Luke 12:39 strongly control the householder/thief warning, while Mark 13:33-37 gives broader watchfulness support. Logion 21 provides internal Thomas control for the same motif, but it is too composite to print as the reader representative. The clean reader therefore prints only 103A.
+
+Greek note: no loaded extant Greek Thomas witness preserves Logion 103. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+
+Evidence note: `notes/logion-103-evidence-en.md`.
+
+Synoptic evidence table: `controls/synoptic-parallels/logion-103-thief-watchfulness-controls.md`.
+
+Cluster-control note: `notes/thief-watchfulness-cluster-control-21-103-en.md`.
 
 ## Logion 107 Summary
 

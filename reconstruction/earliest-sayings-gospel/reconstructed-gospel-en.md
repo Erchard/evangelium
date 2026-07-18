@@ -110,6 +110,10 @@ Whoever has will be given more; whoever does not have will lose even the little 
 
 Grapes are not gathered from thorns, nor figs from thistles.
 
+## Logion 46
+
+Among those born of women none is greater than John; yet the least in the kingdom is greater than he.
+
 ## Logion 47
 
 A servant cannot serve two masters: he will honor one and despise the other.
@@ -142,6 +146,10 @@ Foxes have holes, birds have nests, but the Son of Man has nowhere to lay his he
 
 Why do you clean the outside of the cup? Do you not understand that the one who made the inside also made the outside?
 
+## Logion 91
+
+You know how to read the face of heaven and earth, but you do not recognize this time.
+
 ## Logion 95
 
 If you have money, do not lend at interest; give to the one from whom you do not expect to receive it back.
@@ -157,6 +165,10 @@ Those who do the Father's will are my brothers and my mother.
 ## Logion 100
 
 Give Caesar what belongs to Caesar, and God what belongs to God.
+
+## Logion 103
+
+Blessed is the one who knows when the thief is coming and keeps watch before he comes.
 
 ## Logion 107
 

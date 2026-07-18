@@ -1,6 +1,6 @@
 # Logion 101
 
-Статус: первинна корпусна картка v0.1.
+Статус: корпусна картка з family-renunciation cluster-control v0.1.
 
 ## Текст
 
@@ -42,11 +42,37 @@ Whoever does not hate father and mother as I do cannot be my disciple, and whoev
 
 Логія композиційна. Перша частина має сильний синоптичний контроль і може бути раннім радикальним учнівським ядром. Друга частина про "справжню матір" і життя виглядає як томине або пізніше символічне розгортання.
 
+Family-renunciation cluster-control: `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`.
+
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія переосмислює найсильніші людські звʼязки: родину, дім, матір, батька, братів, сестер і справжню належність. Вона звучить різко, бо ставить учнівство або життя вище звичних соціальних гарантій. У робочому українському перекладі це звучить так: "Хто не відмовиться від батька й матері так, як я, не може бути моїм учнем; і хто не полюбить батька й матір так, як я, не може бути моїм учнем. Мати народила моє тіло, а справжня мати дала мені життя."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як радикальну вимогу поставити учнівство вище родинної лояльності.
+2. Як гіперболу, тобто навмисно різкий вислів.
+3. Як слід реальної соціальної напруги довкола руху Ісуса.
+
+Оскільки картка не входить до чистого тексту, її функція - допомогти читачеві зрозуміти, що саме лишилося поза реконструкцією і чому це чесне рішення. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як appendix-only матеріал: вона допомагає читачеві зрозуміти межі корпусу, навіть якщо її не можна чесно друкувати як частину найдавнішого тексту. Робоче рішення картки: UNCERTAIN; позначка для чистого читача: NO; попередньо визначений шар: родинна відмова; справжня мати і життя.
+
+### Обережність
+
+Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
+
 ## Попередній статус
 
 Рішення: `UNCERTAIN`.
 
-Наступна дія: split family-renunciation core from true-mother/life expansion; study with Logia 55 and Luke 14:26.
+Наступна дія: family-renunciation cluster-control v0.1 уже виконано; повна логія лишається appendix-only, можливе родинно-учнівське ядро лишається split-core apparatus candidate.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -58,7 +84,7 @@ Whoever does not hate father and mother as I do cannot be my disciple, and whoev
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: родинна відмова; справжня мати і життя.
-- Поточний робочий статус: Evidence rationale v0.1.
+- Поточний робочий статус: Cluster-control v0.1.
 
 ### Ймовірнісний профіль
 
@@ -74,19 +100,20 @@ Whoever does not hate father and mother as I do cannot be my disciple, and whoev
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-101-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`
+  - MERGE_WITH_EXISTING_CLUSTER: Family-renunciation opening belongs under family-renunciation control; true-mother/life language remains secondary-risky.
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Можливе раннє ядро: family-renunciation opening; true-mother/life symbolism is secondary-risky, so the card remains a split-core appendix candidate.
+- Вторинні / томині ризики: family-renunciation opening has controls, but true-mother/life symbolism is distinctly Thomasine and keeps the full logion appendix-only.
 - Грецька політика: Грецький шар можна використовувати тільки як `Greek retroversion, hypothetical`, не як рукописний свідок.
 
 ### Наступна дія
 
-Split family-renunciation core from true-mother/life expansion.
+Family-renunciation cluster-control v0.1 exists; keep full logion appendix-only; possible family-renunciation core remains split-core apparatus material.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -144,7 +171,7 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: `UNCERTAIN`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
-- Current work status: Evidence rationale v0.1.
+- Current work status: Cluster-control v0.1.
 - Evidence note in matrix: YES.
 - Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
 
@@ -152,6 +179,7 @@ Local Greek canonical/control text currently transcribed:
 
 Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-101-evidence-en.md`
+- Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/family-renunciation-cluster-control-en.md`
 
 Synoptic/control files:
 - окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
@@ -170,5 +198,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Split family-renunciation core from true-mother/life expansion.
+- Next action: Family-renunciation cluster-control v0.1 exists; keep full logion appendix-only; possible family-renunciation core remains split-core apparatus material.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

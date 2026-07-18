@@ -1,6 +1,6 @@
 # Logion 90 Evidence Note
 
-Status: working evidence note v0.1.
+Status: working evidence note v0.2.
 
 ## Decision
 
@@ -56,8 +56,10 @@ No extant Greek Thomas witness is loaded. There is no Mark/Luke double control f
 
 ## Reconstruction Implication
 
-Do not add to the clean reader. Logion 90 should remain in the appendix unless a later decision pass accepts a heavily marked Matthean-control unit.
+Do not add to the clean reader. Split-Core / High-Early Pressure Review C keeps Logion 90 appendix-only because its control is strong but narrow: Matthew 11:28-30 dominates the evidence, and there is no extant Greek Thomas witness in the loaded corpus.
 
 ## Next Work
 
 Use `controls/synoptic-parallels/logion-090-yoke-rest-controls.md`.
+
+Review C: `../split-core-high-early-pressure-review-c-v0.1.md`.

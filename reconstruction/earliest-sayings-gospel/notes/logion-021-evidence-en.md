@@ -1,10 +1,10 @@
-# Logion 21 Evidence Rationale v0.1
+# Logion 21 Evidence Rationale v0.2
 
 ## Decision
 
-Current publication decision: `DEFER_TO_CLUSTER`.
+Current publication decision: `DEFER_TO_CLUSTER`; thief/watchfulness subunit functions as control material for Logion 103A.
 
-Reader implication: do not include Logion 21 in the clean reconstruction as a full unit.
+Reader implication: do not include Logion 21 in the clean reconstruction as a full unit, and do not print its thief subunit separately.
 
 ## Source Basis
 
@@ -24,7 +24,8 @@ Several subunits have plausible early controls, especially the thief and harvest
 
 Use Logion 21 as a model for explaining composite material. The appendix should divide it into subunits and show that some elements may preserve early tradition while the full Thomas arrangement remains deferred.
 
+After the Logion 21 / 103 thief-watchfulness cluster-control pass, the thief subunit supports the promotion of 103A as the cleaner printed representative of the motif. The harvest subunit remains a separate control problem.
+
 ## Next Action
 
-Create a split-unit control note for Thomas 21, separating field/children, thief/watchfulness, anti-world warning, and harvest/sickle material.
-
+Use `notes/thief-watchfulness-cluster-control-21-103-en.md`. Keep full Logion 21 appendix-only and consider the harvest/sickle material in a later harvest cluster if needed.

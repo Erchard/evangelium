@@ -49,4 +49,4 @@ No newly promoted unit has a loaded extant Greek Thomas witness. Their Greek lay
 
 ## Next Step
 
-Superseded next-step note, 2026-07-17: `all-114-publication-decision-table-v0.1.md` now exists. The next best project step is Phase 5 full appendix expansion for excluded/deferred/evidence-blocked logia before freezing the clean reader.
+Superseded next-step note, 2026-07-18: `all-114-publication-decision-table-v0.1.md`, reader-interpretation sync, editorial consolidation packages for Logia 1-20, and print/digital architecture now exist. The current next best project step is print-safe full appendix editorial consolidation for Logia 21-30 before freezing the clean reader.

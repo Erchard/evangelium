@@ -1,6 +1,6 @@
 # Logion 95
 
-Статус: первинна корпусна картка v0.1.
+Статус: корпусна картка з clean-reader inclusion v0.5.
 
 ## Текст
 
@@ -16,7 +16,7 @@ No extant Greek in loaded witnesses.
 
 ### Greek retroversion, hypothetical
 
-Not attempted. The saying could reflect common ethical tradition about lending, but the damaged Coptic should be controlled first.
+Greek retroversion, hypothetical; confidence: `medium`. The damaged Coptic opening and anti-usury controls require caution.
 
 ### Буквальний український переклад
 
@@ -39,13 +39,37 @@ If you have money, do not lend at interest; rather, give it to someone from whom
 
 ## Аналіз
 
-Короткий етичний вислів із потенційно раннім юдейським і синоптичним фоном. Потрібно розділити anti-usury motif і radical giving motif. Через пошкодження початку і відсутність грецького свідка поки лишається кандидатом для поглиблення.
+Короткий етичний вислів із раннім юдейським і синоптичним фоном уже входить до clean reader з маркером. Anti-usury motif і radical giving motif треба пояснювати в апараті, особливо через пошкодження початку і відсутність extant Greek Thomas witness.
+
+## Читацьке тлумачення
+
+### Простий сенс
+
+У простому сенсі логія говорить про майно, силу, вигоду, працю або втрату контролю над життям. Вона не обовʼязково засуджує самі речі, але показує небезпеку, коли людина робить власність чи владу остаточною опорою. У робочому українському перекладі це звучить так: "Якщо маєте гроші, не позичайте під відсоток; дайте тому, від кого не сподіваєтеся отримати назад."
+
+Для звичайного читача найкраще починати не з питання "чи це точно найдавніший текст?", а з питання "який досвід або конфлікт цей вислів намагається назвати?" Після цього вже можна переходити до реконструкційного рівня: чи маємо ми тут ранній короткий вислів, пізніше тлумачення, редакційну рамку або змішану форму.
+
+### Як це можна розуміти
+
+1. Як критику привʼязаності до майна або сили.
+2. Як нагадування, що контроль над ресурсами не дорівнює життю.
+3. Як соціальний мотив, який пізніше міг бути переоформлений аскетично.
+
+Оскільки картка включена з маркером, читачеві треба одразу пояснити подвійність: є реконструкційно цінне ядро, але є й елементи, які не можна подавати з тією самою впевненістю. Важливо також памʼятати, що тлумачення не є частиною реконструйованого тексту. Воно існує для того, щоб читач міг повернутися від чистої логії до ширшого контексту й самостійно перевірити, чи переконлива запропонована реконструкція.
+
+### Чому це важливо для реконструкції
+
+Для реконструкції ця логія важлива як марковане clean-reader ядро. Вона друкується в чистому тексті, а повний додаток має пояснити пошкоджений Coptic opening, Luke 6:34-35 control, anti-usury background і межі hypothetical Greek retroversion. Робоче рішення картки: `INCLUDE_WITH_MARKER`; позначка для чистого читача: YES; попередньо визначений шар: гроші, лихва і дар без повернення.
+
+### Обережність
+
+У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - змішати сам вислів із пізнішим поясненням або з нашою сучасною інтерпретацією.
 
 ## Попередній статус
 
-Рішення: `UNCERTAIN`.
+Рішення: `INCLUDE_WITH_MARKER`.
 
-Наступна дія: high ethical candidate; compare Luke 6:34-35 and Jewish anti-usury traditions.
+Наступна дія: publication polish; clarify damaged opening and anti-usury controls.
 
 ## Еталонне вирівнювання картки v0.1
 
@@ -53,11 +77,11 @@ If you have money, do not lend at interest; rather, give it to someone from whom
 
 ### Поточне рішення
 
-- Рішення: `UNCERTAIN`.
-- Reader text: NO.
-- Greek witness status: No loaded P.Oxy. witness.
+- Рішення: `INCLUDE_WITH_MARKER`.
+- Reader text: YES.
+- Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: гроші, лихва і дар без повернення.
-- Поточний робочий статус: Primary card v0.1.
+- Поточний робочий статус: Full appendix expanded v0.5.
 
 ### Ймовірнісний профіль
 
@@ -71,21 +95,21 @@ If you have money, do not lend at interest; rather, give it to someone from whom
 ### Доказовий апарат
 
 - Evidence note:
-немає окремого файлу; прогалина лишається видимою.
+  - `reconstruction/earliest-sayings-gospel/notes/logion-095-evidence-en.md`
 - Synoptic/control files:
-немає окремого файлу; прогалина лишається видимою.
+  - `controls/synoptic-parallels/logion-095-money-lending-controls.md`
 - Cluster/context notes:
-немає окремого файлу; прогалина лишається видимою.
+  - Not required for the current decision unless a future cluster-control pass reopens this logion.
 
 ### Шарова модель для реконструкції
 
-- Можливе раннє ядро: можливий кандидат або контрольний матеріал, але рішення про раннє ядро ще не ухвалене.
-- Вторинні / томині ризики: головний ризик: напрям залежності й рівень незалежності традиції ще потребують контролю.
+- Включене раннє ядро: money / non-repayment core, printed with marker.
+- Вторинні / томині ризики: lending/giving saying is ethically plausible and controlled, but anti-usury wording may reflect community economic instruction.
 - Грецька політика: У завантаженому корпусі немає extant Greek Thomas witness; не створювати грецьке свідчення без маркування.
 
 ### Наступна дія
 
-High ethical candidate: compare Luke 6:34-35 and anti-usury traditions.
+Publication polish: clarify damaged opening, Luke 6:34-35 control, and anti-usury background.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
