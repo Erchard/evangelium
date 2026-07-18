@@ -1,6 +1,6 @@
 # Logion 104
 
-Статус: normalized corpus card; current workflow status: `Evidence rationale v0.2; ritual-ethics cluster; Review C v0.1`.
+Статус: normalized corpus card; current workflow status: `Ritual-ethics / bridegroom 104A follow-up v0.1`.
 
 ## Текст
 
@@ -71,7 +71,7 @@ They said to Jesus, "Come, let us pray today and fast." Jesus said, "What sin ha
 
 Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
-Рішення: `DEFER_TO_CLUSTER_BEFORE_READER_DECISION` for bridegroom-fasting core; full logion appendix-only.
+Рішення: 104A bridegroom-fasting core `APPENDIX_ONLY_STABLE`; full logion appendix-only.
 
 Наступна дія: split bridegroom-fasting core from Thomas ritual/bridal-chamber frame; create evidence note before any inclusion.
 
@@ -83,11 +83,11 @@ They said to Jesus, "Come, let us pray today and fast." Jesus said, "What sin ha
 
 Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
-- Рішення: `DEFER_TO_CLUSTER_BEFORE_READER_DECISION` for bridegroom-fasting core; full logion appendix-only.
+- Рішення: 104A bridegroom-fasting core `APPENDIX_ONLY_STABLE`; full logion appendix-only.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: молитва, піст і наречений.
-- Поточний workflow status: `Evidence rationale v0.2; ritual-ethics cluster; Review C v0.1`.
+- Поточний workflow status: `Ritual-ethics / bridegroom 104A follow-up v0.1`.
 
 ### Ймовірнісний профіль
 
@@ -102,7 +102,7 @@ They said to Jesus, "Come, let us pray today and fast." Jesus said, "What sin ha
 
 Early score 60 belongs mainly to the bridegroom-fasting core, which has real synoptic-control value. Але повна томина форма стоїть у ritual-ethics / bridal-chamber environment and may mix an early fasting saying with later community practice and symbolic theology.
 
-Тому рішення не є простим exclusion. Це `DEFER_TO_CLUSTER_BEFORE_READER_DECISION`: не друкувати в clean reader зараз, але провести окремий bridegroom-fasting follow-up, щоб перевірити, чи можна відповідально виділити коротке раннє ядро.
+Тому рішення не є простим rejection мотиву. Після ritual-ethics / bridegroom follow-up 104A стабілізовано як `APPENDIX_ONLY_STABLE`: не друкувати в clean reader, але пояснити в appendix як важливий bridegroom-fasting матеріал із сильним синоптичним контролем і високим ризиком залежності/рамкового переформатування.
 
 ### Доказовий апарат
 
@@ -112,6 +112,7 @@ Early score 60 belongs mainly to the bridegroom-fasting core, which has real syn
   - `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
 - Cluster/context notes:
   - `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
+  - `reconstruction/earliest-sayings-gospel/ritual-ethics-bridegroom-104a-followup-v0.1.md`
 
 ### Шарова модель для реконструкції
 
@@ -121,7 +122,7 @@ Early score 60 belongs mainly to the bridegroom-fasting core, which has real syn
 
 ### Наступна дія
 
-Use evidence rationale v0.1; compare bridegroom-fasting core with synoptic controls.
+No clean-reader change; use 104A follow-up rationale in final appendix/dossier.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -177,17 +178,18 @@ Local Greek canonical/control text currently transcribed:
 
 ### Publication Status
 
-- Current decision: `DEFER_TO_CLUSTER_BEFORE_READER_DECISION` for bridegroom-fasting core; full logion appendix-only.
+- Current decision: 104A bridegroom-fasting core `APPENDIX_ONLY_STABLE`; full logion appendix-only.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
-- Current workflow status: `Evidence rationale v0.2; ritual-ethics cluster; Review C v0.1`.
+- Current workflow status: `Ritual-ethics / bridegroom 104A follow-up v0.1`.
 - Evidence note in matrix: YES.
-- Clean-reader implication: Не друкувати в clean reader зараз; провести окремий bridegroom-fasting / ritual-ethics follow-up перед будь-яким reader decision.
+- Clean-reader implication: Не друкувати 104A або повну логію 104 в clean reader; подати як appendix-only stable case із сильним синоптичним контролем і Thomas ritual/bridal-chamber ризиком.
 
 ### Evidence Links
 
 Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-104-evidence-en.md`
+- `reconstruction/earliest-sayings-gospel/ritual-ethics-bridegroom-104a-followup-v0.1.md`
 
 Synoptic/control files:
 - `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
@@ -206,5 +208,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Use evidence rationale v0.1; compare bridegroom-fasting core with synoptic controls.
-- Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.
+- Next action: Carry appendix-only decision into final freeze and Greek publication polish.
+- Publication pass: звірити Greek retroversion wording and print-safe citation keys before final release.

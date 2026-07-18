@@ -1,10 +1,12 @@
 # Logion 104 Evidence Note
 
-Status: evidence rationale v0.2.
+Status: evidence rationale v0.3, updated after ritual-ethics / bridegroom follow-up on 2026-07-18.
 
 ## Decision
 
-`DEFER`; keep outside the clean reader.
+104A bridegroom-fasting core: `APPENDIX_ONLY_STABLE`.
+
+Full Logion 104: appendix-only.
 
 ## Working Unit
 
@@ -22,18 +24,22 @@ Status: evidence rationale v0.2.
 
 ## Main Evidence
 
-The bridegroom-fasting motif has strong synoptic controls, but the Thomas form is not a simple match. It is embedded in a ritual-practice question and bridal-chamber language. This may reflect Thomasine reuse of a known fasting/bridegroom tradition.
+The bridegroom-fasting motif has strong synoptic controls in Mark, Matthew, and Luke. This confirms that the motif is important and early enough to deserve serious treatment in the appendix.
+
+The Thomas form, however, is not a simple independent witness to that motif. It is embedded in a ritual-practice question, a difficult statement about sin or being overcome, and bridal-chamber language. There is also no extant Greek Thomas witness for this logion in the loaded papyri. A clean 104A extraction would therefore lean heavily on the canonical form, while the preserved Thomas form remains shaped by ritual-ethics and bridal-chamber concerns.
 
 ## Reason For Non-Inclusion
 
-The project cannot yet separate a possibly early bridegroom-fasting core from the Thomas ritual/bridal-chamber frame. There is no extant Greek Thomas witness for this logion in the loaded corpus.
+The project can identify a real early-tradition motif, but cannot responsibly print a Thomas 104A core in the clean reconstruction. The core is too dependent on canonical controls for recoverable wording, and the Thomas frame is too entangled with later-looking ritual and bridal-chamber symbolism.
 
 ## Reconstruction Implication
 
-Do not print Logion 104 in the clean reader. Split-Core / High-Early Pressure Review C keeps the full logion appendix-only and defers any short bridegroom-fasting core until a ritual-ethics / bridegroom-focused control pass.
+Do not print Logion 104 or 104A in the clean reader. Treat 104A as `APPENDIX_ONLY_STABLE`: important, controlled, and explainable, but not a secure clean-reader unit under the current reconstruction model.
 
 ## Remaining Work
 
-Compare the Thomas form closely with Mark, Matthew, and Luke. If a short core is considered later, it must be marked as dependent-control risk rather than direct Thomas manuscript evidence.
+No further reader-promotion work is required before freeze unless new manuscript or source-critical evidence is added. Final publication should keep the appendix explanation and mark the Greek layer as `Greek retroversion, hypothetical`.
 
 Review C: `../split-core-high-early-pressure-review-c-v0.1.md`.
+
+104A follow-up audit: `../ritual-ethics-bridegroom-104a-followup-v0.1.md`.

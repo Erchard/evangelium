@@ -1,6 +1,6 @@
 # Ritual-Ethics Cluster: Thomas 6, 14, 27, and 104
 
-Status: working evidence note v0.1.
+Status: cluster-control note v0.2, updated after 104A follow-up on 2026-07-18.
 
 ## Question
 
@@ -13,7 +13,7 @@ Should Thomas 6 be included in the reconstructed earliest sayings gospel, either
 | 6 | ritual-practice question; ethical prohibition; hidden/revealed ending | Coptic NHC II; Greek P.Oxy. 654, lacunose | ethical core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN` |
 | 14 | critique of fasting, prayer, almsgiving; mission; food defilement | Coptic NHC II; no loaded Greek Oxyrhynchus witness | `DEFER` |
 | 27 | fast from the world; make Sabbath a Sabbath | Coptic NHC II; Greek P.Oxy. 1; P.Oxy. 5575 control | `UNCERTAIN` |
-| 104 | prayer/fasting and the bridegroom | Coptic NHC II; no loaded Greek Oxyrhynchus witness | `DEFER` |
+| 104 | prayer/fasting and the bridegroom | Coptic NHC II; no loaded Greek Oxyrhynchus witness | 104A `APPENDIX_ONLY_STABLE`; full logion appendix-only |
 
 ## Main Finding
 
@@ -54,6 +54,14 @@ Mark 7:15 and Matthew 15:11 are strong controls for Thomas 14, not for Thomas 6 
 
 Mark 2:18-20, Matthew 9:14-15, and Luke 5:33-35 are strong controls for Thomas 104. This confirms that fasting/prayer discourse circulated in multiple early Christian forms, but it does not make Thomas 6 itself secure.
 
+### Logion 104A Follow-Up
+
+The focused 104A follow-up keeps the bridegroom-fasting core outside the clean reader as `APPENDIX_ONLY_STABLE`.
+
+The reason is not that the motif is late or unimportant. The opposite is true: the bridegroom-fasting motif has strong canonical controls and almost certainly belongs to an early Christian discussion about fasting, presence, absence, joy, and mourning. The problem is narrower. The Thomas form has no loaded Greek Oxyrhynchus witness, and its recoverable unit is embedded in a dialogue about prayer and fasting, a difficult sin/overcome question, and bridal-chamber language. Extracting a clean Thomas 104A core would therefore depend mostly on the canonical form, not on an independently preserved Thomas form.
+
+For this reconstruction, that is enough to stabilize 104A as appendix-only. The appendix should explain the motif carefully, but the clean reader should not add another unit where the strongest recoverable wording is controlled mainly by Mark/Matthew/Luke and where the Thomas frame may reflect later ritual or symbolic development.
+
 ### Didache 8
 
 Didache 8 regulates fasting days and prayer practice. It is an early Christian control for the ritual-practice field, but its direction is different from Thomas: Didache prescribes communal discipline; Thomas reinterprets ritual practice through ethics, world-renunciation, and symbolic presence.
@@ -86,3 +94,5 @@ Do not add the full Thomas 6 composition to the main reconstructed text.
 Add only the short ethical core with a marker:
 
 > Do not lie, and do not do what you hate.
+
+Logion 104A has now been reviewed and remains outside the reader as `APPENDIX_ONLY_STABLE`; the full Logion 104 remains appendix-only. This closes the main ritual-ethics / bridegroom reader-pressure case before final reader freeze.

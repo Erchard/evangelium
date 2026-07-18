@@ -103,6 +103,7 @@ If you have money, do not lend at interest; rather, give it to someone from whom
 - Synoptic/control files:
   - `controls/synoptic-parallels/logion-095-money-lending-controls.md`
 - Cluster/context notes:
+  - `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 
 ### Шарова модель для реконструкції

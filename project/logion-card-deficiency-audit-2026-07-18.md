@@ -161,9 +161,9 @@ Additional card-control remediation completed:
 
 ## Recommended Fix Order
 
-1. Continue print-safe appendix consolidation after the completed Greek-layer freeze, beginning with Logia 61-70.
-2. Prepare the evidence dossier publication pass with source hierarchy, methodology, bibliography, and inclusion/exclusion defense.
-3. Run the later Greek retroversion publication polish against academic editions after appendix and bibliography work, but do not reopen the basic witness-status freeze unless new source evidence is added.
+1. DONE: Final clean-reader freeze across Ukrainian, English, Coptic, Greek, parallel, decision, probability, and appendix layers.
+2. DONE: Final bibliography and source-rights release verification.
+3. NEXT: Print / digital render proof preparation for Ukrainian and English paper books plus separable digital scholarly apparatus.
 
 ## Validation Commands
 

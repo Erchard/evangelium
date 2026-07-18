@@ -78,7 +78,7 @@ These are not automatic mistakes. They are the main review list where appendix/d
 | 76 | 60 | 40 | `KEEP_APPENDIX_ONLY_FOR_NOW` | `APPENDIX_ONLY_STABLE` | Pearl/treasure cores plausible, but need Matthew-only parable/treasure cluster decision. |
 | 78 | 60 | 40 | `KEEP_APPENDIX_ONLY_FOR_NOW` | `APPENDIX_ONLY_STABLE` | John-tradition control strong, but not clean as a free-standing reader unit. |
 | 79 | 60 | 40 | `KEEP_APPENDIX_ONLY_FOR_NOW` | `APPENDIX_ONLY_STABLE` | Hearing/keeping core overlaps current reader and remains embedded in a composite unit. |
-| 104 | 60 | 40 | `DEFER_TO_CLUSTER_BEFORE_READER_DECISION` for bridegroom-fasting core; full logion appendix-only | `DEFER_TO_CLUSTER_BEFORE_READER_DECISION`; full logion appendix-only | Bridegroom-fasting core must be split from ritual/bridal-chamber frame. |
+| 104 | 60 | 40 | 104A bridegroom-fasting core `APPENDIX_ONLY_STABLE`; full logion appendix-only | 104A `APPENDIX_ONLY_STABLE`; full logion appendix-only | Follow-up completed: strong bridegroom-fasting motif, but no extant Greek Thomas witness and Thomas ritual/bridal-chamber frame remains too entangled for clean-reader extraction. |
 | 109 | 60 | 40 | `KEEP_APPENDIX_ONLY_FOR_NOW` | `APPENDIX_ONLY_STABLE` | Hidden-treasure image is interesting but Matthew-only control and expansion remain risky. |
 | 113 | 60 | 40 | `KEEP_APPENDIX_ONLY_FOR_NOW` | `APPENDIX_ONLY_STABLE` | Kingdom-not-observed core is already represented more strongly by Logion 3. |
 
@@ -119,8 +119,8 @@ Current recommendation:
 
 No mass accidental inversion was found.
 
-The project does, however, need a focused quality pass before final clean-reader freeze:
+After final clean-reader freeze, the remaining probability-related work belongs to book production and proofing:
 
 1. Polish the appendix/dossier presentation of the probability-vs-reader principle for non-specialist readers.
 2. Replace remaining generic early-core placeholders with logion-specific layer models.
-3. During final book layout, decide whether Logion 1 is printed as numbered clean text or as a marked prologue/front-matter unit.
+3. During final book layout, decide whether Logion 1 is printed as numbered clean text or as a visually distinct prologue/front-matter unit while retaining lookup number 1.

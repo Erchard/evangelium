@@ -104,7 +104,8 @@ Whoever has found the world and become rich, let that one renounce the world.
   - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logia-081-110-wealth-renunciation-controls.md`
   - Wealth/anti-world decision: Logion 110 remains appendix-only; world-renunciation language is strongly Thomasine and lacks direct external control.
 - Cluster/context notes:
-  - Not required for the current decision unless a future cluster-control pass reopens this logion.
+  - `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
+  - Wealth/renunciation cluster-control v0.1 complete; keep appendix-only / deferred.
 
 ### Шарова модель для реконструкції
 
@@ -114,7 +115,7 @@ Whoever has found the world and become rich, let that one renounce the world.
 
 ### Наступна дія
 
-Study world-renunciation cluster with 56, 80, 81, 111.
+Wealth/renunciation cluster-control v0.1 complete; keep appendix-only unless a later anti-world reader-candidate pass reopens it.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -197,5 +198,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Study world-renunciation cluster with 56, 80, 81, 111.
+- Next action: Wealth/renunciation cluster-control v0.1 complete; keep appendix-only unless a later anti-world reader-candidate pass reopens it.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

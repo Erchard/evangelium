@@ -6,4 +6,11 @@
 
 Див. `../LICENSE.md` і `../project/commons-dedication-and-use-policy.md`.
 
-Поточний робочий статус: папка зарезервована для publication pass.
+Поточний робочий статус: final bibliography / rights verification pass v0.2 виконано як pre-rendering release-clearance шар.
+
+Активні файли:
+
+- `bibliography-working.md` - робоча бібліографія з короткими print keys і конкретними release statuses.
+- `source-rights-register.md` - rights status і release rules для основних джерельних сімейств.
+
+Ці файли не є юридичним висновком. Перед фінальним релізом треба виконати бібліотечну перевірку захищених scholarly controls, права на snapshots/facsimiles і формат фінального commons / anti-ownership notice.

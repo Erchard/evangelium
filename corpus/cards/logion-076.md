@@ -101,6 +101,7 @@ Early score 60 відображає реальну вагу pearl/treasure image
 - Synoptic/control files:
 `controls/synoptic-parallels/logion-076-pearl-treasure-controls.md`.
 - Cluster/context notes:
+  - `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
 окремий cluster note не створювався; Review B виконує функцію split-core context note.
 
 ### Шарова модель для реконструкції

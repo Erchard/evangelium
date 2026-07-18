@@ -110,6 +110,7 @@ Early score 60 reflects the plausibility of a hidden-treasure parable core. The 
 - Synoptic/control files:
 `controls/synoptic-parallels/logion-109-hidden-treasure-controls.md`.
 - Cluster/context notes:
+  - `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
 окремий cluster note не створювався; Review B виконує функцію hidden-treasure expansion context note.
 
 ### Шарова модель для реконструкції

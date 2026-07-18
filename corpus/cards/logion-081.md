@@ -105,7 +105,8 @@ Whoever has become rich, let that one reign; and whoever has power, let that one
   - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logia-081-110-wealth-renunciation-controls.md`
   - Wealth-control decision: Logion 81 remains appendix-only; its wealth/power/renunciation logic is internally important but not externally controlled enough for clean-reader promotion.
 - Cluster/context notes:
-  - Not required for the current decision unless a future cluster-control pass reopens this logion.
+  - `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
+  - Wealth/renunciation cluster-control v0.1 complete; keep appendix-only / deferred.
 
 ### Шарова модель для реконструкції
 
@@ -115,7 +116,7 @@ Whoever has become rich, let that one reign; and whoever has power, let that one
 
 ### Наступна дія
 
-Study with Logia 63 and 110; test rich/renounce cluster.
+Wealth/renunciation cluster-control v0.1 complete; keep appendix-only unless a later reader-candidate pass reopens it.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -198,5 +199,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Study with Logia 63 and 110; test rich/renounce cluster.
+- Next action: Wealth/renunciation cluster-control v0.1 complete; keep appendix-only unless a later reader-candidate pass reopens it.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

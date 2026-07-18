@@ -10,9 +10,9 @@
 - Full 114-logion appendix існує для всіх 114 логій: усі секції мають читацьке пояснення; Logia 1-114 уже редакційно консолідовані як print-safe книжковий додаток.
 - Print/digital publication architecture v0.1 зафіксовано: українська й англійська паперові книги мають бути окремими самодостатніми виданнями, а повний source/evidence apparatus лишається цифровим companion layer.
 - Technical QA baseline закрито: `tools/qa_crosscheck.py` перевіряє структурну цілісність 114 карток, 114 appendix-секцій, clean-reader sync і точні appendix anchors.
-- Evidence dossier: робочий v1.3, ще не публікаційний.
-- All-114 publication decision table v0.1 виконано; перший Phase 5 P1 non-reader appendix package і evidence-rationale pass виконано; cluster-control passes для living/dead/world, beatitudes, seek/find, family-renunciation, fire/kingdom і thief/watchfulness груп виконано; Logion 1 frame-status review, Review C і controlled reader-candidate pass 46A/91A виконано; найближчий робочий пакет: wealth/renunciation cluster-control.
-- Open-task prompt queue створено: `project/open-task-prompt-queue-2026-07-18.md`; актуальний `NEXT` - wealth/renunciation cluster-control.
+- Evidence dossier: publication-facing draft v1.4; bibliography/rights/citation/reproducibility layer оновлено до release verification pass v0.2.
+- All-114 publication decision table v0.1 виконано; перший Phase 5 P1 non-reader appendix package і evidence-rationale pass виконано; cluster-control passes для living/dead/world, beatitudes, seek/find, family-renunciation, fire/kingdom, thief/watchfulness, wealth/renunciation і ritual-ethics / bridegroom 104A виконано; Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography and rights verify, print/digital render proof preparation, Logion 1 frame-status review, Review C і controlled reader-candidate pass 46A/91A виконано; найближчий робочий пакет: render pipeline and first proofs.
+- Open-task prompt queue створено: `project/open-task-prompt-queue-2026-07-18.md`; актуальний `NEXT` - render pipeline and first proofs.
 - Усі 114 карток логій мають `Gold-level status check v0.2`; актуальним card-quality audit є `corpus/cards/card-quality-audit-v0.2.md`.
 - Усі 114 карток логій мають `Five-source original-language apparatus v0.1`; актуальний аудит джерельного шару: `corpus/cards/five-source-apparatus-audit-v0.1.md`.
 - Усі 114 карток логій мають `Читацьке тлумачення` v0.1 для звичайного читача; актуальний аудит: `corpus/cards/reader-interpretation-expansion-audit-v0.1.md`.
@@ -39,7 +39,7 @@
 | Кінцевий продукт | `project/arabic-injil-layer-concept.md` | Концепція арабського Injil-layer: як ідея ісламського первісного Інжилю може бути чесно використана як міжрелігійна рамка для реконструкції. |
 | Кінцевий продукт | `project/arabic-injil-layer-editorial-policy.md` | Політика арабського Injil-layer: високий класичний / коранічно-суміжний регістр без претензії на суру, Коран або одкровення. |
 | Завершення | `project/project-completion-roadmap.md` | Актуальна дорожня карта: 37-unit reader, синхронізовані мовні шари, Greek audit, пакетне розгортання full appendix і публікаційні прогалини. |
-| Завершення | `project/open-task-prompt-queue-2026-07-18.md` | Активна черга високоякісних промптів для незакритих задач: wealth/renunciation, Logion 114 dossier use, evidence dossier, 104A, bibliography/rights, Greek polish. |
+| Завершення | `project/open-task-prompt-queue-2026-07-18.md` | Активна черга високоякісних промптів для незакритих задач; актуальний `NEXT` - render pipeline and first proofs. |
 | Завершення | `project/open-task-prompt-factory-execution-v0.1.md` | Audit виконання prompt-factory pass: створено queue і набір поточних executable prompts. |
 | Завершення | `project/project-quality-audit-v0.1.md` | Актуалізований аудит якості v0.2: закриті попередні недоліки, нові P0/P1/P2 прогалини, поточні метрики й рекомендований наступний крок. |
 | Завершення | `project/project-quality-remediation-plan-v0.1.md` | Практичний план усунення недоліків після quality audit: фази, пріоритети, acceptance criteria і порядок доведення проекту до публікаційної якості. |
@@ -51,6 +51,15 @@
 | Завершення | `project/structure-cleanup-2026-07-18-v0.1.md` | Audit структурного cleanup: прибрано `.DS_Store`, порожні старі output folders і порожній `reconstruction/kernel-thomas/`; додано print/digital output README. |
 | Завершення | `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md` | Контрольований reader pass після Reviews A/B: включено 45A, 47B і 63; решту кандидатів залишено appendix-only. |
 | Завершення | `project/publication-gap-audit-v0.2.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
+| Завершення | `reconstruction/earliest-sayings-gospel/evidence-dossier-publication-pass-v0.1.md` | Audit публікаційного проходу evidence dossier: thesis, method, source hierarchy, cluster logic, uncertainty model і provisional rights/citation note. |
+| Завершення | `project/rights-and-citation-policy.md` | Правила прав, attribution, print-safe citations, digital source paths і protected-source controls. |
+| Завершення | `project/source-reproducibility-note.md` | Reproducibility layer для Coptic, P.Oxy., SBLGNT і digital/print source mapping. |
+| Завершення | `bibliography/bibliography-working.md` | Робоча бібліографія з print keys і конкретними release statuses після final bibliography / rights verify. |
+| Завершення | `bibliography/source-rights-register.md` | Rights status table і release rules для основних джерельних сімейств. |
+| Завершення | `project/final-bibliography-rights-verify-v0.1.md` | Audit фінальної pre-render bibliography/right verification: відкриті джерела перевірено, protected controls обмежено, snapshots із неясними правами не розповсюджувати. |
+| Завершення | `project/print-digital-render-proof-prep-v0.1.md` | Preflight proof-prep report: paper sources print-safe, citation key table, renderer interface і blockers перед першим proof render. |
+| Робочий промпт | `project/ide-codex-render-pipeline-first-proofs-v0.1-prompt.md` | Поточний NEXT-промпт: обрати мінімальний renderer і створити перші proof artifacts або repeatable scaffold. |
+| Завершення | `reconstruction/earliest-sayings-gospel/ritual-ethics-bridegroom-104a-followup-v0.1.md` | Follow-up рішення для 104A: appendix-only stable, без зміни clean reader. |
 | Завершення | `corpus/cards/card-quality-audit-v0.2.md` | Аудит gold-level нормалізації карток: 114/114 мають поточний v0.2 status block; головна наступна прогалина - publication decision depth. |
 | Завершення | `corpus/cards/five-source-apparatus-audit-v0.1.md` | Аудит пʼятиджерельного апарату в картках: усі 114 мають P.Oxy./Coptic/canonical channel, але canonical Greek local extraction ще майже весь попереду. |
 | Завершення | `corpus/cards/reader-interpretation-expansion-audit-v0.1.md` | Аудит читацького тлумачення в картках: усі 114 логій мають простий сенс, можливі прочитання, реконструкційне значення й застереження, включно з відкинутими логіями. |
@@ -61,7 +70,7 @@
 | Завершення | `reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md` | Аудит перед фіналізацією clean reader: що вже стабільне, що потребує split-core review, і які документи застаріли. |
 | Завершення | `reconstruction/earliest-sayings-gospel/final-reader-probability-pressure-review-v0.1.md` | Pre-freeze review напруги між probability profiles і clean-reader складом: Logion 1 frame status, high-early non-reader priorities і probability-profile cleanup. |
 | Завершення | `reconstruction/earliest-sayings-gospel/logion-001-frame-status-review-v0.1.md` | Pre-freeze рішення для Logion 1: лишити синхронізованою в source-layer reader, але фінально трактувати як рамку/пролог збірки, не як звичайну включену логію. |
-| Завершення | `reconstruction/earliest-sayings-gospel/split-core-high-early-pressure-review-c-v0.1.md` | Pre-freeze Review C: 46A і 91A передано в controlled reader-candidate pass; 90 лишено appendix-only; 103A/104A були відкладені до cluster-control. |
+| Завершення | `reconstruction/earliest-sayings-gospel/split-core-high-early-pressure-review-c-v0.1.md` | Pre-freeze Review C: 46A і 91A передано в controlled reader-candidate pass; 90 лишено appendix-only; 103A/104A були відкладені до cluster-control; обидва пізніше закриті окремими passes. |
 | Завершення | `reconstruction/earliest-sayings-gospel/controlled-reader-candidate-pass-46a-91a-v0.1.md` | Controlled reader pass: 46A і 91A додано до clean reader як марковані ядра; reader set розширено до 36 одиниць. |
 | Завершення | `reconstruction/earliest-sayings-gospel/thief-watchfulness-cluster-control-pass-21-103-v0.1.md` | Шостий cluster-control pass: 103A додано до clean reader як марковане ядро; повні Logia 21 і 103 лишаються appendix-only; reader set розширено до 37 одиниць. |
 | Завершення | `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md` | Інвентаризація фактичних evidence notes і control files для 114 логій перед true all-114 publication decision table. |
@@ -92,6 +101,10 @@
 | Завершення | `reconstruction/earliest-sayings-gospel/fire-kingdom-cluster-control-pass-v0.1.md` | П'ятий cluster-control pass: Logion 10 підтверджено як clean-reader fire-casting core; Logion 82 залишено appendix-only. |
 | Завершення | `reconstruction/earliest-sayings-gospel/notes/thief-watchfulness-cluster-control-21-103-en.md` | Англомовна cluster-control note для Logia 21/103: 103A як clean-reader representative; Logion 21 як composite support. |
 | Завершення | `reconstruction/earliest-sayings-gospel/notes/fire-kingdom-cluster-control-en.md` | Англомовна cluster-control note для fire/kingdom групи: розділяє прямий Luke 12:49 контроль для Logion 10 і тематично-внутрішній контроль для Logion 82. |
+| Завершення | `reconstruction/earliest-sayings-gospel/wealth-renunciation-cluster-control-pass-v0.1.md` | Сьомий cluster-control pass: 63, 72, 95 і 100 лишаються clean-reader представниками з маркером; 64, 76, 81, 90, 109 і 110 лишаються appendix-only або deferred. |
+| Завершення | `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md` | Англомовна cluster-control note для wealth/renunciation групи: пояснює representative strategy і залежні/композитні ризики невключених логій. |
+| Завершення | `reconstruction/earliest-sayings-gospel/logion-114-publication-exclusion-rationale-v0.1.md` | Publication-facing rationale для виключення логії 114 з clean reader без приховування тексту з appendix. |
+| Завершення | `reconstruction/earliest-sayings-gospel/notes/logion-114-exclusion-rationale-en.md` | Англомовний dossier-ready rationale: Mary/Peter/gender-transformation scene як secondary exclusion case. |
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-a-v0.1.md` | Перевірка логій 45, 47, 63, 64, 65-66: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md` | Перевірка логій 76, 78, 79, 94, 103, 109, 113: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Робочий промпт | `project/ide-codex-master-project-prompt.md` | Головний промпт проекту для наступних кроків реконструкції, корпусної роботи, коментарів і фінального видання. |
@@ -100,8 +113,8 @@
 | Робочий промпт | `project/ide-codex-full-appendix-editorial-consolidation-081-090-v0.1-prompt.md` | Промпт виконаного проходу: print-safe editorial consolidation для appendix Logia 81-90. |
 | Робочий промпт | `project/ide-codex-full-appendix-editorial-consolidation-091-100-v0.1-prompt.md` | Промпт виконаного проходу: print-safe editorial consolidation для appendix Logia 91-100. |
 | Робочий промпт | `project/ide-codex-full-appendix-editorial-consolidation-101-114-v0.1-prompt.md` | Промпт виконаного проходу: фінальний print-safe editorial consolidation package для appendix Logia 101-114. |
-| Робочий промпт | `project/ide-codex-wealth-renunciation-cluster-control-v0.1-prompt.md` | Поточний research prompt: cluster-control для wealth/renunciation групи після поточного appendix-пакета або як окремий research pass. |
-| Робочий промпт | `project/ide-codex-logion-114-publication-exclusion-rationale-v0.1-prompt.md` | Prompt для publication-level exclusion rationale логії 114. |
+| Робочий промпт | `project/ide-codex-wealth-renunciation-cluster-control-v0.1-prompt.md` | Промпт виконаного проходу: cluster-control для wealth/renunciation групи. |
+| Робочий промпт | `project/ide-codex-logion-114-publication-exclusion-rationale-v0.1-prompt.md` | Промпт виконаного проходу: publication-level exclusion rationale логії 114. |
 | Робочий промпт | `project/ide-codex-gold-card-quality-normalization-v0.2-prompt.md` | Промпт виконаного проходу: підняти всі 114 карток до єдиного gold-level status check v0.2 без передчасного промотування нових логій. |
 | Робочий промпт | `project/ide-codex-five-source-card-apparatus-v0.1-prompt.md` | Промпт виконаного проходу: внести в кожну картку пʼять джерельних каналів із текстами або явною позначкою відсутності. |
 | Робочий промпт | `project/ide-codex-canonical-greek-extraction-pass-v0.1-prompt.md` | Промпт виконаного проходу: витягнути canonical Greek controls із локального SBLGNT у картки. |

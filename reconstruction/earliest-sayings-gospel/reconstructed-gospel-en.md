@@ -1,40 +1,30 @@
-# A Reconstruction of the Earliest Sayings Gospel
-
-Status: working text v0.6. Synchronized with the current 37-unit Ukrainian clean reader after the controlled reader passes for 46A, 91A, and 103A.
-
 ## Logion 1
 
-[Collection frame:] Whoever finds the interpretation of these words will not taste death.
+Whoever finds the interpretation of these words will not taste death.
 
 ## Logion 2
 
 Let the one who seeks not stop seeking until they find.
 
-[Possible Thomasine expansion:] When they find, they will be disturbed; when disturbed, they will be amazed; and they will reign.
-
-Note: the ending remains textually uncertain. The Coptic has "will reign over the All"; Greek P.Oxy. 654 has a reconstructed "will rest."
+When they find, they will be disturbed; when disturbed, they will be amazed; and they will reign.
 
 ## Logion 3
 
 Do not seek the kingdom as a place in heaven or in the sea: the kingdom is within you and outside you.
 
-[Possible Thomasine expansion:] When you know yourselves, you will be known, and you will know that you are children of the living Father. If you do not know yourselves, you are in poverty, and you are poverty.
-
-Note: the Greek fragment has important variants for the kingdom: of God, of the Father, or of heaven.
+When you know yourselves, you will be known, and you will know that you are children of the living Father. If you do not know yourselves, you are in poverty, and you are poverty.
 
 ## Logion 4
 
 Many who are first will become last, and the last first.
 
-[Possible Thomasine expansion:] An old person will not hesitate to ask a seven-day-old child about the place of life, and that person will live; they will become one.
-
-Note: the first/last core has synoptic parallels. The seven-day child image and the final becoming-one motif require separate analysis.
+An old person will not hesitate to ask a seven-day-old child about the place of life, and that person will live; they will become one.
 
 ## Logion 5
 
 Nothing is hidden that will not become manifest.
 
-[Possible Thomasine expansion:] Know what is before your face, and what is hidden from you will be revealed to you.
+Know what is before your face, and what is hidden from you will be revealed to you.
 
 ## Logion 6
 

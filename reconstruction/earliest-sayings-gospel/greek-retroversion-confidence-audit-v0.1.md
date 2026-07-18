@@ -1,6 +1,6 @@
-# Greek Retroversion Confidence Audit v0.2
+# Greek Retroversion Confidence Audit v0.3
 
-Status: publication freeze audit, updated 2026-07-18.
+Status: publication polish audit, updated 2026-07-18.
 
 ## Purpose
 
@@ -67,6 +67,17 @@ Current 37-unit reader:
 
 The counts overlap because Logion 33 has both partial extant Greek and a retroverted lamp unit.
 
+## Publication Polish Result
+
+The 2026-07-18 publication-polish pass checked the current 37-unit clean reader against `reconstructed-gospel-greek.md`, `parallel-edition.md`, and `evidence-dossier-en.md`.
+
+- Clean-reader membership was not changed.
+- Logia 1-6, 36, and 39 are now consistently labeled as `Lacunose extant Greek witness` or `Lacunose extant Greek` in the public-facing Greek and parallel layers.
+- Logion 26 is consistently labeled `Partial extant Greek witness`.
+- Logia 31 and 32 are consistently labeled `Extant Greek witness`.
+- Logion 33 is explicitly mixed: P.Oxy. 1 preserves the opening, while the lamp unit remains `Greek retroversion, hypothetical`.
+- All non-extant Greek reconstructions remain labeled `Greek retroversion, hypothetical`.
+
 ## Publication Rule
 
 In any public-facing edition:
@@ -75,3 +86,4 @@ In any public-facing edition:
 2. Partial witnesses must specify exactly what is extant.
 3. Every non-extant Greek reconstruction must be introduced as `Greek retroversion, hypothetical`.
 4. Retroversions may support comparison, but must not be counted as manuscript evidence.
+5. Before final publication, bracketed P.Oxy. restorations should still be checked against the selected critical editions or facsimile-level controls.

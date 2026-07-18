@@ -24,13 +24,14 @@
 - clean Ukrainian reader із 37 логій/ядер;
 - синхронізовані English, Coptic, Greek, Arabic literary і parallel шари для цих 37 одиниць;
 - Greek retroversion confidence audit для всього current reader;
-- evidence dossier v1.3 як робочий, але ще не публікаційний документ;
+- evidence dossier publication-facing draft v1.4: thesis, source hierarchy, method, selection principles, Greek retroversion policy, cluster summaries, uncertainty model і provisional bibliography/rights note вже додані;
+- bibliography / rights / citation / reproducibility layer v0.2: rights policy, source reproducibility note, working bibliography і source-rights register оновлені до release verification status; open/public-domain controls перевірено, protected controls обмежено;
 - print/digital publication architecture v0.1 як правило для майбутньої генерації української й англійської паперових книг та цифрового наукового апарату;
 - full 114-logion appendix: 114/114 секцій мають читацьке пояснення; Logia 1-114 уже editorially consolidated як print-safe книжковий додаток;
 - виконані full-appendix editorial consolidation packages для Logia 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100 і 101-114;
 - all-114 publication decision table v0.1 і evidence-control inventory виконані; `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0.
 
-Найближчий editorial/research крок визначено в `project/open-task-prompt-queue-2026-07-18.md`: wealth/renunciation cluster-control, після нього evidence dossier publication pass. Controlled reader passes уже розширили clean reader до 37 одиниць; all-114 publication decision table v0.1 і повна appendix consolidation також виконані.
+Найближчий production крок визначено в `project/open-task-prompt-queue-2026-07-18.md`: render pipeline and first proofs. Controlled reader passes уже розширили clean reader до 37 одиниць; all-114 publication decision table v0.1, повна appendix consolidation, wealth/renunciation cluster-control, ritual-ethics / bridegroom 104A follow-up, Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify і print/digital render proof preparation також виконані.
 
 ## Повний додаток до всіх 114 логій
 

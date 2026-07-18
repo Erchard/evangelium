@@ -1,16 +1,48 @@
-# Evidence Dossier
+# Evidence Dossier For The Earliest Sayings Gospel Reconstruction
 
-Status: working evidence dossier v1.3.
+Status: publication-facing draft v1.4, updated 2026-07-18.
 
-## Aim
+## Thesis
 
-This dossier supports a reconstruction of the earliest recoverable layer of the sayings gospel tradition preserved in the Gospel of Thomas. The goal is not to reproduce the complete Coptic Gospel of Thomas, but to distinguish probable early material from possible later expansions, redactional developments, and uncertain textual layers.
+This dossier defends a selective reconstruction of the earliest recoverable sayings-gospel layer preserved within the Gospel of Thomas tradition. It is not a translation of the complete Coptic Gospel of Thomas, and it is not a maximal anthology of attractive or spiritually powerful sayings.
 
-## Method
+The reconstruction asks a narrower question: which sayings, or smaller cores within sayings, can responsibly be printed as part of an earliest recoverable sayings gospel when the available Coptic witness, Greek papyri, canonical controls, internal Thomas evidence, and redactional risks are weighed together?
 
-Each unit is evaluated independently. A unit may be a complete logion or a smaller layer within a logion.
+The current clean reader contains 37 logia or marked cores. Every other Thomas logion remains available in the full appendix, with explanation. Exclusion or deferral is therefore not erasure; it is a reconstruction judgment.
 
-The reconstruction distinguishes:
+## Scope Of The Dossier
+
+This dossier is the English evidence layer for reviewers and readers who want to understand the logic behind the clean reconstruction. It should be read together with:
+
+- the clean reconstructed reader;
+- the full 114-logion appendix;
+- the all-114 publication decision table;
+- logion-level evidence notes;
+- cluster-control notes;
+- source and rights registers.
+
+Repository paths are retained here because this dossier also belongs to the digital scholarly companion. A future paper edition should convert these into print-safe references: logion numbers, manuscript labels, canonical references, bibliography keys, and indexes.
+
+## Source Hierarchy
+
+The project weighs sources in this order:
+
+1. Extant manuscript witnesses and facsimiles.
+2. P.Oxy. 1, P.Oxy. 654, and P.Oxy. 655 where a Greek Thomas witness is actually preserved.
+3. Coptic NHC II,2 as the complete preserved Coptic witness.
+4. DCLP / Papyri.info TEI XML and other open transcriptions as working access points to the Greek papyri.
+5. Canonical Greek controls, currently using the local SBLGNT extraction layer, for testing shared tradition and dependence.
+6. Explicitly marked Greek retroversions from Coptic where a Greek Vorlage or Greek circulation is historically plausible.
+7. Academic editions and secondary scholarship, used for verification and interpretation, not reproduced as base text without rights clearance.
+8. Modern translations only as controls, never as the base text of the reconstruction.
+
+The current source register marks several materials as conditionally verified rather than finally verified. This is a real remaining publication task, not a hidden assumption.
+
+## Reconstruction Method
+
+Each unit is evaluated independently. A unit may be a whole logion or a smaller core inside a logion.
+
+The project distinguishes:
 
 - reconstructed early core;
 - extant Coptic witness;
@@ -22,53 +54,83 @@ The reconstruction distinguishes:
 
 The decision categories are:
 
-- `INCLUDE`
-- `INCLUDE_WITH_MARKER`
-- `UNCERTAIN`
-- `EXCLUDE_AS_SECONDARY`
-- `DEFER`
+- `INCLUDE`: print in the clean reconstruction.
+- `INCLUDE_WITH_MARKER`: print in the clean reconstruction but explain uncertainty in the apparatus.
+- `UNCERTAIN`: keep outside the clean text, but treat seriously in the appendix.
+- `APPENDIX_ONLY_STABLE`: do not print in the clean reader under the current model, but explain as important controlled material.
+- `DEFER_TO_CLUSTER` / `DEFER`: keep outside the clean reader pending cluster or evidence work.
+- `EXCLUDE_AS_SECONDARY`: classify as secondary or redactional for the purpose of reconstructing the earliest sayings gospel.
 
-## Source Hierarchy
+## Clean-Reader Selection Principles
 
-1. Manuscript facsimiles and extant witnesses.
-2. DCLP / Papyri.info TEI XML for Greek papyri.
-3. Open Coptic transcriptions checked against facsimiles.
-4. Explicitly marked Greek retroversions from Coptic where a Greek Vorlage or Greek circulation is historically probable.
-5. Academic editions where available and lawfully citable.
-6. Modern translations only as controls, not as primary evidence.
+The clean reader is intentionally conservative. A saying is not included merely because it is beautiful, famous, radical, or plausibly old.
 
-## Greek Retroversion Policy
+A unit is stronger for clean-reader inclusion when it has several of these features:
 
-Absence of an extant Greek witness does not mean that a Greek form never existed. For Coptic-only units, the project should attempt a cautious Greek retroversion when the evidence suggests that a Greek Vorlage or Greek circulation is historically probable.
+- compact aphoristic, parabolic, or wisdom form;
+- extant Greek Thomas support, or strong recoverability from the Coptic;
+- multiple or strong external controls;
+- weak signs of later Thomasine expansion;
+- ability to isolate an early core without arbitrary surgery;
+- coherence with other included units without depending on that coherence alone.
 
-Such retroversions must be clearly labeled `Greek retroversion, hypothetical`. They are not manuscript witnesses and must not be weighed as equivalent to P.Oxy. 1, 654, 655, or any other extant Greek source.
+A unit is weaker for clean-reader inclusion when it is:
 
-Each retroversion should record a confidence level:
+- heavily dialogical or scenic;
+- dependent-risky through one narrow canonical parallel;
+- visibly composite;
+- strongly shaped by later community boundary concerns;
+- mainly supported by internal Thomasine themes;
+- attractive as theology but not secure as early recoverable text.
 
-- `high`: strong Coptic-to-Greek recoverability and strong external controls;
-- `medium`: plausible Greek form with some controls but unresolved alternatives;
-- `low`: tentative aid for comparison only.
+## Greek Witness And Retroversion Policy
 
-## Rights and Citation Policy
+Absence of an extant Greek witness does not prove that a Greek form never existed. Coptic Thomas likely preserves material that circulated in Greek or moved through Greek tradition before the surviving Coptic manuscript.
 
-Protected modern translations are not used as the base text. Public domain or open texts may be used with source attribution. Licensed editions such as Brill / Layton should be used for verification when available, but not reproduced in full without rights clearance.
+However, a reconstructed Greek form is not a manuscript witness. Every retroversion must be labeled `Greek retroversion, hypothetical` and must not be weighed like P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, or another extant witness.
 
-## Current Block Summary
+After the Greek publication-polish pass of 2026-07-18, the public-facing Greek and parallel layers use normalized status language so that manuscript evidence and scholarly reconstruction cannot be confused.
 
-The current reconstructed reader block covers 37 logia or cores: 1-6 ethical core, 9-10 cores, 16 core, 20, 22 core, 25-26, 31-36, 39, 41, 45A, 46A, 47B, 54, 63, 72-73, 86, 89, 91A, 95-96, 99-100, 103A, and 107 as marked sayings. Logia 7, 8, 11, 23, 27, 37, 38, 44, 55, 57, 64, 76, 78, 79, 90, 93, 94, 104, 109, and 113 have evidence notes, cards, or cluster checks, but they are not included in the main reconstructed text because their current decision is `UNCERTAIN`, appendix-only, too duplicative, cluster-deferred, or too dependence-risky.
+The Greek layer therefore has four different statuses:
+
+- extant Greek witness: actually preserved in a loaded Greek Thomas papyrus witness;
+- partial extant Greek witness: preserved only in part;
+- lacunose extant Greek witness: preserved or reconstructed in a Greek papyrus witness with major lacunae;
+- hypothetical retroversion: a scholarly reconstruction from Coptic and controls.
 
 ## Probability And Reader-Decision Control
 
-The project does not use probability scores as an automatic inclusion rule. A high early score means that a motif, form, or partial core may plausibly belong to an early tradition. It does not by itself prove that the preserved Thomas form is clean enough to print in the reconstructed reader.
+The project does not use probability scores as an automatic inclusion rule. A high early score means that a motif, form, or partial core may plausibly belong to an early tradition. It does not prove that the preserved Thomas form is clean enough to print in the reconstructed reader.
 
-This distinction currently controls the main tension cases:
+This distinction controls the main tension cases:
 
 - Logion 1 remains in the clean reader only as a marked collection-frame / prologue unit, despite its late-leaning profile.
 - Logia 64, 76, 78, 79, 90, 93, 94, 104, 109, and 113 remain outside the clean reader despite early-score pressure because they are composite, dependent-risky, duplicative of a stronger reader unit, or not yet safely separated into a short core.
 
-Card-level rationale blocks have been added for these cases. The final print and digital editions should preserve this principle in reader-friendly prose: probability of early tradition is not identical to clean-reader inclusion.
+The final edition should preserve this principle in reader-friendly prose: probability of early tradition is not identical to clean-reader inclusion.
 
-## Beatitudes Cluster Summary
+## Cluster-Control Method
+
+Cluster-control notes prevent two opposite errors:
+
+1. treating every related saying as equally early;
+2. excluding difficult sayings without explanation.
+
+A cluster may include one representative in the clean reader while keeping related sayings in the appendix. This is not inconsistency. It is a way of showing that a motif may be early while a preserved form may still be composite, dependent-risky, or secondary.
+
+The major completed cluster controls include beatitudes, seek/find, family-renunciation, fire/kingdom, thief/watchfulness, wealth/renunciation, ritual-ethics / bridegroom, and living/dead/world. Further minor triage may still be needed for body/soul, polemical authority, mountain/unity, and father/mother/birth material.
+
+## Current Reader Block
+
+The current reconstructed reader block covers 37 logia or marked cores:
+
+1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 45A, 46A, 47B, 54, 63, 72, 73, 86, 89, 91A, 95, 96, 99, 100, 103A, and 107.
+
+These are not presented as certain ipsissima verba of Jesus. They are the current best-supported reconstruction units under the project's method.
+
+## Cluster Summaries
+
+### Beatitudes Cluster
 
 Cluster note: `notes/beatitudes-cluster-control-en.md`.
 
@@ -76,9 +138,7 @@ Decision implication: Logion 54 remains in the clean reader with marker; Logia 5
 
 Reason: the beatitude form is a genuine early-tradition form, but form alone is not enough for inclusion. Logion 54 is short and strongly controlled by Luke 6:20 and Matthew 5:3. Logia 68 and 69 have real persecution and hunger beatitude controls, but their Thomas forms are distinctive and difficult. Logion 58 is plausible wisdom material but lacks close direct control.
 
-Methodological use: this cluster shows that the project can include one saying from a shared form-type while treating related sayings seriously in the appendix rather than flattening them into the clean reconstruction.
-
-## Seek / Find Cluster Summary
+### Seek / Find Cluster
 
 Cluster note: `notes/seek-find-cluster-control-en.md`.
 
@@ -86,9 +146,7 @@ Decision implication: Logion 2 remains in the clean reader with marker; Logia 92
 
 Reason: Logion 2 has the strongest position in the cluster because it is programmatic and has P.Oxy. 654 support, even though the Greek witness is lacunose and the ending differs from the Coptic. Logion 92 has a strong seek/find opening but embeds it in collection-memory expansion. Logion 94 is short and strongly controlled by Matthew 7:7-8 and Luke 11:9-10, but it likely duplicates the seek/find motif already represented by Logion 2.
 
-Methodological use: this cluster shows that a saying can be strong as tradition and still remain appendix-only when a stronger or more programmatic witness already represents the same motif in the clean reader.
-
-## Family-Renunciation Cluster Summary
+### Family-Renunciation Cluster
 
 Cluster note: `notes/family-renunciation-cluster-control-en.md`.
 
@@ -96,17 +154,75 @@ Decision implication: Logia 16 and 99 remain in the clean reader as marked cores
 
 Reason: the cluster contains several related but not identical ideas: social conflict caused by Jesus' message, true kinship defined by doing God's will, radical family-renunciation, cross-bearing discipleship, and Thomasine symbolic mother/life language. Logion 16 has strong Matthew/Luke controls for the division / household-conflict core. Logion 99 has strong Mark/Matthew/Luke controls for the true-family core. Logion 55 is important but joins hate-family language to cross-bearing and worthiness language. Logion 101 has a controlled family-renunciation opening, but it is mixed with true-mother / life symbolism.
 
-Methodological use: this cluster shows that appendix-only placement is not dismissal. The project preserves difficult material for reader study while refusing to overprint composite or later forms as the earliest recoverable clean text.
-
-## Fire / Kingdom Cluster Summary
+### Fire / Kingdom Cluster
 
 Cluster note: `notes/fire-kingdom-cluster-control-en.md`.
 
 Decision implication: Logion 10 remains in the clean reader as a marked fire-casting core; Logion 82 remains appendix-only.
 
-Reason: Luke 12:49 strongly controls the compact fire-casting core in Logion 10. The full Thomas 10 continuation about watching or guarding the fire until it blazes remains outside the clean reader because it differs from Luke and may reflect Thomasine symbolic development. Logion 82 is vivid and important, but its support is mostly internal and thematic: it links nearness to Jesus with fire and distance from Jesus with distance from the kingdom. That is not the same as direct external textual control.
+Reason: Luke 12:49 strongly controls the compact fire-casting core in Logion 10. The full Thomas 10 continuation about watching or guarding the fire until it blazes remains outside the clean reader because it differs from Luke and may reflect Thomasine symbolic development. Logion 82 is vivid and important, but its support is mostly internal and thematic.
 
-Methodological use: this cluster shows the difference between motif control and textual control. A shared motif can strengthen interpretation without automatically justifying clean-reader inclusion.
+### Wealth / Renunciation Cluster
+
+Cluster note: `notes/wealth-renunciation-cluster-control-en.md`.
+
+Decision implication: Logia 63, 72, 95, and 100 remain in the clean reader as marked cores. Logia 64, 76, 81, 90, 109, and 110 remain appendix-only or deferred.
+
+Reason: the cluster contains several related but not identical forms: rich-fool warning, inheritance refusal, lending without repayment, Caesar/God possession boundary, banquet exclusion, pearl/treasure imagery, yoke/rest invitation, hidden treasure expansion, and world-renunciation aphorisms. The clean reader uses controlled representatives rather than printing every attractive wealth saying.
+
+### Thief / Watchfulness Cluster
+
+Cluster note: `notes/thief-watchfulness-cluster-control-21-103-en.md`.
+
+Decision implication: Logion 103A remains in the clean reader as a marked thief/watchfulness core. Full Logion 103 and full Logion 21 remain appendix-only.
+
+Reason: Matthew 24:43 and Luke 12:39 strongly control the householder/thief warning. Logion 21 provides internal Thomas support for the same motif, but it is too composite to print as a clean representative.
+
+## Major Appendix-Only And Exclusion Cases
+
+The following high-impact cases are especially important for reviewers because they show why the project is selective rather than maximal.
+
+| Logion | Current status | Reason for non-inclusion |
+| --- | --- | --- |
+| 64 | `APPENDIX_ONLY_STABLE` | Banquet core is important, but the Thomas form is long, dependence-risky, and has an anti-merchant ending. |
+| 76 | `APPENDIX_ONLY_STABLE` | Pearl and treasure motifs are strong but chained compositely and mainly Matthew-controlled. |
+| 90 | `APPENDIX_ONLY_STABLE` | Yoke/rest invitation is too close to Matthew 11:28-30 under current evidence. |
+| 93 | `APPENDIX_ONLY_STABLE` | Strong Matthean control, but secrecy function and one-source control require caution. |
+| 94 | `APPENDIX_ONLY_STABLE` | Strong seek/knock saying, but likely redundant with Logion 2 in the clean reconstruction. |
+| 104 | `APPENDIX_ONLY_STABLE` | Bridegroom-fasting core has strong Mark/Matthew/Luke controls, but no extant Greek Thomas witness and a Thomas ritual/bridal-chamber frame too entangled for clean-reader extraction. |
+| 109 | `APPENDIX_ONLY_STABLE` | Hidden treasure is attractive, but Matthew-only control plus inheritance/sale/usury expansion is risky. |
+| 113 | `APPENDIX_ONLY_STABLE` | Kingdom-not-observed motif is already better represented by Logion 3; Thomas ending is distinctive. |
+| 114 | `EXCLUDE_AS_SECONDARY` | Mary/Peter/gender-transformation scene belongs to a later community-boundary layer under current method. |
+
+## Uncertainty Model And Alternative Reconstructions
+
+This reconstruction is probabilistic and revisable. The project does not claim certainty about the historical origin of every included or excluded unit.
+
+Reasonable alternative reconstructions could:
+
+- print a larger Thomas-like sayings collection;
+- include more high-early appendix-only material with heavier markers;
+- exclude all Coptic-only units without extant Greek witness;
+- prioritize canonical independence more strongly;
+- treat Thomasine internal coherence as stronger evidence than this project does.
+
+This project chooses a middle path: it includes marked units when an early core can be responsibly isolated, but it refuses to print whole preserved logia when the evidence points to composite, dependent, or secondary formation.
+
+## Bibliography, Rights, And Citation Note
+
+This dossier is still a publication-facing draft until the bibliography/rights/citation/reproducibility pass is complete.
+
+Current working rules:
+
+- protected modern translations are not used as the base text;
+- public-domain or openly licensed resources may be used with attribution;
+- DCLP XML is treated as CC BY 3.0 according to the source register;
+- SBLGNT is treated as the current open Greek canonical control, with final publication verification still required;
+- Brill, Layton, DeConick, Patterson, Meyer, and other modern academic works are used as scholarly controls and must not be reproduced beyond lawful citation.
+
+The final dossier needs a consolidated bibliography, stable source snapshots or reproducibility notes, and print-safe citation keys before it should be called fully publication-ready.
+
+## Included Logia And Core Summaries
 
 ## Logion 1 Summary
 
@@ -219,9 +335,9 @@ Current decisions:
 | 6 | ethical core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN` | The short core has strong Jewish and early-Christian ethical controls, but the full unit is compositionally complex. |
 | 14 | `DEFER` | Control unit for ritual critique, mission, food, and speech-defilement; no loaded Greek Oxyrhynchus witness. |
 | 27 | `UNCERTAIN` | Complete Coptic, strong P.Oxy. 1 Greek witness, and P.Oxy. 5575 control; still excluded from the reader because it spiritualizes ritual practice and has only thematic synoptic controls. |
-| 104 | `DEFER` | Strong bridegroom-fasting controls in Mark/Matthew/Luke, but no loaded Greek Oxyrhynchus witness. |
+| 104 | `APPENDIX_ONLY_STABLE` | Strong bridegroom-fasting controls in Mark/Matthew/Luke, but no loaded Greek Oxyrhynchus witness and too much Thomas ritual/bridal-chamber framing for clean extraction. |
 
-Conclusion: the full Thomas 6 composition should not be added to the main reconstructed text. The short ethical core may be added with a marker. Logion 27 has been separately deepened and moved from `DEFER` to `UNCERTAIN`, but it remains outside the reader text.
+Conclusion: the full Thomas 6 composition should not be added to the main reconstructed text. The short ethical core may be added with a marker. Logion 27 has been separately deepened and moved from `DEFER` to `UNCERTAIN`, but it remains outside the reader text. Logion 104A has now been reviewed and remains `APPENDIX_ONLY_STABLE`; the full Logion 104 remains appendix-only.
 
 ## Logion 7 Summary
 
@@ -816,3 +932,21 @@ Greek note: no loaded extant Greek Thomas witness preserves Logion 107. Any Gree
 Evidence note: `notes/logion-107-evidence-en.md`.
 
 Synoptic evidence table: `controls/synoptic-parallels/logion-107-lost-sheep-controls.md`.
+
+## Logion 114 Exclusion Summary
+
+Decision: `EXCLUDE_AS_SECONDARY`.
+
+Logion 114 is not printed in the clean reconstructed reader. It remains fully present in the appendix as a transparent exclusion case.
+
+Reason: the unit is a developed dialogue scene in which Simon Peter says Mary should leave because women are not worthy of life, and Jesus responds with gender-transformation language: Mary must be made male to become a living spirit and enter the kingdom. This combination of named authority figures, gendered worthiness, transformation into male, and kingdom access looks like a later community-boundary and symbolic-anthropology layer rather than a compact early sayings-gospel core.
+
+Textual note: the preserved witness in this project is the Coptic NHC II,2 text. No loaded extant Greek Thomas witness preserves Logion 114. Logion 22 offers internal male/female transformation context, and Logion 13 offers broad disciple-authority context, but neither directly controls the Peter/Mary exclusion scene or the gender-transformation conclusion.
+
+Publication rationale: exclusion is not censorship. The logion is historically important for Thomas, Mary traditions, Peter traditions, gendered spiritual language, and community-boundary debates. The project excludes it from the clean reconstruction because the evidence points to secondary or redactional material, while preserving it in the appendix and dossier for reader inspection.
+
+Evidence note: `notes/logion-114-evidence-en.md`.
+
+Publication rationale: `notes/logion-114-exclusion-rationale-en.md`.
+
+Control file: `controls/synoptic-parallels/logion-114-mary-peter-gender-exclusion-controls.md`.

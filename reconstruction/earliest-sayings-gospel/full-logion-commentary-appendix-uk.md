@@ -3088,6 +3088,8 @@ Synoptic/control file: `controls/synoptic-parallels/logion-063-rich-fool-luke-co
 
 Related project controls: `reconstruction/earliest-sayings-gospel/split-core-decision-review-a-v0.1.md`, `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md`, `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`.
 
+Cluster/context note: `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`.
+
 ### Що треба допрацювати
 
 Перед фінальним виданням треба звірити повний коптський рядок із локальним джерелом, уточнити грецьку ретроверсію і в evidence dossier залишити явне застереження: Luke-dependence remains possible. Рішення про clean reader уже ухвалене для короткого ядра; допрацювання стосується публікаційного апарату, а не самого факту включення.
@@ -3134,6 +3136,8 @@ Digital apparatus:
 - `controls/synoptic-parallels/logion-064-banquet-invitation-controls.md`
 - `reconstruction/earliest-sayings-gospel/split-core-decision-review-a-v0.1.md`
 - `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`
+
+Cluster/context note: `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`.
 
 ### Що треба допрацювати
 
@@ -3519,6 +3523,8 @@ Digital apparatus:
 - `controls/synoptic-parallels/logion-072-inheritance-dispute-controls.md`
 - `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`
 
+Cluster/context note: `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`.
+
 ### Що треба допрацювати
 
 У фінальному evidence dossier треба чітко пояснити Luke-dependence warning: сила логії в компактності сцени, слабкість - у вузькому лукавому контролі.
@@ -3706,6 +3712,8 @@ Digital apparatus:
 - `controls/synoptic-parallels/logion-076-pearl-treasure-controls.md`
 - `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md`
 - `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`
+
+Cluster/context note: `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`.
 
 ### Що треба допрацювати
 
@@ -3921,7 +3929,7 @@ Digital apparatus:
 
 Логія не включена не тому, що вона пізня напевно, а тому, що зараз неможливо відповідально вибрати її найдавніший сенс. У завантаженому корпусі немає грецького папірусного свідка Фоми для цієї логії. Канонічна паралель із Лукою 12:16-21 корисна лише тематично, бо вона контролює попередження про багатство, але не контролює формулу "багатий нехай царює / сильний нехай зречеться".
 
-Тому рішення `DEFER_TO_CLUSTER`: логію треба тримати в wealth/renunciation групі разом із 63 і 110, але не друкувати як частину найдавнішого реконструйованого тексту.
+Тому рішення після wealth/renunciation cluster-control v0.1: логію треба тримати в додатку разом із 63 і 110 як важливий, але не достатньо зовнішньо контрольований wealth/power/renunciation матеріал. Вона не друкується як частина найдавнішого реконструйованого тексту.
 
 ### Можливі тлумачення
 
@@ -3946,11 +3954,12 @@ Synoptic/control files:
 - `controls/synoptic-parallels/logia-081-110-wealth-renunciation-controls.md`
 
 Cluster/context notes:
+- `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
 - Wealth/renunciation control with Logia 63 and 110.
 
 ### Що треба допрацювати
 
-Перед фінальним freeze треба вирішити wealth/renunciation cluster як групу: чи логія 81 лишається повністю appendix-only, чи з неї можна виділити коротке раннє ядро про силу і зречення. Поточний стандарт проекту не дозволяє промотувати її без такого окремого рішення.
+Wealth/renunciation cluster-control v0.1 уже виконано. Поточний next step для логії 81 - не промотування, а використання її в evidence dossier як прикладу сильного внутрішнього томиного матеріалу, що лишається appendix-only.
 
 ## Логія 82
 
@@ -4424,6 +4433,8 @@ Synoptic/control files:
 Review:
 - `reconstruction/earliest-sayings-gospel/split-core-high-early-pressure-review-c-v0.1.md`
 
+Cluster/context note: `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`.
+
 ### Що треба допрацювати
 
 У evidence dossier логія 90 має стати одним із головних прикладів методологічної чесності: ми не включаємо навіть красивий і потенційно ранній вислів, якщо доказ надто залежить від одного пізнішого або редакційно сильного канонічного каналу.
@@ -4692,6 +4703,8 @@ Synoptic/control files:
 
 Cluster/context notes:
 - Ethical/economic controls with Luke 6 and Jewish anti-usury tradition.
+
+Cluster/context note: `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`.
 
 ### Що треба допрацювати
 
@@ -4965,6 +4978,8 @@ Synoptic/control files:
 Cluster/context notes:
 - Tribute controversy / Caesar-God control through Mark, Matthew and Luke.
 
+Cluster/context note: `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`.
+
 ### Що треба допрацювати
 
 Перед публікацією треба окремо пояснити третю фразу Фоми в evidence dossier: не як помилку, а як важливий показник того, як традиція могла бути переосмислена всередині Фоми.
@@ -5131,7 +5146,7 @@ Review:
 ### Статус у реконструкції
 
 - Reader status: Не включено до чистої реконструкції.
-- Рішення: bridegroom-fasting core `DEFER_TO_CLUSTER_BEFORE_READER_DECISION`; full logion appendix-only.
+- Рішення: bridegroom-fasting core `APPENDIX_ONLY_STABLE`; full logion appendix-only.
 - Greek witness status: Greek retroversion, hypothetical.
 - Картка: `corpus/cards/logion-104.md`.
 
@@ -5145,7 +5160,7 @@ Review:
 
 Логія має важливий синоптичний контроль: мотив посту в присутності нареченого відомий із Марка 2:18-20, Матвія 9:14-15 і Луки 5:33-35. Це робить коротке bridegroom-fasting ядро привабливим кандидатом.
 
-Але у Фоми ця логія входить у ширший ritual-ethics і bridal-chamber простір. Запитання про гріх або перемогу, а також формула про весільну кімнату можуть відображати пізнішу томину або спільнотну розробку. Review C саме тому не промотував 104A, а відклав рішення до ritual-ethics / bridegroom follow-up.
+Але у Фоми ця логія входить у ширший ritual-ethics і bridal-chamber простір. Запитання про гріх або перемогу, а також формула про весільну кімнату можуть відображати пізнішу томину або спільнотну розробку. Після окремого ritual-ethics / bridegroom follow-up коротке 104A ядро не промотовано до clean reader, а стабілізовано як appendix-only: мотив важливий, але чистий томин текст реконструюється тут надто залежно від Марка, Матвія і Луки.
 
 ### Можливі тлумачення
 
@@ -5159,7 +5174,7 @@ Review:
 
 ### Непевність і межі
 
-Грецький Thomas witness тут не збережений; грецький шар є гіпотетичною ретроверсією. Синоптичний контроль сильний, але саме він створює і ризик залежності або спільного пізнішого оформлення. Тому логія 104 лишається appendix-only до окремого ritual-ethics / bridegroom рішення.
+Грецький Thomas witness тут не збережений; грецький шар є гіпотетичною ретроверсією. Синоптичний контроль сильний, але саме він створює і ризик залежності або спільного пізнішого оформлення. Тому логія 104 лишається appendix-only не через неважливість, а через недостатню незалежність збереженої томиної форми для чистої реконструкції.
 
 ### Джерела й контрольні файли
 
@@ -5167,17 +5182,18 @@ Evidence note:
 - `reconstruction/earliest-sayings-gospel/notes/logion-104-evidence-en.md`
 
 Synoptic/control files:
-- окремий synoptic/control file ще не створено або не прив'язаний до цієї логії.
+- Mark 2:18-20, Matthew 9:14-15 and Luke 5:33-35 as print-safe canonical controls.
 
 Cluster/context notes:
-- ritual-ethics / bridegroom follow-up prompt exists in `project/ide-codex-ritual-ethics-bridegroom-104a-followup-v0.1-prompt.md`.
+- `reconstruction/earliest-sayings-gospel/notes/ritual-ethics-cluster-006-014-027-104-en.md`
+- `reconstruction/earliest-sayings-gospel/ritual-ethics-bridegroom-104a-followup-v0.1.md`
 
 Review:
 - `reconstruction/earliest-sayings-gospel/split-core-high-early-pressure-review-c-v0.1.md`
 
 ### Що треба допрацювати
 
-Виконати ritual-ethics / bridegroom follow-up для 104A перед будь-яким рішенням про включення короткого ядра.
+Рішення для 104A виконано: не включати до clean reader; зберегти в appendix як стабільний важливий приклад bridegroom-fasting tradition із сильним синоптичним контролем.
 
 ## Логія 105
 
@@ -5429,6 +5445,8 @@ Synoptic/control file:
 Review:
 - `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md`
 
+Cluster/context note: `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`.
+
 ### Що треба допрацювати
 
 Потрібен parable / treasure-field cluster pass, якщо проект захоче остаточно перевірити можливе коротше ядро.
@@ -5450,9 +5468,9 @@ Review:
 
 ### Чому її не включено
 
-Логія належить до wealth/world-renunciation матеріалу. Вона має evidence note і контрольний пакет `logia-081-110-wealth-renunciation-controls.md`, але clean-reader рішення ще не ухвалене. Немає прямого P.Oxy. свідка в завантаженому корпусі.
+Логія належить до wealth/world-renunciation матеріалу. Вона має evidence note, контрольний пакет `logia-081-110-wealth-renunciation-controls.md` і тепер також wealth/renunciation cluster-control v0.1. Немає прямого P.Oxy. свідка в завантаженому корпусі.
 
-Її не слід промотувати лише тому, що вона коротка й сильна. Треба спершу вирішити, чи ця мова є ранньою радикальною традицією про багатство, чи пізнішою томиною або аскетичною формулою про "світ" як негативну реальність.
+Після cluster-control рішення лишається обережним: її не слід промотувати лише тому, що вона коротка й сильна. Мова про "світ" тут надто близька до томиної anti-world антропології і не має достатнього зовнішнього wording control.
 
 ### Можливі тлумачення
 
@@ -5466,7 +5484,7 @@ Review:
 
 ### Непевність і межі
 
-Без завершеного wealth/renunciation cluster-control ця логія лишається deferred. Вона може бути важливою, але її включення без групового рішення створило б перекіс у clean reader.
+Після wealth/renunciation cluster-control ця логія лишається deferred / appendix-only. Вона важлива для розуміння Фоми, але не є достатньо надійною для реконструкції найдавнішого sayings gospel.
 
 ### Джерела й контрольні файли
 
@@ -5477,11 +5495,12 @@ Synoptic/control files:
 - `controls/synoptic-parallels/logia-081-110-wealth-renunciation-controls.md`
 
 Cluster/context notes:
+- `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
 - wealth/renunciation cluster-control prompt: `project/ide-codex-wealth-renunciation-cluster-control-v0.1-prompt.md`.
 
 ### Що треба допрацювати
 
-Виконати wealth/renunciation cluster-control; це один із найважливіших наступних research-проходів після завершення appendix consolidation.
+Wealth/renunciation cluster-control v0.1 виконано. Наступний крок для логії 110 - використати її в evidence dossier як приклад world-renunciation матеріалу, важливого для Фоми, але не включеного в clean reader.
 
 ## Логія 111
 
@@ -5652,7 +5671,7 @@ Review:
 
 Логію 114 не включено не тому, що вона незручна, а тому, що вона погано відповідає меті реконструкції найдавнішого sayings gospel. У ній є кілька ознак пізнішого або вторинного шару.
 
-По-перше, це сценічний діалог із Петром і Марією, а не коротке афористичне або притчеве ядро. По-друге, тема жінки, яку треба "зробити чоловіком", належить до розвиненої символічної антропології і спільнотної полеміки про авторитет. По-третє, немає прямого P.Oxy. witness, який би підтримував ранню грецьку форму. По-четверте, фінальне місце в збірці саме по собі може бути редакційним: такий текст добре працює як завершальний boundary-marker для певної спільноти.
+По-перше, це сценічний діалог із Петром і Марією, а не коротке афористичне або притчеве ядро. По-друге, тема жінки, яку треба "зробити чоловіком", належить до розвиненої символічної антропології і спільнотної полеміки про авторитет. По-третє, немає прямого P.Oxy. witness, який би підтримував ранню грецьку форму. По-четверте, внутрішні паралелі Фоми не вирішують проблему: логія 22 має мову чоловічого/жіночого єднання, але не сцену виключення Марії; логія 13 дає ширший контекст учнівського авторитету, але не контролює формулу "жінка має стати чоловіком". По-п'яте, фінальне місце в збірці саме по собі може бути редакційним: такий текст добре працює як завершальний boundary-marker для певної спільноти.
 
 Тому рішення `EXCLUDE_AS_SECONDARY` означає не знецінення логії, а чесне розмежування. Вона може бути важливим документом історії рецепції, дискусій про Марію і пізньої томиної антропології, але не є частиною реконструйованого найдавнішого євангелія.
 
@@ -5674,13 +5693,15 @@ Review:
 
 Evidence note:
 - `reconstruction/earliest-sayings-gospel/notes/logion-114-evidence-en.md`
+- `reconstruction/earliest-sayings-gospel/notes/logion-114-exclusion-rationale-en.md`
 
 Synoptic/control files:
 - `controls/synoptic-parallels/logion-114-mary-peter-gender-exclusion-controls.md`
 
 Cluster/context notes:
+- `reconstruction/earliest-sayings-gospel/logion-114-publication-exclusion-rationale-v0.1.md`
 - Mary/Peter/gender-transformation exclusion rationale belongs in the evidence dossier as a transparent example of secondary exclusion.
 
 ### Що треба допрацювати
 
-У фінальному evidence dossier логія 114 має бути використана як показовий приклад: проект не приховує складні або відкинуті тексти, а пояснює, чому вони не входять до реконструкції найдавнішого євангелія.
+Publication-level exclusion rationale v0.1 уже виконано. У фінальному evidence dossier логія 114 має бути використана як показовий приклад: проект не приховує складні або відкинуті тексти, а пояснює, чому вони не входять до реконструкції найдавнішого євангелія.

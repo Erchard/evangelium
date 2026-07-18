@@ -22,12 +22,17 @@ Run `python3 tools/qa_crosscheck.py` before and after every task that changes cl
 | 3 | `DONE` | Full appendix editorial consolidation, Logia 81-90 | `project/ide-codex-full-appendix-editorial-consolidation-081-090-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-081-090-v0.1.md` |
 | 4 | `DONE` | Full appendix editorial consolidation, Logia 91-100 | `project/ide-codex-full-appendix-editorial-consolidation-091-100-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-091-100-v0.1.md` |
 | 5 | `DONE` | Full appendix editorial consolidation, Logia 101-114 | `project/ide-codex-full-appendix-editorial-consolidation-101-114-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-101-114-v0.1.md` |
-| 6 | `NEXT` | Wealth/renunciation cluster-control | `project/ide-codex-wealth-renunciation-cluster-control-v0.1-prompt.md` | Cluster note, pass audit, table/card/appendix updates |
-| 7 | `READY` | Logion 114 publication-level exclusion rationale | `project/ide-codex-logion-114-publication-exclusion-rationale-v0.1-prompt.md` | Evidence/exclusion note and appendix/dossier updates |
-| 8 | `BLOCKED_BY 5-7` | Evidence dossier publication pass | `project/ide-codex-evidence-dossier-publication-pass-v0.1-prompt.md` | Publication-ready English evidence dossier draft |
-| 8 | `READY` | Ritual-ethics / bridegroom follow-up for 104A | `project/ide-codex-ritual-ethics-bridegroom-104a-followup-v0.1-prompt.md` | Cluster follow-up resolving 104A reader pressure |
-| 9 | `READY` | Bibliography, rights, citation, source reproducibility | `project/ide-codex-bibliography-rights-citation-reproducibility-v0.1-prompt.md` | Rights/citation policy and bibliography/reproducibility files |
-| 10 | `BLOCKED_BY 5,8,9` | Greek retroversion publication polish | `project/ide-codex-greek-retroversion-publication-polish-v0.1-prompt.md` | Final Greek confidence and retroversion consistency polish |
+| 6 | `DONE` | Wealth/renunciation cluster-control | `project/ide-codex-wealth-renunciation-cluster-control-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/wealth-renunciation-cluster-control-pass-v0.1.md` |
+| 7 | `DONE` | Logion 114 publication-level exclusion rationale | `project/ide-codex-logion-114-publication-exclusion-rationale-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/logion-114-publication-exclusion-rationale-v0.1.md` |
+| 8 | `DONE` | Evidence dossier publication pass | `project/ide-codex-evidence-dossier-publication-pass-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/evidence-dossier-publication-pass-v0.1.md` |
+| 9 | `DONE` | Bibliography, rights, citation, source reproducibility | `project/ide-codex-bibliography-rights-citation-reproducibility-v0.1-prompt.md` | `project/bibliography-rights-citation-reproducibility-pass-v0.1.md` |
+| 10 | `DONE` | Ritual-ethics / bridegroom follow-up for 104A | `project/ide-codex-ritual-ethics-bridegroom-104a-followup-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/ritual-ethics-bridegroom-104a-followup-v0.1.md` |
+| 11 | `DONE` | Greek retroversion publication polish | `project/ide-codex-greek-retroversion-publication-polish-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/greek-retroversion-publication-polish-v0.1.md` |
+| 12 | `DONE` | Final clean-reader freeze | `project/ide-codex-final-clean-reader-freeze-v0.1-prompt.md` | `reconstruction/earliest-sayings-gospel/final-clean-reader-freeze-v0.1.md` |
+| 13 | `DONE` | Generator-ready Ukrainian and English books | `project/ide-codex-generator-ready-books-v0.1-prompt.md` | `project/generator-ready-books-pass-v0.1.md` |
+| 14 | `DONE` | Final bibliography and rights verify | `project/ide-codex-final-bibliography-rights-verify-v0.1-prompt.md` | `project/final-bibliography-rights-verify-v0.1.md` |
+| 15 | `DONE` | Print / digital render proof preparation | `project/ide-codex-print-digital-render-proof-v0.1-prompt.md` | `project/print-digital-render-proof-prep-v0.1.md` |
+| 16 | `NEXT` | Render pipeline and first proofs | `project/ide-codex-render-pipeline-first-proofs-v0.1-prompt.md` | Generate first proof artifacts or a minimal reliable render scaffold |
 
 ## Completed Recent Dependencies
 
@@ -43,10 +48,20 @@ Run `python3 tools/qa_crosscheck.py` before and after every task that changes cl
 | Full appendix editorial consolidation 81-90 | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-081-090-v0.1.md` |
 | Full appendix editorial consolidation 91-100 | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-091-100-v0.1.md` |
 | Full appendix editorial consolidation 101-114 | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-101-114-v0.1.md` |
+| Wealth/renunciation cluster-control | `reconstruction/earliest-sayings-gospel/wealth-renunciation-cluster-control-pass-v0.1.md` |
+| Logion 114 publication-level exclusion rationale | `reconstruction/earliest-sayings-gospel/logion-114-publication-exclusion-rationale-v0.1.md` |
+| Evidence dossier publication pass | `reconstruction/earliest-sayings-gospel/evidence-dossier-publication-pass-v0.1.md` |
+| Bibliography, rights, citation, source reproducibility pass | `project/bibliography-rights-citation-reproducibility-pass-v0.1.md` |
+| Ritual-ethics / bridegroom 104A follow-up | `reconstruction/earliest-sayings-gospel/ritual-ethics-bridegroom-104a-followup-v0.1.md` |
+| Greek retroversion publication polish | `reconstruction/earliest-sayings-gospel/greek-retroversion-publication-polish-v0.1.md` |
+| Final clean-reader freeze | `reconstruction/earliest-sayings-gospel/final-clean-reader-freeze-v0.1.md` |
+| Generator-ready Ukrainian and English books | `project/generator-ready-books-pass-v0.1.md` |
+| Final bibliography and rights verify | `project/final-bibliography-rights-verify-v0.1.md` |
+| Print / digital render proof preparation | `project/print-digital-render-proof-prep-v0.1.md` |
 
-## Why The Next Task Is Wealth/Renunciation Cluster-Control
+## Why The Next Task Is Final Bibliography And Rights Verify
 
-The project now has full corpus coverage, reader interpretation coverage, all-114 decision control, 37 synchronized clean-reader units, and consolidated appendix prose for all Logia 1-114. The next unresolved content-control pressure is the wealth/renunciation cluster, especially Logia 81 and 110, before the evidence dossier publication pass and final reader freeze.
+The project now has full corpus coverage, reader interpretation coverage, all-114 decision control, a frozen 37-unit clean reader, consolidated appendix prose for all Logia 1-114, a publication-facing evidence dossier draft v1.4, completed Greek retroversion publication polish, completed final clean-reader freeze, first generator-ready Ukrainian/English book source packages plus a digital companion manifest, completed final bibliography / rights verification, and completed print/digital render proof preparation. The strongest remaining production risk is actual rendering: choose a reliable renderer, generate first proofs, and run visual/text QA.
 
 ## Execution Note
 

@@ -101,6 +101,7 @@ Early score 60 означає, що banquet/invitation motif може місти
 - Synoptic/control files:
   - `controls/synoptic-parallels/logion-064-banquet-invitation-controls.md`
 - Cluster/context notes:
+  - `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
   - `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md`
 
 ### Шарова модель для реконструкції

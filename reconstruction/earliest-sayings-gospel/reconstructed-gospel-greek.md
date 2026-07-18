@@ -1,6 +1,6 @@
 # Greek Witnesses
 
-Status: working text v0.5. This file distinguishes extant Greek witnesses from explicitly marked hypothetical Greek retroversions. Retroversions are not manuscript witnesses. Confidence levels and publication instructions are controlled in `greek-retroversion-confidence-audit-v0.1.md`.
+Status: publication-polished Greek layer v0.6, updated 2026-07-18. This file distinguishes extant Greek witnesses, partial/lacunose Greek witnesses, and explicitly marked hypothetical Greek retroversions. Retroversions are not manuscript witnesses. Confidence levels and publication instructions are controlled in `greek-retroversion-confidence-audit-v0.1.md`.
 
 ## Logion 1
 
@@ -56,7 +56,7 @@ Textual note: line 28 has the important `κεκαλυμμένον` / `κεκρυ
 
 Decision: ethical core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`
 
-Greek status: P.Oxy. 654, lacunose/reconstructed for the ethical core.
+Greek status: Lacunose extant Greek witness, P.Oxy. 654, reconstructed for the ethical core.
 
 > [μὴ ψεύδεσθε καὶ ὃ] [τι μισ]εῖτε μὴ ποιεῖτ?[ε]
 
@@ -138,7 +138,7 @@ Basis: Coptic Thomas plus Leviticus 19:18 and synoptic love-command controls. "B
 
 Decision: `INCLUDE_WITH_MARKER`
 
-Greek status: partial extant Greek witness, P.Oxy. 1.
+Greek status: Partial extant Greek witness, P.Oxy. 1.
 
 > καὶ τότε διαβλέψεις / ἐκβαλεῖν τὸ κάρφος / τὸ ἐν τῷ ὀφθαλμῷ / τοῦ ἀδελφοῦ σου
 
@@ -148,7 +148,7 @@ Textual note: P.Oxy. 1 preserves the final clause only. The opening speck/beam c
 
 Decision: `INCLUDE_WITH_MARKER`
 
-Greek status: extant Greek witness, P.Oxy. 1.
+Greek status: Extant Greek witness, P.Oxy. 1.
 
 > οὐκ ἔστιν δεκτὸς προφήτης ἐν τῇ πατρίδι αὐτοῦ οὐδὲ ἰατρὸς ποιεῖ θεραπείας εἰς τοὺς γινώσκοντας αὐτόν
 
@@ -158,7 +158,7 @@ Textual note: P.Oxy. 1 strongly supports both prophet and physician clauses. The
 
 Decision: `INCLUDE_WITH_MARKER`
 
-Greek status: extant Greek witness, P.Oxy. 1.
+Greek status: Extant Greek witness, P.Oxy. 1.
 
 > πόλις ᾠκοδομημένη ἐπ’ ἄκρον ὄρους ὑψηλοῦ καὶ ἐστηριγμένη οὔτε πεσεῖν δύναται οὔτε κρυβῆναι
 
@@ -168,7 +168,7 @@ Textual note: P.Oxy. 1 supports the fuller Thomas form with built/established an
 
 Decision: `INCLUDE_WITH_MARKER`
 
-Greek status: P.Oxy. 1 preserves only the opening; lamp unit is `Greek retroversion, hypothetical`.
+Greek status: Partial extant Greek witness, P.Oxy. 1 opening; lamp unit is `Greek retroversion, hypothetical`.
 
 Extant opening:
 
@@ -208,7 +208,7 @@ Basis: Coptic Thomas plus Mark 3:27 and Matthew 12:29. Not an extant Greek Thoma
 
 Decision: `INCLUDE_WITH_MARKER`
 
-Greek status: extant but heavily restored Greek witness, P.Oxy. 655.
+Greek status: Lacunose extant Greek witness, P.Oxy. 655.
 
 > [μὴ μεριμνᾶτε] ἀπὸ πρωΐας ἕως ἑσπέρας [μηδὲ] ἀπὸ ἑσπέρας ἕως πρωΐας ... [τί φάγητε] ... [ἢ τί ἐνδύσησθε]
 
@@ -218,7 +218,7 @@ Textual note: P.Oxy. 655 preserves a broader and heavily restored anti-anxiety c
 
 Decision: `INCLUDE_WITH_MARKER`
 
-Greek status: extant but heavily restored Greek witness, P.Oxy. 655.
+Greek status: Lacunose extant Greek witness, P.Oxy. 655.
 
 > [οἱ Φαρισαῖοι] καὶ οἱ γραμματεῖς ἔλ[αβον τὰς κλεῖδας] τῆς [γνώσεως] ... οὔτε εἰσῆ[λθον] ... ὑμεῖς δὲ γίν[εσθε φρόνι]μοι ὡς [ὄφεις] καὶ ἀκέραιοι ὡς [περιστεραί]
 

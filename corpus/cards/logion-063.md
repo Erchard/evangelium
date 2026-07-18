@@ -95,6 +95,7 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 63.
 - Synoptic/control files:
   - `controls/synoptic-parallels/logion-063-rich-fool-luke-control.md`
 - Cluster/context notes:
+  - `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
   - `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md`
 
 ### Шарова модель для реконструкції

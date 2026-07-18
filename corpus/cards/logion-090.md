@@ -108,6 +108,7 @@ Early score 65 робить логію 90 одним із найсерйозні
 - Synoptic/control files:
   - `controls/synoptic-parallels/logion-090-yoke-rest-controls.md`
 - Cluster/context notes:
+  - `reconstruction/earliest-sayings-gospel/notes/wealth-renunciation-cluster-control-en.md`
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 
 ### Шарова модель для реконструкції

@@ -4,9 +4,9 @@ Status: active remediation plan, 2026-07-18.
 
 ## Current Readiness Estimate
 
-Working estimate: 82-85%.
+Working estimate: 96%.
 
-The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, and clean-reader synchronization are in place. The remaining work is publication-quality control: technical control files, final appendix editing, evidence dossier polish, Greek retroversion verification, bibliography/rights, and final print/digital generation.
+The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, and render-proof preparation are in place. The remaining work is first proof generation, visual/text proof QA, and final corrections.
 
 ## Primary Defects To Remove
 
@@ -16,9 +16,15 @@ The project is no longer blocked by corpus coverage. The main text, all 114 card
 | 2 | Duplicated/overriding decision sections | CLOSED: metadata sync and duplicate-status prose audit are complete. | Card-level decision audit confirms local/historical blocks are clearly subordinate to gold-level publication status. |
 | 3 | Greek-layer freeze | CLOSED: publication-control freeze pass completed; remaining Greek work is later style/bibliography polish, not witness-status clarification. | Every current clean-reader Greek layer is labeled as extant witness, partial/lacunose witness, or hypothetical retroversion with confidence and source basis. |
 | 4 | Full appendix editorial consolidation | Complete for Logia 1-114. | All 114 appendix chapters read as a book, not as stitched card exports. |
-| 5 | Evidence dossier publication pass | Dossier is useful but still working-level. | English dossier has methodology, source hierarchy, logion summaries, inclusion/exclusion rationale, and bibliography. |
-| 6 | Bibliography, rights, and citation | Principles exist, final apparatus not complete. | Bibliography and source/citation policy are ready for public release. |
-| 7 | Final product generation | Print/digital architecture exists. | Ukrainian and English print-ready books plus digital scholarly companion can be generated and checked. |
+| 5 | Evidence dossier publication pass | CLOSED: dossier is now publication-facing draft v1.4, with source hierarchy, uncertainty model, and bibliography/rights note. | English dossier has methodology, source hierarchy, logion summaries, inclusion/exclusion rationale, and uncertainty model. |
+| 6 | Bibliography, rights, and citation | CLOSED at release verification v0.2: generic verification markers converted to concrete release statuses. | Bibliography and source/citation policy are safe for proof preparation, with protected controls clearly limited. |
+| 6A | Ritual-ethics / bridegroom 104A | CLOSED: 104A stabilized as appendix-only; full Logion 104 remains appendix-only. | 104A is either included, stabilized appendix-only, or deferred with cluster-level rationale. |
+| 6B | Greek retroversion publication polish | CLOSED: final Greek wording/status consistency pass completed. | Greek witness labels and hypothetical retroversions are safe across clean reader, apparatus, appendix, dossier, and parallel edition. |
+| 6C | Final clean-reader freeze | CLOSED: frozen 37-unit reader confirmed across language, decision, probability, and appendix layers. | Frozen reader can be used as source for book generation. |
+| 7 | Final product generation | PARTIAL: generator-ready source packages and digital companion manifest exist; final rendering/proofing not yet complete. | Ukrainian and English print-ready books plus digital scholarly companion can be generated and checked. |
+| 8 | Final bibliography and rights verify | CLOSED: release-level bibliography and source-rights pass completed. | Bibliography and rights status are safe for proof preparation or clearly marked as protected/control-only. |
+| 9 | Print / digital render proof preparation | CLOSED: paper books and digital companion checked at proof-prep level. | Ukrainian and English paper sources are print-safe, digital apparatus remains complete, and rendering blockers are listed. |
+| 10 | Render pipeline and first proofs | NEXT: choose minimal renderer and generate first proof artifacts or scaffold. | Ukrainian, English, and digital companion proofs exist or rendering blocker is explicitly documented. |
 
 ## Execution Order
 
@@ -54,11 +60,11 @@ CLOSED on 2026-07-18. Extant Greek witness versus `Greek retroversion, hypotheti
 
 ### Phase D: Appendix Publication Editing
 
-Full appendix editorial consolidation is complete for Logia 1-114. The next remediation work is to close remaining research-control groups and then use the stable appendix as input for the evidence dossier publication pass.
+Full appendix editorial consolidation is complete for Logia 1-114. The stable appendix has now been used as input for the evidence dossier publication pass.
 
 ### Phase E: Evidence Dossier And Bibliography
 
-Turn `evidence-dossier-en.md` into a publication-facing defense of the reconstruction. Add methodology, uncertainty model, source hierarchy, bibliography, rights/citation policy, and concise summaries for excluded/deferred high-impact logia.
+`evidence-dossier-en.md` is now a publication-facing defense of the reconstruction. It has methodology, uncertainty model, source hierarchy, cluster summaries, current reader list, and concise summaries for excluded/deferred high-impact logia. Bibliography, rights, citation keys, and source reproducibility now have a release verification layer in `project/rights-and-citation-policy.md`, `project/source-reproducibility-note.md`, `bibliography/bibliography-working.md`, `bibliography/source-rights-register.md`, and `project/final-bibliography-rights-verify-v0.1.md`.
 
 ### Phase F: Final Book Generation
 
@@ -89,4 +95,16 @@ Output created:
 - `CREATE_CONTROL_FILE_RESOLVED`: 17.
 - Remaining `CREATE_CONTROL_FILE`: 0.
 
-Next active task: wealth/renunciation cluster-control.
+### Phase E.2: Greek Retroversion Publication Polish
+
+CLOSED on 2026-07-18. The public-facing Greek and parallel layers now use normalized labels for `Extant Greek witness`, `Partial extant Greek witness`, `Lacunose extant Greek witness`, and `Greek retroversion, hypothetical`. No clean-reader membership changed.
+
+### Phase E.3: Final Clean-Reader Freeze
+
+CLOSED on 2026-07-18. The 37-unit clean reader is frozen for this edition. Ukrainian, English, Coptic, Greek, and parallel layers contain the same units in the same order; the English clean reader was cleaned of residual apparatus notes.
+
+### Phase F.1: Generator-Ready Book Sources
+
+CLOSED on 2026-07-18. First print-safe source packages were created for the Ukrainian and English paper books, and a digital scholarly companion manifest was created.
+
+Next active task: render pipeline and first proofs.

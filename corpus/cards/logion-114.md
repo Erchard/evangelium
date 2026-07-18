@@ -1,6 +1,6 @@
 # Logion 114
 
-Статус: normalized corpus card; current workflow status: `Primary card v0.1`.
+Статус: normalized corpus card; current workflow status: `Publication exclusion rationale v0.1`.
 
 ## Текст
 
@@ -85,7 +85,7 @@ Simon Peter said to them, "Let Mary leave us, for women are not worthy of life."
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Попередній шар: Марія, Петро, жінка/чоловік і доступ до царства.
-- Поточний workflow status: `Primary card v0.1`. Це значення зберігає стан у workflow matrix; воно не скасовує пізніший апарат, доданий у цій картці.
+- Поточний workflow status: `Publication exclusion rationale v0.1`.
 
 ### Ймовірнісний профіль
 
@@ -100,11 +100,12 @@ Simon Peter said to them, "Let Mary leave us, for women are not worthy of life."
 
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-114-evidence-en.md`
+  - `reconstruction/earliest-sayings-gospel/notes/logion-114-exclusion-rationale-en.md`
 - Synoptic/control files:
   - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logion-114-mary-peter-gender-exclusion-controls.md`
   - Control decision: Mary/Peter/gender-transformation scene is a publication-facing secondary exclusion; keep it in the appendix with full rationale, not in the clean reader.
 - Cluster/context notes:
-  - Not required for the current decision unless a future cluster-control pass reopens this logion.
+  - `reconstruction/earliest-sayings-gospel/logion-114-publication-exclusion-rationale-v0.1.md`
 
 ### Шарова модель для реконструкції
 
@@ -114,7 +115,7 @@ Simon Peter said to them, "Let Mary leave us, for women are not worthy of life."
 
 ### Наступна дія
 
-Keep as exclusion example in evidence dossier.
+Publication exclusion rationale v0.1 complete; use as exclusion example in evidence dossier.
 
 Примітка якості: цей блок вирівнює картку з еталонним аналітичним стандартом, але не замінює повного поглибленого дослідження. Якщо evidence note або control file відсутні, це означає видиму прогалину, а не мовчазно розв'язану проблему.
 
@@ -171,7 +172,7 @@ Local Greek canonical/control text currently transcribed:
 - Current decision: `EXCLUDE_AS_SECONDARY`.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
-- Current workflow status: `Primary card v0.1`. This records the workflow-matrix state only; it does not remove later apparatus added to this card.
+- Current workflow status: `Publication exclusion rationale v0.1`.
 - Evidence note in matrix: YES.
 - Clean-reader implication: Не входить до clean reader; у додатку використати як прозорий приклад вторинного або редакційного шару.
 
@@ -179,9 +180,13 @@ Local Greek canonical/control text currently transcribed:
 
 Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-114-evidence-en.md`
+- `reconstruction/earliest-sayings-gospel/notes/logion-114-exclusion-rationale-en.md`
 
 Synoptic/control files:
 - `controls/synoptic-parallels/logion-114-mary-peter-gender-exclusion-controls.md`
+
+Publication rationale:
+- `reconstruction/earliest-sayings-gospel/logion-114-publication-exclusion-rationale-v0.1.md`
 
 ### Greek/Coptic Policy
 
@@ -197,5 +202,5 @@ Synoptic/control files:
 
 ### Remaining Work
 
-- Next action: Keep as exclusion example in evidence dossier.
+- Next action: Use completed exclusion rationale in evidence dossier publication pass.
 - Publication pass: звірити цю картку з фінальною all-114 decision table, clean-reader складом і повним читацьким додатком.

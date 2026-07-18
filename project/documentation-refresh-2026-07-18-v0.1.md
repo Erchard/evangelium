@@ -48,7 +48,7 @@ This pass updated active project documentation after the print/digital publicati
 - Replaced older evidence-gap language with the current evidence-control state: evidence/control inventory complete and `NEEDS_EVIDENCE_BEFORE_FINAL` reduced to 0.
 - Added print/digital publication architecture references to active navigation and product documents.
 - Added Greek-layer freeze status: extant, partial/lacunose, and hypothetical retroversion labels are now publication-safe for the current 37-unit clean reader.
-- Updated the recommended next step to wealth/renunciation cluster-control.
+- Updated the recommended next step to evidence dossier publication pass after wealth/renunciation and Logion 114 rationale completion; superseded after the evidence dossier publication pass by bibliography / rights / citation / source reproducibility.
 - Added the reusable structural QA baseline and documented that `python3 tools/qa_crosscheck.py` must be run before and after major editorial/generation passes.
 - Documented the accepted heading-format differences across language layers and the exact clean-text appendix anchors for all current reader units.
 - Preserved historical dates and completed-pass context where documents are primarily audit records, but added superseded next-step notes where old guidance could mislead current work.

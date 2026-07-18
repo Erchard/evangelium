@@ -16,11 +16,11 @@
 
 ## Executive Assessment
 
-Орієнтовна готовність проекту до кінцевої мети: 79-82%.
+Орієнтовна готовність проекту до кінцевої мети: 88-90%.
 
 Проект уже не перебуває на етапі побудови корпусу. Корпус покрито повністю, clean reader існує, all-114 decision table створено, evidence-blocking gap зведено до нуля, картки мають пʼятиджерельний апарат і читацьке тлумачення, а full appendix синхронізовано з цим читацьким шаром для всіх 114 логій.
 
-Головний актуальний ризик змінився. Раніше слабким місцем була відсутність пояснень і evidence-control покриття. Тепер слабке місце - публікаційна цілісність: матеріал є, але його ще треба редакційно звести, прибрати дублювання, завершити кілька cluster-control груп і зробити evidence dossier самостійним англомовним захистом реконструкції.
+Головний актуальний ризик змінився. Раніше слабким місцем була відсутність пояснень і evidence-control покриття. Потім - нерівний appendix, робочий evidence dossier, порожній source-safety layer і 104A як reader-pressure case. Тепер ці шари суттєво підняті: appendix консолідований 114/114, evidence dossier має publication-facing draft v1.4, bibliography/rights/citation/reproducibility має working layer v0.1, а 104A стабілізовано як appendix-only. Найбільше просів тепер Greek publication layer: треба вирівняти extant/lacunose/hypothetical labels і не допустити, щоб ретроверсії виглядали як рукописні свідки.
 
 ## Поточні Метрики
 
@@ -42,8 +42,9 @@
 | All-114 publication decision table | Є, v0.1 |
 | `NEEDS_EVIDENCE_BEFORE_FINAL` у all-114 table | 0 |
 | Clean Ukrainian reader | 37 логій / ядер |
-| Cluster-control passes completed | 6 груп |
-| Evidence dossier | Робочий, не публікаційний |
+| Cluster-control passes completed | 7 груп |
+| Evidence dossier | Publication-facing draft v1.4 |
+| Bibliography / rights / citation / reproducibility | Release verification layer v0.2; open/public-domain controls verified and protected controls limited |
 
 ## Що Вже Сильне
 
@@ -68,12 +69,14 @@
 | Full appendix мав 70+ старих scaffold-заглушок типу `перетворити з каркаса...` | Закрито: reader-interpretation sync додав пояснення для 114/114 секцій, а editorial consolidation packages 1-114 прибрали card-derived duplication і working-index prose. |
 | Невключені логії пояснювалися слабше за включені | Суттєво покращено: усі 114 appendix-секцій мають читацьке пояснення, включно з excluded/deferred/uncertain. |
 | Відсутність reusable consistency script | Закрито в `tools/qa_crosscheck.py`; поточний запуск проходить для 114 карток, 114 appendix-секцій, 37 clean-reader одиниць і exact clean-text anchors. |
+| Evidence dossier був робочим, не публікаційним | Закрито на рівні publication-facing draft v1.4 у `reconstruction/earliest-sayings-gospel/evidence-dossier-en.md`. |
+| Bibliography/rights/citation були тільки принципами | Закрито на рівні working layer v0.1: rights policy, reproducibility note, working bibliography і source-rights register створені. |
 
 ## P0 Недоліки: Критичні Для Публікаційної Якості
 
 ### 1. Full Appendix Ще Не Є Єдиним Відредагованим Текстом
 
-Попередній найбільший недолік appendix уже закрито: повний додаток тепер має 114/114 редакційно консолідованих секцій. Найбільший актуальний недолік переходить у research/publication layer: треба закрити remaining cluster-control groups і перетворити evidence dossier з робочого документа на публікаційний.
+Попередній найбільший недолік appendix уже закрито: повний додаток тепер має 114/114 редакційно консолідованих секцій. Evidence dossier також піднято до publication-facing draft v1.4. Найбільший актуальний недолік переходить у source/publication safety layer: треба закрити бібліографію, права, citation policy, source snapshots і reproducibility notes.
 
 Фактичний стан:
 
@@ -83,14 +86,16 @@
 - окремих card-derived reader blocks більше немає;
 - working-index prose більше не лишилося в основному appendix-коментарі.
 
-Ризик тепер інший: appendix уже читається як цілісний текст, але evidence dossier і cluster-control closure ще мають довести, що публікаційна аргументація така ж сильна, як читацький шар.
+Ризик тепер інший: appendix і evidence dossier уже читаються як цілісні шари, але без перевіреної бібліографії, прав і print-safe citation keys їх ще не можна безпечно перетворювати на паперові книги.
 
 Потрібно:
 
-- виконати wealth/renunciation cluster-control;
-- виконати body/soul, polemical-authority, mountain/unity або father/mother/birth cluster passes, якщо вони будуть потрібні перед freeze;
-- перевести evidence dossier в публікаційний англомовний документ;
-- звірити bibliography, rights, source reproducibility і print/digital split.
+- створити або оновити `project/rights-and-citation-policy.md`;
+- створити або оновити `bibliography/bibliography-working.md`;
+- створити або оновити `bibliography/source-rights-register.md`;
+- зафіксувати print-safe citation keys для паперових книг;
+- зафіксувати digital source paths і reproducibility notes для scholarly companion;
+- після цього виконати generator-ready book production і book-generation proof pass.
 
 ### 2. Cluster-Control Notes Ще Не Закриті Для Всіх Deferred-Груп
 
@@ -101,11 +106,12 @@
 - seek/find;
 - family-renunciation;
 - fire/kingdom.
+- thief/watchfulness;
+- wealth/renunciation.
 
-Найважливіші незакриті групи:
+Найважливіші незакриті або optional-before-freeze групи:
 
-- wealth/renunciation;
-- ritual/practice;
+- ritual/practice / bridegroom 104A;
 - image/light;
 - body/soul;
 - authority/community;
@@ -115,7 +121,7 @@
 
 Потрібно:
 
-- почати з wealth/renunciation, бо вона вже явно названа наступною групою;
+- використати Logion 114 publication-level exclusion rationale як готовий secondary-exclusion case у dossier;
 - після кожного cluster-control pass оновлювати cards, all-114 table, appendix і dossier;
 - не промотувати логії в clean reader без окремого decision pass.
 
@@ -137,18 +143,18 @@ Evidence dossier існує і вже корисний, але ще не є до
 
 Ризик: clean reader може виглядати переконливо літературно, але без dossier зовнішній читач не побачить повного доказового ланцюга.
 
-### 4. Logion 114 Потребує Publication-Level Exclusion Rationale
+### 4. Logion 114 Publication-Level Exclusion Rationale Закрито
 
-Logion 114 уже має статус `EXCLUDE_AS_SECONDARY`, і це правильний напрям. Але для фінального видання цього недостатньо.
+Logion 114 має статус `EXCLUDE_AS_SECONDARY`, окремий control file і publication-level rationale. Для фінального видання це вже достатній локальний апарат; тепер його треба інтегрувати в загальний evidence dossier.
 
-Потрібно:
+Закрито:
 
-- окремий evidence/no-note rationale або dossier subsection;
+- окремий dossier-ready rationale;
 - пояснення, чому ця логія не входить до earliest sayings-gospel reconstruction;
 - спокійне тлумачення без полеміки;
 - пояснення, чому її все одно треба показати в appendix.
 
-Ризик: читач може сприйняти виключення як ідеологічний жест, якщо не побачить чіткого історико-критичного rationale.
+Залишковий ризик: читач може сприйняти rationale як ізольовану нотатку, якщо evidence dossier не інтегрує її в загальну методологію inclusion/exclusion.
 
 ## P1 Недоліки: Високий Пріоритет
 
@@ -266,18 +272,14 @@ Clean reader має починатися без дисклеймерів. Але
 
 ## Рекомендована Послідовність Закриття Недоліків
 
-1. **Wealth/renunciation cluster-control pass.** Закрити наступну найбільшу deferred-групу.
-2. **Remaining cluster-control triage.** Вирішити, чи потрібні окремі body/soul, polemical-authority, mountain/unity і father/mother/birth passes перед freeze.
-3. **Logion 114 publication-level exclusion rationale.** Зробити окремий спокійний доказ невключення.
-4. **Evidence dossier publication pass.** Англомовний метод, source hierarchy, logion-by-logion argument, bibliography.
-5. **Rights / bibliography / reproducibility pass.** Закрити citation і license ризики.
-6. **Greek retroversion publication polish.** Confidence labels і звірка з академічними виданнями.
-7. **Final clean reader and parallel edition freeze.**
-8. **Run structural QA before/after major passes.** `python3 tools/qa_crosscheck.py` уже існує; його треба запускати як guardrail, а не створювати заново.
-9. **Prompt/archive cleanup and git hygiene.**
+1. **Print/digital rendering preparation.** Підготувати renderer або ручний pipeline для PDF/print proof.
+2. **Proof QA.** Перевірити print-safe citations, нумерацію, індекси, права і внутрішні шляхи в паперових виходах.
+3. **Final library checks for protected controls.** Закрити page-specific citations тільки там, де вони реально підуть у друк.
+6. **Run structural QA before/after major passes.** `python3 tools/qa_crosscheck.py` уже існує; його треба запускати як guardrail, а не створювати заново.
+7. **Prompt/archive cleanup and git hygiene.**
 
 ## Найважливіший Наступний Крок
 
-Найлогічніше наступне завдання: **Wealth/renunciation cluster-control**.
+Найлогічніше наступне завдання: **print / digital render proof preparation**.
 
-Причина: проект уже має 114/114 карток із тлумаченнями і 114/114 appendix-секцій із синхронізованим читацьким шаром. Тепер найбільший видимий недолік для читача - не відсутність пояснення, а нерівність і дублювання appendix. Якщо цей шар зробити цілісним, проект різко наблизиться до формату справжнього видання.
+Причина: проект уже має 114/114 карток із тлумаченнями, повністю консолідований appendix, all-114 decision table, основні cluster-control passes, Logion 114 exclusion rationale, publication-facing evidence dossier v1.4, bibliography/rights/citation/reproducibility release layer v0.2, закритий 104A follow-up, Greek retroversion publication polish, final clean-reader freeze і generator-ready source packages. Тепер найбільший видимий недолік - proof/render readiness перед рендерингом і релізом.
