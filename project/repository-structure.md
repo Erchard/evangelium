@@ -48,11 +48,11 @@
 - Clean Ukrainian reader містить 37 логій або ядра.
 - Мовні шари синхронізовані для 37 одиниць.
 - Корпус має 114 карток логій.
-- Full 114-logion appendix має 114/114 секцій із читацьким поясненням; Logia 1-80 уже редакційно консолідовані, Logia 81-114 ще потребують такого самого вирівнювання.
+- Full 114-logion appendix має 114/114 секцій із читацьким поясненням; Logia 1-114 уже редакційно консолідовані як print-safe книжковий додаток.
 - Усі 37 clean-reader одиниці мають точний `Чистий текст реконструкції` anchor у full appendix.
 - Structural QA baseline проходить через `python3 tools/qa_crosscheck.py`.
 - Print/digital publication architecture v0.1 зафіксована: українська й англійська паперові книги мають бути самодостатніми, а повний evidence apparatus лишається digital scholarly companion.
-- Наступний робочий пакет: print-safe full appendix editorial consolidation для Logia 81-90.
+- Наступний робочий пакет: wealth/renunciation cluster-control.
 
 ## Правило для майбутньої роботи
 

@@ -77,7 +77,7 @@ Machine audit after remediation:
 The next high-value project task is no longer card-status synchronization. The next task is publication-layer polish:
 
 1. Greek-layer freeze: verify that every Greek line is clearly labeled as extant witness or hypothetical retroversion.
-2. Print-safe appendix consolidation: especially Logia 81-114.
+2. Research-control closure: especially wealth/renunciation before dossier publication.
 3. Evidence dossier publication pass: methodology, bibliography, source hierarchy, and concise inclusion/exclusion defense.
 
 Recommended next task: start with Greek-layer freeze because it protects both print books and the scholarly digital companion.

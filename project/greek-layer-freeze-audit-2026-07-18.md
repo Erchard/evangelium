@@ -50,4 +50,4 @@ For public-facing output:
 
 ## Result
 
-Greek-layer status is now safe enough for the next print/digital editorial stage. The next high-value task is print-safe full appendix consolidation for Logia 81-114, because the reader-facing commentary still needs to become a coherent book layer rather than a card-export layer.
+Greek-layer status is now safe enough for the next print/digital editorial stage. Full appendix consolidation is now complete for Logia 1-114; the next high-value task is wealth/renunciation cluster-control before the evidence dossier publication pass.

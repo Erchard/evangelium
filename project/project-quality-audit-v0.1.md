@@ -35,10 +35,10 @@
 | Картки з pending P.Oxy. line extraction | 0/114 |
 | Full appendix logion sections | 114/114 |
 | Appendix sections with reader-facing explanation | 114/114 |
-| Appendix sections already editorially consolidated | 60/114 |
-| Appendix sections still carrying separate card-derived blocks | 53/114 |
+| Appendix sections already editorially consolidated | 114/114 |
+| Appendix sections still carrying separate card-derived blocks | 0/114 |
 | Застаріла фраза `перетворити з каркаса...` | 0 |
-| Navigation-label skeleton prose still present | 38 |
+| Working-index skeleton phrases still present | 0 |
 | All-114 publication decision table | Є, v0.1 |
 | `NEEDS_EVIDENCE_BEFORE_FINAL` у all-114 table | 0 |
 | Clean Ukrainian reader | 37 логій / ядер |
@@ -51,7 +51,7 @@
 2. **Картки структурно вирівняні.** 114/114 мають gold-level status block.
 3. **Джерельний шар видимий у кожній картці.** P.Oxy. 1 / 654 / 655, Coptic NHC II і canonical Greek control channel прямо в картках.
 4. **Читацьке тлумачення тепер є всюди.** 114/114 карток і 114/114 appendix-секцій мають окремий reader-facing український шар.
-5. **Full appendix більше не є порожнім каркасом.** Він ще потребує редактури, і 38 секцій досі мають navigation-label skeleton prose, але читач уже має базове пояснення для кожної включеної, невключеної, відкладеної й відкинутої логії.
+5. **Full appendix більше не є порожнім каркасом.** Він має 114/114 секцій із цілісним print-safe читацьким поясненням для кожної включеної, невключеної, відкладеної й відкинутої логії.
 6. **All-114 decision control існує.** `all-114-publication-decision-table-v0.1.md` покриває всі логії й прибрав головний хаос у статусах.
 7. **Evidence-blocking gap закрито.** `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0 після P1 evidence-rationale packages.
 8. **Гіпотетичний грецький шар методологічно відділено від manuscript witness.**
@@ -65,7 +65,7 @@
 | Відсутність true all-114 decision table | Закрито в `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`. |
 | Evidence-control inventory не виконано | Закрито в `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md`. |
 | Більшість карток без зрозумілого тлумачення | Закрито на рівні v0.1: `corpus/cards/reader-interpretation-expansion-audit-v0.1.md`. |
-| Full appendix мав 70+ старих scaffold-заглушок типу `перетворити з каркаса...` | Закрито на рівні v0.1: `reconstruction/earliest-sayings-gospel/full-appendix-reader-interpretation-sync-v0.1.md`; однак 38 navigation-label skeleton фраз ще треба прибрати editorial consolidation packages. |
+| Full appendix мав 70+ старих scaffold-заглушок типу `перетворити з каркаса...` | Закрито: reader-interpretation sync додав пояснення для 114/114 секцій, а editorial consolidation packages 1-114 прибрали card-derived duplication і working-index prose. |
 | Невключені логії пояснювалися слабше за включені | Суттєво покращено: усі 114 appendix-секцій мають читацьке пояснення, включно з excluded/deferred/uncertain. |
 | Відсутність reusable consistency script | Закрито в `tools/qa_crosscheck.py`; поточний запуск проходить для 114 карток, 114 appendix-секцій, 37 clean-reader одиниць і exact clean-text anchors. |
 
@@ -73,25 +73,24 @@
 
 ### 1. Full Appendix Ще Не Є Єдиним Відредагованим Текстом
 
-Найбільший актуальний недолік: appendix тепер повний за покриттям, але не фінальний за редакційною якістю. Перші вісім editorial consolidation packages уже виконано для Logia 1-80; решта appendix ще потребує такого самого проходу.
+Попередній найбільший недолік appendix уже закрито: повний додаток тепер має 114/114 редакційно консолідованих секцій. Найбільший актуальний недолік переходить у research/publication layer: треба закрити remaining cluster-control groups і перетворити evidence dossier з робочого документа на публікаційний.
 
 Фактичний стан:
 
 - 114/114 секцій мають читацьке пояснення;
-- 80/114 секцій уже редакційно консолідовані;
+- 114/114 секцій уже редакційно консолідовані;
 - раніше розгорнуті секції збережені;
-- у частині логій 51-114 ще є дублювання між старим розгорнутим commentary і новим card-derived reader block;
-- стиль секцій нерівний: частина виглядає як повноцінний коментар, частина як синхронізований технічний шар.
+- окремих card-derived reader blocks більше немає;
+- working-index prose більше не лишилося в основному appendix-коментарі.
 
-Ризик: читач уже отримає пояснення, але appendix може виглядати як зведення робочих шарів, а не як цілісний текст.
+Ризик тепер інший: appendix уже читається як цілісний текст, але evidence dossier і cluster-control closure ще мають довести, що публікаційна аргументація така ж сильна, як читацький шар.
 
 Потрібно:
 
-- пройти appendix від 41 до 114 наступними пакетами;
-- для кожної логії обʼєднати старий розгорнутий commentary і card-derived interpretation в один плавний розділ;
-- залишити джерела, Greek status, evidence links і uncertainty;
-- прибрати повтори;
-- уніфікувати порядок підрозділів.
+- виконати wealth/renunciation cluster-control;
+- виконати body/soul, polemical-authority, mountain/unity або father/mother/birth cluster passes, якщо вони будуть потрібні перед freeze;
+- перевести evidence dossier в публікаційний англомовний документ;
+- звірити bibliography, rights, source reproducibility і print/digital split.
 
 ### 2. Cluster-Control Notes Ще Не Закриті Для Всіх Deferred-Груп
 
@@ -267,8 +266,8 @@ Clean reader має починатися без дисклеймерів. Але
 
 ## Рекомендована Послідовність Закриття Недоліків
 
-1. **Full appendix editorial consolidation.** Продовжити після виконаних пакетів Logia 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70 і 71-80; наступний пакет Logia 81-90.
-2. **Wealth/renunciation cluster-control pass.** Закрити наступну найбільшу deferred-групу.
+1. **Wealth/renunciation cluster-control pass.** Закрити наступну найбільшу deferred-групу.
+2. **Remaining cluster-control triage.** Вирішити, чи потрібні окремі body/soul, polemical-authority, mountain/unity і father/mother/birth passes перед freeze.
 3. **Logion 114 publication-level exclusion rationale.** Зробити окремий спокійний доказ невключення.
 4. **Evidence dossier publication pass.** Англомовний метод, source hierarchy, logion-by-logion argument, bibliography.
 5. **Rights / bibliography / reproducibility pass.** Закрити citation і license ризики.
@@ -279,6 +278,6 @@ Clean reader має починатися без дисклеймерів. Але
 
 ## Найважливіший Наступний Крок
 
-Найлогічніше наступне завдання: **Full appendix editorial consolidation, package Logia 81-90**.
+Найлогічніше наступне завдання: **Wealth/renunciation cluster-control**.
 
 Причина: проект уже має 114/114 карток із тлумаченнями і 114/114 appendix-секцій із синхронізованим читацьким шаром. Тепер найбільший видимий недолік для читача - не відсутність пояснення, а нерівність і дублювання appendix. Якщо цей шар зробити цілісним, проект різко наблизиться до формату справжнього видання.

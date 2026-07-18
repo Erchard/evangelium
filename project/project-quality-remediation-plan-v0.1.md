@@ -36,8 +36,8 @@
 | Evidence/control inventory | Complete |
 | `NEEDS_EVIDENCE_BEFORE_FINAL` | 0 |
 | Full appendix headings | 114/114 |
-| Remaining unconsolidated card-derived appendix blocks | 31 |
-| Remaining working-index skeleton phrases | 20 |
+| Remaining unconsolidated card-derived appendix blocks | 0 |
+| Remaining working-index skeleton phrases | 0 |
 | Clean Ukrainian reader | 37 логій / ядер |
 
 ## Phase 0. Stabilize Tracking
@@ -216,7 +216,7 @@
 - P1 non-reader package: 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106.
 - Clean reader не змінено.
 - Evidence-rationale pass для цього пакета виконано в `reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md`.
-- Наступна дія: продовжити print-safe full appendix editorial consolidation з Logia 81-90; після цього закрити wealth/renunciation cluster-control.
+- Наступна дія: закрити wealth/renunciation cluster-control; після цього перейти до evidence dossier publication pass.
 
 ## Phase 6. Evidence Dossier Publication Pass
 

@@ -15,7 +15,7 @@ The project is no longer blocked by corpus coverage. The main text, all 114 card
 | 1 | Remaining technical control files | CLOSED: 0 `CREATE_CONTROL_FILE` markers remain after the technical-control remediation pass. | All former markers are now `CREATE_CONTROL_FILE_RESOLVED` and linked to local control files. |
 | 2 | Duplicated/overriding decision sections | CLOSED: metadata sync and duplicate-status prose audit are complete. | Card-level decision audit confirms local/historical blocks are clearly subordinate to gold-level publication status. |
 | 3 | Greek-layer freeze | CLOSED: publication-control freeze pass completed; remaining Greek work is later style/bibliography polish, not witness-status clarification. | Every current clean-reader Greek layer is labeled as extant witness, partial/lacunose witness, or hypothetical retroversion with confidence and source basis. |
-| 4 | Full appendix editorial consolidation | Logia 1-80 are more consolidated; 81-114 still need print-safe editing. | All 114 appendix chapters read as a book, not as stitched card exports. |
+| 4 | Full appendix editorial consolidation | Complete for Logia 1-114. | All 114 appendix chapters read as a book, not as stitched card exports. |
 | 5 | Evidence dossier publication pass | Dossier is useful but still working-level. | English dossier has methodology, source hierarchy, logion summaries, inclusion/exclusion rationale, and bibliography. |
 | 6 | Bibliography, rights, and citation | Principles exist, final apparatus not complete. | Bibliography and source/citation policy are ready for public release. |
 | 7 | Final product generation | Print/digital architecture exists. | Ukrainian and English print-ready books plus digital scholarly companion can be generated and checked. |
@@ -54,7 +54,7 @@ CLOSED on 2026-07-18. Extant Greek witness versus `Greek retroversion, hypotheti
 
 ### Phase D: Appendix Publication Editing
 
-Continue print-safe editorial consolidation from Logia 81-114. Remove card-derived duplication, keep source/control trail available for digital use, and make the paper-readable commentary self-contained.
+Full appendix editorial consolidation is complete for Logia 1-114. The next remediation work is to close remaining research-control groups and then use the stable appendix as input for the evidence dossier publication pass.
 
 ### Phase E: Evidence Dossier And Bibliography
 
@@ -89,4 +89,4 @@ Output created:
 - `CREATE_CONTROL_FILE_RESOLVED`: 17.
 - Remaining `CREATE_CONTROL_FILE`: 0.
 
-Next active task: Phase D, print-safe full appendix editorial consolidation for Logia 81-114, beginning with Logia 81-90.
+Next active task: wealth/renunciation cluster-control.

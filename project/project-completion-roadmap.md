@@ -47,11 +47,11 @@
 | Паралельне видання | 37 рядків поточного reader |
 | Evidence dossier | Робочий v1.3 |
 | Print/digital publication architecture | Є, v0.1 |
-| Повний додаток до 114 логій | Є для всіх 114; усі секції мають читацьке пояснення; Logia 1-80 уже редакційно консолідовані, Logia 81-114 ще потребують інтеграції card-derived blocks і усунення дублювань |
+| Повний додаток до 114 логій | Є для всіх 114; усі секції мають читацьке пояснення; Logia 1-114 уже редакційно консолідовані як print-safe книжковий додаток |
 | Structural QA baseline | Є: `tools/qa_crosscheck.py` перевіряє 114 карток, 114 appendix-секцій, синхронізацію clean-reader шарів і точні appendix anchors |
 | Cluster-control notes | Розпочато; living/dead/world, beatitudes, seek/find, family-renunciation і fire/kingdom passes v0.1 виконано |
 | Inclusion decisions table | Є як робоча таблиця; all-114 publication decision table v0.1 створено як головний контрольний документ перед appendix/dossier polish |
-| Open-task prompt queue | Є: `project/open-task-prompt-queue-2026-07-18.md`; поточний `NEXT` - appendix editorial consolidation Logia 81-90 |
+| Open-task prompt queue | Є: `project/open-task-prompt-queue-2026-07-18.md`; поточний `NEXT` - wealth/renunciation cluster-control |
 
 ## Поточний склад clean reader
 
@@ -212,7 +212,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: print-safe full appendix editorial consolidation для Logia 81-114, починаючи з Logia 81-90. Greek-layer freeze після Phase B metadata-coherence і duplicate-status prose audit виконано; evidence dossier publication pass лишається наступним великим публікаційним кроком після appendix-консолідації та бібліографічного проходу.
+Найважливіша наступна дія: wealth/renunciation cluster-control. Greek-layer freeze після Phase B metadata-coherence і duplicate-status prose audit виконано; full appendix consolidation для Logia 1-114 виконано; evidence dossier publication pass лишається наступним великим публікаційним кроком після research-control closure та бібліографічного проходу.
 
 Перед початком і після завершення пакета запускати:
 
@@ -231,6 +231,9 @@ python3 tools/qa_crosscheck.py
 - Logia 51-60.
 - Logia 61-70.
 - Logia 71-80.
+- Logia 81-90.
+- Logia 91-100.
+- Logia 101-114.
 
 Виконано також:
 
@@ -239,10 +242,10 @@ python3 tools/qa_crosscheck.py
 
 Наступний рекомендований пакет:
 
-- Print-safe full appendix editorial consolidation для Logia 81-90.
+- Wealth/renunciation cluster-control.
 
 Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63; пізніші controlled passes додали 46A, 91A і 103A як марковані ядра. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; P1 evidence-rationale packages виконано; основні cluster-control passes і Greek-layer freeze виконано. Тепер найвидиміше слабке місце - публікаційна редактура appendix/dossier.
 
-Після reader-interpretation expansion v0.1 і full-appendix reader-interpretation sync v0.1 усі 114 карток і всі 114 appendix-секцій мають читацький шар. Editorial consolidation виконано для Logia 1-80. Усі 37 clean-reader одиниць мають точний `Чистий текст реконструкції` anchor у full appendix. Наступний якісний крок за `project/open-task-prompt-queue-2026-07-18.md` - продовжити вирівнювання appendix пакетом Logia 81-90, прибираючи дублювання між старими розгорнутими секціями й новим синхронізованим блоком, а потім перейти до wealth/renunciation cluster-control.
+Після reader-interpretation expansion v0.1 і full-appendix reader-interpretation sync v0.1 усі 114 карток і всі 114 appendix-секцій мають читацький шар. Editorial consolidation виконано для Logia 1-114. Усі 37 clean-reader одиниць мають точний `Чистий текст реконструкції` anchor у full appendix. Наступний якісний крок за `project/open-task-prompt-queue-2026-07-18.md` - закрити wealth/renunciation cluster-control, а потім перейти до evidence dossier publication pass.
 
 Цей наступний пакет має вже виконувати нове print-safe правило: не покладатися на клікабельні посилання як єдиний апарат, а давати друковані відповідники для кожного важливого джерельного або паралельного посилання.
