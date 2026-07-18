@@ -37,7 +37,7 @@
 - 114 карток мають `Five-source original-language apparatus v0.1`: P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, коптський NHC II і canonical Greek control channel прямо всередині картки; canonical Greek заповнено для 81 картки.
 - 114 карток мають окремий розділ `Читацьке тлумачення`: простий сенс, можливі прочитання, значення для реконструкції й застереження; це покриває також відкинуті та appendix-only логії.
 - Full 114-logion appendix має всі 114 логій і тепер синхронізований із картковим шаром `Читацьке тлумачення`: кожна логія має базове читацьке пояснення, а раніше розгорнуті секції збережені як сильніші локальні коментарі.
-- Перші шість editorial consolidation packages виконано для appendix Logia 1-60: дубльовані card-derived blocks прибрано, Logia 7-8 більше не є skeleton-style entries, а Logia 11-60 отримали цілісні print-safe читацькі пояснення з окремим розділом меж непевності.
+- Перші вісім editorial consolidation packages виконано для appendix Logia 1-80: дубльовані card-derived blocks прибрано, Logia 7-8 більше не є skeleton-style entries, а Logia 11-80 отримали цілісні print-safe читацькі пояснення з окремим розділом меж непевності.
 - Print/digital publication architecture v0.1 зафіксовано: наступні appendix/editorial passes мають писатися print-safe, з окремим digital-only scholarly apparatus.
 - Technical QA baseline закрито: `tools/qa_crosscheck.py` перевіряє 114 карток, 114 appendix-секцій, синхронізацію 37 clean-reader одиниць у мовних шарах і наявність точних `Чистий текст реконструкції` anchors для всіх включених логій.
 - Перший Phase 5 appendix pass виконано для P1 non-reader логій 23, 24, 28, 29, 30, 37, 38, 75, 77, 104 і 106.
@@ -55,8 +55,8 @@
 
 ## Найближчий робочий цикл
 
-1. Виконувати наступні задачі через `project/open-task-prompt-queue-2026-07-18.md`; поточний `NEXT` - print-safe full appendix editorial consolidation для Logia 61-70.
+1. Виконувати наступні задачі через `project/open-task-prompt-queue-2026-07-18.md`; поточний `NEXT` - print-safe full appendix editorial consolidation для Logia 81-90.
 2. Перед і після кожного великого проходу запускати `python3 tools/qa_crosscheck.py`, щоб одразу ловити розсинхрони нумерації, clean-reader складу й appendix anchors.
-3. Після appendix 61-70 виконати wealth/renunciation cluster-control prompt.
+3. Після appendix 81-90 виконати wealth/renunciation cluster-control prompt або продовжити appendix 91-100, якщо пріоритетом лишається безперервна книжкова редактура.
 4. Продовжити ritual-ethics / bridegroom follow-up для 104A після wealth/renunciation або dossier pass.
 5. Після цього виконати evidence dossier publication pass і clean-reader freeze pass.

@@ -2,23 +2,23 @@
 
 ## Scope
 
-This pass updated active project documentation after the print/digital publication architecture decision, the completion of full appendix editorial consolidation packages for Logia 1-60, and the technical-debt closure pass.
+This pass updated active project documentation after the print/digital publication architecture decision, the completion of full appendix editorial consolidation packages for Logia 1-80, the technical-debt closure pass, and the Greek-layer freeze.
 
 ## Current Canonical Status
 
-- Clean Ukrainian reader: 34 logia or included cores.
-- English, Coptic, Greek, Arabic literary, and parallel layers: synchronized for the current 34-unit reader.
+- Clean Ukrainian reader: 37 logia or included cores.
+- English, Coptic, Greek, and parallel layers: synchronized for the current 37-unit reader.
 - Full 114-logion appendix: 114/114 logion sections.
 - Appendix source/control sections: 114/114.
-- Appendix editorial consolidation: Logia 1-60 complete.
-- Remaining unconsolidated card-derived appendix blocks: 53.
-- Remaining working-index skeleton phrases: 38.
+- Appendix editorial consolidation: Logia 1-80 complete.
+- Remaining unconsolidated card-derived appendix blocks: 31.
+- Remaining working-index skeleton phrases: 20.
 - Evidence/control inventory: complete.
 - All-114 publication decision table: complete v0.1.
 - `NEEDS_EVIDENCE_BEFORE_FINAL`: 0.
 - Print/digital publication architecture: complete v0.1.
 - Technical QA baseline: complete in `tools/qa_crosscheck.py`.
-- Exact clean-text anchors in full appendix: complete for all 34 current clean-reader units.
+- Exact clean-text anchors in full appendix: complete for all 37 current clean-reader units.
 
 ## Documents Updated
 
@@ -44,10 +44,11 @@ This pass updated active project documentation after the print/digital publicati
 
 ## Main Corrections
 
-- Replaced older descriptions of the full appendix as a mostly skeletal expansion target with the current state: full 114-section coverage, with Logia 1-60 editorially consolidated and Logia 61-114 pending consolidation.
+- Replaced older descriptions of the full appendix as a mostly skeletal expansion target with the current state: full 114-section coverage, with Logia 1-80 editorially consolidated and Logia 81-114 pending consolidation.
 - Replaced older evidence-gap language with the current evidence-control state: evidence/control inventory complete and `NEEDS_EVIDENCE_BEFORE_FINAL` reduced to 0.
 - Added print/digital publication architecture references to active navigation and product documents.
-- Updated the recommended next step to print-safe full appendix editorial consolidation for Logia 61-70.
+- Added Greek-layer freeze status: extant, partial/lacunose, and hypothetical retroversion labels are now publication-safe for the current 37-unit clean reader.
+- Updated the recommended next step to print-safe full appendix editorial consolidation for Logia 81-90.
 - Added the reusable structural QA baseline and documented that `python3 tools/qa_crosscheck.py` must be run before and after major editorial/generation passes.
 - Documented the accepted heading-format differences across language layers and the exact clean-text appendix anchors for all current reader units.
 - Preserved historical dates and completed-pass context where documents are primarily audit records, but added superseded next-step notes where old guidance could mislead current work.
@@ -67,10 +68,10 @@ This pass updated active project documentation after the print/digital publicati
 - Appendix metrics verified:
   - 114 logion headings
   - 114 source/control sections
-  - 53 remaining card-derived blocks
-  - 38 remaining working-index skeleton phrases
+  - 31 remaining card-derived blocks
+  - 20 remaining working-index skeleton phrases
 - `python3 tools/qa_crosscheck.py` passed.
 
 ## Current Next Step
 
-Proceed with print-safe full appendix editorial consolidation for Logia 61-70, using `project/print-and-digital-publication-architecture.md` as a controlling document and `tools/qa_crosscheck.py` as the structural guardrail.
+Proceed with print-safe full appendix editorial consolidation for Logia 81-90, using `project/print-and-digital-publication-architecture.md` as a controlling document and `tools/qa_crosscheck.py` as the structural guardrail.

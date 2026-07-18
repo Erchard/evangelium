@@ -66,7 +66,9 @@ Whoever has become rich, let that one reign; and whoever has power, let that one
 
 У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `UNCERTAIN`.
 
@@ -76,7 +78,9 @@ Whoever has become rich, let that one reign; and whoever has power, let that one
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `UNCERTAIN`.
 - Reader text: NO.
@@ -98,7 +102,8 @@ Whoever has become rich, let that one reign; and whoever has power, let that one
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-081-evidence-en.md`
 - Synoptic/control files:
-  - CREATE_CONTROL_FILE: Create a wealth/renunciation control with Logia 63 and 110 before treating the two-part contrast as an early core.
+  - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logia-081-110-wealth-renunciation-controls.md`
+  - Wealth-control decision: Logion 81 remains appendix-only; its wealth/power/renunciation logic is internally important but not externally controlled enough for clean-reader promotion.
 - Cluster/context notes:
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 
@@ -177,7 +182,7 @@ Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-081-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `controls/synoptic-parallels/logia-081-110-wealth-renunciation-controls.md`
 
 ### Greek/Coptic Policy
 

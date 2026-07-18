@@ -84,6 +84,6 @@
 Стан після проходу:
 
 - 114/114 карток мають `## Gold-level status check v0.2`;
-- 34 логії/ядра зараз входять до clean Ukrainian reader;
+- 37 логій/ядер зараз входять до clean Ukrainian reader;
 - evidence/control inventory виконано; direct evidence-note coverage піднято до 91 логії, а `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0;
-- 59 логій ще потребують або evidence note, або явного no-note rationale перед публікаційним рівнем.
+- `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0; решта evidence work є публікаційною редактурою, а не блокером базового корпусного покриття.

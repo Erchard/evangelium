@@ -243,4 +243,4 @@ Acceptance criteria:
 
 ## Recommended Next Action
 
-Run `python3 tools/qa_crosscheck.py` before and after each major editorial pass, then continue print-safe full appendix editorial consolidation for Logia 61-70. After that, close the wealth/renunciation cluster-control group and move toward the evidence dossier publication pass.
+Run `python3 tools/qa_crosscheck.py` before and after each major editorial pass, then continue print-safe full appendix editorial consolidation for Logia 81-90. After that, close the wealth/renunciation cluster-control group and move toward the evidence dossier publication pass.

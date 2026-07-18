@@ -26,11 +26,11 @@
 - Greek retroversion confidence audit для всього current reader;
 - evidence dossier v1.3 як робочий, але ще не публікаційний документ;
 - print/digital publication architecture v0.1 як правило для майбутньої генерації української й англійської паперових книг та цифрового наукового апарату;
-- full 114-logion appendix: 114/114 секцій мають читацьке пояснення; Logia 1-60 уже editorially consolidated, Logia 61-114 ще потребують такого самого вирівнювання;
-- виконані full-appendix editorial consolidation packages для Logia 1-10, 11-20, 21-30, 31-40, 41-50 і 51-60;
+- full 114-logion appendix: 114/114 секцій мають читацьке пояснення; Logia 1-80 уже editorially consolidated, Logia 81-114 ще потребують такого самого вирівнювання;
+- виконані full-appendix editorial consolidation packages для Logia 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70 і 71-80;
 - all-114 publication decision table v0.1 і evidence-control inventory виконані; `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0.
 
-Найближчий editorial/research крок визначено в `project/open-task-prompt-queue-2026-07-18.md`: print-safe full appendix editorial consolidation для Logia 61-70, після нього wealth/renunciation cluster-control. Controlled reader passes уже розширили clean reader до 37 одиниць; all-114 publication decision table v0.1 також виконано.
+Найближчий editorial/research крок визначено в `project/open-task-prompt-queue-2026-07-18.md`: print-safe full appendix editorial consolidation для Logia 81-90, після нього wealth/renunciation cluster-control або наступний appendix package. Controlled reader passes уже розширили clean reader до 37 одиниць; all-114 publication decision table v0.1 також виконано.
 
 ## Повний додаток до всіх 114 логій
 

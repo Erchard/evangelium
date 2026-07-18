@@ -84,7 +84,9 @@
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `DEFER`.
 - Reader text: NO.
@@ -106,7 +108,8 @@
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-029-evidence-en.md`
 - Synoptic/control files:
-  - CREATE_CONTROL_FILE: Create a P.Oxy. 1 / body-spirit control before using the flesh/spirit/body-wealth aphorism.
+  - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logia-024-028-029-030-077-papyrus-boundary-controls.md`
+  - Papyrus-boundary decision: P.Oxy. 1 controls only the tiny final poverty overlap; full flesh/spirit/body wording remains hypothetical if retroverted into Greek.
 - Cluster/context notes:
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 

@@ -12,7 +12,7 @@ The clean reader is persuasive only if the evidence trail is transparent. The do
 
 Preferably execute after:
 
-- full appendix consolidation through at least Logia 61-70;
+- full appendix consolidation through at least Logia 1-80;
 - wealth/renunciation cluster-control;
 - Logion 114 exclusion rationale;
 - bibliography/rights/citation pass.

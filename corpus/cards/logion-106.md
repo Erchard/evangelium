@@ -67,7 +67,9 @@ When you make the two one, you will become sons of man; and when you say, "Mount
 
 Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `DEFER`.
 
@@ -77,7 +79,9 @@ When you make the two one, you will become sons of man; and when you say, "Mount
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `DEFER`.
 - Reader text: NO.
@@ -99,6 +103,7 @@ When you make the two one, you will become sons of man; and when you say, "Mount
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-106-evidence-en.md`
 - Synoptic/control files:
+  - `controls/synoptic-parallels/logia-040-048-062-canonical-cluster-controls.md`
   - `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`
 - Cluster/context notes:
   - `reconstruction/earliest-sayings-gospel/notes/thomas-unity-monachos-cluster-en.md`

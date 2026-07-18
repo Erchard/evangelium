@@ -79,7 +79,9 @@ Greek not extant in loaded Oxyrhynchus witnesses.
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `DEFER`.
 - Reader text: NO.
@@ -172,16 +174,16 @@ Local Greek canonical/control text currently transcribed:
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Current workflow status: `Primary card v0.1`. This records the workflow-matrix state only; it does not remove later apparatus added to this card.
-- Evidence note in matrix: NO.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-015-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `controls/synoptic-parallels/logia-008-020-022-high-candidate-controls.md`
 
 ### Greek/Coptic Policy
 

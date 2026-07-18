@@ -66,7 +66,9 @@ Blessed is the one who knows in which watch the thieves are coming, so that he m
 
 Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `INCLUDE_WITH_MARKER` для 103A; повна логія appendix-only.
 
@@ -76,9 +78,11 @@ Blessed is the one who knows in which watch the thieves are coming, so that he m
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
 
-- Рішення: `INCLUDE_WITH_MARKER` for thief/watchfulness core; full logion appendix-only.
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
+
+- Рішення: 103A `INCLUDE_WITH_MARKER`; full logion appendix-only.
 - Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: блаженний, хто знає час приходу злодія.

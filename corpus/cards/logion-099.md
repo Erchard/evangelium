@@ -68,7 +68,9 @@ Family-renunciation cluster-control: `reconstruction/earliest-sayings-gospel/not
 
 Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - змішати сам вислів із пізнішим поясненням або з нашою сучасною інтерпретацією.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: true-family core `INCLUDE_WITH_MARKER`; full logion `UNCERTAIN`.
 
@@ -78,7 +80,9 @@ Family-renunciation cluster-control: `reconstruction/earliest-sayings-gospel/not
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `INCLUDE_WITH_MARKER` for true-family core; full logion `UNCERTAIN`.
 - Reader text: YES.

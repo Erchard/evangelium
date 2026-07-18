@@ -62,7 +62,9 @@ The opening "I am the light / I am the All" has no loaded extant Greek Thomas wi
 
 Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `DEFER`.
 
@@ -72,7 +74,9 @@ The opening "I am the light / I am the All" has no loaded extant Greek Thomas wi
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `DEFER`.
 - Reader text: NO.
@@ -94,7 +98,8 @@ The opening "I am the light / I am the All" has no loaded extant Greek Thomas wi
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-077-evidence-en.md`
 - Synoptic/control files:
-  - CREATE_CONTROL_FILE: Create a P.Oxy. 1 / Logion 30 / 77b sequence-control file before using light-everywhere and wood/stone presence language.
+  - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logia-024-028-029-030-077-papyrus-boundary-controls.md`
+  - Papyrus-boundary decision: P.Oxy. 1 supports only the 77b stone/wood presence unit, not the full Coptic light/all opening.
 - Cluster/context notes:
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 

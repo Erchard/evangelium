@@ -85,7 +85,7 @@ The previous P0 drift is resolved:
 
 The major remaining work is editorial/research work, not basic technical consistency:
 
-- continue full appendix editorial consolidation from Logia 61-70;
+- continue full appendix editorial consolidation from Logia 81-90;
 - complete wealth/renunciation cluster-control;
 - write publication-level Logion 114 exclusion rationale;
 - prepare the evidence dossier for publication;

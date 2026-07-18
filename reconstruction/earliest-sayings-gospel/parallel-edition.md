@@ -1,6 +1,6 @@
 # Parallel Edition
 
-Status: working parallel edition v0.6.
+Status: working parallel edition v0.7; Greek-layer freeze checked 2026-07-18.
 
 This table aligns the current clean Ukrainian reader with compact Coptic, Greek, English, and decision layers. It is a working parallel edition, not a full critical apparatus. Full Coptic forms are kept in `reconstructed-gospel-coptic.md`; fuller Greek notes are kept in `reconstructed-gospel-greek.md`.
 

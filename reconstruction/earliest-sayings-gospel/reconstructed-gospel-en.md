@@ -1,6 +1,6 @@
 # A Reconstruction of the Earliest Sayings Gospel
 
-Status: working text v0.5. Synchronized with the 34-unit Ukrainian clean reader after the controlled clean-reader candidate pass.
+Status: working text v0.6. Synchronized with the current 37-unit Ukrainian clean reader after the controlled reader passes for 46A, 91A, and 103A.
 
 ## Logion 1
 

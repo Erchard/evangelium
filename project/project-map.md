@@ -7,12 +7,12 @@
 - Clean Ukrainian reader: 37 логій/ядер.
 - Англійський, коптський, грецький, арабський літературний і parallel шари синхронізовані для цих 37 одиниць.
 - Greek retroversion confidence audit створено; гіпотетичні ретроверсії не рахуються рукописними свідками.
-- Full 114-logion appendix існує для всіх 114 логій: усі секції мають читацьке пояснення; Logia 1-60 уже редакційно консолідовані, а Logia 61-114 ще потребують інтеграції card-derived blocks.
+- Full 114-logion appendix існує для всіх 114 логій: усі секції мають читацьке пояснення; Logia 1-80 уже редакційно консолідовані, а Logia 81-114 ще потребують інтеграції card-derived blocks.
 - Print/digital publication architecture v0.1 зафіксовано: українська й англійська паперові книги мають бути окремими самодостатніми виданнями, а повний source/evidence apparatus лишається цифровим companion layer.
 - Technical QA baseline закрито: `tools/qa_crosscheck.py` перевіряє структурну цілісність 114 карток, 114 appendix-секцій, clean-reader sync і точні appendix anchors.
 - Evidence dossier: робочий v1.3, ще не публікаційний.
-- All-114 publication decision table v0.1 виконано; перший Phase 5 P1 non-reader appendix package і evidence-rationale pass виконано; cluster-control passes для living/dead/world, beatitudes, seek/find, family-renunciation, fire/kingdom і thief/watchfulness груп виконано; Logion 1 frame-status review, Review C і controlled reader-candidate pass 46A/91A виконано; найближчий робочий пакет: full appendix editorial consolidation Logia 61-70 або wealth/renunciation cluster-control.
-- Open-task prompt queue створено: `project/open-task-prompt-queue-2026-07-18.md`; актуальний `NEXT` - appendix editorial consolidation Logia 61-70.
+- All-114 publication decision table v0.1 виконано; перший Phase 5 P1 non-reader appendix package і evidence-rationale pass виконано; cluster-control passes для living/dead/world, beatitudes, seek/find, family-renunciation, fire/kingdom і thief/watchfulness груп виконано; Logion 1 frame-status review, Review C і controlled reader-candidate pass 46A/91A виконано; найближчий робочий пакет: full appendix editorial consolidation Logia 81-90 або wealth/renunciation cluster-control.
+- Open-task prompt queue створено: `project/open-task-prompt-queue-2026-07-18.md`; актуальний `NEXT` - appendix editorial consolidation Logia 81-90.
 - Усі 114 карток логій мають `Gold-level status check v0.2`; актуальним card-quality audit є `corpus/cards/card-quality-audit-v0.2.md`.
 - Усі 114 карток логій мають `Five-source original-language apparatus v0.1`; актуальний аудит джерельного шару: `corpus/cards/five-source-apparatus-audit-v0.1.md`.
 - Усі 114 карток логій мають `Читацьке тлумачення` v0.1 для звичайного читача; актуальний аудит: `corpus/cards/reader-interpretation-expansion-audit-v0.1.md`.
@@ -38,7 +38,7 @@
 | Кінцевий продукт | `project/arabic-injil-layer-concept.md` | Концепція арабського Injil-layer: як ідея ісламського первісного Інжилю може бути чесно використана як міжрелігійна рамка для реконструкції. |
 | Кінцевий продукт | `project/arabic-injil-layer-editorial-policy.md` | Політика арабського Injil-layer: високий класичний / коранічно-суміжний регістр без претензії на суру, Коран або одкровення. |
 | Завершення | `project/project-completion-roadmap.md` | Актуальна дорожня карта: 37-unit reader, синхронізовані мовні шари, Greek audit, пакетне розгортання full appendix і публікаційні прогалини. |
-| Завершення | `project/open-task-prompt-queue-2026-07-18.md` | Активна черга високоякісних промптів для незакритих задач: appendix 61-70, wealth/renunciation, Logion 114, dossier, 104A, bibliography/rights, Greek polish. |
+| Завершення | `project/open-task-prompt-queue-2026-07-18.md` | Активна черга високоякісних промптів для незакритих задач: appendix 81-90, wealth/renunciation, Logion 114, dossier, 104A, bibliography/rights, Greek polish. |
 | Завершення | `project/open-task-prompt-factory-execution-v0.1.md` | Audit виконання prompt-factory pass: створено queue і набір поточних executable prompts. |
 | Завершення | `project/project-quality-audit-v0.1.md` | Актуалізований аудит якості v0.2: закриті попередні недоліки, нові P0/P1/P2 прогалини, поточні метрики й рекомендований наступний крок. |
 | Завершення | `project/project-quality-remediation-plan-v0.1.md` | Практичний план усунення недоліків після quality audit: фази, пріоритети, acceptance criteria і порядок доведення проекту до публікаційної якості. |
@@ -46,7 +46,7 @@
 | Завершення | `project/technical-debt-closure-2026-07-18.md` | Audit закриття поточних технічних боргів: QA script, appendix clean-text anchors, documented heading formats і Logion 63 status drift. |
 | Завершення | `tools/qa_crosscheck.py` | Reusable structural QA script: перевіряє 114 карток, 114 appendix-секцій, clean-reader синхронізацію, workflow/decision alignment і exact clean-text anchors. |
 | Завершення | `tools/probability_reader_audit.py` | Reusable audit script для перевірки напруги між probability profiles і clean-reader decisions. |
-| Завершення | `project/documentation-refresh-2026-07-18-v0.1.md` | Audit повної актуалізації активної документації після print/digital architecture pass, technical-debt closure і appendix consolidation Logia 1-60. |
+| Завершення | `project/documentation-refresh-2026-07-18-v0.1.md` | Audit повної актуалізації активної документації після print/digital architecture pass, technical-debt closure, Greek-layer freeze і appendix consolidation Logia 1-80. |
 | Завершення | `project/structure-cleanup-2026-07-18-v0.1.md` | Audit структурного cleanup: прибрано `.DS_Store`, порожні старі output folders і порожній `reconstruction/kernel-thomas/`; додано print/digital output README. |
 | Завершення | `reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md` | Контрольований reader pass після Reviews A/B: включено 45A, 47B і 63; решту кандидатів залишено appendix-only. |
 | Завершення | `project/publication-gap-audit-v0.2.md` | Аудит того, що ще відділяє проект від публікаційного рівня. |
@@ -66,8 +66,10 @@
 | Завершення | `reconstruction/earliest-sayings-gospel/evidence-control-inventory-v0.1.md` | Інвентаризація фактичних evidence notes і control files для 114 логій перед true all-114 publication decision table. |
 | Завершення | `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md` | Publication-control table для всіх 114 логій: після Package B `NEEDS_EVIDENCE_BEFORE_FINAL` = 0; після living/dead/world pass перший cluster-control документ уже привʼязаний до рішень. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-p1-non-reader-package-v0.1.md` | Audit виконаного Phase 5 appendix expansion для P1 non-reader логій 23, 24, 28, 29, 30, 37, 38, 75, 77, 104, 106. |
-| Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-reader-interpretation-sync-v0.1.md` | Audit синхронізації full appendix із картковим читацьким шаром: на момент sync 114/114 appendix-секцій отримали `Читацьке тлумачення з картки`; після editorial consolidation Logia 1-60 перші 60 секцій інтегровано в основний коментар. |
+| Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-reader-interpretation-sync-v0.1.md` | Audit синхронізації full appendix із картковим читацьким шаром: на момент sync 114/114 appendix-секцій отримали `Читацьке тлумачення з картки`; після editorial consolidation Logia 1-80 перші 80 секцій інтегровано в основний коментар. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-051-060-v0.1.md` | Audit виконаного print-safe editorial consolidation package для Logia 51-60. |
+| Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-061-070-v0.1.md` | Audit виконаного print-safe editorial consolidation package для Logia 61-70. |
+| Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-071-080-v0.1.md` | Audit виконаного print-safe editorial consolidation package для Logia 71-80. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-001-010-v0.1.md` | Перший editorial consolidation package для full appendix: Logia 1-10 перетворено на цілісні читацькі секції без дублювання card-derived blocks. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-011-020-v0.1.md` | Другий editorial consolidation package для full appendix: Logia 11-20 перетворено на цілісні читацькі секції; глобальний source-heading формат стандартизовано до 114/114. |
 | Завершення | `reconstruction/earliest-sayings-gospel/full-appendix-editorial-consolidation-021-030-v0.1.md` | Третій print-safe editorial consolidation package для full appendix: Logia 21-30 перетворено на цілісні читацькі секції без дублювання card-derived blocks. |
@@ -90,8 +92,9 @@
 | Завершення | `reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md` | Перевірка логій 76, 78, 79, 94, 103, 109, 113: які ядра промотувати в майбутній reader pass, а що лишити appendix-only. |
 | Робочий промпт | `project/ide-codex-master-project-prompt.md` | Головний промпт проекту для наступних кроків реконструкції, корпусної роботи, коментарів і фінального видання. |
 | Робочий промпт | `project/ide-codex-open-task-prompt-factory-v0.1-prompt.md` | Мета-промпт, який створює актуальну чергу високоякісних промптів для незакритих задач і визначає порядок виконання. |
-| Робочий промпт | `project/ide-codex-full-appendix-editorial-consolidation-061-070-v0.1-prompt.md` | Поточний `NEXT` prompt: print-safe editorial consolidation для appendix Logia 61-70. |
-| Робочий промпт | `project/ide-codex-wealth-renunciation-cluster-control-v0.1-prompt.md` | Поточний research prompt: cluster-control для wealth/renunciation групи після appendix 61-70. |
+| Робочий промпт | `project/ide-codex-full-appendix-editorial-consolidation-071-080-v0.1-prompt.md` | Промпт виконаного проходу: print-safe editorial consolidation для appendix Logia 71-80. |
+| Робочий промпт | `project/ide-codex-full-appendix-editorial-consolidation-081-090-v0.1-prompt.md` | Поточний `NEXT` prompt: print-safe editorial consolidation для appendix Logia 81-90. |
+| Робочий промпт | `project/ide-codex-wealth-renunciation-cluster-control-v0.1-prompt.md` | Поточний research prompt: cluster-control для wealth/renunciation групи після поточного appendix-пакета або як окремий research pass. |
 | Робочий промпт | `project/ide-codex-logion-114-publication-exclusion-rationale-v0.1-prompt.md` | Prompt для publication-level exclusion rationale логії 114. |
 | Робочий промпт | `project/ide-codex-gold-card-quality-normalization-v0.2-prompt.md` | Промпт виконаного проходу: підняти всі 114 карток до єдиного gold-level status check v0.2 без передчасного промотування нових логій. |
 | Робочий промпт | `project/ide-codex-five-source-card-apparatus-v0.1-prompt.md` | Промпт виконаного проходу: внести в кожну картку пʼять джерельних каналів із текстами або явною позначкою відсутності. |
@@ -123,7 +126,7 @@
 | Реконструкція | `reconstruction/earliest-sayings-gospel/README.md` | Карта поточного реконструкційного пакета: clean reader, apparatus, мовні шари, dossier, full appendix і Greek audit. |
 | Реконструкція | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md` | Чистий український текст реконструкції: лише пронумеровані логії, без статусів і коментарів. |
 | Реконструкція | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-ar-quranic-register.md` | Арабський літературний reader layer для 37 поточних логій у високому класичному регістрі з явною редакційною межею: не Коран і не сура. |
-| Реконструкція | `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` | Повний український додаток до 114 логій: усі логії мають статус, рішення й джерельні блоки; Logia 1-60 уже мають інтегрований читацький коментар, Logia 61-114 ще потребують фінальної editorial consolidation. |
+| Реконструкція | `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md` | Повний український додаток до 114 логій: усі логії мають статус, рішення й джерельні блоки; Logia 1-80 уже мають інтегрований читацький коментар, Logia 81-114 ще потребують фінальної editorial consolidation. |
 | Реконструкція | `reconstruction/earliest-sayings-gospel/greek-retroversion-confidence-audit-v0.1.md` | Контроль грецького шару: extant, lacunose, partial, mixed і hypothetical retroversion. |
 
 ## Принцип роботи

@@ -79,7 +79,9 @@ Greek not extant in loaded Oxyrhynchus witnesses.
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `UNCERTAIN`.
 - Reader text: NO.
@@ -182,7 +184,7 @@ Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-018-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `controls/synoptic-parallels/logia-008-020-022-high-candidate-controls.md`
 - Cluster-control support: `reconstruction/earliest-sayings-gospel/notes/living-dead-world-cluster-control-en.md`
 
 ### Greek/Coptic Policy

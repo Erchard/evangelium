@@ -67,7 +67,9 @@ They said to Jesus, "Come, let us pray today and fast." Jesus said, "What sin ha
 
 Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `DEFER_TO_CLUSTER_BEFORE_READER_DECISION` for bridegroom-fasting core; full logion appendix-only.
 
@@ -77,7 +79,9 @@ They said to Jesus, "Come, let us pray today and fast." Jesus said, "What sin ha
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `DEFER_TO_CLUSTER_BEFORE_READER_DECISION` for bridegroom-fasting core; full logion appendix-only.
 - Reader text: NO.
@@ -173,12 +177,12 @@ Local Greek canonical/control text currently transcribed:
 
 ### Publication Status
 
-- Current decision: `DEFER`.
+- Current decision: `DEFER_TO_CLUSTER_BEFORE_READER_DECISION` for bridegroom-fasting core; full logion appendix-only.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Current workflow status: `Evidence rationale v0.2; ritual-ethics cluster; Review C v0.1`.
 - Evidence note in matrix: YES.
-- Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
+- Clean-reader implication: Не друкувати в clean reader зараз; провести окремий bridegroom-fasting / ritual-ethics follow-up перед будь-яким reader decision.
 
 ### Evidence Links
 

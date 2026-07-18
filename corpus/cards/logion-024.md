@@ -87,7 +87,9 @@ This Greek fragment does not preserve the Coptic light saying as loaded here. It
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `DEFER`.
 - Reader text: NO.
@@ -109,7 +111,8 @@ This Greek fragment does not preserve the Coptic light saying as loaded here. It
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-024-evidence-en.md`
 - Synoptic/control files:
-  - CREATE_CONTROL_FILE: Create a P.Oxy. 655 / Coptic light-person boundary control before promoting or retroverting this unit.
+  - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logia-024-028-029-030-077-papyrus-boundary-controls.md`
+  - Papyrus-boundary decision: P.Oxy. 655 remains a possible/uncertain Thomas 24(?) association, not direct Greek support for the Coptic light/person-of-light saying.
 - Cluster/context notes:
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 

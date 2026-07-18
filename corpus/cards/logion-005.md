@@ -120,7 +120,9 @@ Evidence note: `reconstruction/earliest-sayings-gospel/notes/logion-005-evidence
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `INCLUDE_WITH_MARKER`.
 - Reader text: YES.

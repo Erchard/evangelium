@@ -1,6 +1,6 @@
 # Coptic Base Witness
 
-Status: working text v0.5. The Coptic text is not itself the reconstructed early layer; it is the main complete surviving witness used as a base for reconstruction. This file is synchronized with the 34-unit Ukrainian clean reader.
+Status: working text v0.6. The Coptic text is not itself the reconstructed early layer; it is the main complete surviving witness used as a base for reconstruction. This file is synchronized with the current 37-unit Ukrainian clean reader.
 
 ## Logion 1
 

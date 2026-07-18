@@ -65,7 +65,9 @@ They said to him, "Tell us who you are, so that we may believe in you." He said,
 
 Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: 91A `INCLUDE_WITH_MARKER`; повна логія appendix-only.
 
@@ -75,9 +77,11 @@ They said to him, "Tell us who you are, so that we may believe in you." He said,
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
 
-- Рішення: 91A `INCLUDE_WITH_MARKER`; повна логія appendix-only.
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
+
+- Рішення: 91A `INCLUDE_WITH_MARKER`; full logion appendix-only.
 - Reader text: YES.
 - Greek witness status: Greek retroversion, hypothetical.
 - Попередній шар: розпізнати небо/землю, але не цей час.
@@ -178,7 +182,7 @@ Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-091-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `controls/synoptic-parallels/logion-091-recognition-time-controls.md`
 
 ### Greek/Coptic Policy
 

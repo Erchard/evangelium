@@ -64,7 +64,9 @@ Come to me, for my yoke is kind, my lordship is gentle, and you will find rest f
 
 Грецький контроль є важливим, але його треба читати уважно: папірусні свідчення часто фрагментарні, а реконструйовані лакуни не мають тієї самої ваги, що збережені слова. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 
@@ -74,7 +76,9 @@ Come to me, for my yoke is kind, my lordship is gentle, and you will find rest f
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
@@ -168,12 +172,12 @@ Local Greek canonical/control text currently transcribed:
 
 ### Publication Status
 
-- Current decision: `UNCERTAIN`.
+- Current decision: `KEEP_APPENDIX_ONLY_FOR_NOW`.
 - Reader text: NO.
 - Greek witness status: Greek retroversion, hypothetical.
 - Current work status: Evidence note v0.1; control file v0.1.
 - Evidence note in matrix: YES.
-- Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
+- Clean-reader implication: Не входить до clean reader на цьому етапі; у додатку пояснити Matthew-dependence risk і причину appendix-only рішення.
 
 ### Evidence Links
 

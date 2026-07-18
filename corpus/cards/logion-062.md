@@ -57,7 +57,9 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 62.
 
 У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `UNCERTAIN`.
 
@@ -67,7 +69,9 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 62.
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `UNCERTAIN`.
 - Reader text: NO.
@@ -89,7 +93,8 @@ No loaded Greek Oxyrhynchus witness preserves Thomas 62.
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-062-evidence-en.md`
 - Synoptic/control files:
-  - CREATE_CONTROL_FILE: Create a secrecy/almsgiving right-left control with Matthew 6:3 and the ritual-ethics cluster.
+  - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logia-040-048-062-canonical-cluster-controls.md`
+  - Canonical/cluster decision: Matthew 6:3 controls the right/left-hand ethical subunit; the mystery frame remains Thomasine apparatus material.
 - Cluster/context notes:
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 
@@ -168,7 +173,7 @@ Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-062-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `controls/synoptic-parallels/logia-040-048-062-canonical-cluster-controls.md`
 
 ### Greek/Coptic Policy
 

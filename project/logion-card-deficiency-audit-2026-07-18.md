@@ -97,7 +97,7 @@ High-value semantic review targets:
 
 - duplicated status blocks where the later block silently overrides the earlier one;
 - evidence/control warnings that may be stale after notes and cluster controls were added;
-- cards with no Greek Oxyrhynchus witness where the distinction between "no direct Greek witness" and "possible retroverted Greek Vorlage" must stay explicit.
+- cards with no Greek Oxyrhynchus witness where the distinction between "no direct Greek witness" and "possible retroverted Greek Vorlage" must stay explicit. This risk is now controlled at the publication Greek-layer level by `project/greek-layer-freeze-audit-2026-07-18.md`.
 
 ## Remediation Completed On 2026-07-18
 
@@ -146,14 +146,24 @@ Additional card-control remediation completed:
 - Synoptic/control gap classification completed for 47 logia. Current synoptic/control `TRUE_GAP` count: 0. Classification inventory is recorded in `project/synoptic-control-gap-classification-2026-07-18.md`:
   - `MERGE_WITH_EXISTING_CLUSTER`: 15
   - `MERGE_WITH_EXISTING_CONTROL`: 1
-  - `CREATE_CONTROL_FILE`: 17
+  - `CREATE_CONTROL_FILE_RESOLVED`: 17
+  - `CREATE_CONTROL_FILE`: 0
   - `NO_DIRECT_CONTROL_RATIONALE`: 14
+- Papyrus-boundary technical control package created and linked for Logia 24, 28, 29, 30, and 77: `controls/synoptic-parallels/logia-024-028-029-030-077-papyrus-boundary-controls.md`.
+- Canonical/cluster technical control package created and linked for Logia 40, 48, and 62, with Logion 106 linked as internal control for 48: `controls/synoptic-parallels/logia-040-048-062-canonical-cluster-controls.md`.
+- Wealth-renunciation / anti-world technical control package created and linked for Logia 81 and 110: `controls/synoptic-parallels/logia-081-110-wealth-renunciation-controls.md`.
+- Image / preexistence / Adam / deathlessness technical control package created and linked for Logia 83, 84, and 85: `controls/synoptic-parallels/logia-083-084-085-image-preexistence-controls.md`.
+- Body-soul anthropology technical control package created and linked for Logia 87 and 112: `controls/synoptic-parallels/logia-087-112-body-soul-controls.md`.
+- Revelation/transmission technical control package created and linked for Logion 88: `controls/synoptic-parallels/logion-088-revelation-transmission-controls.md`.
+- Mary/Peter/gender-transformation exclusion control package created and linked for Logion 114: `controls/synoptic-parallels/logion-114-mary-peter-gender-exclusion-controls.md`.
+- Phase B metadata-coherence pass completed: 51 card gold-level evidence/control blocks, workflow-matrix evidence-note flags, and 23 stale all-114 decision-table rows were synchronized. Details: `project/card-decision-coherence-audit-2026-07-18.md`.
+- Phase B.2 duplicate-status prose audit completed: old status headings were renamed, 0 local/gold-level decision conflicts remain, and split-core wording was normalized. Details: `project/duplicate-status-prose-audit-2026-07-18.md`.
 
 ## Recommended Fix Order
 
-1. Create the highest-priority technical control files from the `CREATE_CONTROL_FILE` group, starting with papyrus-boundary controls for Logia 24, 28, 29, 30, and 77.
-2. Review duplicated decision sections where the later block silently overrides the earlier one.
-3. Audit cards with no direct Greek Oxyrhynchus witness and ensure each one clearly distinguishes no extant direct Greek witness from a cautious retroverted Greek Vorlage.
+1. Continue print-safe appendix consolidation after the completed Greek-layer freeze, beginning with Logia 61-70.
+2. Prepare the evidence dossier publication pass with source hierarchy, methodology, bibliography, and inclusion/exclusion defense.
+3. Run the later Greek retroversion publication polish against academic editions after appendix and bibliography work, but do not reopen the basic witness-status freeze unless new source evidence is added.
 
 ## Validation Commands
 
@@ -165,4 +175,4 @@ git diff --check
 
 ## Recommended Next Prompt
 
-Create the papyrus-boundary technical control package for Logia 24, 28, 29, 30, and 77. For each unit, state the extant Greek/Coptic witness status, boundary problem, reconstruction risk, and current decision implication. Link the new control file(s) back into the cards and update `project/synoptic-control-gap-classification-2026-07-18.md`. Do not change clean-reader membership during this documentary pass.
+Run print-safe full appendix editorial consolidation for Logia 61-70. Preserve the clean reader unchanged, remove card-export duplication, make each appendix section readable on paper without relying on clickable links, retain digital source/control paths in the scholarly layer, and rerun structural QA.

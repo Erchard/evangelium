@@ -39,7 +39,8 @@ Current classification counts:
 
 - `MERGE_WITH_EXISTING_CLUSTER`: 15
 - `MERGE_WITH_EXISTING_CONTROL`: 1
-- `CREATE_CONTROL_FILE`: 17
+- `CREATE_CONTROL_FILE_RESOLVED`: 17
+- `CREATE_CONTROL_FILE`: 0
 - `NO_DIRECT_CONTROL_RATIONALE`: 14
 
 ## Remediation Rule
@@ -54,4 +55,4 @@ Do not change clean-reader membership during this documentary pass.
 
 ## Recommended Next Step
 
-Create the highest-priority technical control files from the `CREATE_CONTROL_FILE` group, starting with the papyrus-boundary controls for Logia 24, 28, 29, 30, and 77.
+Run the next publication-quality pass: card decision coherence audit for duplicated or superseded status blocks, followed by Greek-layer freeze and appendix publication editing.

@@ -65,7 +65,9 @@ Simon Peter said to them, "Let Mary leave us, for women are not worthy of life."
 
 У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - прочитати пізню сцену як прямий голос найдавнішої традиції.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `EXCLUDE_AS_SECONDARY`.
 
@@ -75,7 +77,9 @@ Simon Peter said to them, "Let Mary leave us, for women are not worthy of life."
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `EXCLUDE_AS_SECONDARY`.
 - Reader text: NO.
@@ -97,7 +101,8 @@ Simon Peter said to them, "Let Mary leave us, for women are not worthy of life."
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-114-evidence-en.md`
 - Synoptic/control files:
-  - CREATE_CONTROL_FILE: Create a publication-facing Mary/Peter/gender-transformation exclusion control; this is a secondary exclusion, not merely lack of evidence.
+  - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logion-114-mary-peter-gender-exclusion-controls.md`
+  - Control decision: Mary/Peter/gender-transformation scene is a publication-facing secondary exclusion; keep it in the appendix with full rationale, not in the clean reader.
 - Cluster/context notes:
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 
@@ -167,16 +172,16 @@ Local Greek canonical/control text currently transcribed:
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Current workflow status: `Primary card v0.1`. This records the workflow-matrix state only; it does not remove later apparatus added to this card.
-- Evidence note in matrix: NO.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Не входить до clean reader; у додатку використати як прозорий приклад вторинного або редакційного шару.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-114-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `controls/synoptic-parallels/logion-114-mary-peter-gender-exclusion-controls.md`
 
 ### Greek/Coptic Policy
 

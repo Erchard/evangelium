@@ -66,7 +66,9 @@ Adam came into being from great power and great wealth, yet he was not worthy of
 
 У завантаженому корпусі немає прямого грецького папірусного свідка для цієї логії, тому будь-яка грецька форма була б реконструкцією, а не рукописним фактом. Головний ризик - дати читачеві надто впевнений висновок там, де доказ ще тримається на зіставленні мотивів, внутрішній логіці корпусу або неповних паралелях.
 
-## Попередній статус
+## Історичний локальний статус
+
+Примітка: цей блок збережено як історичний локальний шар. Якщо він розходиться з нижчим `Gold-level status check v0.2`, пріоритет має gold-level блок.
 
 Рішення: `DEFER`.
 
@@ -76,7 +78,9 @@ Adam came into being from great power and great wealth, yet he was not worthy of
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `DEFER`.
 - Reader text: NO.
@@ -98,7 +102,8 @@ Adam came into being from great power and great wealth, yet he was not worthy of
 - Evidence note:
   - `reconstruction/earliest-sayings-gospel/notes/logion-085-evidence-en.md`
 - Synoptic/control files:
-  - CREATE_CONTROL_FILE: Create an Adam/preexistence/deathlessness control with Logia 19 and 84.
+  - CREATE_CONTROL_FILE_RESOLVED: `controls/synoptic-parallels/logia-083-084-085-image-preexistence-controls.md`
+  - Control decision: Adam/deathlessness language is important for the appendix but remains scriptural-anthropological reflection rather than a recoverable clean-reader saying.
 - Cluster/context notes:
   - Not required for the current decision unless a future cluster-control pass reopens this logion.
 
@@ -168,16 +173,16 @@ Local Greek canonical/control text currently transcribed:
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
 - Current workflow status: `Primary card v0.1`. This records the workflow-matrix state only; it does not remove later apparatus added to this card.
-- Evidence note in matrix: NO.
+- Evidence note in matrix: YES.
 - Clean-reader implication: Рішення відкладене; не друкувати в clean reader, доки не буде окремого evidence/control pass.
 
 ### Evidence Links
 
 Evidence note / dossier files:
-- окремого evidence note ще немає; це видима прогалина для publication pass.
+- `reconstruction/earliest-sayings-gospel/notes/logion-085-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `controls/synoptic-parallels/logia-083-084-085-image-preexistence-controls.md`
 
 ### Greek/Coptic Policy
 

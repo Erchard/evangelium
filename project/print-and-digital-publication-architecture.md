@@ -173,7 +173,7 @@ The current source headings intentionally vary by layer:
 - Arabic literary register: `## قول N`
 - Ukrainian apparatus: `## Логія N`
 
-This is an accepted source-format difference. Final print may display clean numbers only, while tooling must parse each layer explicitly and verify that all reader layers keep the same 34-unit set.
+This is an accepted source-format difference. Final print may display clean numbers only, while tooling must parse each layer explicitly and verify that all reader layers keep the same 37-unit set.
 
 ## Commentary and Appendix Writing Rules
 

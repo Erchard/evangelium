@@ -111,7 +111,7 @@ Phase 4 created:
 Key findings:
 
 - 114/114 logia are covered;
-- 34 units remain `READER_INCLUDE_MARKED`;
+- 37 units are now `READER_INCLUDE_MARKED` after later controlled reader passes for 46A, 91A, and 103A;
 - 0 non-reader rows remain in `NEEDS_EVIDENCE_BEFORE_FINAL` after the Package B evidence-rationale pass;
 - the clean reader was not expanded in this pass.
 

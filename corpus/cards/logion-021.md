@@ -81,7 +81,9 @@ Greek not extant in loaded Oxyrhynchus witnesses.
 
 Еталон: `corpus/cards/logion-002.md`. Для складених або шарових логій додатковий практичний еталон: `corpus/cards/logion-006.md`.
 
-### Поточне рішення
+### Локальний зріз рішення
+
+Примітка: це локальний зріз картки; для публікаційної синхронізації використовувати нижчий `Gold-level status check v0.2`.
 
 - Рішення: `DEFER_TO_CLUSTER`; thief subunit control material.
 - Reader text: NO.
@@ -172,12 +174,12 @@ Local Greek canonical/control text currently transcribed:
 
 ### Publication Status
 
-- Current decision: `UNCERTAIN`.
+- Current decision: `DEFER_TO_CLUSTER`; thief subunit control material.
 - Reader text: NO.
 - Greek witness status: No loaded P.Oxy. witness.
-- Current work status: Evidence rationale v0.1.
+- Current workflow status: `Evidence rationale v0.2; thief/watchfulness cluster-control v0.1`.
 - Evidence note in matrix: YES.
-- Clean-reader implication: Не входить до clean reader без нового рішення; додаток має подати контекст, можливі тлумачення і причину обережності.
+- Clean-reader implication: Full Logion 21 remains appendix-only; its thief/watchfulness subunit functions as control material for 103A, not as a separate clean-reader unit.
 
 ### Evidence Links
 
@@ -185,7 +187,7 @@ Evidence note / dossier files:
 - `reconstruction/earliest-sayings-gospel/notes/logion-021-evidence-en.md`
 
 Synoptic/control files:
-- окремого control file ще немає; перевірити синоптичні, внутрішні й міжтекстові паралелі перед фінальним рішенням.
+- `controls/synoptic-parallels/logion-103-thief-watchfulness-controls.md`
 
 ### Greek/Coptic Policy
 
