@@ -32,7 +32,8 @@ Run `python3 tools/qa_crosscheck.py` before and after every task that changes cl
 | 13 | `DONE` | Generator-ready Ukrainian and English books | `project/ide-codex-generator-ready-books-v0.1-prompt.md` | `project/generator-ready-books-pass-v0.1.md` |
 | 14 | `DONE` | Final bibliography and rights verify | `project/ide-codex-final-bibliography-rights-verify-v0.1-prompt.md` | `project/final-bibliography-rights-verify-v0.1.md` |
 | 15 | `DONE` | Print / digital render proof preparation | `project/ide-codex-print-digital-render-proof-v0.1-prompt.md` | `project/print-digital-render-proof-prep-v0.1.md` |
-| 16 | `NEXT` | Render pipeline and first proofs | `project/ide-codex-render-pipeline-first-proofs-v0.1-prompt.md` | Generate first proof artifacts or a minimal reliable render scaffold |
+| 16 | `DONE` | Render pipeline and first proofs | `project/ide-codex-render-pipeline-first-proofs-v0.1-prompt.md` | `project/render-pipeline-first-proofs-v0.1.md` |
+| 17 | `NEXT` | First proof QA and layout corrections | `project/ide-codex-first-proof-qa-layout-corrections-v0.1-prompt.md` | Inspect first proofs, fix visible layout defects, re-render |
 
 ## Completed Recent Dependencies
 
@@ -58,10 +59,11 @@ Run `python3 tools/qa_crosscheck.py` before and after every task that changes cl
 | Generator-ready Ukrainian and English books | `project/generator-ready-books-pass-v0.1.md` |
 | Final bibliography and rights verify | `project/final-bibliography-rights-verify-v0.1.md` |
 | Print / digital render proof preparation | `project/print-digital-render-proof-prep-v0.1.md` |
+| Render pipeline and first proofs | `project/render-pipeline-first-proofs-v0.1.md` |
 
 ## Why The Next Task Is Final Bibliography And Rights Verify
 
-The project now has full corpus coverage, reader interpretation coverage, all-114 decision control, a frozen 37-unit clean reader, consolidated appendix prose for all Logia 1-114, a publication-facing evidence dossier draft v1.4, completed Greek retroversion publication polish, completed final clean-reader freeze, first generator-ready Ukrainian/English book source packages plus a digital companion manifest, completed final bibliography / rights verification, and completed print/digital render proof preparation. The strongest remaining production risk is actual rendering: choose a reliable renderer, generate first proofs, and run visual/text QA.
+The project now has full corpus coverage, reader interpretation coverage, all-114 decision control, a frozen 37-unit clean reader, consolidated appendix prose for all Logia 1-114, a publication-facing evidence dossier draft v1.4, completed Greek retroversion publication polish, completed final clean-reader freeze, first generator-ready Ukrainian/English book source packages plus a digital companion manifest, completed final bibliography / rights verification, completed print/digital render proof preparation, and first HTML/PDF proof artifacts. The strongest remaining production risk is proof QA: inspect generated pages, fix visible layout defects, and improve table/front-matter/index design.
 
 ## Execution Note
 

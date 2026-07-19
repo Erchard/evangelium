@@ -4,9 +4,9 @@ Status: active remediation plan, 2026-07-18.
 
 ## Current Readiness Estimate
 
-Working estimate: 96%.
+Working estimate: 97%.
 
-The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, and render-proof preparation are in place. The remaining work is first proof generation, visual/text proof QA, and final corrections.
+The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, render-proof preparation, and first proof artifacts are in place. The remaining work is visual/text proof QA, layout correction, final indexes/front matter, and final corrections.
 
 ## Primary Defects To Remove
 
@@ -24,7 +24,8 @@ The project is no longer blocked by corpus coverage. The main text, all 114 card
 | 7 | Final product generation | PARTIAL: generator-ready source packages and digital companion manifest exist; final rendering/proofing not yet complete. | Ukrainian and English print-ready books plus digital scholarly companion can be generated and checked. |
 | 8 | Final bibliography and rights verify | CLOSED: release-level bibliography and source-rights pass completed. | Bibliography and rights status are safe for proof preparation or clearly marked as protected/control-only. |
 | 9 | Print / digital render proof preparation | CLOSED: paper books and digital companion checked at proof-prep level. | Ukrainian and English paper sources are print-safe, digital apparatus remains complete, and rendering blockers are listed. |
-| 10 | Render pipeline and first proofs | NEXT: choose minimal renderer and generate first proof artifacts or scaffold. | Ukrainian, English, and digital companion proofs exist or rendering blocker is explicitly documented. |
+| 10 | Render pipeline and first proofs | CLOSED: minimal renderer and first proof artifacts created. | Ukrainian, English, and digital companion proofs exist or rendering blocker is explicitly documented. |
+| 11 | First proof QA and layout corrections | NEXT: inspect generated pages and fix visible proof defects. | Proofs have acceptable first-pass layout, no paper-only path leakage, and documented remaining design work. |
 
 ## Execution Order
 
@@ -107,4 +108,4 @@ CLOSED on 2026-07-18. The 37-unit clean reader is frozen for this edition. Ukrai
 
 CLOSED on 2026-07-18. First print-safe source packages were created for the Ukrainian and English paper books, and a digital scholarly companion manifest was created.
 
-Next active task: render pipeline and first proofs.
+Next active task: first proof QA and layout corrections.
