@@ -8,6 +8,8 @@ The project is approximately **99% complete as a scholarly proof package** and a
 
 The difference is important. The corpus, reconstruction logic, appendix architecture, multilingual layers, digital companion, and proof PDFs exist. What remains is not discovery work, but final publication discipline: reader-facing copyedit, professional production layout, external source/citation review, final visual QA, and release freeze.
 
+Update after final 100% execution pass on 2026-07-19: the Ukrainian paper-book generator now removes the most visible reader-facing technical noise (`marker`, `synoptic`, `control`, `profile`, `retroversion`, code-style backticks, accidental Markdown bold, and leftover English labels). The current concrete structural gap is appendix-ending normalization: all 114 logia have source and interpretation blocks, but only 78/114 currently have an explicit `Рішення щодо реконструкції` heading and only 1/114 has an explicit `Короткий висновок` heading.
+
 ## What Is Already Done
 
 - 114/114 logion cards exist.
@@ -34,6 +36,8 @@ The Ukrainian and English paper books are structurally complete and have passed 
 - theological ambiguity caused by phrasing rather than by evidence;
 - page-level reading rhythm;
 - any remaining places where the commentary feels like a memo instead of an explanation.
+
+Before human signoff, run one dedicated appendix-ending normalization pass so every logion has a plain-language decision section and short final conclusion.
 
 ### 2. Logion 1, Title, And First Words
 
@@ -87,21 +91,24 @@ The final release needs:
 
 ## Execution Order To Reach 100%
 
-1. **Logion 1 / title / opening-words decision**
+1. **All-114 appendix-ending normalization**
+   Add or normalize `Рішення щодо реконструкції` and `Короткий висновок` across all 114 logia before final human copyedit. This is now the clearest remaining structural gap in the Ukrainian paper book.
+
+2. **Logion 1 / title / opening-words decision**
    Decide whether the reconstructed text begins with the Logion 1 prologue or with the first included Jesus saying. This must be settled before final typesetting.
 
-2. **Production layout build**
+3. **Production layout build**
    Compile or hand off complete Ukrainian and English books through the Typst/professional production path.
 
-3. **Greek/Coptic rendering audit**
+4. **Greek/Coptic rendering audit**
    Render representative pages from the clean Greek section and appendix source sections. Fix glyph, font, spacing, and line-breaking issues.
 
-4. **Human copyedit signoff**
+5. **Human copyedit signoff**
    A human reader must approve Ukrainian and English prose, especially theological phrasing, clarity of inclusion/exclusion explanations, and awkward machine-generated language.
 
-5. **Final QA and freeze**
+6. **Final QA and freeze**
    Run structural QA, visual QA, source-rights review, checksum generation, manifest update, and release tagging.
 
 ## Next Action
 
-Run the **Logion 1 / title / opening-words decision pass** next. The rest of the project can be polished technically, but this decision defines what the reconstructed book actually is when the reader opens page one.
+Run the **all-114 appendix-ending normalization pass** next. Logion 1 / title / opening-words remains conceptually important, but the appendix-ending gap is now the most concrete reader-facing structural inconsistency.

@@ -2544,12 +2544,12 @@ This edition distinguishes:
 - secondary redaction;
 - unresolved textual problem.
 The decision categories are:
-- `INCLUDE`: print in the clean reconstruction.
-- `included with caution`: print in the clean reconstruction but explain uncertainty in the apparatus.
-- `uncertain`: keep outside the clean text, but treat seriously in the appendix.
-- `kept in the appendix with a stable rationale`: do not print in the main text under the current model, but explain as important controlled material.
-- `deferred to cluster review` / `deferred`: keep outside the main text pending cluster or evidence work.
-- `EXCLUDE_AS_SECONDARY`: classify as secondary or redactional for the purpose of reconstructing the earliest sayings gospel.
+- INCLUDE: print in the clean reconstruction.
+- included with caution: print in the clean reconstruction but explain uncertainty in the apparatus.
+- uncertain: keep outside the clean text, but treat seriously in the appendix.
+- kept in the appendix with a stable rationale: do not print in the main text under the current model, but explain as important controlled material.
+- deferred to cluster review / deferred: keep outside the main text pending cluster or evidence work.
+- EXCLUDE_AS_SECONDARY: classify as secondary or redactional for the purpose of reconstructing the earliest sayings gospel.
 ## Clean-Reader Selection Principles
 The main text is intentionally conservative. A saying is not included merely because it is beautiful, famous, radical, or plausibly old.
 A unit is stronger for main-text inclusion when it has several of these features:
@@ -2568,7 +2568,7 @@ A unit is weaker for main-text inclusion when it is:
 - attractive as theology but not secure as early recoverable text.
 ## Greek Witness And Retroversion Policy
 Absence of an extant Greek witness does not prove that a Greek form never existed. Coptic Thomas likely preserves material that circulated in Greek or moved through Greek tradition before the surviving Coptic manuscript.
-However, a reconstructed Greek form is not a manuscript witness. Every retroversion must be labeled `Greek retroversion, hypothetical` and must not be weighed like P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, or another extant witness.
+However, a reconstructed Greek form is not a manuscript witness. Every retroversion must be labeled Greek retroversion, hypothetical and must not be weighed like P.Oxy. 1, P.Oxy. 654, P.Oxy. 655, or another extant witness.
 After the Greek publication-polish pass of 2026-07-18, the public-facing Greek and parallel layers use normalized status language so that manuscript evidence and scholarly reconstruction cannot be confused.
 The Greek layer therefore has four different statuses:
 - extant Greek witness: actually preserved in a loaded Greek Thomas papyrus witness;
@@ -2620,15 +2620,15 @@ Reason: Matthew 24:43 and Luke 12:39 strongly control the householder/thief warn
 The following high-impact cases are especially important for reviewers because they show why this edition is selective rather than maximal.
 | Logion | Current status | Reason for non-inclusion |
 | --- | --- | --- |
-| 64 | `kept in the appendix with a stable rationale` | Banquet core is important, but the Thomas form is long, dependence-risky, and has an anti-merchant ending. |
-| 76 | `kept in the appendix with a stable rationale` | Pearl and treasure motifs are strong but chained compositely and mainly Matthew-controlled. |
-| 90 | `kept in the appendix with a stable rationale` | Yoke/rest invitation is too close to Matthew 11:28-30 under current evidence. |
-| 93 | `kept in the appendix with a stable rationale` | Strong Matthean control, but secrecy function and one-source control require caution. |
-| 94 | `kept in the appendix with a stable rationale` | Strong seek/knock saying, but likely redundant with Logion 2 in the clean reconstruction. |
-| 104 | `kept in the appendix with a stable rationale` | Bridegroom-fasting core has strong Mark/Matthew/Luke controls, but no extant Greek Thomas witness and a Thomas ritual/bridal-chamber frame too entangled for main-text extraction. |
-| 109 | `kept in the appendix with a stable rationale` | Hidden treasure is attractive, but Matthew-only control plus inheritance/sale/usury expansion is risky. |
-| 113 | `kept in the appendix with a stable rationale` | Kingdom-not-observed motif is already better represented by Logion 3; Thomas ending is distinctive. |
-| 114 | `EXCLUDE_AS_SECONDARY` | Mary/Peter/gender-transformation scene belongs to a later community-boundary layer under current method. |
+| 64 | kept in the appendix with a stable rationale | Banquet core is important, but the Thomas form is long, dependence-risky, and has an anti-merchant ending. |
+| 76 | kept in the appendix with a stable rationale | Pearl and treasure motifs are strong but chained compositely and mainly Matthew-controlled. |
+| 90 | kept in the appendix with a stable rationale | Yoke/rest invitation is too close to Matthew 11:28-30 under current evidence. |
+| 93 | kept in the appendix with a stable rationale | Strong Matthean control, but secrecy function and one-source control require caution. |
+| 94 | kept in the appendix with a stable rationale | Strong seek/knock saying, but likely redundant with Logion 2 in the clean reconstruction. |
+| 104 | kept in the appendix with a stable rationale | Bridegroom-fasting core has strong Mark/Matthew/Luke controls, but no extant Greek Thomas witness and a Thomas ritual/bridal-chamber frame too entangled for main-text extraction. |
+| 109 | kept in the appendix with a stable rationale | Hidden treasure is attractive, but Matthew-only control plus inheritance/sale/usury expansion is risky. |
+| 113 | kept in the appendix with a stable rationale | Kingdom-not-observed motif is already better represented by Logion 3; Thomas ending is distinctive. |
+| 114 | EXCLUDE_AS_SECONDARY | Mary/Peter/gender-transformation scene belongs to a later community-boundary layer under current method. |
 ## Uncertainty Model And Alternative Reconstructions
 This reconstruction is probabilistic and revisable. This edition does not claim certainty about the historical origin of every included or excluded unit.
 Reasonable alternative reconstructions could:
@@ -2652,7 +2652,7 @@ Logion 1 is retained as a cautious collection frame:
 > Whoever finds the interpretation of these words will not taste death.
 Reason: it is integral to the transmitted Greek/Coptic frame of the collection, but its function is hermeneutical and collection-level. It should not be treated as an independently secure earliest Jesus saying without further evidence.
 ## Logion 2 Summary
-Decision: seek/find core `included with caution`; expansion appendix only.
+Decision: seek/find core included with caution; expansion appendix only.
 The search/find core is included as a likely early or shared traditional motif:
 > Let the one who seeks not stop seeking until they find.
 The following sequence is retained in the apparatus, not in the clean reconstruction:
@@ -2660,32 +2660,32 @@ The following sequence is retained in the apparatus, not in the clean reconstruc
 Reason: Matthew 7:7 and Luke 11:9 preserve a search/find motif, but Thomas 2 does not reproduce the full synoptic triad "ask / seek / knock." Thomas expands the search/find motif into a distinctive sequence of disturbance, amazement, reigning, and possibly rest. Because the expansion looks developed and because the Greek and Coptic endings diverge, the clean reconstruction now prints only the short search/find core.
 Cluster note: .
 ## Logion 3 Summary
-Decision: `included with caution`
+Decision: included with caution
 The kingdom core is included:
 > Do not seek the kingdom as a place in heaven or in the sea. The kingdom is within you and outside you.
 The self-knowledge continuation is retained with a caution because it is more distinctively Thomasine and textually complex.
 Synoptic evidence table: .
-The strongest synoptic contact is Luke 17:21, especially `ἐντὸς ὑμῶν`. The comparison supports a shared non-localized kingdom motif, but Thomas has distinctive features: heaven/sea, outside-you, and self-knowledge. Direct literary dependence is not established.
+The strongest synoptic contact is Luke 17:21, especially ἐντὸς ὑμῶν. The comparison supports a shared non-localized kingdom motif, but Thomas has distinctive features: heaven/sea, outside-you, and self-knowledge. Direct literary dependence is not established.
 ## Logion 4 Summary
-Decision: `included with caution`
+Decision: included with caution
 The first/last formula is included:
 > Many who are first will become last, and the last first.
 The seven-day child image and final becoming-one motif are retained only with a caution.
 Synoptic evidence table: .
 The first/last core has strong formulaic parallels in Mark 10:31 and Matthew 19:30, with additional parallels in Matthew 20:16 and Luke 13:30. The broader Thomasine frame has no direct synoptic support.
 ## Logion 5 Summary
-Decision: `included with caution`
+Decision: included with caution
 The hidden/revealed maxim is included:
 > Nothing is hidden that will not become manifest.
 The "before your face" command is retained with a caution as a possible Thomasine wisdom frame.
 Synoptic evidence table: .
 The hidden/revealed core has strong synoptic support, especially Luke 8:17, Matthew 10:26, and Luke 12:2. Mark 4:22 preserves the same motif in a different formulation. The "before your face" command remains cautious.
 ## Logion 6 Summary
-Decision: `included with caution` for the short ethical core; full Logion 6 remains `uncertain`.
+Decision: included with caution for the short ethical core; full Logion 6 remains uncertain.
 Marked reader text:
 > Do not lie, and do not do what you hate.
 Reason: the extant logion combines ritual-practice questions, ethical instruction, and a hidden/revealed motif. The full unit remains a complex ritual-ethics composition and should not be added as a whole.
-The short ethical core, however, has a stronger independent profile. The second clause is closely controlled by Tobit 4:15 (`καὶ ὃ μισεῖς, μηδενὶ ποιήσῃς`). The prohibition of lying has strong Jewish and early-Christian controls, especially Leviticus 19:11 and Colossians 3:9. Matthew 7:12 and Luke 6:31 preserve the positive Golden Rule form, while Didache 1:2 gives an early Christian reciprocity control closer to the negative form.
+The short ethical core, however, has a stronger independent profile. The second clause is closely controlled by Tobit 4:15 (καὶ ὃ μισεῖς, μηδενὶ ποιήσῃς). The prohibition of lying has strong Jewish and early-Christian controls, especially Leviticus 19:11 and Colossians 3:9. Matthew 7:12 and Luke 6:31 preserve the positive Golden Rule form, while Didache 1:2 gives an early Christian reciprocity control closer to the negative form.
 The caution remains necessary because P.Oxy. 654 is lacunose at the key phrase and the core is embedded in a complex Thomasine ritual-practice unit.
 Cluster note: .
 Synoptic and early-Christian control table: .
@@ -2695,82 +2695,82 @@ The control cluster covers Thomas 6, 14, 27, and 104.
 Current decisions:
 | Logion | Decision | Reason |
 | --- | --- | --- |
-| 6 | ethical core `included with caution`; full logion `uncertain` | The short core has strong Jewish and early-Christian ethical controls, but the full unit is compositionally complex. |
-| 14 | `deferred` | Control unit for ritual critique, mission, food, and speech-defilement; no loaded Greek Oxyrhynchus witness. |
-| 27 | `uncertain` | Complete Coptic, strong P.Oxy. 1 Greek witness, and P.Oxy. 5575 control; still excluded from the reader because it spiritualizes ritual practice and has only thematic synoptic controls. |
-| 104 | `kept in the appendix with a stable rationale` | Strong bridegroom-fasting controls in Mark/Matthew/Luke, but no loaded Greek Oxyrhynchus witness and too much Thomas ritual/bridal-chamber framing for clean extraction. |
-Conclusion: the full Thomas 6 composition should not be added to the main reconstructed text. The short ethical core may be added with a caution. Logion 27 has been separately deepened and moved from `deferred` to `uncertain`, but it remains outside the reader text. Logion 104A has now been reviewed and remains `kept in the appendix with a stable rationale`; the full Logion 104 remains appendix only.
+| 6 | ethical core included with caution; full logion uncertain | The short core has strong Jewish and early-Christian ethical controls, but the full unit is compositionally complex. |
+| 14 | deferred | Control unit for ritual critique, mission, food, and speech-defilement; no loaded Greek Oxyrhynchus witness. |
+| 27 | uncertain | Complete Coptic, strong P.Oxy. 1 Greek witness, and P.Oxy. 5575 control; still excluded from the reader because it spiritualizes ritual practice and has only thematic synoptic controls. |
+| 104 | kept in the appendix with a stable rationale | Strong bridegroom-fasting controls in Mark/Matthew/Luke, but no loaded Greek Oxyrhynchus witness and too much Thomas ritual/bridal-chamber framing for clean extraction. |
+Conclusion: the full Thomas 6 composition should not be added to the main reconstructed text. The short ethical core may be added with a caution. Logion 27 has been separately deepened and moved from deferred to uncertain, but it remains outside the reader text. Logion 104A has now been reviewed and remains kept in the appendix with a stable rationale; the full Logion 104 remains appendix only.
 ## Logion 7 Summary
-Decision: `uncertain`.
+Decision: uncertain.
 Reason: the lion/human saying is symbolically dense, has no direct synoptic parallel entered at this stage, and the Greek witness is mostly reconstructed. Wider ancient parallels must be researched before inclusion.
 ## Logion 8 Summary
-Decision: `uncertain`.
+Decision: uncertain.
 Possible candidate:
 > A wise fisher chose one large good fish from many small fish.
 Reason: Thomas 8 is compact and may preserve an independent parable. Matthew 13:47-48 provides a thematic net/fish/sorting control, but the structures differ too sharply for reader inclusion. Matthew's parable concerns the kingdom and sorting good from bad; Thomas concerns a wise fisher choosing one large good fish from many small fish. No loaded Greek Thomas witness preserves Logion 8.
 Synoptic evidence table: .
 Reconstruction implication: do not add Logion 8 to the main reader text yet.
 ## Logion 9 Summary
-Decision: sower core `included with caution`; full Logion 9 `uncertain`.
+Decision: sower core included with caution; full Logion 9 uncertain.
 Included cautiously included core:
 > A sower went out to sow. Some seed fell on the road, some on rock, some among thorns, and some on good earth; only the good earth bore fruit.
-Reason: Thomas 9 has strong synoptic controls in Mark 4:3-9, Matthew 13:3-9, and Luke 8:5-8, and it preserves the parable without the allegorical interpretation found in Mark 4:13-20, Matthew 13:18-23, and Luke 8:11-15. This supports printing the short non-allegorical core with a caution. However, no loaded Greek Oxyrhynchus witness preserves Thomas 9, and the direction of dependence remains unresolved. Distinctive Thomas details, especially the worm, fruit upward to heaven, and the `60 / 120` yield, remain outside the reader text.
+Reason: Thomas 9 has strong synoptic controls in Mark 4:3-9, Matthew 13:3-9, and Luke 8:5-8, and it preserves the parable without the allegorical interpretation found in Mark 4:13-20, Matthew 13:18-23, and Luke 8:11-15. This supports printing the short non-allegorical core with a caution. However, no loaded Greek Oxyrhynchus witness preserves Thomas 9, and the direction of dependence remains unresolved. Distinctive Thomas details, especially the worm, fruit upward to heaven, and the 60 / 120 yield, remain outside the reader text.
 Synoptic evidence tables: ; .
-Reconstruction implication: add only the short cautious sower core to the main reader text. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Reconstruction implication: add only the short cautious sower core to the main reader text. Any Greek form must be labeled Greek retroversion, hypothetical.
 ## Logion 10 Summary
-Decision: fire-casting core `included with caution`; full Logion 10 `uncertain`.
+Decision: fire-casting core included with caution; full Logion 10 uncertain.
 Included cautiously included core:
 > I cast fire upon the world.
 Reason: Thomas 10 has a strong synoptic control in Luke 12:49, where Jesus says that he came to cast fire upon the earth. The short fire-casting core is compact and plausibly belongs to an early crisis/apocalyptic sayings tradition. However, no loaded Greek Oxyrhynchus witness preserves Thomas 10, and the Thomas continuation, "I am watching/guarding it until it blazes," differs from Luke and may be Thomasine symbolic reshaping. Thomas 16 and Thomas 82 show that fire is also part of Thomas's internal symbolic vocabulary.
 Synoptic evidence table: .
 Cluster-control note: .
-Reconstruction implication: add only the short cautious fire-casting core to the main reader text. Keep the watching/blazing continuation in the apparatus. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Reconstruction implication: add only the short cautious fire-casting core to the main reader text. Keep the watching/blazing continuation in the apparatus. Any Greek form must be labeled Greek retroversion, hypothetical.
 ## Logion 11 Summary
-Decision: `uncertain`.
+Decision: uncertain.
 Strongest possible subunit:
 > This heaven will pass away, and the one above it will pass away.
 Reason: the heaven-passing motif has partial synoptic controls in Mark 13:31, Matthew 24:35, and Luke 21:33. However, the synoptic formula is "heaven and earth will pass away, but my words will not pass away," while Thomas 11 has "this heaven and the one above it" and lacks the enduring-words contrast. The rest of Thomas 11 combines dead/living paradox, eating what is dead, light language, and one/two anthropology. These belong more naturally to Thomasine symbolic development than to a secure earliest sayings layer.
 Synoptic evidence table: .
-Reconstruction implication: do not add Logion 11 to the main reader text yet. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Reconstruction implication: do not add Logion 11 to the main reader text yet. Any Greek form must be labeled Greek retroversion, hypothetical.
 ## Logion 16 Summary
-Decision: division/household core `included with caution`; full Logion 16 `uncertain`.
+Decision: division/household core included with caution; full Logion 16 uncertain.
 Included cautiously included core:
 > I did not come to bring peace, but division; a household will be divided.
-Reason: Thomas 16 has strong synoptic controls in Matthew 10:34-36 and especially Luke 12:51-53. Luke is the closest structural control because of the five-in-one-house and three-against-two / two-against-three pattern. Matthew is important because Thomas includes the sword motif. However, Thomas also combines fire, sword, war, a Luke-like household structure, and a final `monachos` closure. This makes the extant form likely harmonized, developed, or Thomasine-redacted.
+Reason: Thomas 16 has strong synoptic controls in Matthew 10:34-36 and especially Luke 12:51-53. Luke is the closest structural control because of the five-in-one-house and three-against-two / two-against-three pattern. Matthew is important because Thomas includes the sword motif. However, Thomas also combines fire, sword, war, a Luke-like household structure, and a final monachos closure. This makes the extant form likely harmonized, developed, or Thomasine-redacted.
 Synoptic evidence table: .
 Cluster-control note: .
-Reconstruction implication: include only the cautious short division/household core in the main reader text. Do not include the fire/sword/war sequence or the monachos ending. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Reconstruction implication: include only the cautious short division/household core in the main reader text. Do not include the fire/sword/war sequence or the monachos ending. Any Greek form must be labeled Greek retroversion, hypothetical.
 ## Logion 20 Summary
-Decision: `included with caution`
+Decision: included with caution
 Possible early core:
 > The kingdom is like a mustard seed: it is small, but it grows and gives shelter to the birds of heaven.
 Reason: Thomas 20 has strong synoptic controls in Mark 4:30-32, Matthew 13:31-32, and Luke 13:18-19. The parable core is short, memorable, agrarian, and multiply attested. Thomas is especially close to Mark in the branch motif, while also sharing "kingdom of heaven" language with Matthew. The branch/tree follow-up strengthens the case that Thomas 20 is an important witness to a mobile parable tradition, but it does not prove Thomasine priority or independence. No loaded Greek Oxyrhynchus witness preserves Thomas 20, and the direction of dependence remains unresolved.
 Branch/tree follow-up: .
 Synoptic evidence table: .
-Reconstruction implication: include Logion 20 in the main reader text with a caution. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Reconstruction implication: include Logion 20 in the main reader text with a caution. Any Greek form must be labeled Greek retroversion, hypothetical.
 ## Logion 22 Summary
-Decision: children/kingdom core `included with caution`; full logion `uncertain`.
+Decision: children/kingdom core included with caution; full logion uncertain.
 Possible early core:
 > Little children are like those who enter the kingdom.
 Reason: the children-and-kingdom motif has strong synoptic controls in Mark 10:14-15, Matthew 18:3-4, Matthew 19:14, and Luke 18:16-17. Thomas 22 preserves a compact positive form at the start of the logion. However, the extant unit then expands into a long unity-of-opposites sequence: two become one, inside/outside, upper/lower, male/female, and eye/hand/foot/image replacement. This expansion is important for Thomasine theology, but it is not securely recoverable as the earliest gospel layer.
 Synoptic evidence table: .
-Reconstruction implication: include only the short children/kingdom core in the main reader text with a caution. Keep the unity-of-opposites expansion in the apparatus. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Reconstruction implication: include only the short children/kingdom core in the main reader text with a caution. Keep the unity-of-opposites expansion in the apparatus. Any Greek form must be labeled Greek retroversion, hypothetical.
 ## Logion 25 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > Love your brother as your own soul; guard him like the apple of your eye.
 Reason: Thomas 25 is short, ethical, and strongly rooted in Jewish and synoptic love-command tradition. The core has strong controls in Leviticus 19:18, Mark 12:31, Matthew 22:39, and Luke 10:27. The apple-of-the-eye clause has biblical and wisdom controls in Deuteronomy 32:10, Psalm 17:8, and Proverbs 7:2. The saying remains treated cautiously because Thomas has "brother" rather than the broader "neighbor," because the second clause may be an expansion, and because no loaded Greek Thomas 25 witness is available.
 Synoptic and scriptural evidence table: .
 Reconstruction implication: include Logion 25 in the Ukrainian reader text with a caution.
 ## Logion 26 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > First remove the beam from your own eye; then you will see clearly to remove the speck from your brother's eye.
 Reason: Thomas 26 has a strong evidence profile: complete Coptic Thomas, partial Greek P.Oxy. 1, and close parallels in Matthew 7:3-5 and Luke 6:41-42. The Greek witness preserves the final clause, corresponding to "then you will see clearly to remove the speck from your brother's eye." The saying remains treated cautiously because P.Oxy. 1 is fragmentary and the direction of dependence between Thomas and the synoptic tradition remains unresolved.
 Synoptic evidence table: .
 Reconstruction implication: include Logion 26 in the Ukrainian reader text with a caution.
 ## Logion 27 Summary
-Decision: `uncertain`
+Decision: uncertain
 Extant saying:
 > If you do not fast from the world, you will not find the kingdom; if you do not sabbatize the Sabbath, you will not see the Father.
 Reason: Thomas 27 is strongly attested as a transmitted saying. The Coptic text is complete, P.Oxy. 1 preserves the whole saying in Greek, and P.Oxy. 5575 gives an additional early control for related material in a mixed sayings environment. This makes Logion 27 important for the history of Thomas-like sayings in Greek.
@@ -2778,7 +2778,7 @@ The reconstruction problem is different: its key formulas have only thematic, no
 Synoptic and early-control table: .
 Reconstruction implication: do not add Logion 27 to the main reader text. Use it in the apparatus and evidence dossier as a well-attested but reconstructionally uncertain ritual-symbolic saying.
 ## Logion 31 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > A prophet is not accepted in his own homeland.
 Marked paired expansion:
@@ -2787,14 +2787,14 @@ Reason: Thomas 31 has complete Coptic Thomas, strong Greek P.Oxy. 1, and close s
 Synoptic evidence table: .
 Reconstruction implication: include Logion 31 in the Ukrainian reader text with a caution; do not treat the physician clause as equally secure as the prophet core.
 ## Logion 32 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > A city built and established on a high mountain can neither fall nor be hidden.
 Reason: Thomas 32 has complete Coptic Thomas, strong Greek P.Oxy. 1, and a close synoptic control in Matthew 5:14. The city-on-mountain core is strong. The fuller Thomas/P.Oxy. form, with "built/established" and "cannot fall," may preserve an independent fuller version or may be an expansion.
 Synoptic evidence table: .
 Reconstruction implication: include Logion 32 in the Ukrainian reader text with a caution.
 ## Logion 33 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader units:
 > What you hear in your ear, proclaim from your rooftops.
 > No one lights a lamp and puts it under a basket or in a hidden place; it is put on a lampstand so that its light may be seen.
@@ -2802,23 +2802,23 @@ Reason: Thomas 33 is composite but strongly supported at the level of its two su
 Synoptic evidence table: .
 Reconstruction implication: include Logion 33 in the Ukrainian reader text with a split-unit caution.
 ## Logion 34 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > If a blind person leads a blind person, both fall into a pit.
 Reason: Thomas 34 has complete Coptic and very strong controls in Matthew 15:14 and Luke 6:39. The saying is a short portable proverb. Thomas lacks the wider Matthean polemical frame, which may preserve a compact form or may reflect abbreviation.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 34. Any Greek form should be labeled `Greek retroversion, hypothetical`, controlled by Matthew and Luke.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 34. Any Greek form should be labeled Greek retroversion, hypothetical, controlled by Matthew and Luke.
 Synoptic evidence table: .
 Reconstruction implication: include Logion 34 in the Ukrainian reader text with a caution.
 ## Logion 35 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > No one can enter the strong man's house and plunder it unless he first binds the strong man.
 Reason: Thomas 35 has complete Coptic and strong controls in Mark 3:27 and Matthew 12:29. Luke 11:21-22 is a related but more developed form. The short strong-man image is therefore promising, though its original rhetorical setting remains unresolved.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 35. Any Greek form should be labeled `Greek retroversion, hypothetical`, controlled primarily by Mark and Matthew.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 35. Any Greek form should be labeled Greek retroversion, hypothetical, controlled primarily by Mark and Matthew.
 Synoptic evidence table: .
 Reconstruction implication: include Logion 35 in the Ukrainian reader text with a caution.
 ## Logion 36 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > Do not be anxious from morning until evening and from evening until morning about what you will wear.
 Reason: Thomas 36 has a complete short Coptic form, an extant Greek P.Oxy. 655 witness, and strong controls in Matthew 6:25-34 and Luke 12:22-31. P.Oxy. 5575 gives an additional early control for related material in a mixed sayings environment.
@@ -2826,7 +2826,7 @@ The caution remains necessary because the Coptic Thomas form is short and focuse
 Synoptic evidence table: .
 Reconstruction implication: include Logion 36 in the Ukrainian reader text with a caution; keep the fuller food/lilies complex in the apparatus.
 ## Logion 39 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader units:
 > The scribes and Pharisees took the key(s) of knowledge; they did not enter, and they did not allow those entering to enter.
 > Be wise as serpents and pure as doves.
@@ -2835,68 +2835,68 @@ The caution remains necessary because the transmitted Thomas form is composite. 
 Synoptic evidence table: .
 Reconstruction implication: include Logion 39 in the Ukrainian reader text with split-unit cautions.
 ## Logion 41 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > Whoever has will be given more; whoever does not have will lose even the little that they have.
 Reason: Thomas 41 preserves a compact has/given formula with very strong synoptic controls in Mark 4:25, Matthew 13:12, Matthew 25:29, Luke 8:18, and Luke 19:26. The saying is short, aphoristic, portable, and broadly attested across different synoptic contexts. This makes it a strong candidate for early circulating tradition.
 The caution remains necessary because no loaded extant Greek Thomas witness preserves Logion 41, because Thomas has distinctive "in hand" and "little" wording, and because standalone transmission may reflect either early oral form or later extraction from parabolic contexts.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 41. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 41. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Reconstruction implication: include Logion 41 in the Ukrainian reader text with a caution; do not treat the hypothetical Greek retroversion as manuscript evidence.
 ## Logion 45 Summary
-Decision: 45A `included with caution`; full Logion 45 `uncertain`; 45B `kept in the appendix`.
+Decision: 45A included with caution; full Logion 45 uncertain; 45B kept in the appendix.
 Marked reader text:
 > Grapes are not gathered from thorns, nor figs from thistles.
 Reason: the grapes/thorns and figs/thistles core is short, aphoristic, and strongly controlled by Matthew 7:16 and Luke 6:44. It is the cleanest part of the transmitted Thomas 45 complex and can be printed without importing the full tree/fruit/heart/speech chain.
 The caution remains necessary because no loaded extant Greek Thomas witness preserves Logion 45, and because the full Thomas form is composite. The good/evil heart-treasure continuation is also strongly controlled, especially by Luke 6:45, but it is more developed and more tightly joined to the larger Luke 6 complex. The controlled reader pass therefore prints only 45A.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 45. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 45. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Reconstruction implication: include only the grapes/thorns core in the Ukrainian reader text with a caution; keep the heart-treasure continuation and full logion in the appendix.
 ## Logion 47 Summary
-Decision: 47B `included with caution`; full Logion 47 `uncertain`.
+Decision: 47B included with caution; full Logion 47 uncertain.
 Marked reader text:
 > A servant cannot serve two masters: he will honor one and despise the other.
 Reason: the two-masters core is compact, memorable, and strongly controlled by Matthew 6:24 and Luke 16:13. It is the strongest subunit in a longer Thomas chain of incompatibility sayings.
 The caution remains necessary because no loaded extant Greek Thomas witness preserves Logion 47, and because the full Thomas logion joins several units: two horses/two bows, two masters, wine, wineskins, and patch sayings. The clean reconstruction prints only the two-masters core.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 47. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 47. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Reconstruction implication: include only the two-masters core in the Ukrainian reader text with a caution; keep the wider incompatibility chain in the appendix.
 ## Logion 54 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > Blessed are the poor, for the kingdom of heaven belongs to you.
 Reason: Thomas 54 is one of the shortest and strongest beatitude candidates in the current reconstruction. Luke 6:20 closely controls the direct address to the poor and the "yours" form, while Matthew 5:3 controls the kingdom-of-heaven wording. The compact poor/kingdom beatitude plausibly belongs to an early shared beatitude tradition.
 The caution remains necessary because Thomas appears to stand between Lukan and Matthean forms: "poor" is closer to Luke, while "kingdom of heaven" is closer to Matthew. This may reflect shared tradition, secondary harmonization, Coptic transmission, or Thomasine wording. Direction of dependence remains unresolved.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 54. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 54. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Cluster note: .
 Reconstruction implication: include Logion 54 in the Ukrainian reader text with a caution; a shorter early core may be "Blessed are the poor, for yours is the kingdom."
 ## Logion 63 Summary
-Decision: rich-fool core `included with caution`; full Logion 63 `uncertain`.
+Decision: rich-fool core included with caution; full Logion 63 uncertain.
 Marked reader text:
 > A rich man had many possessions. He planned to sow, reap, plant, and fill his storehouses so that he would lack nothing. That night he died.
 Reason: Thomas 63 and Luke 12:16-21 share the same basic anti-wealth parable architecture: abundance, storage planning, imagined security, and sudden death. The Thomas form is shorter and less explicitly moralized than Luke's version, which makes it plausible as a compact parable core.
 The caution remains necessary because no loaded extant Greek Thomas witness preserves Logion 63, and Luke-dependence remains possible. The reader therefore prints only the short story core, without the hearing formula and without adding Luke's explicit moral conclusion.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 63. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 63. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Coptic extraction: .
 Reconstruction implication: include the short rich-fool core in the Ukrainian reader text with a caution; keep Luke-dependence warning visible in apparatus and publication dossier.
 ## Logion 72 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > A man asked Jesus to make his brothers divide the father's property with him. Jesus refused the role of divider and asked, "Am I a divider?"
 Reason: Thomas 72 and Luke 12:13-15 share a distinctive inheritance-dispute scene. In both, a man asks Jesus to intervene in a family inheritance matter, and Jesus refuses the role of judge or divider. The scene is concrete, socially plausible, and not dependent on later ecclesial doctrine. Thomas preserves a compact version that may represent an extracted or shorter refusal saying.
 The caution remains necessary because Luke is the only major synoptic control currently entered, and literary direction remains unresolved. Luke may expand a short refusal saying into an anti-greed discourse, or Thomas may abbreviate Luke's scene.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 72. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 72. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Reconstruction implication: include Logion 72 in the Ukrainian reader text with a caution; keep Luke-dependence as an explicit warning in the apparatus.
 ## Logion 73 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > The harvest is great, but the workers are few. Ask the Lord to send workers into the harvest.
 Reason: Thomas 73 preserves the short harvest/workers formula also known from Matthew 9:37-38 and Luke 10:2. The saying is compact, memorable, and mission-oriented, with weak Thomasine secondary cautions. Its broad early mission setting makes it a strong candidate for circulating Jesus-tradition, even though its precise Sitz im Leben remains open.
 The caution remains necessary because no loaded extant Greek Thomas witness preserves Logion 73, and the wording of "Lord" / "Lord of the harvest" requires careful Greek retroversion control.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 73. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 73. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Reconstruction implication: include Logion 73 in the Ukrainian reader text with a caution; use the Matthew/Luke control table to refine any later Greek retroversion.
 ## Thomas Unity / Monachos Cluster Summary
@@ -2904,68 +2904,68 @@ Decision rule: unity / monachos language should be treated as a Thomasine theolo
 Cluster note: .
 Relevant logia: 4, 11, 16, 22, 23, 37, 49, 75, 106, with Logion 30 as a Greek P.Oxy. 1 control.
 Implication for Logion 22: the children/kingdom core remains promising, but the "make the two one" expansion should remain in the apparatus.
-Implication for Logion 23: the logion is now `uncertain`; it should not enter the reader text. Its "one from a thousand / two from ten thousand / stand as one" pattern may reflect Thomasine elect/solitary identity language rather than a secure earliest saying.
+Implication for Logion 23: the logion is now uncertain; it should not enter the reader text. Its "one from a thousand / two from ten thousand / stand as one" pattern may reflect Thomasine elect/solitary identity language rather than a secure earliest saying.
 Next test case: Logion 16, because it has a strong synoptic division core plus a probable Thomasine monachos ending.
 ## Logion 86 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > Foxes have holes, birds have nests, but the Son of Man has nowhere to lay his head.
 Reason: the aphoristic core is strongly controlled by Matthew 8:20 and Luke 9:58. Thomas preserves the saying outside the narrative following context, which may reflect a sayings-collection form or secondary decontextualization.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 86. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 86. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 ## Logion 89 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > Why do you clean the outside of the cup? Do you not understand that the one who made the inside also made the outside?
 Reason: Luke 11:39-40 strongly controls the maker-of-inside/outside argument, while Matthew 23:25-26 controls the cup and inside/outside motif. The reader prints the compact critique, but the Luke-dependence warning remains.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 89. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 89. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 ## Logion 95 Summary
-Decision: `included with caution`
+Decision: included with caution
 Marked reader text:
 > If you have money, do not lend at interest; give to the one from whom you do not expect to receive it back.
 Reason: the saying combines Jewish anti-usury tradition with the radical non-repayment motif controlled by Luke 6:34-35. It is ethically coherent with the reconstruction, especially Logion 6, but remains treated cautiously because the Coptic opening is damaged and the combination may be secondary.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 95. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 95. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic/control table: .
 ## Logion 96 Summary
-Decision: leaven core `included with caution`; full Logion 96 `uncertain`.
+Decision: leaven core included with caution; full Logion 96 uncertain.
 Marked reader text:
 > The kingdom is like a woman who took a little leaven and hid it in dough.
 Reason: the leaven parable core is strongly controlled by Matthew 13:33 and Luke 13:20-21. The Thomas-specific Father frame, large-loaves result, and hearing formula remain outside the main text.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 96. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 96. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 ## Logion 99 Summary
-Decision: true-family core `included with caution`; full Logion 99 `uncertain`.
+Decision: true-family core included with caution; full Logion 99 uncertain.
 Marked reader text:
 > Those who do the Father's will are my brothers and my mother.
 Reason: Mark 3:31-35, Matthew 12:46-50, and Luke 8:19-21 strongly control the true-family core. The family-outside narrative frame and Thomas's kingdom-of-the-Father ending remain outside the main text.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 99. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 99. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Cluster-control note: .
 ## Logion 100 Summary
-Decision: Caesar/God core `included with caution`; full Logion 100 `uncertain`.
+Decision: Caesar/God core included with caution; full Logion 100 uncertain.
 Marked reader text:
 > Give Caesar what belongs to Caesar, and God what belongs to God.
 Reason: the Caesar/God core is strongly controlled by Mark 12:13-17, Matthew 22:15-22, and Luke 20:20-26. The Thomas-specific third clause, "give me what is mine," remains outside the main text.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 100. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 100. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 ## Logion 103 Summary
-Decision: thief/watchfulness core `included with caution`; full Logion 103 appendix only.
+Decision: thief/watchfulness core included with caution; full Logion 103 appendix only.
 Marked reader text:
 > Blessed is the one who knows when the thief is coming and keeps watch before he comes.
 Reason: Matthew 24:43 and Luke 12:39 strongly control the householder/thief warning, while Mark 13:33-37 gives broader watchfulness support. Logion 21 provides internal Thomas control for the same motif, but it is too composite to print as the reader representative. The main text therefore prints only 103A.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 103. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 103. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 Cluster-control note: .
 ## Logion 107 Summary
-Decision: lost-sheep core `included with caution`; full Logion 107 `uncertain`.
+Decision: lost-sheep core included with caution; full Logion 107 uncertain.
 Marked reader text:
 > A shepherd had one hundred sheep. One of them went astray; he left the ninety-nine and searched for it until he found it.
 Reason: the lost-sheep parable core is strongly controlled by Matthew 18:12-14 and Luke 15:3-7. Thomas's "largest sheep" and "I love you more" elements likely reshape the parable around the singular one and remain outside the main text.
-Greek note: no loaded extant Greek Thomas witness preserves Logion 107. Any Greek form must be labeled `Greek retroversion, hypothetical`.
+Greek note: no loaded extant Greek Thomas witness preserves Logion 107. Any Greek form must be labeled Greek retroversion, hypothetical.
 Synoptic evidence table: .
 ## Logion 114 Exclusion Summary
-Decision: `EXCLUDE_AS_SECONDARY`.
+Decision: EXCLUDE_AS_SECONDARY.
 Logion 114 is not printed in the clean reconstructed reader. It remains fully present in the appendix as a transparent exclusion case.
 Reason: the unit is a developed dialogue scene in which Simon Peter says Mary should leave because women are not worthy of life, and Jesus responds with gender-transformation language: Mary must be made male to become a living spirit and enter the kingdom. This combination of named authority figures, gendered worthiness, transformation into male, and kingdom access looks like a later community-boundary and symbolic-anthropology layer rather than a compact early sayings-gospel core.
 Textual note: the preserved witness in this project is the Coptic NHC II,2 text. No loaded extant Greek Thomas witness preserves Logion 114. Logion 22 offers internal male/female transformation context, and Logion 13 offers broad disciple-authority context, but neither directly controls the Peter/Mary exclusion scene or the gender-transformation conclusion.

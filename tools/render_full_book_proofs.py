@@ -125,7 +125,7 @@ def inline_pdf(value: str) -> str:
         value = re.sub(r"[\u0300-\u036F]", "", value)
     escaped = html.escape(value)
     escaped = re.sub(r"`([^`]+)`", r"<font name='EUAGELIA'>\1</font>", escaped)
-    escaped = re.sub(r"\*\*([^*]+)\*\*", r"<b>\1</b>", escaped)
+    escaped = re.sub(r"\*\*([^*]+)\*\*", r"\1", escaped)
     escaped = re.sub(r"\*([^*]+)\*", r"<i>\1</i>", escaped)
     if is_coptic:
         escaped = f"<font name='EUAGELIA-Coptic'>{escaped}</font>"
@@ -173,7 +173,7 @@ def clean_entry_weight(text: str, chars_per_line: int) -> float:
 def clean_column(entries: list[tuple[str, list[str]]], style: ParagraphStyle) -> list[object]:
     flowables: list[object] = []
     for num, lines in entries:
-        flowables.append(Paragraph(f"<b>{html.escape(num)}</b> {inline_pdf(' '.join(lines))}", style))
+        flowables.append(Paragraph(f"{html.escape(num)} {inline_pdf(' '.join(lines))}", style))
         flowables.append(Spacer(1, 1.25 * mm))
     return flowables
 

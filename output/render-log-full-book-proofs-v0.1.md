@@ -1,6 +1,6 @@
 # EUAGELIA Full Book Proof Render Log
 
-Generated UTC: 2026-07-19T13:32:01.726712+00:00
+Generated UTC: 2026-07-19T14:05:49.838559+00:00
 Python runtime: /Users/arseny/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3
 Font: /System/Library/Fonts/Supplemental/Times New Roman.ttf
 Coptic font: /System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf
@@ -8,9 +8,9 @@ Greek font: /System/Library/Fonts/Supplemental/Times New Roman.ttf
 
 | Artifact | Bytes | SHA256 |
 | --- | ---: | --- |
-| `output/uk-paper-book/euagelia-uk-full-proof.pdf` | 595610 | `64e48e715ecb038f0fb38f15cc1d16c0f565a643d7d37eb44cf342d9caa11895` |
-| `output/uk-paper-book/euagelia-uk-full-proof.source.md` | 533418 | `a6512e6972e61c4e9d78334befeef04369b928a8c62d498533e552cc8818d1ad` |
-| `output/en-paper-book/euagelia-en-full-proof.pdf` | 516935 | `53c82b6795f5e9cec1dd97f7f6fe8d4f35117a89584c3bdb07834c711cf55961` |
-| `output/en-paper-book/euagelia-en-full-proof.source.md` | 341961 | `16a821160d09f37be8f0bcebef048140e9940a04bdbb5f32ebc3dc3aa4e22c62` |
-| `output/digital-scholarly-companion/euagelia-digital-companion-full-proof.pdf` | 102526 | `6c48db278de9978eb4ea469f3fec507a2e910ce22272c01f1a66b3ccbf08cb06` |
-| `output/digital-scholarly-companion/euagelia-digital-companion-full-proof.source.md` | 52379 | `1c920afeee93ec4b960f424711ff94366bc7aca4b1c1540a06b4fdad1a331c7e` |
+| `output/uk-paper-book/euagelia-uk-full-proof.pdf` | 573955 | `c921b6d94624378bfda0df17462fbbf0c862f96d0fc2314a4e32a331be5f422d` |
+| `output/uk-paper-book/euagelia-uk-full-proof.source.md` | 515385 | `cd24f9d5b07366bb9ff91ce5e4facd4cc9f2006d54c765b70fe7d052c4e246d5` |
+| `output/en-paper-book/euagelia-en-full-proof.pdf` | 516233 | `c1cb14be262565b166a005e24bfb7970a52acec4ba7f053a56b5f7a07455d1e8` |
+| `output/en-paper-book/euagelia-en-full-proof.source.md` | 341751 | `d41978e2d4b416ab7be84bc904cf17d6d35d4d5f18595335bc1a60c5d86dfe83` |
+| `output/digital-scholarly-companion/euagelia-digital-companion-full-proof.pdf` | 102526 | `b4da5fea57cef4d54569216fd473b66574749ac32e1545d80b931d7791aa2cea` |
+| `output/digital-scholarly-companion/euagelia-digital-companion-full-proof.source.md` | 52379 | `99059c1c9e06b32ab98d71712d27b3620fb940b7f01a0f2b291ad6d081abbd05` |

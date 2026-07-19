@@ -188,7 +188,7 @@ The original EUAGELIA reconstruction, translations, commentary, prompts, tables,
 
 ## Audit Trail
 
-The current audit-trail index contains 64 project pass/audit/review files. Use `audit-trail-index.tsv` for checksums and exact file paths.
+The current audit-trail index contains 66 project pass/audit/review files. Use `audit-trail-index.tsv` for checksums and exact file paths.
 
 Major publication-stage reports include:
 
