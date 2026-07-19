@@ -14,7 +14,7 @@
 
 | Logion | Card | Evidence note | Decision | Reader text | Greek witness status | Current status | Next action |
 | ---: | --- | --- | --- | --- | --- | --- | --- |
-| 1 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 654 | Working v0.1 | Later polish against academic editions. |
+| 1 | YES | YES | `APPENDIX_ONLY_STABLE` | NO | P.Oxy. 654 | Strict-40 revision v0.1 | Keep as later collection-frame/prologue material in the appendix; do not print in the clean reconstruction. |
 | 2 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 654 | Cluster-control v0.1 | Seek/find cluster-control note created; keep as clean reader's main seek/find unit with marker and recheck final Greek/Coptic ending before publication. |
 | 3 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 654 | Working v0.1 | Deepen kingdom/self-knowledge analysis. |
 | 4 | YES | YES | `INCLUDE_WITH_MARKER` | YES | P.Oxy. 654 | Working v0.1 | Deepen seven-day child / first-last split. |

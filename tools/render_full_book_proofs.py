@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from reportlab.lib import colors
-from reportlab.lib.enums import TA_CENTER, TA_LEFT
+from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import mm
@@ -27,6 +27,16 @@ FONT_CANDIDATES = [
     Path("/System/Library/Fonts/Supplemental/Times New Roman.ttf"),
     Path("/System/Library/Fonts/Supplemental/Arial Unicode.ttf"),
     Path("/Library/Fonts/Arial Unicode.ttf"),
+]
+COPTIC_FONT_CANDIDATES = [
+    Path("/System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf"),
+    Path("/System/Library/Fonts/Supplemental/Arial Unicode.ttf"),
+    Path("/Library/Fonts/Arial Unicode.ttf"),
+]
+GREEK_FONT_CANDIDATES = [
+    Path("/System/Library/Fonts/Supplemental/Arial Unicode.ttf"),
+    Path("/Library/Fonts/Arial Unicode.ttf"),
+    Path("/System/Library/Fonts/Supplemental/Times New Roman.ttf"),
 ]
 
 
@@ -67,6 +77,20 @@ def find_font() -> Path:
     raise SystemExit("No Unicode TTF font found.")
 
 
+def find_coptic_font() -> Path:
+    for candidate in COPTIC_FONT_CANDIDATES:
+        if candidate.exists():
+            return candidate
+    raise SystemExit("No Coptic-capable TTF font found.")
+
+
+def find_greek_font() -> Path:
+    for candidate in GREEK_FONT_CANDIDATES:
+        if candidate.exists():
+            return candidate
+    raise SystemExit("No Greek-capable TTF font found.")
+
+
 def rel(path: Path) -> str:
     return str(path.relative_to(ROOT))
 
@@ -80,10 +104,15 @@ def sha256(path: Path) -> str:
 
 
 def inline_pdf(value: str) -> str:
+    value = value.replace("⟨", "(").replace("⟩", ")")
     escaped = html.escape(value)
     escaped = re.sub(r"`([^`]+)`", r"<font name='EUAGELIA'>\1</font>", escaped)
     escaped = re.sub(r"\*\*([^*]+)\*\*", r"<b>\1</b>", escaped)
     escaped = re.sub(r"\*([^*]+)\*", r"<i>\1</i>", escaped)
+    if re.search(r"[\u2C80-\u2CFF]", value):
+        escaped = f"<font name='EUAGELIA-Coptic'>{escaped}</font>"
+    elif re.search(r"[\u0370-\u03FF\u1F00-\u1FFF\u27E8\u27E9]", value):
+        escaped = f"<font name='EUAGELIA-Greek'>{escaped}</font>"
     return escaped
 
 
@@ -100,7 +129,7 @@ def split_clean_entries(lines: list[str], lang: str) -> tuple[list[tuple[str, li
         if line == start_heading:
             in_clean = True
             continue
-        if in_clean and line == stop_heading:
+        if in_clean and (line == stop_heading or (line.startswith("## ") and not logion_pattern.match(line))):
             if current_num is not None:
                 entries.append((current_num, current_lines))
             stop_index = idx
@@ -118,27 +147,89 @@ def split_clean_entries(lines: list[str], lang: str) -> tuple[list[tuple[str, li
     return entries, stop_index
 
 
-def clean_table(entries: list[tuple[str, list[str]]], style: ParagraphStyle) -> Table:
-    cells = [Paragraph(f"<b>{html.escape(num)}</b> {inline_pdf(' '.join(lines))}", style) for num, lines in entries]
-    split_at = (len(cells) + 1) // 2
-    left = cells[:split_at]
-    right = cells[split_at:]
-    while len(right) < len(left):
-        right.append(Paragraph("", style))
-    rows = [[left[i], right[i]] for i in range(len(left))]
-    table = Table(rows, colWidths=[(A4[0] - 32 * mm) / 2] * 2)
+def clean_entry_weight(text: str, chars_per_line: int) -> float:
+    lines = max(1, (len(text) + chars_per_line - 1) // chars_per_line)
+    return lines + 0.75
+
+
+def clean_column(entries: list[tuple[str, list[str]]], style: ParagraphStyle) -> list[object]:
+    flowables: list[object] = []
+    for num, lines in entries:
+        flowables.append(Paragraph(f"<b>{html.escape(num)}</b> {inline_pdf(' '.join(lines))}", style))
+        flowables.append(Spacer(1, 1.25 * mm))
+    return flowables
+
+
+def split_clean_pages(entries: list[tuple[str, list[str]]], lang: str) -> list[tuple[list[tuple[str, list[str]]], list[tuple[str, list[str]]]]]:
+    chars_per_line = 43 if lang == "uk" else 48
+    column_capacity = 54.0 if lang == "uk" else 56.0
+    pages = []
+    index = 0
+    while index < len(entries):
+        remaining = entries[index:]
+        remaining_weight = sum(clean_entry_weight(" ".join(entry[1]), chars_per_line) for entry in remaining)
+        if len(remaining) > 3 and remaining_weight <= column_capacity:
+            target = remaining_weight / 2
+            left: list[tuple[str, list[str]]] = []
+            left_weight = 0.0
+            split_at = 0
+            for split_at, entry in enumerate(remaining):
+                weight = clean_entry_weight(" ".join(entry[1]), chars_per_line)
+                if left and left_weight + weight > target:
+                    break
+                left.append(entry)
+                left_weight += weight
+            else:
+                split_at = len(remaining)
+            pages.append((left, remaining[split_at:]))
+            break
+
+        columns = []
+        for _ in range(2):
+            used = 0.0
+            column: list[tuple[str, list[str]]] = []
+            while index < len(entries):
+                text = " ".join(entries[index][1])
+                weight = clean_entry_weight(text, chars_per_line)
+                if column and used + weight > column_capacity:
+                    break
+                column.append(entries[index])
+                used += weight
+                index += 1
+            columns.append(column)
+        left, right = columns
+        pages.append((left, right))
+    return pages
+
+
+def clean_column_table(
+    left_entries: list[tuple[str, list[str]]],
+    right_entries: list[tuple[str, list[str]]],
+    style: ParagraphStyle,
+) -> Table:
+    width = (A4[0] - 32 * mm) / 2
+    table = Table([[clean_column(left_entries, style), clean_column(right_entries, style)]], colWidths=[width, width])
     table.setStyle(
         TableStyle(
             [
                 ("VALIGN", (0, 0), (-1, -1), "TOP"),
                 ("LEFTPADDING", (0, 0), (-1, -1), 4),
-                ("RIGHTPADDING", (0, 0), (-1, -1), 7),
-                ("TOPPADDING", (0, 0), (-1, -1), 3),
-                ("BOTTOMPADDING", (0, 0), (-1, -1), 3),
+                ("RIGHTPADDING", (0, 0), (-1, -1), 9),
+                ("TOPPADDING", (0, 0), (-1, -1), 2),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
             ]
         )
     )
     return table
+
+
+def clean_text_story(entries: list[tuple[str, list[str]]], style: ParagraphStyle, lang: str) -> list[object]:
+    story: list[object] = []
+    for page_index, (left_entries, right_entries) in enumerate(split_clean_pages(entries, lang)):
+        if page_index:
+            story.append(PageBreak())
+        story.append(clean_column_table(left_entries, right_entries, style))
+    return story
 
 
 def markdown_blocks(lines: list[str]):
@@ -219,7 +310,7 @@ def build_pdf(source_text: str, output_pdf: Path, title: str, font_name: str, la
     base = ParagraphStyle("Base", parent=sample["BodyText"], fontName=font_name, fontSize=8.8, leading=10.8, alignment=TA_LEFT, spaceAfter=2.5)
     styles = {
         "base": base,
-        "clean": ParagraphStyle("Clean", parent=base, fontSize=7.4, leading=8.65),
+        "clean": ParagraphStyle("Clean", parent=base, fontSize=10.7, leading=13.4, alignment=TA_JUSTIFY),
         "title": ParagraphStyle("Title", parent=base, fontSize=22, leading=26, alignment=TA_CENTER, spaceAfter=16),
         "subtitle": ParagraphStyle("Subtitle", parent=base, fontSize=10.5, leading=13, alignment=TA_CENTER, spaceAfter=8),
         "h1": ParagraphStyle("H1", parent=base, fontSize=17, leading=21, alignment=TA_CENTER, spaceBefore=5, spaceAfter=9),
@@ -231,7 +322,12 @@ def build_pdf(source_text: str, output_pdf: Path, title: str, font_name: str, la
     lines = source_text.splitlines()
     heading = next((line[2:].strip() for line in lines if line.startswith("# ")), title)
     clean_entries, tail_start = split_clean_entries(lines, lang)
-    proof_label = "Digital companion full proof v0.1" if lang == "digital" else ("Full book proof v0.1" if lang == "en" else "Повний книжковий proof v0.1")
+    if lang == "digital":
+        proof_label = "Digital companion full proof v0.1"
+    elif lang == "en":
+        proof_label = "Working edition, July 19, 2026"
+    else:
+        proof_label = "Робоча редакція, 19 липня 2026"
     story: list[object] = [
         Spacer(1, 28 * mm),
         Paragraph(inline_pdf(heading), styles["title"]),
@@ -242,7 +338,7 @@ def build_pdf(source_text: str, output_pdf: Path, title: str, font_name: str, la
             [
                 PageBreak(),
                 Paragraph("Clean Reconstructed Text" if lang == "en" else "Чистий текст реконструкції", styles["h2"]),
-                clean_table(clean_entries, styles["clean"]),
+                *clean_text_story(clean_entries, styles["clean"], lang),
             ]
         )
     if tail_start:
@@ -265,7 +361,11 @@ def build_pdf(source_text: str, output_pdf: Path, title: str, font_name: str, la
 def draw_footer(canvas, doc) -> None:  # noqa: ANN001
     canvas.saveState()
     canvas.setFont("EUAGELIA", 8)
-    canvas.drawCentredString(A4[0] / 2, 8 * mm, f"EUAGELIA full proof - {doc.page}")
+    if "Digital Scholarly Companion" in doc.title:
+        footer = f"EUAGELIA digital companion proof - {doc.page}"
+    else:
+        footer = str(doc.page)
+    canvas.drawCentredString(A4[0] / 2, 8 * mm, footer)
     canvas.restoreState()
 
 
@@ -278,13 +378,15 @@ def render_job(job: Job, font_name: str) -> list[Path]:
     return [pdf_path, source_copy]
 
 
-def write_manifest(paths: list[Path], font_path: Path) -> None:
+def write_manifest(paths: list[Path], font_path: Path, coptic_font_path: Path, greek_font_path: Path) -> None:
     lines = [
         "# EUAGELIA Full Book Proof Render Log",
         "",
         f"Generated UTC: {datetime.now(timezone.utc).isoformat()}",
         f"Python runtime: {PYTHON_RUNTIME}",
         f"Font: {font_path}",
+        f"Coptic font: {coptic_font_path}",
+        f"Greek font: {greek_font_path}",
         "",
         "| Artifact | Bytes | SHA256 |",
         "| --- | ---: | --- |",
@@ -299,13 +401,17 @@ def main() -> None:
     parser.add_argument("--only", choices=["uk", "en", "digital"])
     args = parser.parse_args()
     font_path = find_font()
+    coptic_font_path = find_coptic_font()
+    greek_font_path = find_greek_font()
     pdfmetrics.registerFont(TTFont("EUAGELIA", str(font_path)))
+    pdfmetrics.registerFont(TTFont("EUAGELIA-Coptic", str(coptic_font_path)))
+    pdfmetrics.registerFont(TTFont("EUAGELIA-Greek", str(greek_font_path)))
     selected = [job for job in JOBS if args.only in {None, job.label}]
     outputs: list[Path] = []
     for job in selected:
         job.output_base.parent.mkdir(parents=True, exist_ok=True)
         outputs.extend(render_job(job, "EUAGELIA"))
-    write_manifest(outputs, font_path)
+    write_manifest(outputs, font_path, coptic_font_path, greek_font_path)
     print(f"Rendered {len(outputs)} artifacts")
     print("output/render-log-full-book-proofs-v0.1.md")
 

@@ -9,7 +9,7 @@ The digital scholarly companion preserves the full apparatus that cannot fit cle
 ## Coverage
 
 - Logion cross-reference rows: 114/114.
-- Clean-reader rows: 37.
+- Clean-reader rows: 36.
 - Evidence-note coverage: 114/114.
 - Direct control-file coverage: 69/114.
 

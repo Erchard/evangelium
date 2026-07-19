@@ -112,7 +112,7 @@ Structural QA:
 - 114/114 card files present;
 - 114/114 appendix sections present;
 - 114/114 appendix source/control sections present;
-- 37/37 reader units synchronized across language layers and control tables;
+- 36/36 reader units synchronized across language layers and control tables;
 - clean-text anchors present for all clean-reader logia.
 
 Paper path-safety:

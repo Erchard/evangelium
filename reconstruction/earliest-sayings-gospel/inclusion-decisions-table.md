@@ -4,7 +4,7 @@ Status: working decisions table v0.2.
 
 | Logion | Unit | Decision | Confidence | Main reason | Evidence file |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Collection frame / interpretation promise | `INCLUDE_WITH_MARKER` | Low-medium | Integral to the collection frame and Greek/Coptic transmission, but not secure as an independent earliest saying. | `notes/logion-001-evidence-en.md` |
+| 1 | Collection frame / interpretation promise | `APPENDIX_ONLY_STABLE` | Low-medium | Important for the later Greek/Coptic collection frame, but not secure as an independent earliest saying and therefore excluded from the strict early clean reconstruction. | `notes/logion-001-evidence-en.md` |
 | 2 | Search/find core with marked expansion | `INCLUDE_WITH_MARKER` | Low-medium | The search/find core may reflect an early or shared traditional motif; the disturbance/amaze/reign/rest sequence may be a Thomasine expansion or secondary development. | `notes/logion-002-evidence-en.md` |
 | 3 | Kingdom not located externally; self-knowledge continuation | `INCLUDE_WITH_MARKER` | Low-medium | The kingdom core may be early or shared; the self-knowledge continuation is more distinctively Thomasine and textually complex. | `notes/logion-003-evidence-en.md` |
 | 4 | First/last core with seven-day child frame | `INCLUDE_WITH_MARKER` | Low | The first/last formula is widely paralleled; the seven-day child and become-one motifs need separate analysis. | `notes/logion-004-evidence-en.md` |

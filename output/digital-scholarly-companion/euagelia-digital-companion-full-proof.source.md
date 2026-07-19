@@ -17,7 +17,7 @@ For a normal reading experience, start with the paper books. For verification, s
 
 ## Clean-Reader Manifest
 
-The frozen clean reader contains 37 printed units. Reader membership is controlled by `reconstruction/earliest-sayings-gospel/final-clean-reader-freeze-v0.1.md` and synchronized by `tools/qa_crosscheck.py`.
+The frozen clean reader contains 36 printed units. Reader membership is controlled by `reconstruction/earliest-sayings-gospel/final-clean-reader-freeze-v0.1.md` and synchronized by `tools/qa_crosscheck.py`.
 
 | Layer | Path | Role |
 | --- | --- | --- |
@@ -34,7 +34,7 @@ Each row links the core card and the currently known evidence/control apparatus.
 
 | Logion | Reader | Decision | Greek status | Card | Evidence | Controls |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | YES | `INCLUDE_WITH_MARKER` | P.Oxy. 654 | [`corpus/cards/logion-001.md`](../../corpus/cards/logion-001.md) | [`reconstruction/earliest-sayings-gospel/notes/logion-001-evidence-en.md`](../../reconstruction/earliest-sayings-gospel/notes/logion-001-evidence-en.md) | None recorded |
+| 1 | NO | `APPENDIX_ONLY_STABLE` | P.Oxy. 654 | [`corpus/cards/logion-001.md`](../../corpus/cards/logion-001.md) | [`reconstruction/earliest-sayings-gospel/notes/logion-001-evidence-en.md`](../../reconstruction/earliest-sayings-gospel/notes/logion-001-evidence-en.md) | None recorded |
 | 2 | YES | `INCLUDE_WITH_MARKER` | P.Oxy. 654 | [`corpus/cards/logion-002.md`](../../corpus/cards/logion-002.md) | [`reconstruction/earliest-sayings-gospel/notes/logion-002-evidence-en.md`](../../reconstruction/earliest-sayings-gospel/notes/logion-002-evidence-en.md) | [`controls/synoptic-parallels/logion-002-matthew-luke.md`](../../controls/synoptic-parallels/logion-002-matthew-luke.md) |
 | 3 | YES | `INCLUDE_WITH_MARKER` | P.Oxy. 654 | [`corpus/cards/logion-003.md`](../../corpus/cards/logion-003.md) | [`reconstruction/earliest-sayings-gospel/notes/logion-003-evidence-en.md`](../../reconstruction/earliest-sayings-gospel/notes/logion-003-evidence-en.md) | [`controls/synoptic-parallels/logion-003-luke-17-kingdom.md`](../../controls/synoptic-parallels/logion-003-luke-17-kingdom.md) |
 | 4 | YES | `INCLUDE_WITH_MARKER` | P.Oxy. 654 | [`corpus/cards/logion-004.md`](../../corpus/cards/logion-004.md) | [`reconstruction/earliest-sayings-gospel/notes/logion-004-evidence-en.md`](../../reconstruction/earliest-sayings-gospel/notes/logion-004-evidence-en.md) | [`controls/synoptic-parallels/logion-004-first-last.md`](../../controls/synoptic-parallels/logion-004-first-last.md) |

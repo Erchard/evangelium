@@ -12,7 +12,7 @@ Working readiness estimate after this pass: **99.75%**.
 
 - 114/114 logion cards.
 - 114/114 appendix sections.
-- Frozen 37-unit clean reader.
+- Frozen 36-unit clean reader.
 - Ukrainian full paper proof: 118 pages.
 - English full paper proof: 177 pages.
 - Digital scholarly companion PDF proof: 16 pages.
@@ -32,7 +32,7 @@ Result:
 - card files: 114/114;
 - appendix sections: 114/114;
 - appendix source/control sections: 114/114;
-- reader sets: 37/37 synchronized;
+- reader sets: 36/36 synchronized;
 - clean-text anchors: present for all clean-reader logia.
 
 ## Release Artifacts

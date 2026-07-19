@@ -2,16 +2,6 @@
 
 Status: publication-polished Greek layer v0.6, updated 2026-07-18. This file distinguishes extant Greek witnesses, partial/lacunose Greek witnesses, and explicitly marked hypothetical Greek retroversions. Retroversions are not manuscript witnesses. Confidence levels and publication instructions are controlled in `greek-retroversion-confidence-audit-v0.1.md`.
 
-## Logion 1
-
-Decision: `INCLUDE_WITH_MARKER`
-
-Witness: P.Oxy. 654, lines 3-5, from `sources/primary_texts/greek_poxy/poxy654-transcription-working.md`.
-
-> καὶ Θωμᾶ⟨ς⟩ καὶ εἶπεν· [ὅστις ἂν τὴν ἑρμηνεί]αν τῶν λόγων τούτ[ων εὑρίσκῃ, θανάτου] οὐ μὴ γεύσηται.
-
-Textual note: the core wording of Logion 1 is mostly reconstructed in lacunae.
-
 ## Logion 2
 
 Decision: `INCLUDE_WITH_MARKER`

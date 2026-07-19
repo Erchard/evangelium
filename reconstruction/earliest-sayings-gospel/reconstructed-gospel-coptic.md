@@ -1,16 +1,6 @@
 # Coptic Base Witness
 
-Status: working text v0.6. The Coptic text is not itself the reconstructed early layer; it is the main complete surviving witness used as a base for reconstruction. This file is synchronized with the current 37-unit Ukrainian clean reader.
-
-## Logion 1
-
-Decision: `INCLUDE_WITH_MARKER`
-
-Source: NHC II,2 as represented in `sources/primary_texts/coptic/logia-001-007-coptic-working.md`.
-
-> ⲁⲩⲱ ⲡⲉϫⲁϥ ϫⲉ ⲡⲉⲧⲁϩⲉ ⲉⲑⲉⲣⲙⲏⲛⲉⲓⲁ ⲛ̅ⲛⲉⲉⲓϣⲁϫⲉ ϥⲛⲁϫⲓ ϯⲡⲉ ⲁⲛ ⲙ̅ⲡⲙⲟⲩ\`
-
-Reconstruction note: retained as a marked collection frame.
+Status: working text v0.7. The Coptic text is not itself the reconstructed early layer; it is the main complete surviving witness used as a base for reconstruction. This file is synchronized with the current 36-unit Ukrainian clean reader.
 
 ## Logion 2
 

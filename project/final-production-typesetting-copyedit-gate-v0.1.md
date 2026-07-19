@@ -21,7 +21,7 @@ Result:
 - card files: 114/114;
 - appendix sections: 114/114;
 - appendix source/control sections: 114/114;
-- reader sets: 37/37 synchronized;
+- reader sets: 36/36 synchronized;
 - clean-text anchors: present for all clean-reader logia.
 
 ## Output Inspection

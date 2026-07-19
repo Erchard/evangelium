@@ -39,7 +39,7 @@ Results:
 - 114/114 card files are present;
 - 114/114 appendix sections are present;
 - 114/114 appendix source/control sections are present;
-- 37/37 reader units are synchronized across language layers and control tables;
+- 36/36 reader units are synchronized across language layers and control tables;
 - all clean-reader logia have appendix clean-text anchors;
 - whitespace diff check passed;
 - paper-source grep returned no matches, which means the Ukrainian and English paper-book source files do not expose internal repository paths or clickable web URLs.

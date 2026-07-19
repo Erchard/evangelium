@@ -104,7 +104,7 @@ The project does not use probability scores as an automatic inclusion rule. A hi
 
 This distinction controls the main tension cases:
 
-- Logion 1 remains in the clean reader only as a marked collection-frame / prologue unit, despite its late-leaning profile.
+- Logion 1 has been moved out of the clean reader and remains in the appendix as a marked collection-frame / prologue unit because of its late-leaning profile.
 - Logia 64, 76, 78, 79, 90, 93, 94, 104, 109, and 113 remain outside the clean reader despite early-score pressure because they are composite, dependent-risky, duplicative of a stronger reader unit, or not yet safely separated into a short core.
 
 The final edition should preserve this principle in reader-friendly prose: probability of early tradition is not identical to clean-reader inclusion.

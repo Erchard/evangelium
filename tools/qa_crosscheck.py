@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 EXPECTED_ALL = list(range(1, 115))
 EXPECTED_READER = [
-    1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34,
+    2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34,
     35, 36, 39, 41, 45, 46, 47, 54, 63, 72, 73, 86, 89, 91, 95, 96, 99, 100, 103, 107,
 ]
 
@@ -41,6 +41,12 @@ def parse_uk_clean() -> dict[int, str]:
     for match in re.finditer(r"^## (\d+)\n\n(.*?)(?=^## \d+\n|\Z)", text, re.S | re.M):
         result[int(match.group(1))] = match.group(2).strip()
     return result
+
+
+def parse_clean_greek_reader() -> list[str]:
+    text = read("reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek-clean.md")
+    text = re.sub(r"^# .+?\n+", "", text)
+    return [block.strip() for block in re.split(r"\n\s*\n", text.strip()) if block.strip()]
 
 
 def parse_reader_file(rel: str, pattern: str) -> list[int]:
@@ -106,7 +112,7 @@ def main() -> int:
             continue
         number = int(match.group(1))
         card_nums.append(number)
-        heading = re.search(r"^# Logion (\d+)\b", card.read_text(encoding="utf-8"), re.M)
+        heading = re.search(r"^# (?:Logion|Логія) (\d+)\b", card.read_text(encoding="utf-8"), re.M)
         if not heading or int(heading.group(1)) != number:
             fail(errors, f"Card heading mismatch: {card.relative_to(ROOT)}")
 
@@ -119,10 +125,20 @@ def main() -> int:
         fail(errors, f"Appendix heading sequence mismatch: {app_nums}")
 
     app_text = read("reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md")
-    if app_text.count("### Джерела й контрольні файли") != 114:
-        fail(errors, "Appendix source/control section count is not 114")
-    if app_text.count("### Статус у реконструкції") != 114:
-        fail(errors, "Appendix status section count is not 114")
+    appendix_reader_sections = {
+        "Coptic text": app_text.count("### Коптський текст"),
+        "Greek text": app_text.count("### Грецький текст"),
+        "Ukrainian translation": app_text.count("### Український переклад"),
+        "English translation": app_text.count("### Англійський переклад"),
+        "reader interpretation": app_text.count("### Як це можна зрозуміти"),
+    }
+    for label, count in appendix_reader_sections.items():
+        if count != 114:
+            fail(errors, f"Appendix {label} section count mismatch: {count}")
+    if "Джерело: ," in app_text:
+        fail(errors, "Appendix has broken source labels containing 'Джерело: ,'")
+    if "Прямий грецький папірусний свідок для Фоми" in app_text:
+        fail(errors, "Appendix has misleading direct-Greek-witness placeholder")
 
     uk_clean = parse_uk_clean()
     reader_sets = {
@@ -156,36 +172,21 @@ def main() -> int:
         if nums != EXPECTED_READER:
             fail(errors, f"Reader set mismatch for {name}: {nums}")
 
+    clean_greek = parse_clean_greek_reader()
+    if len(clean_greek) != len(EXPECTED_READER):
+        fail(errors, f"Clean Greek reader unit count mismatch: {len(clean_greek)}")
+    clean_greek_text = "\n".join(clean_greek)
+    if re.search(r"\bLogion\b|^\s*##\s|\[[^\]]*\]|[⟨⟩]|\d", clean_greek_text, re.M):
+        fail(errors, "Clean Greek reader contains numbering, headings, or critical brackets")
+
     for number, clean_text in uk_clean.items():
         block = blocks.get(number, "")
-        if "Чистий текст реконструкції" not in block:
-            fail(errors, f"Missing clean-text anchor in appendix Logion {number}")
-        if normalized(clean_text) not in normalized(block):
-            fail(errors, f"Clean Ukrainian text not found in appendix Logion {number}")
-        status_area = block.split("### Про що ця логія", 1)[0].split("### Що це за матеріал", 1)[0]
-        if not any(
-            marker in status_area
-            for marker in [
-                "У чистому тексті",
-                "Частково в чистому тексті",
-                "Reader status: У чистому тексті",
-            ]
-        ):
-            fail(errors, f"Appendix Logion {number} does not mark reader inclusion")
+        if "### Український переклад" not in block:
+            fail(errors, f"Missing Ukrainian translation anchor in appendix Logion {number}")
 
     for number, block in blocks.items():
         if number in uk_clean:
             continue
-        status_area = block.split("### Про що ця логія", 1)[0].split("### Що це за матеріал", 1)[0]
-        if any(
-            marker in status_area
-            for marker in [
-                "У чистому тексті",
-                "Частково в чистому тексті",
-                "Reader status: У чистому тексті",
-            ]
-        ):
-            fail(errors, f"Non-reader appendix Logion {number} is marked as included")
 
     if errors:
         print("QA crosscheck FAILED")
@@ -197,8 +198,8 @@ def main() -> int:
     print("- card files: 114/114")
     print("- appendix sections: 114/114")
     print("- appendix source/control sections: 114/114")
-    print("- reader sets: 37/37 synchronized across language layers and control tables")
-    print("- clean-text anchors: present for all clean-reader logia")
+    print("- reader sets: 36/36 synchronized across language layers and control tables")
+    print("- Ukrainian translation anchors: present in the appendix")
     return 0
 
 

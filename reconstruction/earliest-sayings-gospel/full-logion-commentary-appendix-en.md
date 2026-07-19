@@ -12,9 +12,9 @@ Greek status means the status of loaded Greek Thomas papyrus evidence for this e
 
 ### Reconstruction Status
 
-- Reader status: included in the clean reconstruction with an apparatus marker.
-- Clean reader: yes.
-- Confidence: low-medium to medium.
+- Reader status: kept in the appendix as important but not printed in the clean reconstruction.
+- Clean reader: no.
+- Confidence: low-medium.
 - Greek witness status: P.Oxy. 654.
 
 ### What This Saying Is About
@@ -23,11 +23,7 @@ This opening saying functions like a doorway into the whole collection. It tells
 
 ### Text In This Edition
 
-This logion, or a controlled core within it, is printed in the clean English reconstruction:
-
-> Whoever finds the interpretation of these words will not taste death.
-
-The printed unit is the project's current reconstruction of the interpretation promise / collection frame. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
+No clean-reader text is printed for this logion in the current English reconstruction. The logion remains visible here so that readers can see the evidence, the interpretive value, and the reason why it was not allowed into the main reconstructed text.
 
 ### Sources And Controls
 
@@ -37,18 +33,19 @@ The logion has loaded Greek papyrus control in this edition, which gives it more
 
 ### Why It Is Or Is Not In The Reconstruction
 
-The project prints this unit because it has enough early-profile value to represent part of the reconstructed sayings gospel. It is still marked because the received Thomasine form, the Greek evidence, or the relation to parallels remains complicated. Current clean-reader unit: interpretation promise / collection frame; included only with apparatus caution; full-form risks remain visible. The appendix therefore separates the printed core from the fuller received form and keeps the Greek status visible.
+The project keeps this logion in the appendix because it is meaningful and controlled, but not strong enough to stand in the main reconstructed text for this edition. In other words, it matters for understanding the tradition even though it is not counted as part of the earliest recoverable layer. Later collection-frame/prologue material, not an independent earliest saying for the strict-40 clean reconstruction. Preserve full Coptic/Greek witness and explain why it was moved out of the clean text.
 
 ### Possible Interpretations
 
 1. Early-core reading: the interpretation promise / collection frame may preserve a compact saying or motif that circulated before later literary framing.
 2. Wisdom reading: the saying may work as a compact challenge that forces the reader to rethink an ordinary assumption.
 3. Editorial reading: the received Thomas form may have expanded, combined, or reframed an older unit in a way that now requires caution.
-4. Greek-witness reading: extant or partial Oxyrhynchus evidence gives this logion an additional material control, though fragmentary text still requires caution.
+4. Appendix-only reading: the logion can still illuminate the tradition even when it is not printed as part of the reconstructed main text.
+5. Greek-witness reading: extant or partial Oxyrhynchus evidence gives this logion an additional material control, though fragmentary text still requires caution.
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Keep in appendix and evidence dossier; do not print in clean reader.
 
 ## Logion 2
 
@@ -67,7 +64,7 @@ This saying describes searching as a process that unsettles the seeker. Finding 
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Let the one who seeks not stop seeking until they find.
+> Jesus said: Let the one who seeks not stop seeking until they find.
 >
 > When they find, they will be disturbed; when disturbed, they will be amazed; and they will reign.
 
@@ -92,7 +89,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Use seek/find cluster-control note in appendix/dossier; frozen into final 37-unit clean reader.
+Before final publication this logion should be read with the following limit in view: Use seek/find cluster-control note in appendix/dossier; frozen into strict-40 36-unit clean reader.
 
 ## Logion 3
 
@@ -111,7 +108,7 @@ This logion rejects the idea that the kingdom is a faraway location. It turns th
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Do not seek the kingdom as a place in heaven or in the sea: the kingdom is within you and outside you.
+> Jesus said: Do not seek the kingdom as a place in heaven or in the sea: the kingdom is within you and outside you.
 >
 > When you know yourselves, you will be known, and you will know that you are children of the living Father. If you do not know yourselves, you are in poverty, and you are poverty.
 
@@ -136,7 +133,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 4
 
@@ -155,7 +152,7 @@ This section concerns the first-last core with child/life frame. It belongs to t
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Many who are first will become last, and the last first.
+> Jesus said: Many who are first will become last, and the last first.
 >
 > An old person will not hesitate to ask a seven-day-old child about the place of life, and that person will live; they will become one.
 
@@ -180,7 +177,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 5
 
@@ -199,7 +196,7 @@ This section concerns the hidden/revealed maxim with recognition frame. It belon
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Nothing is hidden that will not become manifest.
+> Jesus said: Nothing is hidden that will not become manifest.
 >
 > Know what is before your face, and what is hidden from you will be revealed to you.
 
@@ -224,7 +221,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 6
 
@@ -243,7 +240,7 @@ The clean reader preserves only the short ethical core: do not lie, and do not d
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Do not lie, and do not do what you hate.
+> Jesus said: Do not lie, and do not do what you hate.
 
 The printed unit is the project's current reconstruction of the ethical core only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -266,7 +263,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 7
 
@@ -363,7 +360,7 @@ This section concerns the non-allegorical sower core. It belongs to the parable 
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> A sower went out to sow. Some seed fell on the road, some on rock, some among thorns, and some on good soil; only the good soil bore fruit.
+> Jesus said: A sower went out to sow. Some seed fell on the road, some on rock, some among thorns, and some on good soil; only the good soil bore fruit.
 
 The printed unit is the project's current reconstruction of the non-allegorical sower core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -386,7 +383,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 10
 
@@ -405,7 +402,7 @@ This section concerns the fire-casting core. It belongs to the fire/kingdom fiel
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> I cast fire upon the world.
+> Jesus said: I cast fire upon the world.
 
 The printed unit is the project's current reconstruction of the fire-casting core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -642,7 +639,7 @@ This section concerns the division/household core. It belongs to the family and 
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> I came not to bring peace, but division; a house will be divided.
+> Jesus said: I came not to bring peace, but division; a house will be divided.
 
 The printed unit is the project's current reconstruction of the division/household core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -801,7 +798,7 @@ This section concerns the mustard-seed parable core. It belongs to the parable f
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> The kingdom is like a mustard seed: it is small, but it grows and gives shelter to the birds of heaven.
+> Jesus said: The kingdom is like a mustard seed: it is small, but it grows and gives shelter to the birds of heaven.
 
 The printed unit is the project's current reconstruction of the mustard-seed parable core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -824,7 +821,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 21
 
@@ -882,7 +879,7 @@ This section concerns the children/kingdom core. It belongs to the kingdom-sayin
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Little children are like those who enter the kingdom.
+> Jesus said: Little children are like those who enter the kingdom.
 
 The printed unit is the project's current reconstruction of the children/kingdom core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -905,7 +902,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 23
 
@@ -1002,7 +999,7 @@ This section concerns the love-brother core. It belongs to the family and discip
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Love your brother as your own soul; guard him as the apple of your eye.
+> Jesus said: Love your brother as your own soul; guard him as the apple of your eye.
 
 The printed unit is the project's current reconstruction of the love-brother core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1025,7 +1022,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 26
 
@@ -1044,7 +1041,7 @@ This section concerns the speck/beam core. It belongs to the wider sayings tradi
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> You see the speck in your brother's eye, but you do not see the beam in your own eye. When you remove the beam from your own eye, then you will see clearly how to remove the speck from your brother's eye.
+> Jesus said: You see the speck in your brother's eye, but you do not see the beam in your own eye. When you remove the beam from your own eye, then you will see clearly how to remove the speck from your brother's eye.
 
 The printed unit is the project's current reconstruction of the speck/beam core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1067,7 +1064,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 27
 
@@ -1242,7 +1239,7 @@ This section concerns the prophet homeland + physician clause. It belongs to the
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> A prophet is not accepted in his own place.
+> Jesus said: A prophet is not accepted in his own place.
 >
 > And a physician does not heal those who know him.
 
@@ -1267,7 +1264,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 32
 
@@ -1286,7 +1283,7 @@ This section concerns the city on high mountain. It belongs to the wider sayings
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> A city built and fortified on a high mountain cannot fall and cannot be hidden.
+> Jesus said: A city built and fortified on a high mountain cannot fall and cannot be hidden.
 
 The printed unit is the project's current reconstruction of the city on high mountain. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1309,7 +1306,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 33
 
@@ -1328,7 +1325,7 @@ This section concerns the ear/rooftops + lamp/lampstand unit. It belongs to the 
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> What you hear in your ear, proclaim from the rooftops.
+> Jesus said: What you hear in your ear, proclaim from the rooftops.
 >
 > No one lights a lamp to put it under a measure or in a hidden place; it is put on a lampstand so that all may see the light.
 
@@ -1353,7 +1350,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 34
 
@@ -1372,7 +1369,7 @@ This section concerns the blind leading blind. It belongs to the wider sayings t
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> If a blind person leads a blind person, both will fall into a pit.
+> Jesus said: If a blind person leads a blind person, both will fall into a pit.
 
 The printed unit is the project's current reconstruction of the blind leading blind. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1395,7 +1392,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 35
 
@@ -1414,7 +1411,7 @@ This section concerns the strong man house. It belongs to the wider sayings trad
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> No one can enter a strong man's house and take his possessions unless he first binds his hands; then he will plunder his house.
+> Jesus said: No one can enter a strong man's house and take his possessions unless he first binds his hands; then he will plunder his house.
 
 The printed unit is the project's current reconstruction of the strong man house. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1437,7 +1434,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 36
 
@@ -1456,7 +1453,7 @@ This section concerns the anxiety about clothing core. It belongs to the wider s
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Do not be anxious from morning until evening and from evening until morning about what you will wear.
+> Jesus said: Do not be anxious from morning until evening and from evening until morning about what you will wear.
 
 The printed unit is the project's current reconstruction of the anxiety about clothing core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1479,7 +1476,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 37
 
@@ -1576,7 +1573,7 @@ This section concerns the keys of knowledge + serpents/doves composite. It belon
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> The scribes and Pharisees have taken the keys of knowledge: they did not enter, and they did not allow those who wished to enter.
+> Jesus said: The scribes and Pharisees have taken the keys of knowledge: they did not enter, and they did not allow those who wished to enter.
 >
 > Be wise as serpents and pure as doves.
 
@@ -1601,7 +1598,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 40
 
@@ -1659,7 +1656,7 @@ This section concerns the has/given formula. It belongs to the wider sayings tra
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Whoever has will be given more; whoever does not have will lose even the little that they have.
+> Jesus said: Whoever has will be given more; whoever does not have will lose even the little that they have.
 
 The printed unit is the project's current reconstruction of the has/given formula. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1682,7 +1679,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 42
 
@@ -1818,7 +1815,7 @@ The reconstructed reader uses the fruit-tree core. The heart-treasure material i
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Grapes are not gathered from thorns, nor figs from thistles.
+> Jesus said: Grapes are not gathered from thorns, nor figs from thistles.
 
 The printed unit is the project's current reconstruction of the 45A grapes/thorns only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1841,7 +1838,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 46
 
@@ -1860,7 +1857,7 @@ This section concerns the 46A short John/least-in-kingdom core; full logion appe
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Among those born of women none is greater than John; yet the least in the kingdom is greater than he.
+> Jesus said: Among those born of women none is greater than John; yet the least in the kingdom is greater than he.
 
 The printed unit is the project's current reconstruction of the 46A short John/least-in-kingdom core; full logion appendix-only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1883,7 +1880,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 47
 
@@ -1902,7 +1899,7 @@ This section concerns the 47B two masters only. It belongs to the wider sayings 
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> A servant cannot serve two masters: he will honor one and despise the other.
+> Jesus said: A servant cannot serve two masters: he will honor one and despise the other.
 
 The printed unit is the project's current reconstruction of the 47B two masters only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -1925,7 +1922,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 48
 
@@ -2178,7 +2175,7 @@ This section concerns the blessed poor. It belongs to the wealth and renunciatio
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Blessed are the poor, for the kingdom of heaven belongs to you.
+> Jesus said: Blessed are the poor, for the kingdom of heaven belongs to you.
 
 The printed unit is the project's current reconstruction of the blessed poor. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -2532,7 +2529,7 @@ This is the rich-fool warning: a person plans future abundance, but death arrive
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> A rich man had many possessions. He planned to sow, reap, plant, and fill his storehouses so that he would lack nothing. That night he died.
+> Jesus said: A rich man had many possessions. He planned to sow, reap, plant, and fill his storehouses so that he would lack nothing. That night he died.
 
 The printed unit is the project's current reconstruction of the rich-fool core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -2555,7 +2552,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 64
 
@@ -2913,7 +2910,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 73
 
@@ -2932,7 +2929,7 @@ This section concerns the harvest/workers saying. It belongs to the parable fiel
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> The harvest is great, but the workers are few. Ask the Lord to send workers into the harvest.
+> Jesus said: The harvest is great, but the workers are few. Ask the Lord to send workers into the harvest.
 
 The printed unit is the project's current reconstruction of the harvest/workers saying. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -2955,7 +2952,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 74
 
@@ -3442,7 +3439,7 @@ This section concerns the foxes/birds/Son of Man homelessness core. It belongs t
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Foxes have holes, birds have nests, but the Son of Man has nowhere to lay his head.
+> Jesus said: Foxes have holes, birds have nests, but the Son of Man has nowhere to lay his head.
 
 The printed unit is the project's current reconstruction of the foxes/birds/Son of Man homelessness core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -3465,7 +3462,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 87
 
@@ -3562,7 +3559,7 @@ This section concerns the cup inside/outside core. It belongs to the wider sayin
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Why do you clean the outside of the cup? Do you not understand that the one who made the inside also made the outside?
+> Jesus said: Why do you clean the outside of the cup? Do you not understand that the one who made the inside also made the outside?
 
 The printed unit is the project's current reconstruction of the cup inside/outside core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -3585,7 +3582,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 90
 
@@ -3643,7 +3640,7 @@ This section concerns the 91A recognition-of-time core; full logion appendix-onl
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> You know how to read the face of heaven and earth, but you do not recognize this time.
+> Jesus said: You know how to read the face of heaven and earth, but you do not recognize this time.
 
 The printed unit is the project's current reconstruction of the 91A recognition-of-time core; full logion appendix-only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -3666,7 +3663,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 92
 
@@ -3802,7 +3799,7 @@ This section concerns the money/non-repayment core. It belongs to the wealth and
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> If you have money, do not lend at interest; give to the one from whom you do not expect to receive it back.
+> Jesus said: If you have money, do not lend at interest; give to the one from whom you do not expect to receive it back.
 
 The printed unit is the project's current reconstruction of the money/non-repayment core. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -3825,7 +3822,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 96
 
@@ -3844,7 +3841,7 @@ This section concerns the leaven core only. It belongs to the parable field: ord
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> The kingdom is like a woman who took a little leaven and hid it in dough.
+> Jesus said: The kingdom is like a woman who took a little leaven and hid it in dough.
 
 The printed unit is the project's current reconstruction of the leaven core only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -3867,7 +3864,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 97
 
@@ -3964,7 +3961,7 @@ This section concerns the true-family core only. It belongs to the family and di
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Those who do the Father's will are my brothers and my mother.
+> Jesus said: Those who do the Father's will are my brothers and my mother.
 
 The printed unit is the project's current reconstruction of the true-family core only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -4006,7 +4003,7 @@ This section concerns the Caesar/God tribute core only. It belongs to the wider 
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Give Caesar what belongs to Caesar, and God what belongs to God.
+> Jesus said: Give Caesar what belongs to Caesar, and God what belongs to God.
 
 The printed unit is the project's current reconstruction of the Caesar/God tribute core only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -4029,7 +4026,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 101
 
@@ -4126,7 +4123,7 @@ Only the brief thief/watchfulness core is printed in the clean reader. The fulle
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> Blessed is the one who knows when the thief is coming and keeps watch before he comes.
+> Jesus said: Blessed is the one who knows when the thief is coming and keeps watch before he comes.
 
 The printed unit is the project's current reconstruction of the thief/watchfulness core only; full logion appendix-only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -4285,7 +4282,7 @@ This section concerns the lost-sheep core only. It belongs to the parable field:
 
 This logion, or a controlled core within it, is printed in the clean English reconstruction:
 
-> A shepherd had one hundred sheep. One of them went astray; he left the ninety-nine and searched for it until he found it.
+> Jesus said: A shepherd had one hundred sheep. One of them went astray; he left the ninety-nine and searched for it until he found it.
 
 The printed unit is the project's current reconstruction of the lost-sheep core only. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
 
@@ -4308,7 +4305,7 @@ The project prints this unit because it has enough early-profile value to repres
 
 ### Uncertainty And Limits
 
-Before final publication this logion should be read with the following limit in view: Frozen into final 37-unit clean reader; no membership change before book generation.
+Before final publication this logion should be read with the following limit in view: Frozen into strict-40 36-unit clean reader; no membership change without a new documented revision pass.
 
 ## Logion 108
 

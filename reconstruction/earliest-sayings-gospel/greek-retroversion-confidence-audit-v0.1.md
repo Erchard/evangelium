@@ -69,7 +69,7 @@ The counts overlap because Logion 33 has both partial extant Greek and a retrove
 
 ## Publication Polish Result
 
-The 2026-07-18 publication-polish pass checked the current 37-unit clean reader against `reconstructed-gospel-greek.md`, `parallel-edition.md`, and `evidence-dossier-en.md`.
+The 2026-07-18 publication-polish pass checked the current 36-unit clean reader against `reconstructed-gospel-greek.md`, `parallel-edition.md`, and `evidence-dossier-en.md`.
 
 - Clean-reader membership was not changed.
 - Logia 1-6, 36, and 39 are now consistently labeled as `Lacunose extant Greek witness` or `Lacunose extant Greek` in the public-facing Greek and parallel layers.

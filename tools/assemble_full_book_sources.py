@@ -17,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 UK_CLEAN = ROOT / "reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md"
 EN_CLEAN = ROOT / "reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md"
+GREEK_CLEAN = ROOT / "reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek-clean.md"
 UK_APPENDIX = ROOT / "reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md"
 EN_APPENDIX = ROOT / "reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-en.md"
 EN_DOSSIER = ROOT / "reconstruction/earliest-sayings-gospel/evidence-dossier-en.md"
@@ -81,6 +82,8 @@ def localize_paper_statuses_uk(line: str) -> str:
 
 
 def sanitize_paper_text(text: str, lang: str = "en") -> str:
+    text = re.sub(r";?\s*локальний робочий текст:\s*`[^`]+`", "", text)
+    text = re.sub(r";?\s*у проекті використано локальний робочий текст\s*`[^`]+`", "", text)
     text = re.sub(r"`[^`]*(?:corpus|reconstruction|project|sources|controls|notes|output)/[^`]*`", "", text)
     text = re.sub(r"\s+\n", "\n", text)
     lines = []
@@ -151,19 +154,20 @@ def normalize_clean_headings(clean: str, lang: str) -> str:
     return clean
 
 
+def clean_greek_reader_for_paper() -> str:
+    text = read(GREEK_CLEAN)
+    text = re.sub(r"^# .+?\n+", "", text)
+    return text.strip()
+
+
 def assemble_uk() -> str:
     return "\n\n".join(
         [
             "# Реконструкція найдавнішого Євангелія висловів",
             "## Чистий текст реконструкції",
             normalize_clean_headings(read(UK_CLEAN), "uk"),
-            "## Як читати це видання",
-            (
-                "Перший читацький шар - це тільки чистий реконструйований текст. "
-                "Номери логій збережено за загальноприйнятою нумерацією Євангелія від Фоми, "
-                "щоб читач міг легко перейти до відповідного розділу додатка. "
-                "Коментар не є частиною самого реконструйованого тексту."
-            ),
+            "## Реконструйований грецький текст",
+            clean_greek_reader_for_paper(),
             extract_uk_appendix_for_paper(),
             PRINT_BIBLIOGRAPHY_UK.strip(),
         ]
@@ -222,6 +226,7 @@ def assemble_digital() -> str:
         "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md",
         "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-coptic.md",
         "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek.md",
+        "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek-clean.md",
         "- reconstruction/earliest-sayings-gospel/parallel-edition.md",
         "",
         "## Rights And Bibliography",

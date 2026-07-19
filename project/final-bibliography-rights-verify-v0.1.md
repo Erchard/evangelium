@@ -95,7 +95,7 @@ git diff --check
 
 Result:
 
-- structural QA passed: 114/114 card files, 114/114 appendix sections, 37/37 reader units synchronized across language layers and control tables;
+- structural QA passed: 114/114 card files, 114/114 appendix sections, 36/36 reader units synchronized across language layers and control tables;
 - whitespace diff check passed;
 - Ukrainian and English paper-book source grep for internal repository paths and clickable web URLs returned no matches;
 - active bibliography markers after pass: `VERIFY` = 0, `UNRESOLVED` = 0;

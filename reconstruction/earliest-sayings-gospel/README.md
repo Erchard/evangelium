@@ -30,7 +30,7 @@ The reconstruction is not a simple translation of the Coptic Gospel of Thomas. I
 | `full-logion-commentary-appendix-uk.md` | Ukrainian full 114-logion commentary appendix: all 114 logia have reader-facing explanation and all Logia 1-114 are editorially consolidated into print-safe chapters. |
 | `notes/` | Detailed logion-level evidence notes. |
 | `greek-retroversion-confidence-audit-v0.1.md` | Audit distinguishing extant Greek witnesses, lacunose/partial Greek witnesses, mixed cases, and hypothetical Greek retroversions; updated to publication-polish v0.3. |
-| `final-clean-reader-freeze-v0.1.md` | Freeze report confirming the 37-unit clean reader before book generation. |
+| `final-clean-reader-freeze-v0.1.md` | Freeze report confirming the 36-unit clean reader before book generation. |
 | `final-all-114-decision-audit-v0.1.md` | Pre-freeze audit of all-114 reader support, split-core candidates, stale files, and next work package; superseded for corpus freeze by `final-clean-reader-freeze-v0.1.md`. |
 | `all-114-publication-decision-table-v0.1.md` | Publication-control table for all 114 logia: reader, appendix-only, deferred, evidence-blocked, and excluded decisions. |
 | `living-dead-world-cluster-control-pass-v0.1.md` | Audit of the first cluster-control pass for Logia 11, 18, 52, 56, 59, 60, 80, and 111. |
@@ -75,8 +75,8 @@ The current clean reconstructed reader covers 37 logia or marked cores.
 - Controlled reader-candidate pass 46A/91A now exists. It includes 46A and 91A as marked clean-reader cores and keeps 90 appendix-only.
 - Thief/watchfulness cluster-control for Logia 21 and 103 now exists. It includes 103A as a marked clean-reader core, keeps full Logion 103 appendix-only, and keeps full Logion 21 appendix-only as composite control material.
 - `evidence-dossier-en.md` is now publication-facing draft v1.4. It still requires the bibliography / rights / citation / reproducibility pass before final publication.
-- Ritual-ethics / bridegroom follow-up for 104A now exists. It keeps 104A appendix-only stable and does not change the 37-unit clean reader.
-- Final clean-reader freeze v0.1 now exists. It freezes the 37-unit clean reader for this edition and cleaned the English reader layer of residual apparatus notes.
+- Ritual-ethics / bridegroom follow-up for 104A now exists. It keeps 104A appendix-only stable and does not change the 36-unit clean reader.
+- Final clean-reader freeze v0.1 now exists. It freezes the 36-unit clean reader for this edition and cleaned the English reader layer of residual apparatus notes.
 
 This is a working reconstruction, not a final academic edition.
 

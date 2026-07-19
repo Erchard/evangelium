@@ -4,13 +4,15 @@ Status: completed, 2026-07-18.
 
 ## Purpose
 
-This pass freezes the clean reconstructed reader before book generation. It does not reopen selection unless a contradiction makes the 37-unit corpus unsafe.
+This pass freezes the clean reconstructed reader before book generation. Strict-40 revision v0.1 updates the frozen corpus to 36 units after moving Logion 1 out of the clean text.
 
 ## Frozen Clean-Reader Corpus
 
-The final clean reader for this edition contains 37 logia or marked cores:
+Strict-40 revision note, 2026-07-19: Logion 1 has been removed from the clean reconstructed text because its strongest profile is a later collection frame / hermeneutical prologue, not an independent early saying.
 
-`1, 2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 45A, 46A, 47B, 54, 63, 72, 73, 86, 89, 91A, 95, 96, 99, 100, 103A, 107`.
+The final clean reader for this edition now contains 36 logia or marked cores:
+
+`2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34, 35, 36, 39, 41, 45A, 46A, 47B, 54, 63, 72, 73, 86, 89, 91A, 95, 96, 99, 100, 103A, 107`.
 
 The print-facing clean reader may display the inherited Thomas logion numbers without suffixes. The suffixes remain editorial control labels for the apparatus:
 
@@ -24,12 +26,12 @@ The print-facing clean reader may display the inherited Thomas logion numbers wi
 
 | Layer | Result |
 | --- | --- |
-| Ukrainian clean reader | 37/37 in expected order; clean-text audit passed. |
-| English clean reader | 37/37 in expected order after removing status text, bracketed expansion labels, and notes. |
-| Coptic base witness | 37/37 in expected order. |
-| Greek layer | 37/37 in expected order; publication-polished Greek witness labels retained. |
-| Parallel edition | 37/37 in expected order. |
-| All-114 decision table | Reader set matches the frozen 37-unit corpus. |
+| Ukrainian clean reader | 36/36 in expected order; clean-text audit passed. |
+| English clean reader | 36/36 in expected order after removing Logion 1 frame material. |
+| Coptic base witness | 36/36 in expected order. |
+| Greek layer | 36/36 in expected order; publication-polished Greek witness labels retained. |
+| Parallel edition | 36/36 in expected order. |
+| All-114 decision table | Reader set matches the frozen 36-unit corpus. |
 | Full Ukrainian appendix | 114/114 sections; clean-text anchors exist for all 37 reader units. |
 | Probability-vs-reader audit | Known tensions are documented and do not require membership changes in this edition. |
 
@@ -41,18 +43,18 @@ The English clean reader still carried pre-freeze apparatus material:
 - bracketed labels such as `[Collection frame:]` and `[Possible Thomasine expansion:]`;
 - explanatory notes under Logia 2, 3, and 4.
 
-These were removed from `reconstructed-gospel-en.md`. The underlying English text and the 37-unit corpus were not changed.
+These were removed from `reconstructed-gospel-en.md`. Strict-40 revision v0.1 later removed Logion 1 from the clean English text as part of the synchronized 36-unit corpus.
 
 ## Known Tensions Retained With Rationale
 
 The probability audit still reports one included late-leaning unit and ten excluded high-early units. These are not freeze blockers because each case is already controlled by a documented editorial rationale:
 
-- Logion 1 remains in the clean reader only as a collection frame / prologue case, not as an ordinary reconstructed saying.
+- Logion 1 no longer remains in the clean reader. It is preserved in the appendix as a collection frame / prologue case, not as an ordinary reconstructed saying.
 - Logia 64, 76, 78, 79, 90, 93, 94, 104, 109, and 113 remain outside the clean reader despite early-pressure scores because they are duplicative, Matthew/Luke-dependent risk cases, composite units, or too tightly bound to Thomasine editorial frames.
 
 ## Frozen Edition Verdict
 
-The 37-unit clean reader is frozen for this edition.
+The 36-unit clean reader is frozen for this strict-40 revision.
 
 No clean-reader membership change is recommended before book generation. Future changes should require new manuscript/source evidence or a separately documented post-freeze revision pass.
 

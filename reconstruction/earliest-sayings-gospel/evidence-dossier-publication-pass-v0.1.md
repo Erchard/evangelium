@@ -21,7 +21,7 @@ The clean reader was not changed. The current reader remains 37 logia or marked 
 - Added explicit Greek witness / retroversion policy: hypothetical Greek retroversions must never be treated as manuscript witnesses.
 - Added probability-versus-reader-decision control to explain why high early probability is not identical to inclusion.
 - Added cluster-control method and summaries for beatitudes, seek/find, family-renunciation, fire/kingdom, wealth/renunciation, and thief/watchfulness.
-- Added a current 37-unit reader block.
+- Added a current 36-unit reader block.
 - Added a major appendix-only and exclusion table covering Logia 64, 76, 90, 93, 94, 104, 109, 113, and 114.
 - Added an uncertainty model and alternative-reconstruction section.
 - Added a provisional bibliography, rights, and citation note.
