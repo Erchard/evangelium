@@ -1,6 +1,6 @@
 # Структура репозиторію
 
-Статус: актуалізовано 2026-07-18 після technical-debt closure pass.
+Статус: актуалізовано 2026-07-19 після Bible-style book design/index pass.
 
 ## Навігаційний принцип
 
@@ -17,7 +17,7 @@
 | `controls/` | Synoptic/control files, кластерні порівняння, паралелі й контрольні аргументи. |
 | `research/` | Методологія, історія досліджень, датування, історичні гіпотези. |
 | `bibliography/` | Місце для фінальної бібліографії, rights/citation notes і списків літератури. |
-| `output/` | Місце для майбутніх експортів: українська паперова книга, англійська паперова книга, digital scholarly companion, статті й публічні редакції. |
+| `output/` | Згенеровані експортні матеріали: українська паперова книга, англійська паперова книга, digital scholarly companion, статті й публічні редакції. |
 | `tools/` | Локальні QA/consistency scripts для перевірки структури, нумерації, reader sync і appendix anchors. |
 | `archive/` | Неактивні матеріали, які треба зберегти, але не використовувати як робочий центр. |
 
@@ -52,7 +52,8 @@
 - Усі 37 clean-reader одиниці мають точний `Чистий текст реконструкції` anchor у full appendix.
 - Structural QA baseline проходить через `python3 tools/qa_crosscheck.py`.
 - Print/digital publication architecture v0.1 зафіксована: українська й англійська паперові книги мають бути самодостатніми, а повний evidence apparatus лишається digital scholarly companion.
-- Наступний робочий пакет: print / digital render proof preparation.
+- Render pipeline, first proofs, first proof QA/layout correction, Bible-style book design/index pass і final proof polish виконані.
+- Наступний робочий пакет: release-candidate proof package audit.
 
 ## Правило для майбутньої роботи
 
@@ -60,7 +61,7 @@
 
 - новий промпт або план - у `project/`;
 - новий текст реконструкції або коментар - у `reconstruction/earliest-sayings-gospel/`;
-- майбутній print/digital export - у `output/print/uk/`, `output/print/en/` або `output/digital/scholarly/`;
+- майбутній print/digital export - у `output/uk-paper-book/`, `output/en-paper-book/` або `output/digital-scholarly-companion/`;
 - нову картку логії - у `corpus/cards/`;
 - нове першоджерело або snapshot - у `sources/primary_texts/`;
 - новий контроль паралелей - у `controls/synoptic-parallels/`;

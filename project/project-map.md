@@ -1,6 +1,6 @@
 # Карта проєкту
 
-Статус: актуалізовано 2026-07-18.
+Статус: актуалізовано 2026-07-19.
 
 ## Поточний стан у стислому вигляді
 
@@ -11,8 +11,8 @@
 - Print/digital publication architecture v0.1 зафіксовано: українська й англійська паперові книги мають бути окремими самодостатніми виданнями, а повний source/evidence apparatus лишається цифровим companion layer.
 - Technical QA baseline закрито: `tools/qa_crosscheck.py` перевіряє структурну цілісність 114 карток, 114 appendix-секцій, clean-reader sync і точні appendix anchors.
 - Evidence dossier: publication-facing draft v1.4; bibliography/rights/citation/reproducibility layer оновлено до release verification pass v0.2.
-- All-114 publication decision table v0.1 виконано; перший Phase 5 P1 non-reader appendix package і evidence-rationale pass виконано; cluster-control passes для living/dead/world, beatitudes, seek/find, family-renunciation, fire/kingdom, thief/watchfulness, wealth/renunciation і ritual-ethics / bridegroom 104A виконано; Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography and rights verify, print/digital render proof preparation, render pipeline and first proofs, Logion 1 frame-status review, Review C і controlled reader-candidate pass 46A/91A виконано; найближчий робочий пакет: first proof QA and layout corrections.
-- Open-task prompt queue створено: `project/open-task-prompt-queue-2026-07-18.md`; актуальний `NEXT` - first proof QA and layout corrections.
+- All-114 publication decision table v0.1 виконано; перший Phase 5 P1 non-reader appendix package і evidence-rationale pass виконано; cluster-control passes для living/dead/world, beatitudes, seek/find, family-renunciation, fire/kingdom, thief/watchfulness, wealth/renunciation і ritual-ethics / bridegroom 104A виконано; Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography and rights verify, print/digital render proof preparation, render pipeline and first proofs, first proof QA/layout correction, Bible-style book design/index pass, final proof polish/bibliography/TOC, Logion 1 frame-status review, Review C і controlled reader-candidate pass 46A/91A виконано; найближчий робочий пакет: release-candidate proof package audit.
+- Open-task prompt queue створено: `project/open-task-prompt-queue-2026-07-18.md`; актуальний `NEXT` - release-candidate proof package audit.
 - Усі 114 карток логій мають `Gold-level status check v0.2`; актуальним card-quality audit є `corpus/cards/card-quality-audit-v0.2.md`.
 - Усі 114 карток логій мають `Five-source original-language apparatus v0.1`; актуальний аудит джерельного шару: `corpus/cards/five-source-apparatus-audit-v0.1.md`.
 - Усі 114 карток логій мають `Читацьке тлумачення` v0.1 для звичайного читача; актуальний аудит: `corpus/cards/reader-interpretation-expansion-audit-v0.1.md`.
@@ -39,7 +39,7 @@
 | Кінцевий продукт | `project/arabic-injil-layer-concept.md` | Концепція арабського Injil-layer: як ідея ісламського первісного Інжилю може бути чесно використана як міжрелігійна рамка для реконструкції. |
 | Кінцевий продукт | `project/arabic-injil-layer-editorial-policy.md` | Політика арабського Injil-layer: високий класичний / коранічно-суміжний регістр без претензії на суру, Коран або одкровення. |
 | Завершення | `project/project-completion-roadmap.md` | Актуальна дорожня карта: 37-unit reader, синхронізовані мовні шари, Greek audit, пакетне розгортання full appendix і публікаційні прогалини. |
-| Завершення | `project/open-task-prompt-queue-2026-07-18.md` | Активна черга високоякісних промптів для незакритих задач; актуальний `NEXT` - first proof QA and layout corrections. |
+| Завершення | `project/open-task-prompt-queue-2026-07-18.md` | Активна черга високоякісних промптів для незакритих задач; актуальний `NEXT` - release-candidate proof package audit. |
 | Завершення | `project/open-task-prompt-factory-execution-v0.1.md` | Audit виконання prompt-factory pass: створено queue і набір поточних executable prompts. |
 | Завершення | `project/project-quality-audit-v0.1.md` | Актуалізований аудит якості v0.2: закриті попередні недоліки, нові P0/P1/P2 прогалини, поточні метрики й рекомендований наступний крок. |
 | Завершення | `project/project-quality-remediation-plan-v0.1.md` | Практичний план усунення недоліків після quality audit: фази, пріоритети, acceptance criteria і порядок доведення проекту до публікаційної якості. |
@@ -59,7 +59,11 @@
 | Завершення | `project/final-bibliography-rights-verify-v0.1.md` | Audit фінальної pre-render bibliography/right verification: відкриті джерела перевірено, protected controls обмежено, snapshots із неясними правами не розповсюджувати. |
 | Завершення | `project/print-digital-render-proof-prep-v0.1.md` | Preflight proof-prep report: paper sources print-safe, citation key table, renderer interface і blockers перед першим proof render. |
 | Завершення | `project/render-pipeline-first-proofs-v0.1.md` | Audit першого render pass: мінімальний ReportLab renderer, HTML/PDF proofs, checksums, page counts і layout risks. |
-| Робочий промпт | `project/ide-codex-first-proof-qa-layout-corrections-v0.1-prompt.md` | Поточний NEXT-промпт: перевірити proofs сторінка-за-сторінкою, виправити видимі layout defects і перерендерити. |
+| Завершення | `project/bible-style-paper-layout-policy-v0.1.md` | Політика паперового оформлення: чистий текст має наближатися до звичної масової Bible-style верстки. |
+| Завершення | `project/first-proof-qa-layout-corrections-v0.1.md` | Audit першого proof-QA/layout correction pass: compact two-column clean text, serif typography, paper-path safety. |
+| Завершення | `project/bible-style-book-design-index-pass-v0.1.md` | Audit Bible-style design/index pass: split paper indexes, reader-note page, path-safe paper PDFs і v0.3 proofs. |
+| Завершення | `project/final-proof-polish-bibliography-toc-v0.1.md` | Audit final proof polish pass: front matter, proof-stable TOC, print source keys, compressed indexes і v0.4 proofs. |
+| Робочий промпт | `project/ide-codex-release-candidate-proof-package-audit-v0.1-prompt.md` | Поточний NEXT-промпт: повна page-by-page proof package audit і release-candidate verdict. |
 | Завершення | `reconstruction/earliest-sayings-gospel/ritual-ethics-bridegroom-104a-followup-v0.1.md` | Follow-up рішення для 104A: appendix-only stable, без зміни clean reader. |
 | Завершення | `corpus/cards/card-quality-audit-v0.2.md` | Аудит gold-level нормалізації карток: 114/114 мають поточний v0.2 status block; головна наступна прогалина - publication decision depth. |
 | Завершення | `corpus/cards/five-source-apparatus-audit-v0.1.md` | Аудит пʼятиджерельного апарату в картках: усі 114 мають P.Oxy./Coptic/canonical channel, але canonical Greek local extraction ще майже весь попереду. |

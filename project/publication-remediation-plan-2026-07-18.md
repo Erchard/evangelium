@@ -1,12 +1,12 @@
 # Publication Remediation Plan
 
-Status: active remediation plan, 2026-07-18.
+Status: active remediation plan, updated 2026-07-19.
 
 ## Current Readiness Estimate
 
-Working estimate: 97%.
+Working estimate: 98.5%.
 
-The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, render-proof preparation, and first proof artifacts are in place. The remaining work is visual/text proof QA, layout correction, final indexes/front matter, and final corrections.
+The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, render-proof preparation, first proof artifacts, first proof QA/layout correction, Bible-style book design/index pass, and final proof polish are in place. The remaining work is release-candidate proof judgment: page-by-page visual QA, final blocker classification, renderer adequacy decision, and release-candidate packaging.
 
 ## Primary Defects To Remove
 
@@ -25,7 +25,10 @@ The project is no longer blocked by corpus coverage. The main text, all 114 card
 | 8 | Final bibliography and rights verify | CLOSED: release-level bibliography and source-rights pass completed. | Bibliography and rights status are safe for proof preparation or clearly marked as protected/control-only. |
 | 9 | Print / digital render proof preparation | CLOSED: paper books and digital companion checked at proof-prep level. | Ukrainian and English paper sources are print-safe, digital apparatus remains complete, and rendering blockers are listed. |
 | 10 | Render pipeline and first proofs | CLOSED: minimal renderer and first proof artifacts created. | Ukrainian, English, and digital companion proofs exist or rendering blocker is explicitly documented. |
-| 11 | First proof QA and layout corrections | NEXT: inspect generated pages and fix visible proof defects. | Proofs have acceptable first-pass layout, no paper-only path leakage, and documented remaining design work. |
+| 11 | First proof QA and layout corrections | CLOSED: first visible paper defects were corrected and paper PDFs are path-safe. | Proofs have acceptable first-pass layout, no paper-only path leakage, and documented remaining design work. |
+| 12 | Bible-style book design and index pass | CLOSED: paper proofs now use compact Bible-style clean text and split print indexes. | Raw all-114 tables are replaced by reader-safe paper indexes, with no repo paths or URLs in paper PDFs. |
+| 13 | Final proof polish, bibliography, and TOC | CLOSED: front matter, proof-stable TOC, print source keys, and index compression improved. | Ukrainian and English paper PDFs can become release candidates after visual proofing and final corrections. |
+| 14 | Release-candidate proof package audit | NEXT: inspect every page and decide renderer/package readiness. | A final blocker list and release-candidate verdict exist for paper and digital outputs. |
 
 ## Execution Order
 
@@ -108,4 +111,16 @@ CLOSED on 2026-07-18. The 37-unit clean reader is frozen for this edition. Ukrai
 
 CLOSED on 2026-07-18. First print-safe source packages were created for the Ukrainian and English paper books, and a digital scholarly companion manifest was created.
 
-Next active task: first proof QA and layout corrections.
+### Phase F.2: Render Pipeline And First Proofs
+
+CLOSED on 2026-07-19. First HTML/PDF proofs were generated for the Ukrainian paper book, English paper book, and digital companion.
+
+### Phase F.3: First Proof QA And Bible-Style Design
+
+CLOSED on 2026-07-19. Paper proofs were moved toward a compact mass-Bible-style design. The clean reader is two-column and reader-first; raw technical all-114 tables were replaced by split paper indexes; paper PDF extracted text has no internal repository paths or URLs.
+
+### Phase F.4: Final Proof Polish, Bibliography, And TOC
+
+CLOSED on 2026-07-19. Paper proofs now have calmer front matter, proof-stable contents, print source keys, less dense non-included index, compressed witness/status indexes, and confirmed paper path-safety.
+
+Next active task: release-candidate proof package audit.
