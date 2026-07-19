@@ -1,6 +1,6 @@
 # Структура репозиторію
 
-Статус: актуалізовано 2026-07-19 після browsable digital companion HTML.
+Статус: актуалізовано 2026-07-19 після Typst production handoff і release-candidate audit v1.0-rc1.
 
 ## Навігаційний принцип
 
@@ -17,7 +17,7 @@
 | `controls/` | Synoptic/control files, кластерні порівняння, паралелі й контрольні аргументи. |
 | `research/` | Методологія, історія досліджень, датування, історичні гіпотези. |
 | `bibliography/` | Місце для фінальної бібліографії, rights/citation notes і списків літератури. |
-| `output/` | Згенеровані експортні матеріали: українська паперова книга, англійська паперова книга, digital scholarly companion, статті й публічні редакції. |
+| `output/` | Згенеровані експортні матеріали: українська паперова книга, англійська паперова книга, digital scholarly companion, Typst production handoff package, статті й публічні редакції. |
 | `tools/` | Локальні QA/consistency scripts для перевірки структури, нумерації, reader sync і appendix anchors. |
 | `archive/` | Неактивні матеріали, які треба зберегти, але не використовувати як робочий центр. |
 
@@ -52,9 +52,12 @@
 - Усі 37 clean-reader одиниці мають точний `Чистий текст реконструкції` anchor у full appendix.
 - Structural QA baseline проходить через `python3 tools/qa_crosscheck.py`.
 - Print/digital publication architecture v0.1 зафіксована: українська й англійська паперові книги мають бути самодостатніми, а повний evidence apparatus лишається digital scholarly companion.
-- Render pipeline, first proofs, first proof QA/layout correction, Bible-style book design/index pass, final proof polish, release-candidate proof audit, full book assembly, full Ukrainian proof QA, English appendix structural generation, English appendix editorial quality pass, full English proof QA, digital companion expansion і browsable digital companion HTML виконані.
+- Render pipeline, first proofs, first proof QA/layout correction, Bible-style book design/index pass, final proof polish, release-candidate proof audit, full book assembly, full Ukrainian proof QA, English appendix structural generation, English appendix editorial quality pass, full English proof QA, digital companion expansion, browsable digital companion HTML і final production/copyedit gate виконані.
 - Digital scholarly companion має generated Markdown/TSV/PDF package і локальний static HTML workbench: all-114 cross-reference index, source inventory, checksums, audit trail, search/filter UI.
-- Наступний робочий пакет: final production typesetting and copyedit gate.
+- Typst production handoff package створено в `output/production-typst/`: template, Ukrainian/English pilot sources, README, checklist і manifest. У цьому середовищі Typst/XeLaTeX/pdfLaTeX недоступні, тому compiled production pilot лишається зовнішнім етапом.
+- Release-candidate audit v1.0-rc1 створено в `project/release-candidate-audit-v1.0-rc1.md`; machine-readable manifest - `output/release-candidate-manifest-v1.0-rc1.tsv`.
+- Production decision: ReportLab лишається proof-only; фінальний шлях - external Typst/professional production compile на основі handoff package.
+- Наступний робочий пакет: external production compile and human copyedit signoff.
 
 ## Правило для майбутньої роботи
 
@@ -63,6 +66,7 @@
 - новий промпт або план - у `project/`;
 - новий текст реконструкції або коментар - у `reconstruction/earliest-sayings-gospel/`;
 - майбутній print/digital export - у `output/uk-paper-book/`, `output/en-paper-book/` або `output/digital-scholarly-companion/`;
+- production handoff / final layout package - у `output/production-typst/`;
 - digital companion generated indexes - у `output/digital-scholarly-companion/`;
 - digital companion HTML proof - у `output/digital-scholarly-companion/html/`;
 - нову картку логії - у `corpus/cards/`;

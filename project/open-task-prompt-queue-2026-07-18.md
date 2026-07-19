@@ -44,7 +44,9 @@ Run `python3 tools/qa_crosscheck.py` before and after every task that changes cl
 | 25 | `DONE` | Full English book proof QA and typography | `project/ide-codex-full-english-book-proof-qa-typography-v0.1-prompt.md` | `project/full-english-book-proof-qa-typography-v0.1.md` |
 | 26 | `DONE` | Digital scholarly companion expansion | `project/ide-codex-digital-scholarly-companion-expansion-v0.1-prompt.md` | `project/digital-scholarly-companion-expansion-v0.1.md` |
 | 27 | `DONE` | Browsable digital companion HTML | `project/ide-codex-digital-companion-browsable-html-v0.1-prompt.md` | `project/digital-companion-browsable-html-v0.1.md` |
-| 28 | `NEXT` | Final production typesetting and copyedit gate | `project/ide-codex-final-production-typesetting-copyedit-gate-v0.1-prompt.md` | Decide final production path and run final copyedit/proof checklist |
+| 28 | `DONE` | Final production typesetting and copyedit gate | `project/ide-codex-final-production-typesetting-copyedit-gate-v0.1-prompt.md` | `project/final-production-typesetting-copyedit-gate-v0.1.md` |
+| 29 | `DONE` | Typst production pilot | `project/ide-codex-typst-production-pilot-v0.1-prompt.md` | `project/typst-production-pilot-v0.1.md` |
+| 30 | `NEXT` | External production compile and human copyedit signoff | Not automatable in current environment | Compile Typst/professional layout, perform final human copyedit, freeze release checksums |
 
 ## Completed Recent Dependencies
 
@@ -82,10 +84,12 @@ Run `python3 tools/qa_crosscheck.py` before and after every task that changes cl
 | Full English book proof QA and typography | `project/full-english-book-proof-qa-typography-v0.1.md` |
 | Digital scholarly companion expansion | `project/digital-scholarly-companion-expansion-v0.1.md` |
 | Browsable digital companion HTML | `project/digital-companion-browsable-html-v0.1.md` |
+| Final production typesetting and copyedit gate | `project/final-production-typesetting-copyedit-gate-v0.1.md` |
+| Typst production pilot | `project/typst-production-pilot-v0.1.md` |
 
-## Why The Next Task Is Final Production Typesetting And Copyedit Gate
+## Why The Next Task Is External Production Compile And Human Copyedit Signoff
 
-The project now has full corpus coverage, reader interpretation coverage, all-114 decision control, a frozen 37-unit clean reader, consolidated Ukrainian and English appendix prose for all Logia 1-114, a publication-facing evidence dossier, completed Greek retroversion publication polish, completed final clean-reader freeze, full-book assembly, completed Ukrainian full-proof QA, completed English full-proof QA, an expanded Markdown/TSV/PDF digital scholarly companion, and a browsable static HTML companion. The strongest remaining quality gate is final production: decide the final typesetting path and run a disciplined human-level copyedit/proof checklist before release-candidate status.
+The project now has full corpus coverage, reader interpretation coverage, all-114 decision control, a frozen 37-unit clean reader, consolidated Ukrainian and English appendix prose for all Logia 1-114, a publication-facing evidence dossier, completed Greek retroversion publication polish, completed final clean-reader freeze, full-book assembly, completed Ukrainian full-proof QA, completed English full-proof QA, an expanded Markdown/TSV/PDF digital scholarly companion, a browsable static HTML companion, a completed final production/copyedit gate, and a Typst-ready production handoff package. The remaining step to 100% cannot be honestly completed inside this environment because Typst/professional production compilation and final human copyedit signoff require an external capable toolchain and human review.
 
 ## Execution Note
 

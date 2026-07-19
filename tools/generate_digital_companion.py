@@ -34,6 +34,10 @@ CORE_ARTIFACTS = [
     "project/ide-codex-digital-companion-browsable-html-v0.1-prompt.md",
     "project/digital-companion-browsable-html-v0.1.md",
     "project/ide-codex-final-production-typesetting-copyedit-gate-v0.1-prompt.md",
+    "project/final-production-typesetting-copyedit-gate-v0.1.md",
+    "project/ide-codex-typst-production-pilot-v0.1-prompt.md",
+    "project/typst-production-pilot-v0.1.md",
+    "project/release-candidate-audit-v1.0-rc1.md",
     "corpus/tables/logia-workflow-matrix.md",
     "reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md",
     "reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md",
@@ -49,6 +53,13 @@ CORE_ARTIFACTS = [
     "bibliography/source-rights-register.md",
     "output/uk-paper-book/euagelia-uk-full-proof.pdf",
     "output/en-paper-book/euagelia-en-full-proof.pdf",
+    "output/production-typst/README.md",
+    "output/production-typst/euagelia-template.typ",
+    "output/production-typst/uk-pilot.typ",
+    "output/production-typst/en-pilot.typ",
+    "output/production-typst/production-handoff-checklist.md",
+    "output/production-typst/production-pilot-manifest.tsv",
+    "output/release-candidate-manifest-v1.0-rc1.tsv",
 ]
 
 AUDIT_PATTERNS = [

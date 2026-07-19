@@ -141,13 +141,13 @@ Selective visual QA:
 
 Full book assembly and typesetting pipeline v0.1 is complete.
 
-The project now has a real full Ukrainian paper-book proof for the first time. The English package is honest but incomplete because the full English appendix still needs to be generated or editorially translated.
+The project first gained a real full Ukrainian paper-book proof in this pass. Later passes completed the English 114-logion appendix, the English full proof, the digital companion expansion, and the browsable HTML companion.
 
 ## Next Recommended Task
 
-Superseded next recommended task, 2026-07-19: full Ukrainian book proof QA and appendix typography polish, English full 114-logion appendix structural generation, English appendix editorial quality pass, full English book proof QA, digital scholarly companion expansion, and browsable digital companion HTML are complete. The current next task is final production typesetting and copyedit gate:
+Superseded next recommended task, 2026-07-19: full Ukrainian book proof QA and appendix typography polish, English full 114-logion appendix structural generation, English appendix editorial quality pass, full English book proof QA, digital scholarly companion expansion, browsable digital companion HTML, final production/copyedit gate, Typst production handoff package, and release-candidate audit v1.0-rc1 are complete. The current next task is external production compile and human copyedit signoff:
 
-- decide whether final PDFs stay in ReportLab or move to Typst, LaTeX, or professional handoff;
-- run final Ukrainian, English, and digital companion copyedit/proof checklist;
+- compile the chosen Typst/professional handoff path with representative Ukrainian and English samples in an external capable environment;
+- keep ReportLab as proof-only unless a later decision reopens it;
 - preserve paper books as print-safe and the digital companion as source-rich;
-- document remaining release-candidate blockers.
+- perform final human copyedit and freeze release checksums after approved production PDFs.

@@ -4,9 +4,9 @@ Status: active remediation plan, updated 2026-07-19.
 
 ## Current Readiness Estimate
 
-Working estimate: 99.5%.
+Working estimate: 99.75%.
 
-The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, render-proof preparation, first proof artifacts, first proof QA/layout correction, Bible-style book design/index pass, final proof polish, release-candidate audit, full Ukrainian book assembly, full Ukrainian proof QA, English full appendix structural generation, English appendix editorial-quality pass, full English proof QA, digital companion expansion, and browsable companion HTML are in place. The remaining work is final typesetting decision, final human copyedit, and release-candidate signoff.
+The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, render-proof preparation, first proof artifacts, first proof QA/layout correction, Bible-style book design/index pass, final proof polish, release-candidate audit, full Ukrainian book assembly, full Ukrainian proof QA, English full appendix structural generation, English appendix editorial-quality pass, full English proof QA, digital companion expansion, browsable companion HTML, final production/copyedit gate, Typst-ready production handoff package, and release-candidate audit v1.0-rc1 are in place. The remaining work is external Typst/professional production compilation, final human copyedit, release-candidate signoff, and final frozen checksums.
 
 ## Primary Defects To Remove
 
@@ -36,7 +36,9 @@ The project is no longer blocked by corpus coverage. The main text, all 114 card
 | 19 | Full English book proof QA and typography | CLOSED: 177-page English proof inspected textually and visually; no page-level blocker found. | English proof has page-level QA report and remaining blocker list. |
 | 20 | Digital scholarly companion expansion | CLOSED: companion now has generated all-114 cross-reference index, source inventory, checksums, audit trail, Markdown source, and PDF proof. | Companion preserves source paths, evidence links, audit trail, all-114 logion navigation, rights, and reproducibility data. |
 | 21 | Browsable digital companion HTML | CLOSED: static HTML companion has searchable/filterable all-114 index, expandable detail panels, source sections, audit trail, and valid local links. | Reader can search/filter all 114 logia and navigate to cards, evidence, controls, sources, audits, and reproducibility data. |
-| 22 | Final production typesetting and copyedit gate | NEXT: choose final PDF/typesetting path and run final copyedit/proof checklist. | Project has a documented production path and release-candidate blockers list. |
+| 22 | Final production typesetting and copyedit gate | CLOSED: ReportLab is proof-only; Typst/professional handoff chosen as final path; checklist and blockers documented. | Project has a documented production path and release-candidate blockers list. |
+| 23 | Typst production pilot / professional handoff | CLOSED AS HANDOFF: Typst-ready template, Ukrainian and English pilot sources, checklist, and manifest exist in `output/production-typst/`. Compilation is pending an external Typst/professional environment. | Project has a clear handoff package for final book layout. |
+| 24 | External production compile and human copyedit signoff | NEXT: compile the Typst/professional production pilot outside this environment, expand the accepted template to the full books, perform final Ukrainian and English human copyedit, and freeze release checksums. | Final production PDFs are visually approved, copyedit is signed off, source redistribution is approved, and release manifest/checksums are frozen. |
 
 ## Execution Order
 
@@ -137,7 +139,7 @@ CLOSED on 2026-07-19. Current PDFs passed structural and path-safety checks and 
 
 ### Phase F.6: Full Book Assembly And Typesetting Pipeline
 
-CLOSED on 2026-07-19. A separate full-book assembly/render pipeline now generates `book-source-uk-full.md`, `book-source-en-full.md`, companion source map, a 118-page Ukrainian full proof, a 61-page English proof package, and a 5-page digital companion source-map proof. ReportLab remains acceptable for proof generation, not yet final production.
+CLOSED on 2026-07-19. A separate full-book assembly/render pipeline now generates `book-source-uk-full.md`, `book-source-en-full.md`, and the digital companion source. Later passes expanded this into a 118-page Ukrainian full proof, a 177-page English full proof, a 16-page digital companion PDF proof, and a browsable HTML companion. ReportLab remains acceptable for proof generation, not final production typography.
 
 ### Phase F.7: Full Ukrainian Book Proof QA And Appendix Typography
 
@@ -163,4 +165,16 @@ CLOSED on 2026-07-19. A deterministic generator now creates the digital companio
 
 CLOSED on 2026-07-19. A deterministic HTML renderer now creates `output/digital-scholarly-companion/html/index.html` from the generated TSV indexes. The static companion has 114 expandable logion panels, search, reader/decision/Greek-status filters, source witness sections, audit trail, bibliography/rights links, reproducibility checklist, and 762 validated local file links.
 
-Next active task: final production typesetting and copyedit gate.
+### Phase F.13: Final Production Typesetting And Copyedit Gate
+
+CLOSED on 2026-07-19. The current PDF outputs and HTML companion were inspected; stale documentation describing the English proof and digital companion as incomplete was corrected. The gate decision keeps ReportLab as proof-only and chooses Typst/professional handoff as the final production path. Final release-candidate blockers are now Typst production pilot or handoff, final human copyedit, public-source redistribution review, and final frozen checksums.
+
+### Phase F.14: Typst Production Pilot / Professional Handoff
+
+CLOSED AS HANDOFF on 2026-07-19. The current environment has no available `typst`, `xelatex`, or `pdflatex` compiler, so a compiled production pilot could not be generated here. Instead, the project now has a Typst-ready handoff package in `output/production-typst/`, including a template, Ukrainian and English pilot sources, README, checklist, and manifest.
+
+### Phase F.15: Release-Candidate Audit v1.0-rc1
+
+CLOSED WITH EXTERNAL BLOCKER on 2026-07-19. `project/release-candidate-audit-v1.0-rc1.md` records the project as content-complete and proof-package complete, but not a fully signed-off release candidate until production compile and human copyedit are completed outside this environment.
+
+Next active task: external production compile and human copyedit signoff.
