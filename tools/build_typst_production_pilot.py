@@ -163,7 +163,7 @@ def template_text() -> str:
     margin: (inside: 18mm, outside: 14mm, top: 16mm, bottom: 18mm),
     numbering: "1",
   )
-  set text(font: "Libertinus Serif", size: 10pt, lang: lang)
+  set text(font: "Libertinus Serif", size: 11pt, lang: lang)
   set par(justify: true, leading: 0.57em)
   show heading.where(level: 1): it => {
     pagebreak(weak: true)
@@ -172,12 +172,12 @@ def template_text() -> str:
   }
   show heading.where(level: 2): it => {
     block(above: 12pt, below: 7pt)[
-      #text(size: 13pt, weight: "semibold", it.body)
+      #text(size: 14pt, weight: "semibold", it.body)
     ]
   }
   show heading.where(level: 3): it => {
     block(above: 8pt, below: 4pt)[
-      #text(size: 10.5pt, weight: "semibold", it.body)
+      #text(size: 12pt, weight: "semibold", it.body)
     ]
   }
 }

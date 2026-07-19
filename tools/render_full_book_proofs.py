@@ -28,6 +28,10 @@ FONT_CANDIDATES = [
     Path("/System/Library/Fonts/Times.ttc"),
     Path("/System/Library/Fonts/Supplemental/Georgia.ttf"),
 ]
+FONT_BOLD_CANDIDATES = [
+    Path("/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf"),
+    Path("/System/Library/Fonts/Supplemental/Georgia Bold.ttf"),
+]
 COPTIC_FONT_CANDIDATES = [
     Path("/System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf"),
     Path("/System/Library/Fonts/Supplemental/Arial Unicode.ttf"),
@@ -75,6 +79,13 @@ def find_font() -> Path:
         if candidate.exists():
             return candidate
     raise SystemExit("No Unicode TTF font found.")
+
+
+def find_bold_font() -> Path | None:
+    for candidate in FONT_BOLD_CANDIDATES:
+        if candidate.exists():
+            return candidate
+    return None
 
 
 def find_coptic_font() -> Path:
@@ -302,7 +313,7 @@ def render_markdown_tail(lines: list[str], styles: dict[str, ParagraphStyle], fo
             story.append(PageBreak())
             story.append(Paragraph(inline_pdf(line[3:]), styles["h2"]))
         elif line.startswith("### "):
-            story.append(Paragraph(inline_pdf(line[4:]), styles["h3"]))
+            story.append(Paragraph(f"<b>{inline_pdf(line[4:])}</b>", styles["h3"]))
         elif line.startswith("- "):
             story.append(Paragraph("• " + inline_pdf(line[2:]), styles["base"]))
         elif re.match(r"^\d+\.\s+", line):
@@ -319,14 +330,14 @@ def build_pdf(source_text: str, output_pdf: Path, title: str, font_name: str, la
     base = ParagraphStyle("Base", parent=sample["BodyText"], fontName=font_name, fontSize=14, leading=17.4, alignment=TA_LEFT, spaceAfter=4.8)
     styles = {
         "base": base,
-        "clean": ParagraphStyle("Clean", parent=base, fontSize=13.2, leading=16.2, alignment=TA_JUSTIFY, spaceAfter=2.2),
+        "clean": ParagraphStyle("Clean", parent=base, fontSize=14, leading=17.0, alignment=TA_JUSTIFY, spaceAfter=2.2),
         "title": ParagraphStyle("Title", parent=base, fontSize=22, leading=26, alignment=TA_CENTER, spaceAfter=16),
         "subtitle": ParagraphStyle("Subtitle", parent=base, fontSize=14, leading=17.4, alignment=TA_CENTER, spaceAfter=8),
         "h1": ParagraphStyle("H1", parent=base, fontSize=19, leading=23, alignment=TA_CENTER, spaceBefore=7, spaceAfter=11),
         "h2": ParagraphStyle("H2", parent=base, fontSize=17, leading=21, alignment=TA_CENTER, spaceBefore=7, spaceAfter=10),
         "h3": ParagraphStyle("H3", parent=base, fontSize=15, leading=18.5, spaceBefore=8, spaceAfter=5),
         "quote": ParagraphStyle("Quote", parent=base, leftIndent=8 * mm, rightIndent=5 * mm, fontSize=14, leading=17.4, alignment=TA_LEFT),
-        "tiny": ParagraphStyle("Tiny", parent=base, fontSize=9.5, leading=11.2),
+        "tiny": ParagraphStyle("Tiny", parent=base, fontSize=10.8, leading=12.9),
     }
     lines = source_text.splitlines()
     heading = next((line[2:].strip() for line in lines if line.startswith("# ")), title)
@@ -410,9 +421,13 @@ def main() -> None:
     parser.add_argument("--only", choices=["uk", "en", "digital"])
     args = parser.parse_args()
     font_path = find_font()
+    bold_font_path = find_bold_font()
     coptic_font_path = find_coptic_font()
     greek_font_path = find_greek_font()
     pdfmetrics.registerFont(TTFont("EUAGELIA", str(font_path)))
+    if bold_font_path:
+        pdfmetrics.registerFont(TTFont("EUAGELIA-Bold", str(bold_font_path)))
+        pdfmetrics.registerFontFamily("EUAGELIA", normal="EUAGELIA", bold="EUAGELIA-Bold")
     pdfmetrics.registerFont(TTFont("EUAGELIA-Coptic", str(coptic_font_path)))
     pdfmetrics.registerFont(TTFont("EUAGELIA-Greek", str(greek_font_path)))
     selected = [job for job in JOBS if args.only in {None, job.label}]
