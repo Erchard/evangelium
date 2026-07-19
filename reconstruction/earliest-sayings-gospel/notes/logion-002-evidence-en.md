@@ -4,7 +4,7 @@ Status: working evidence note v0.1.
 
 ## Decision
 
-`INCLUDE_WITH_MARKER`
+Seek/find core `INCLUDE_WITH_MARKER`; marked expansion appendix-only.
 
 ## Reconstructed Early Core
 
@@ -83,9 +83,12 @@ Current working distribution from `corpus/cards/logion-002.md`:
 | 90-130 CE | 35% | Fits Thomasine development and interaction with early gospel traditions. |
 | After 130 CE | 10% | Possible for final redaction, but less economical given P.Oxy. 654. |
 
+## Publication Decision Update
+
+The main reconstructed text should print only the seek/find core. The expansion from finding to disturbance, amazement, reigning, and rest/reigning-over-the-All is important evidence for the history of Thomas 2, but it should remain in the apparatus. This avoids choosing between the Coptic ending and the reconstructed Greek rest-ending in the clean reconstruction.
+
 ## Remaining Work
 
 - Collate with Brill / Layton or another academic edition.
 - Study the motif of rest across Thomas.
-- Decide whether the marked expansion should remain in the reconstructed text, move to apparatus, or be split into multiple layers.
-
+- Verify the Greek rest-ending against a full academic apparatus before any future edition considers restoring more than the seek/find core.

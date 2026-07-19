@@ -2,8 +2,6 @@
 
 Jesus said: Let the one who seeks not stop seeking until they find.
 
-When they find, they will be disturbed; when disturbed, they will be amazed; and they will reign.
-
 ## Logion 3
 
 Jesus said: Do not seek the kingdom as a place in heaven or in the sea: the kingdom is within you and outside you.

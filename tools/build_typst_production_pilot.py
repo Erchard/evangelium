@@ -101,12 +101,12 @@ def section_between(text: str, start: str, stop_candidates: list[str]) -> str:
     stop_positions = [pos for pos in stop_positions if pos >= 0]
     if stop_positions:
         after = after[: min(stop_positions)]
-    return start + after.strip() + "\n"
+    return start + "\n" + after.strip() + "\n"
 
 
 def clean_section(text: str, lang: str) -> str:
     if lang == "uk":
-        return section_between(text, "## Чистий текст реконструкції", ["## Як читати це видання"])
+        return section_between(text, "## Логії Ісуса", ["## Реконструйований грецький текст", "## Як читати це видання"])
     return section_between(text, "## Clean Reconstructed Text", ["## How To Read This Edition"])
 
 

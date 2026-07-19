@@ -178,7 +178,7 @@ Deepen seven-day child / first-last split.
 
 > οὐκ ἀποκνήσει ἄνθ[ρωπος] [πλήρης ἡμερῶν] ἐπερωτῆσαι πα[ιδίον] [ἑπτὰ] [ἡμερῶν] περὶ τοῦ τόπου τῆ?ς [ζωῆς, καὶ ζή]σεται· ⟨ὃτι⟩ πολλοὶ ἔσονται π?[ρῶτοι ἔσχατοι, καὶ] οἱ ἔσχατοι πρῶτοι, καὶ [εἰς ἓν καταντήσου]σιν.
 
-- Use: direct Greek manuscript control; square brackets mark supplied lost text in the working transcription.
+- Use: direct Greek manuscript control; damaged papyrus portions are assessed in the source audit.
 
 ### 3. P.Oxy. 655 Greek witness
 

@@ -1,22 +1,22 @@
 # English Paper Book Package
 
-Status: generator-ready source package v0.1, 2026-07-18.
+Status: full proof package, updated 2026-07-19.
 
 ## Contents
 
-- `book-source-en.md` - first source file for the English paper book.
+- `book-source-en-full.md` - current English paper-book Markdown source.
+- `euagelia-en-full-proof.pdf` - current English paper-book PDF proof.
+- `euagelia-en-full-proof.source.md` - exact Markdown snapshot used for the current PDF proof.
 
 ## Source Basis
 
-Generated from the frozen English clean reader, the all-114 publication decision table, the English evidence dossier, and the working bibliography/rights layer.
+Generated from the English reader text, the full 114-logion English appendix, the English evidence dossier, and the bibliography/rights layer.
 
 ## Proofing Still Needed
 
-- confirm title-page and front-matter order;
-- decide final handling of Logion 1 as numbered text or visually distinct prologue while retaining lookup number 1;
-- expand or style the print-safe evidence pathway for the final English book;
-- close bibliography and rights release-clearance items;
-- run page-layout proof QA after rendering.
+- final human copyedit of English style, especially the appendix and dossier;
+- final editorial decision on whether Logion 1 remains appendix-only or returns as a numbered prologue in the reconstructed text;
+- professional production typesetting after the proof stage.
 
 ## Print-Safe Rule
 

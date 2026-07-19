@@ -58,17 +58,15 @@ Before final publication this logion should be read with the following limit in 
 
 ### What This Saying Is About
 
-This saying describes searching as a process that unsettles the seeker. Finding does not immediately produce calm; it produces shock, amazement, and a new stance before reality. That is why the final verbs matter so much for reconstruction.
+This saying preserves a strong search/find core. The longer transmitted form describes finding as a process that unsettles the seeker: finding leads to disturbance, amazement, reigning, and possibly rest. That longer chain matters for the history of Thomas 2, but it should not be treated as equally early with the short core.
 
 ### Text In This Edition
 
-This logion, or a controlled core within it, is printed in the clean English reconstruction:
+Only the search/find core is printed in the clean English reconstruction:
 
 > Jesus said: Let the one who seeks not stop seeking until they find.
->
-> When they find, they will be disturbed; when disturbed, they will be amazed; and they will reign.
 
-The printed unit is the project's current reconstruction of the search/find core with marked expansion. The appendix must still be read with the marker: inclusion does not mean that every word of the received Thomasine form is equally early.
+The continuation about disturbance, amazement, reigning, and rest/reigning-over-the-All remains in the appendix. The Greek and Coptic endings diverge, so the clean reconstruction does not choose between them.
 
 ### Sources And Controls
 
@@ -78,14 +76,14 @@ The logion has loaded Greek papyrus control in this edition, which gives it more
 
 ### Why It Is Or Is Not In The Reconstruction
 
-The project prints this unit because it has enough early-profile value to represent part of the reconstructed sayings gospel. It is still marked because the received Thomasine form, the Greek evidence, or the relation to parallels remains complicated. Current clean-reader unit: seek/find cluster pass confirms Logion 2 as the main reader representative of this motif. The appendix therefore explains why Logion 2 represents the search/find motif in the clean reader while Logia 92 and 94 remain appendix-only.
+This edition prints the short search/find core because it has enough early-profile value to represent the motif in the reconstructed sayings gospel. The fuller received Thomasine form remains in the appendix because the expansion is textually and theologically complicated. The seek/find cluster pass keeps Logion 2 as the main reader representative of this motif while Logia 92 and 94 remain appendix-only.
 
 ### Possible Interpretations
 
-1. Early-core reading: the search/find core with marked expansion may preserve a compact saying or motif that circulated before later literary framing.
+1. Early-core reading: the search/find core may preserve a compact saying or motif that circulated before later literary framing.
 2. Wisdom reading: the saying may work as a compact challenge that forces the reader to rethink an ordinary assumption.
 3. Editorial reading: the received Thomas form may have expanded, combined, or reframed an older unit in a way that now requires caution.
-4. Greek-witness reading: extant or partial Oxyrhynchus evidence gives this logion an additional material control, though fragmentary text still requires caution.
+4. Greek-witness reading: extant Oxyrhynchus evidence gives this logion an additional material control, but the disputed ending still requires caution.
 
 ### Uncertainty And Limits
 

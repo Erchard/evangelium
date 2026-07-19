@@ -226,7 +226,7 @@ The final dossier needs a consolidated bibliography, stable source snapshots or 
 
 ## Logion 1 Summary
 
-Decision: `INCLUDE_WITH_MARKER`
+Decision: appendix-only collection frame.
 
 Logion 1 is retained as a marked collection frame:
 
@@ -238,17 +238,17 @@ Evidence note: `notes/logion-001-evidence-en.md`.
 
 ## Logion 2 Summary
 
-Decision: `INCLUDE_WITH_MARKER`
+Decision: seek/find core `INCLUDE_WITH_MARKER`; expansion appendix-only.
 
 The search/find core is included as a likely early or shared traditional motif:
 
 > Let the one who seeks not stop seeking until they find.
 
-The following sequence is retained with a marker:
+The following sequence is retained in the apparatus, not in the clean reconstruction:
 
 > When they find, they will be disturbed; when disturbed, they will be amazed; and they will reign.
 
-Reason: Matthew 7:7 and Luke 11:9 preserve a search/find motif, but Thomas 2 does not reproduce the full synoptic triad "ask / seek / knock." Thomas expands the search/find motif into a distinctive sequence of disturbance, amazement, reigning, and possibly rest.
+Reason: Matthew 7:7 and Luke 11:9 preserve a search/find motif, but Thomas 2 does not reproduce the full synoptic triad "ask / seek / knock." Thomas expands the search/find motif into a distinctive sequence of disturbance, amazement, reigning, and possibly rest. Because the expansion looks developed and because the Greek and Coptic endings diverge, the clean reconstruction now prints only the short search/find core.
 
 Evidence note: `notes/logion-002-evidence-en.md`.
 

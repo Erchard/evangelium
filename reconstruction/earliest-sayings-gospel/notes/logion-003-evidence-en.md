@@ -44,7 +44,7 @@ Luke 17:20-21 is the closest thematic control because it also resists locating t
 
 Detailed synoptic table: `controls/synoptic-parallels/logion-003-luke-17-kingdom.md`.
 
-The new comparison strengthens the case for a shared kingdom motif but does not prove direct dependence. The strongest contact is `ἐντὸς ὑμῶν`, shared by Luke 17:21 and P.Oxy. 654. Thomas, however, adds the heaven/sea contrast, the "outside you" phrase, and the self-knowledge continuation.
+The comparison strengthens the case for a shared kingdom motif but does not prove direct dependence in either direction. The strongest contact is `ἐντὸς ὑμῶν`, shared by Luke 17:21 and P.Oxy. 654. Thomas has the heaven/sea contrast, the "outside you" phrase, and the self-knowledge continuation; these may preserve an alternate stream of the tradition, represent Thomasine shaping, or reflect later interaction with Luke-like material.
 
 ## Rationale
 
@@ -59,6 +59,7 @@ Reasons for marking the expansion:
 - The self-knowledge / poverty sequence is strongly at home in Thomasine theological idiom.
 - The Greek witness has major lacunae in the second half.
 - The wording of "kingdom" itself is textually unstable in the Greek apparatus.
+- The Luke parallel must not be used as if Luke were automatically the source of Thomas; it is a control for a related motif, not a settled direction-of-dependence argument.
 
 ## Probability Assessment
 
@@ -66,11 +67,11 @@ Reasons for marking the expansion:
 | --- | ---: | --- |
 | Before 60 CE | 15% | A short anti-location kingdom saying could be early, but the extant form is developed. |
 | 60-90 CE | 30% | Plausible as a shared early kingdom tradition or independent sayings stream. |
-| 90-130 CE | 40% | Strongly plausible for Thomasine development around kingdom and self-knowledge. |
+| 90-130 CE | 40% | Strongly plausible for the extant expanded form around kingdom and self-knowledge, whether through Thomasine shaping, alternate transmission, or later interaction with Luke-like material. |
 | After 130 CE | 15% | Possible for final shaping, but less likely for the whole unit because of P.Oxy. 654. |
 
 ## Remaining Work
 
 - Decide how to translate `ἐντὸς ὑμῶν`: "within you," "among you," or a deliberately ambiguous phrase.
 - Collate the Greek variants for "kingdom" against major editions.
-- Reassess whether "outside you" belongs to the early core or should be marked more strongly as Thomasine development.
+- Reassess whether "outside you" belongs to the early core or should be marked more strongly as later Thomasine shaping or alternate transmission.

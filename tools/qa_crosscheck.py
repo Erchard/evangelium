@@ -129,7 +129,6 @@ def main() -> int:
         "Coptic text": app_text.count("### Коптський текст"),
         "Greek text": app_text.count("### Грецький текст"),
         "Ukrainian translation": app_text.count("### Український переклад"),
-        "English translation": app_text.count("### Англійський переклад"),
         "reader interpretation": app_text.count("### Як це можна зрозуміти"),
     }
     for label, count in appendix_reader_sections.items():
@@ -139,6 +138,10 @@ def main() -> int:
         fail(errors, "Appendix has broken source labels containing 'Джерело: ,'")
     if "Прямий грецький папірусний свідок для Фоми" in app_text:
         fail(errors, "Appendix has misleading direct-Greek-witness placeholder")
+    if "### Англійський переклад" in app_text:
+        fail(errors, "Ukrainian appendix should not contain partial English translation sections")
+    if "English translation for this logion is scheduled" in app_text:
+        fail(errors, "Ukrainian appendix contains English translation placeholder text")
 
     uk_clean = parse_uk_clean()
     reader_sets = {

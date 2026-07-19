@@ -178,7 +178,7 @@ Deepen hidden/revealed analysis if selected.
 
 > λέγει Ἰησοῦς· γ[νῶθι τὸ ὃν ἔμπροσ]θεν τῆς ὄψεώς σου, καὶ [τὸ] [κεκαλυμμένον] ἀπό σου ἀποκαλυφ⟨θ⟩ήσετ[αί] [σοι· οὐ γάρ ἐσ]τιν κρυπτὸν ὃ οὐ φαν[ερὸν γενήσεται,] καὶ τεθαμμένον ὃ ο[ὐκ ἐγερθήσεται.]
 
-- Use: direct Greek manuscript control; square brackets mark supplied lost text in the working transcription.
+- Use: direct Greek manuscript control; damaged papyrus portions are assessed in the source audit.
 
 ### 3. P.Oxy. 655 Greek witness
 

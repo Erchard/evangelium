@@ -4,13 +4,13 @@ Status: working text v0.7. The Coptic text is not itself the reconstructed early
 
 ## Logion 2
 
-Decision: `INCLUDE_WITH_MARKER`
+Decision: seek/find core `INCLUDE_WITH_MARKER`; full Coptic form appendix-only.
 
 Source: NHC II,2 as represented in `sources/primary_texts/coptic/logia-001-007-coptic-working.md`.
 
 > ⲡⲉϫⲉ ⲓ̅ⲥ̅ ⲙⲛ̅ⲧⲣⲉϥ\`ⲗⲟ ⲛ̅ϭⲓ ⲡⲉⲧ\`ϣⲓⲛⲉ ⲉϥ\`ϣⲓⲛⲉ ϣⲁⲛⲧⲉϥ\`ϭⲓⲛⲉ ⲁⲩⲱ ϩⲟⲧⲁⲛ\` ⲉϥϣⲁⲛϭⲓⲛⲉ ϥⲛⲁ\`ϣⲧⲣ̅ⲧⲣ̅ ⲁⲩⲱ ⲉϥϣⲁⲛ\`ϣⲧⲟⲣⲧⲣ̅ ϥⲛⲁⲣ̅ ϣⲡⲏⲣⲉ ⲁⲩⲱ ϥⲛⲁⲣ̅ ⲣ̅ⲣⲟ ⲉϫⲙ̅ ⲡⲧⲏⲣϥ
 
-Reconstruction note: the full Coptic saying is preserved here, but the proposed early reconstructed core may be shorter than the complete Coptic form.
+Reconstruction note: the full Coptic saying is preserved here, but the early reconstructed text uses only the seek/find core. The chain after finding is kept in the apparatus because the Greek and Coptic endings diverge and the sequence looks like a developed Thomasine expansion.
 
 ## Logion 3
 

@@ -4,13 +4,13 @@ Status: publication-polished Greek layer v0.6, updated 2026-07-18. This file dis
 
 ## Logion 2
 
-Decision: `INCLUDE_WITH_MARKER`
+Decision: seek/find core `INCLUDE_WITH_MARKER`; expansion appendix-only.
 
 Witness: P.Oxy. 654, lines 5-9, from `sources/primary_texts/greek_poxy/poxy654-transcription-working.md`.
 
 > [λέγει Ἰησοῦς·] μὴ παυσάσθω ὁ ζη[τῶν τοῦ ζητεῖν ἕως ἂν] εὕρη, καὶ ὅταν εὕρῃ [θαμβηθήσεται καὶ θαμ]βηθεὶς βασιλεύσει κα[ὶ βασιλεύσας ἀναπα]ήσεται.
 
-Textual note: square brackets mark reconstructed lost text in the Greek papyrus tradition. The final `ἀναπα]ήσεται` is reconstructed and differs from the Coptic ending "will reign over the All."
+Textual note: the Greek papyrus and the Coptic version do not give the same final emphasis here. The Greek line points toward rest after reigning; the Coptic line ends with reigning over the All. For the clean reconstruction this edition now prints only the seek/find core, because neither `царюватиме над усім` nor the reconstructed `спочине` should control the earliest-text layer.
 
 ## Logion 3
 

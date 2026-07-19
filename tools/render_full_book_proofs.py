@@ -25,8 +25,8 @@ ROOT = Path(__file__).resolve().parents[1]
 PYTHON_RUNTIME = "/Users/arseny/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
 FONT_CANDIDATES = [
     Path("/System/Library/Fonts/Supplemental/Times New Roman.ttf"),
-    Path("/System/Library/Fonts/Supplemental/Arial Unicode.ttf"),
-    Path("/Library/Fonts/Arial Unicode.ttf"),
+    Path("/System/Library/Fonts/Times.ttc"),
+    Path("/System/Library/Fonts/Supplemental/Georgia.ttf"),
 ]
 COPTIC_FONT_CANDIDATES = [
     Path("/System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf"),
@@ -34,9 +34,9 @@ COPTIC_FONT_CANDIDATES = [
     Path("/Library/Fonts/Arial Unicode.ttf"),
 ]
 GREEK_FONT_CANDIDATES = [
-    Path("/System/Library/Fonts/Supplemental/Arial Unicode.ttf"),
-    Path("/Library/Fonts/Arial Unicode.ttf"),
     Path("/System/Library/Fonts/Supplemental/Times New Roman.ttf"),
+    Path("/System/Library/Fonts/Times.ttc"),
+    Path("/System/Library/Fonts/Supplemental/Georgia.ttf"),
 ]
 
 
@@ -105,11 +105,18 @@ def sha256(path: Path) -> str:
 
 def inline_pdf(value: str) -> str:
     value = value.replace("⟨", "(").replace("⟩", ")")
+    is_coptic = bool(re.search(r"[\u2C80-\u2CFF]", value))
+    if is_coptic:
+        # The source keeps scholarly supralinear/working marks; the print proof
+        # drops unsupported combining marks so the Coptic line does not render
+        # as a field of boxes.
+        value = value.replace("\\`", "").replace("`", "").replace("_", "")
+        value = re.sub(r"[\u0300-\u036F]", "", value)
     escaped = html.escape(value)
     escaped = re.sub(r"`([^`]+)`", r"<font name='EUAGELIA'>\1</font>", escaped)
     escaped = re.sub(r"\*\*([^*]+)\*\*", r"<b>\1</b>", escaped)
     escaped = re.sub(r"\*([^*]+)\*", r"<i>\1</i>", escaped)
-    if re.search(r"[\u2C80-\u2CFF]", value):
+    if is_coptic:
         escaped = f"<font name='EUAGELIA-Coptic'>{escaped}</font>"
     elif re.search(r"[\u0370-\u03FF\u1F00-\u1FFF\u27E8\u27E9]", value):
         escaped = f"<font name='EUAGELIA-Greek'>{escaped}</font>"
@@ -117,7 +124,7 @@ def inline_pdf(value: str) -> str:
 
 
 def split_clean_entries(lines: list[str], lang: str) -> tuple[list[tuple[str, list[str]]], int]:
-    start_heading = "## Чистий текст реконструкції" if lang == "uk" else "## Clean Reconstructed Text"
+    start_heading = "## Логії Ісуса" if lang == "uk" else "## Clean Reconstructed Text"
     stop_heading = "## Як читати це видання" if lang == "uk" else "## How To Read This Edition"
     logion_pattern = re.compile(r"^##\s+(?P<num>\d+[A-Z]?)$" if lang == "uk" else r"^##\s+Logion\s+(?P<num>\d+[A-Z]?)$")
     entries: list[tuple[str, list[str]]] = []
@@ -161,8 +168,8 @@ def clean_column(entries: list[tuple[str, list[str]]], style: ParagraphStyle) ->
 
 
 def split_clean_pages(entries: list[tuple[str, list[str]]], lang: str) -> list[tuple[list[tuple[str, list[str]]], list[tuple[str, list[str]]]]]:
-    chars_per_line = 43 if lang == "uk" else 48
-    column_capacity = 54.0 if lang == "uk" else 56.0
+    chars_per_line = 34 if lang == "uk" else 38
+    column_capacity = 43.0 if lang == "uk" else 45.0
     pages = []
     index = 0
     while index < len(entries):
@@ -286,6 +293,8 @@ def render_markdown_tail(lines: list[str], styles: dict[str, ParagraphStyle], fo
         line = value.strip()
         if not line:
             story.append(Spacer(1, 1.5 * mm))
+        elif line == ">":
+            story.append(Spacer(1, 1.5 * mm))
         elif line.startswith("# "):
             story.append(PageBreak())
             story.append(Paragraph(inline_pdf(line[2:]), styles["h1"]))
@@ -307,17 +316,17 @@ def render_markdown_tail(lines: list[str], styles: dict[str, ParagraphStyle], fo
 
 def build_pdf(source_text: str, output_pdf: Path, title: str, font_name: str, lang: str) -> None:
     sample = getSampleStyleSheet()
-    base = ParagraphStyle("Base", parent=sample["BodyText"], fontName=font_name, fontSize=8.8, leading=10.8, alignment=TA_LEFT, spaceAfter=2.5)
+    base = ParagraphStyle("Base", parent=sample["BodyText"], fontName=font_name, fontSize=14, leading=17.4, alignment=TA_LEFT, spaceAfter=4.8)
     styles = {
         "base": base,
-        "clean": ParagraphStyle("Clean", parent=base, fontSize=10.7, leading=13.4, alignment=TA_JUSTIFY),
+        "clean": ParagraphStyle("Clean", parent=base, fontSize=13.2, leading=16.2, alignment=TA_JUSTIFY, spaceAfter=2.2),
         "title": ParagraphStyle("Title", parent=base, fontSize=22, leading=26, alignment=TA_CENTER, spaceAfter=16),
-        "subtitle": ParagraphStyle("Subtitle", parent=base, fontSize=10.5, leading=13, alignment=TA_CENTER, spaceAfter=8),
-        "h1": ParagraphStyle("H1", parent=base, fontSize=17, leading=21, alignment=TA_CENTER, spaceBefore=5, spaceAfter=9),
-        "h2": ParagraphStyle("H2", parent=base, fontSize=13.5, leading=16, alignment=TA_CENTER, spaceBefore=5, spaceAfter=8),
-        "h3": ParagraphStyle("H3", parent=base, fontSize=10.5, leading=13, spaceBefore=6, spaceAfter=4),
-        "quote": ParagraphStyle("Quote", parent=base, leftIndent=8 * mm, rightIndent=5 * mm, fontSize=8.4, leading=10.2),
-        "tiny": ParagraphStyle("Tiny", parent=base, fontSize=5.2, leading=6.1),
+        "subtitle": ParagraphStyle("Subtitle", parent=base, fontSize=14, leading=17.4, alignment=TA_CENTER, spaceAfter=8),
+        "h1": ParagraphStyle("H1", parent=base, fontSize=19, leading=23, alignment=TA_CENTER, spaceBefore=7, spaceAfter=11),
+        "h2": ParagraphStyle("H2", parent=base, fontSize=17, leading=21, alignment=TA_CENTER, spaceBefore=7, spaceAfter=10),
+        "h3": ParagraphStyle("H3", parent=base, fontSize=15, leading=18.5, spaceBefore=8, spaceAfter=5),
+        "quote": ParagraphStyle("Quote", parent=base, leftIndent=8 * mm, rightIndent=5 * mm, fontSize=14, leading=17.4, alignment=TA_LEFT),
+        "tiny": ParagraphStyle("Tiny", parent=base, fontSize=9.5, leading=11.2),
     }
     lines = source_text.splitlines()
     heading = next((line[2:].strip() for line in lines if line.startswith("# ")), title)
@@ -337,7 +346,7 @@ def build_pdf(source_text: str, output_pdf: Path, title: str, font_name: str, la
         story.extend(
             [
                 PageBreak(),
-                Paragraph("Clean Reconstructed Text" if lang == "en" else "Чистий текст реконструкції", styles["h2"]),
+                Paragraph("Clean Reconstructed Text" if lang == "en" else "Логії Ісуса", styles["h2"]),
                 *clean_text_story(clean_entries, styles["clean"], lang),
             ]
         )

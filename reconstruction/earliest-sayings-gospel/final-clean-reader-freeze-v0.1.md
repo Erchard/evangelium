@@ -54,7 +54,7 @@ The probability audit still reports one included late-leaning unit and ten exclu
 
 ## Frozen Edition Verdict
 
-The 36-unit clean reader is frozen for this strict-40 revision.
+The 36-unit clean reader is frozen for this strict-40 revision. Logion 2 remains in the reader only as the short seek/find core; its disturbance/amazed/reign/rest expansion is apparatus-only after the 2026-07-19 consistency correction.
 
 No clean-reader membership change is recommended before book generation. Future changes should require new manuscript/source evidence or a separately documented post-freeze revision pass.
 
@@ -76,4 +76,4 @@ python3 tools/probability_reader_audit.py
 git diff --check
 ```
 
-Additional freeze checks confirmed that Ukrainian, English, Coptic, Greek, and parallel layers each contain the same 37 units in the same order, and that Ukrainian and English clean-reader files contain no status lines, apparatus markers, probability labels, P.Oxy. notes, repository paths, or hyperlinks.
+Additional freeze checks confirmed that Ukrainian, English, Coptic, Greek, and parallel layers each contain the same 36 units in the same order, and that Ukrainian and English clean-reader files contain no status lines, apparatus markers, probability labels, P.Oxy. notes, repository paths, or hyperlinks.

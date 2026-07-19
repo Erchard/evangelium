@@ -206,7 +206,7 @@ English/Coptic/Greek/parallel rows added; full logion remains apparatus material
 
 > [μὴ ψεύδεσθε καὶ ὃ] [τι μισ]εῖτε μὴ ποιεῖτ?[ε]
 
-- Use: direct Greek manuscript control; square brackets mark supplied lost text in the working transcription.
+- Use: direct Greek manuscript control; damaged papyrus portions are assessed in the source audit.
 
 ### 3. P.Oxy. 655 Greek witness
 

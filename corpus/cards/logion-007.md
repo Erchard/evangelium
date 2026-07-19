@@ -175,7 +175,7 @@ Search wider ancient parallels.
 
 > [ἔσται. μα]κ?άρι[ός] ἐστιν [ὁ λέων ὃν φάγεται] [ἄνθρωπος] [καὶ ὁ λέ]ων ἔστα?[ι ἄνθρωπος· καὶ] [οὐαὶ τῷ ἄνθρώπῳ] ὃν? [φάγεται λέων.]
 
-- Use: direct Greek manuscript control; square brackets mark supplied lost text in the working transcription.
+- Use: direct Greek manuscript control; damaged papyrus portions are assessed in the source audit.
 
 ### 3. P.Oxy. 655 Greek witness
 
