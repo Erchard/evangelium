@@ -1,0 +1,64 @@
+path	bytes	sha256	title
+corpus/cards/canonical-greek-extraction-audit-v0.1.md	3642	daa796bebf4b700fff97827ba5efc6a6a2556103065ac8f60cdcae46e8eb65da	# Canonical Greek Extraction Audit v0.1
+corpus/cards/card-quality-audit-v0.1.md	2184	7ac19ca4a8ea07cdf4da7053ad56a1e8dc4f779bf915e0b5f8d2a3b6d9deebaf	# Card Quality Audit v0.1
+corpus/cards/card-quality-audit-v0.2.md	4227	0c169192416bfabc2cba3d24b2234459b0389c53349a397c04e220dd41e53c00	# Card Quality Audit v0.2
+corpus/cards/five-source-apparatus-audit-v0.1.md	3129	ffbf613fc6228fd895d3215ea78615fc2539f764ca3ba4ce72cad18148bf9d94	# Five-Source Apparatus Audit v0.1
+corpus/cards/poxy-xml-extraction-audit-v0.1.md	4451	ea828a69e477cd2fcaebbaf5a54118449a58ebfe723bfbff5dbffa4a89eecdf1	# P.Oxy. XML Extraction Audit v0.1
+corpus/cards/reader-interpretation-expansion-audit-v0.1.md	3593	eae22e7abb686a74cf1f4387f6ca1bff9fc93bfe41074ce0afeebeafaa8d8f68	# Reader Interpretation Expansion Audit v0.1
+project/bible-style-book-design-index-pass-v0.1.md	4381	91f8519b1ff5741e8ad0ab24e442495670a797ef7e03ba04b23121389513ea28	# Bible-Style Book Design And Index Pass v0.1
+project/bibliography-rights-citation-reproducibility-pass-v0.1.md	2684	e3a312dd0d31dd9745bd97f3f9a539ffbb19488680f05dc96ac611776d878eac	# Bibliography, Rights, Citation, and Reproducibility Pass v0.1
+project/card-decision-coherence-audit-2026-07-18.md	4743	16aebc3a1f7333a8786f7c9e481027f6ecd43b00c6011f4454b99d3f1955b548	# Card Decision Coherence Audit
+project/duplicate-status-prose-audit-2026-07-18.md	3526	05824369273aeeecd7f750521b324b6df19d7c68a5805987efad3065fbe6ea39	# Duplicate-Status Prose Audit
+project/english-appendix-editorial-quality-pass-v0.1.md	3516	663a760a553c7421ab6b9f9130d6b555c8338cdce83f632b235f293c473df039	# English Appendix Editorial Quality Pass v0.1
+project/evidence-control-gap-audit-2026-07-18.md	2893	041dca5721b08b733f384a7f5ae61bec4ac7775941f52faa63e3446b41c579e1	# Evidence / Control Gap Audit
+project/final-bibliography-rights-verify-v0.1.md	6829	67c547e4a6dd0bb3f6daecf271afb7af877253d07b4c7f5eb36a58c048bfff5e	# Final Bibliography And Rights Verify v0.1
+project/first-proof-qa-layout-corrections-v0.1.md	4536	c028a2d212f38f110a2cebb83fec5e0b686422d536d522bad93fb5e9198e0f24	# First Proof QA And Layout Corrections v0.1
+project/full-english-book-proof-qa-typography-v0.1.md	3910	123968fb4288474ff6555452f235ee59526784c7c6a830db09de4b8204c6ef1e	# Full English Book Proof QA And Typography v0.1
+project/full-ukrainian-book-proof-qa-appendix-typography-v0.1.md	4605	cc218c32bb2fc34c242713e19655cd2c457cb9c27daffa2e4c803254fed0a251	# Full Ukrainian Book Proof QA And Appendix Typography v0.1
+project/generator-ready-books-pass-v0.1.md	1858	8203662c5e7b30d8a46f62383eb6be89cb0409a11d4a438fff604e90c6d73452	# Generator-Ready Books Pass v0.1
+project/greek-layer-freeze-audit-2026-07-18.md	3219	46b551a088f68d4d045378ab483e58df7b0e770e5807a49043a651836910c171	# Greek Layer Freeze Audit
+project/ide-codex-bible-style-book-design-index-pass-v0.1-prompt.md	2514	c422224d41e55863006d59539235928c7404d05a1c1f68f7e8ae2252a7b9384d	# IDE Codex Prompt: Bible-Style Book Design And Index Pass v0.1
+project/ide-codex-canonical-greek-extraction-pass-v0.1-prompt.md	2345	630f0d3aee299d854a845dbdd1c71ee3155c77e41bfc65f6e626920a21adf7ab	# Codex Prompt: Canonical Greek Extraction Pass v0.1
+project/ide-codex-clean-reader-pass-041-054-072-073-prompt.md	5278	1694d8696cd0c03d411f2190a9160fc25df31c9bafd4390215bb248b75775456	# IDE Codex Prompt: Clean Reader Pass for Logia 41, 54, 72, 73
+project/ide-codex-controlled-clean-reader-candidate-pass-prompt.md	2550	d5d82c49de61152fa3a089d66fd0937d92e317295d653ab355913d12f1d6c574	# IDE Codex Prompt: Controlled Clean-Reader Candidate Pass
+project/ide-codex-controlled-reader-candidate-pass-46a-91a-v0.1-prompt.md	3260	314fc69aff54f74846df915fb560174269529e48ed654c6ec2120b7f4cb0a829	# IDE Codex Prompt: Controlled Reader-Candidate Pass for 46A and 91A v0.1
+project/ide-codex-english-appendix-editorial-quality-pass-v0.1-prompt.md	2700	a4190da04c540aab09ca4d1c18a44ac53f16c730adf80c8c01a4339d5d74cca0	# IDE Codex Prompt: English Appendix Editorial Quality Pass v0.1
+project/ide-codex-evidence-dossier-publication-pass-v0.1-prompt.md	2757	bcaa028ded46c6b1e067be7cbc2c53d11e62baa3552d8a3ca60315ab74532e58	# IDE Codex Prompt: Evidence Dossier Publication Pass v0.1
+project/ide-codex-final-all-114-decision-audit-prompt.md	3053	eec74633ed108f89b7e1225dd524261f51385cc4fcfe400eb1f93e6dbf14fcba	# IDE Codex Prompt: Final All-114 Decision Audit
+project/ide-codex-final-bibliography-rights-verify-v0.1-prompt.md	1488	29a4fade913693e822170e8c2fce84317c82bbb8b990167eae4cb579428d908f	# IDE Codex Prompt: Final Bibliography And Rights Verify v0.1
+project/ide-codex-final-high-candidate-decision-pass-prompt.md	3730	a6da565728efbcdbd64283952b21e6a0dbee90830720fc3d56add312eff4ecab	# IDE Codex Prompt: Final High-Candidate Decision Pass
+project/ide-codex-first-proof-qa-layout-corrections-v0.1-prompt.md	2595	cb2b001b156e1f6fc5d77a1bc43ea46fc8ab2483c425a9ce9727b9fc0dc8aa69	# IDE Codex Prompt: First Proof QA And Layout Corrections v0.1
+project/ide-codex-full-english-book-proof-qa-typography-v0.1-prompt.md	2327	de32ebc9c41bcfe7b69d044b09c67d35be0da73dab1a454fbe60baf73d8fc76f	# IDE Codex Prompt: Full English Book Proof QA And Typography v0.1
+project/ide-codex-full-ukrainian-book-proof-qa-appendix-typography-v0.1-prompt.md	2500	28fae58b09d4d61296e1fbfd8a16ac532eef8df97b58b2dbd87cc5c086670a8c	# IDE Codex Prompt: Full Ukrainian Book Proof QA And Appendix Typography v0.1
+project/ide-codex-greek-retroversion-confidence-audit-prompt.md	2513	326359626805c414a9c0256fc58860e7598c6b1afdc12013ad17e538975c3c16	# IDE Codex Prompt: Greek Retroversion Confidence Audit
+project/ide-codex-publication-gap-audit-and-roadmap-refresh-prompt.md	3449	0888effeef769076ec6d0669fc8fa7991b7a8994f3d0b2e7bf8e34cdeda83bd3	# IDE Codex Prompt: Publication Gap Audit and Roadmap Refresh
+project/ide-codex-reader-commentary-first-pass-prompt.md	3580	8021342741ced774a189b8acde3067d64147a9197130b03b85beaec4bada9ade	# IDE Codex Prompt: First Ukrainian Reader Commentary Pass
+project/ide-codex-release-candidate-proof-package-audit-v0.1-prompt.md	2465	c2c01984d4d691077cb4c4459a37c6a3fb988df1f79fe3113f0d77384a727833	# IDE Codex Prompt: Release-Candidate Proof Package Audit v0.1
+project/logion-card-deficiency-audit-2026-07-18.md	11576	08757200ebdd96fdc3c72c8c62700fefedb88dd41ad239e04a82859b03b508b1	# Logion Card Deficiency Audit
+project/probability-vs-reader-decision-audit-2026-07-18.md	7207	a9cc9d99c4d165c7191b08f6dfdf2ddb3e5626d643e2835c23a737edaee5aff4	# Probability vs Reader Decision Audit
+project/project-quality-audit-v0.1.md	19647	79aec134849ccb859014c2012020d195ad25f64d1cc1f33317eac086b2cddec3	# Project Quality Audit v0.2
+project/publication-gap-audit-v0.1.md	441	d5bc42f4b8ac2096be5f645675356a0d700d98df85fc591c9a17d500cb4bc349	# Publication Gap Audit v0.1
+project/publication-gap-audit-v0.2.md	13393	f15c844243e9747a8482f621795a5b0a71140b09bf2a843a3cb9ec4002cbcf1e	# Publication Gap Audit v0.2
+project/release-candidate-proof-package-audit-v0.1.md	7967	d06b5fd4b4f984806c214fe55ab01d505224d1f782c38ae36ac7568fcfbbd0f4	# Release-Candidate Proof Package Audit v0.1
+reconstruction/earliest-sayings-gospel/beatitudes-cluster-control-pass-v0.1.md	1485	e5fcddf92374d2236185b0b2ac1376336d7950d979cc45819329c4daeeee0676	# Beatitudes Cluster-Control Pass v0.1
+reconstruction/earliest-sayings-gospel/controlled-clean-reader-candidate-pass-v0.1.md	3648	9b00ab48ed63f37acdcbec78d6b99d775ac3471c3d6835b7ae6eb0aaa558fec2	# Controlled Clean-Reader Candidate Pass v0.1
+reconstruction/earliest-sayings-gospel/controlled-reader-candidate-pass-46a-91a-v0.1.md	2902	863e7f6de09348f9c2846944618a4b07958422cff5ebe357ea74c5e4dea12996	# Controlled Reader-Candidate Pass for 46A and 91A v0.1
+reconstruction/earliest-sayings-gospel/evidence-dossier-publication-pass-v0.1.md	3287	516594e97e4d2e093a58511fa78de02a28fd5dea905d638ed9ce82af957cdacf	# Evidence Dossier Publication Pass v0.1
+reconstruction/earliest-sayings-gospel/family-renunciation-cluster-control-pass-v0.1.md	2226	fbe77b8028e1d66d58711337de47048b73b893d39942dfaf54ddebe0bf80fddc	# Family-Renunciation Cluster-Control Pass v0.1
+reconstruction/earliest-sayings-gospel/final-all-114-decision-audit-v0.1.md	8033	3e5493b25473989c2b9d14b4a5fd12a6a8bc21d0372e664e49fb0e7573618271	# Final All-114 Decision Audit v0.1
+reconstruction/earliest-sayings-gospel/final-high-candidate-decision-pass-v0.1.md	4706	447a93923073d487f7246492b2998172586f541771a3f9bcd0dcecc86f9eb2ed	# Final High-Candidate Decision Pass v0.1
+reconstruction/earliest-sayings-gospel/final-reader-probability-pressure-review-v0.1.md	9984	b9ac1e54ed4291df3c47ebbbac68b169347b082592368723e7f587c71e2db4e5	# Final Reader Probability-Pressure Review v0.1
+reconstruction/earliest-sayings-gospel/fire-kingdom-cluster-control-pass-v0.1.md	1940	d55c31386c9c4496f40c8a9036682caaaa2c4cfc81740db4dabc7c10987ec790	# Fire / Kingdom Cluster-Control Pass v0.1
+reconstruction/earliest-sayings-gospel/greek-retroversion-confidence-audit-v0.1.md	11270	c125e237818eda20865e389592e95c2bee659dd7510e1f4be29f4de13a54fe93	# Greek Retroversion Confidence Audit v0.3
+reconstruction/earliest-sayings-gospel/living-dead-world-cluster-control-pass-v0.1.md	1702	aa5e094a2f48f5e89948d3bc15eb0b55c3c2a7ec8fa8fa57606f178895444b34	# Living / Dead / World Cluster-Control Pass v0.1
+reconstruction/earliest-sayings-gospel/logion-001-frame-status-review-v0.1.md	4014	35620cb8c00677b4c01061ab26fd1427759f50350d19b4f39805fe405260b370	# Logion 1 Frame-Status Review v0.1
+reconstruction/earliest-sayings-gospel/logion-114-publication-exclusion-rationale-v0.1.md	1826	ab4ff4937fac186e9e9091b911445f5a129eb8471554cb30f40c7c17dce02278	# Logion 114 Publication Exclusion Rationale Pass v0.1
+reconstruction/earliest-sayings-gospel/p1-non-reader-evidence-rationale-pass-v0.1.md	2929	45db7264650b1e994eab99f2ed872decb65a578151b45db9ee227f4b76d3f521	# P1 Non-Reader Evidence Rationale Pass v0.1
+reconstruction/earliest-sayings-gospel/p1-remaining-evidence-rationale-package-a-v0.1.md	2720	0eea5091da1a1d5251c6fc271bbe41d60f3b6daef2d0a5cde01738b3764b48fd	# P1 Remaining Evidence Rationale Package A v0.1
+reconstruction/earliest-sayings-gospel/p1-remaining-evidence-rationale-package-b-v0.1.md	2499	651f3133185e75df2ace66200d297c565745fb8b97a8b4cebb2dacab7d11083e	# P1 Remaining Evidence Rationale Package B v0.1
+reconstruction/earliest-sayings-gospel/seek-find-cluster-control-pass-v0.1.md	1677	ed25b5fc87028547b7e31cc590131ee7b1eab8234193951c8d9c0d292dceb7fe	# Seek / Find Cluster-Control Pass v0.1
+reconstruction/earliest-sayings-gospel/split-core-decision-review-a-v0.1.md	4745	29860d661b0a060e152f13caa0b12bd54e7d79db13603c15555c878eaea4f1fa	# Split-Core Decision Review A v0.1
+reconstruction/earliest-sayings-gospel/split-core-decision-review-b-v0.1.md	5718	7730727291431078dcb0462184e62028ad04a2a95ecb2d043337539400187015	# Split-Core Decision Review B v0.1
+reconstruction/earliest-sayings-gospel/split-core-high-early-pressure-review-c-v0.1.md	6725	9a8e72f0068a28d0584b0d3572beb2e68426f396a9aaa7af9aaddf5e4b93c288	# Split-Core / High-Early Pressure Review C v0.1
+reconstruction/earliest-sayings-gospel/thief-watchfulness-cluster-control-pass-21-103-v0.1.md	2982	11f2c38827fab6b6fbef23e61649312b6fc4cd4a20796fb60e75c764e5f1e118	# Thief / Watchfulness Cluster-Control Pass: Logia 21 and 103 v0.1
+reconstruction/earliest-sayings-gospel/wealth-renunciation-cluster-control-pass-v0.1.md	2981	dee95e416be3d338f7095e60bf3e22b364c39efeb98cc74d0947dfca3cc4b75d	# Wealth / Renunciation Cluster-Control Pass v0.1

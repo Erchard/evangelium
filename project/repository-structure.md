@@ -1,6 +1,6 @@
 # Структура репозиторію
 
-Статус: актуалізовано 2026-07-19 після Bible-style book design/index pass.
+Статус: актуалізовано 2026-07-19 після browsable digital companion HTML.
 
 ## Навігаційний принцип
 
@@ -52,8 +52,9 @@
 - Усі 37 clean-reader одиниці мають точний `Чистий текст реконструкції` anchor у full appendix.
 - Structural QA baseline проходить через `python3 tools/qa_crosscheck.py`.
 - Print/digital publication architecture v0.1 зафіксована: українська й англійська паперові книги мають бути самодостатніми, а повний evidence apparatus лишається digital scholarly companion.
-- Render pipeline, first proofs, first proof QA/layout correction, Bible-style book design/index pass і final proof polish виконані.
-- Наступний робочий пакет: release-candidate proof package audit.
+- Render pipeline, first proofs, first proof QA/layout correction, Bible-style book design/index pass, final proof polish, release-candidate proof audit, full book assembly, full Ukrainian proof QA, English appendix structural generation, English appendix editorial quality pass, full English proof QA, digital companion expansion і browsable digital companion HTML виконані.
+- Digital scholarly companion має generated Markdown/TSV/PDF package і локальний static HTML workbench: all-114 cross-reference index, source inventory, checksums, audit trail, search/filter UI.
+- Наступний робочий пакет: final production typesetting and copyedit gate.
 
 ## Правило для майбутньої роботи
 
@@ -62,6 +63,8 @@
 - новий промпт або план - у `project/`;
 - новий текст реконструкції або коментар - у `reconstruction/earliest-sayings-gospel/`;
 - майбутній print/digital export - у `output/uk-paper-book/`, `output/en-paper-book/` або `output/digital-scholarly-companion/`;
+- digital companion generated indexes - у `output/digital-scholarly-companion/`;
+- digital companion HTML proof - у `output/digital-scholarly-companion/html/`;
 - нову картку логії - у `corpus/cards/`;
 - нове першоджерело або snapshot - у `sources/primary_texts/`;
 - новий контроль паралелей - у `controls/synoptic-parallels/`;

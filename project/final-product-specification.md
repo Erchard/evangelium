@@ -1,6 +1,6 @@
 # Специфікація кінцевого продукту
 
-Статус: робоча специфікація v0.3, актуалізовано 2026-07-18.
+Статус: робоча специфікація v0.4, актуалізовано 2026-07-19.
 
 ## Коротко
 
@@ -19,7 +19,7 @@
 
 ## Поточний робочий стан
 
-Станом на 2026-07-18 проект має:
+Станом на 2026-07-19 проект має:
 
 - clean Ukrainian reader із 37 логій/ядер;
 - синхронізовані English, Coptic, Greek, Arabic literary і parallel шари для цих 37 одиниць;
@@ -29,9 +29,12 @@
 - print/digital publication architecture v0.1 як правило для майбутньої генерації української й англійської паперових книг та цифрового наукового апарату;
 - full 114-logion appendix: 114/114 секцій мають читацьке пояснення; Logia 1-114 уже editorially consolidated як print-safe книжковий додаток;
 - виконані full-appendix editorial consolidation packages для Logia 1-10, 11-20, 21-30, 31-40, 41-50, 51-60, 61-70, 71-80, 81-90, 91-100 і 101-114;
+- український full paper proof на 118 сторінок після page-level QA і appendix typography polish;
+- повний англійський 114-логійний appendix після system-level editorial quality pass і 177-сторінковий English full paper proof після page-level QA;
+- digital scholarly companion як generated Markdown/TSV/PDF research package і browsable static HTML proof: all-114 cross-reference index, source-witness inventory, artifact checksums, audit-trail index, 16-сторінковий PDF proof і локальний HTML workbench;
 - all-114 publication decision table v0.1 і evidence-control inventory виконані; `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0.
 
-Найближчий production крок визначено в `project/open-task-prompt-queue-2026-07-18.md`: release-candidate proof package audit. Controlled reader passes уже розширили clean reader до 37 одиниць; all-114 publication decision table v0.1, повна appendix consolidation, wealth/renunciation cluster-control, ritual-ethics / bridegroom 104A follow-up, Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify, print/digital render proof preparation, render pipeline / first proofs, first proof QA/layout corrections, Bible-style book design/index pass і final proof polish також виконані.
+Найближчий production крок визначено в `project/open-task-prompt-queue-2026-07-18.md`: final production typesetting and copyedit gate. Controlled reader passes уже розширили clean reader до 37 одиниць; all-114 publication decision table v0.1, повна appendix consolidation, wealth/renunciation cluster-control, ritual-ethics / bridegroom 104A follow-up, Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify, print/digital render proof preparation, render pipeline / first proofs, first proof QA/layout corrections, Bible-style book design/index pass, final proof polish, release-candidate proof audit, full book assembly, full Ukrainian proof QA, English appendix structural generation, English appendix editorial quality pass, full English proof QA, digital companion expansion і browsable companion HTML також виконані.
 
 ## Повний додаток до всіх 114 логій
 

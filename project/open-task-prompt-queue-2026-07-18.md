@@ -36,7 +36,15 @@ Run `python3 tools/qa_crosscheck.py` before and after every task that changes cl
 | 17 | `DONE` | First proof QA and layout corrections | `project/ide-codex-first-proof-qa-layout-corrections-v0.1-prompt.md` | `project/first-proof-qa-layout-corrections-v0.1.md` |
 | 18 | `DONE` | Bible-style book design and index pass | `project/ide-codex-bible-style-book-design-index-pass-v0.1-prompt.md` | `project/bible-style-book-design-index-pass-v0.1.md` |
 | 19 | `DONE` | Final proof polish, bibliography, and TOC | `project/ide-codex-final-proof-polish-bibliography-toc-v0.1-prompt.md` | `project/final-proof-polish-bibliography-toc-v0.1.md` |
-| 20 | `NEXT` | Release-candidate proof package audit | `project/ide-codex-release-candidate-proof-package-audit-v0.1-prompt.md` | Page-by-page visual QA, package audit, and final blocker list |
+| 20 | `DONE` | Release-candidate proof package audit | `project/ide-codex-release-candidate-proof-package-audit-v0.1-prompt.md` | `project/release-candidate-proof-package-audit-v0.1.md` |
+| 21 | `DONE` | Full book assembly and typesetting pipeline | `project/ide-codex-full-book-assembly-typesetting-pipeline-v0.1-prompt.md` | `project/full-book-assembly-typesetting-pipeline-v0.1.md` |
+| 22 | `DONE` | Full Ukrainian book proof QA and appendix typography | `project/ide-codex-full-ukrainian-book-proof-qa-appendix-typography-v0.1-prompt.md` | `project/full-ukrainian-book-proof-qa-appendix-typography-v0.1.md` |
+| 23 | `DONE` | English full 114-logion appendix generation | `project/ide-codex-english-full-114-logion-appendix-generation-v0.1-prompt.md` | `project/english-full-114-logion-appendix-generation-v0.1.md` |
+| 24 | `DONE` | English appendix editorial quality pass | `project/ide-codex-english-appendix-editorial-quality-pass-v0.1-prompt.md` | `project/english-appendix-editorial-quality-pass-v0.1.md` |
+| 25 | `DONE` | Full English book proof QA and typography | `project/ide-codex-full-english-book-proof-qa-typography-v0.1-prompt.md` | `project/full-english-book-proof-qa-typography-v0.1.md` |
+| 26 | `DONE` | Digital scholarly companion expansion | `project/ide-codex-digital-scholarly-companion-expansion-v0.1-prompt.md` | `project/digital-scholarly-companion-expansion-v0.1.md` |
+| 27 | `DONE` | Browsable digital companion HTML | `project/ide-codex-digital-companion-browsable-html-v0.1-prompt.md` | `project/digital-companion-browsable-html-v0.1.md` |
+| 28 | `NEXT` | Final production typesetting and copyedit gate | `project/ide-codex-final-production-typesetting-copyedit-gate-v0.1-prompt.md` | Decide final production path and run final copyedit/proof checklist |
 
 ## Completed Recent Dependencies
 
@@ -66,10 +74,18 @@ Run `python3 tools/qa_crosscheck.py` before and after every task that changes cl
 | First proof QA and layout corrections | `project/first-proof-qa-layout-corrections-v0.1.md` |
 | Bible-style book design and index pass | `project/bible-style-book-design-index-pass-v0.1.md` |
 | Final proof polish, bibliography, and TOC | `project/final-proof-polish-bibliography-toc-v0.1.md` |
+| Release-candidate proof package audit | `project/release-candidate-proof-package-audit-v0.1.md` |
+| Full book assembly and typesetting pipeline | `project/full-book-assembly-typesetting-pipeline-v0.1.md` |
+| Full Ukrainian book proof QA and appendix typography | `project/full-ukrainian-book-proof-qa-appendix-typography-v0.1.md` |
+| English full 114-logion appendix generation | `project/english-full-114-logion-appendix-generation-v0.1.md` |
+| English appendix editorial quality pass | `project/english-appendix-editorial-quality-pass-v0.1.md` |
+| Full English book proof QA and typography | `project/full-english-book-proof-qa-typography-v0.1.md` |
+| Digital scholarly companion expansion | `project/digital-scholarly-companion-expansion-v0.1.md` |
+| Browsable digital companion HTML | `project/digital-companion-browsable-html-v0.1.md` |
 
-## Why The Next Task Is Final Proof Polish
+## Why The Next Task Is Final Production Typesetting And Copyedit Gate
 
-The project now has full corpus coverage, reader interpretation coverage, all-114 decision control, a frozen 37-unit clean reader, consolidated appendix prose for all Logia 1-114, a publication-facing evidence dossier draft v1.4, completed Greek retroversion publication polish, completed final clean-reader freeze, first generator-ready Ukrainian/English book source packages plus a digital companion manifest, completed final bibliography / rights verification, completed print/digital render proof preparation, first HTML/PDF proof artifacts, first Bible-style layout correction, Bible-style book design / split-index pass, and final proof polish for front matter, TOC, bibliography, and indexes. The strongest remaining production risk is now release-candidate proof judgment: every page must be visually checked, blockers must be separated from polish issues, and the project must decide whether the current renderer is acceptable for the first public proof.
+The project now has full corpus coverage, reader interpretation coverage, all-114 decision control, a frozen 37-unit clean reader, consolidated Ukrainian and English appendix prose for all Logia 1-114, a publication-facing evidence dossier, completed Greek retroversion publication polish, completed final clean-reader freeze, full-book assembly, completed Ukrainian full-proof QA, completed English full-proof QA, an expanded Markdown/TSV/PDF digital scholarly companion, and a browsable static HTML companion. The strongest remaining quality gate is final production: decide the final typesetting path and run a disciplined human-level copyedit/proof checklist before release-candidate status.
 
 ## Execution Note
 

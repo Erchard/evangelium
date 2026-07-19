@@ -4,9 +4,9 @@ Status: active remediation plan, updated 2026-07-19.
 
 ## Current Readiness Estimate
 
-Working estimate: 98.5%.
+Working estimate: 99.5%.
 
-The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, render-proof preparation, first proof artifacts, first proof QA/layout correction, Bible-style book design/index pass, and final proof polish are in place. The remaining work is release-candidate proof judgment: page-by-page visual QA, final blocker classification, renderer adequacy decision, and release-candidate packaging.
+The project is no longer blocked by corpus coverage. The main text, all 114 cards, evidence notes, control classification, clean-reader synchronization, full appendix consolidation, evidence dossier publication draft, bibliography/rights release verification, 104A ritual-ethics / bridegroom follow-up, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, render-proof preparation, first proof artifacts, first proof QA/layout correction, Bible-style book design/index pass, final proof polish, release-candidate audit, full Ukrainian book assembly, full Ukrainian proof QA, English full appendix structural generation, English appendix editorial-quality pass, full English proof QA, digital companion expansion, and browsable companion HTML are in place. The remaining work is final typesetting decision, final human copyedit, and release-candidate signoff.
 
 ## Primary Defects To Remove
 
@@ -28,7 +28,15 @@ The project is no longer blocked by corpus coverage. The main text, all 114 card
 | 11 | First proof QA and layout corrections | CLOSED: first visible paper defects were corrected and paper PDFs are path-safe. | Proofs have acceptable first-pass layout, no paper-only path leakage, and documented remaining design work. |
 | 12 | Bible-style book design and index pass | CLOSED: paper proofs now use compact Bible-style clean text and split print indexes. | Raw all-114 tables are replaced by reader-safe paper indexes, with no repo paths or URLs in paper PDFs. |
 | 13 | Final proof polish, bibliography, and TOC | CLOSED: front matter, proof-stable TOC, print source keys, and index compression improved. | Ukrainian and English paper PDFs can become release candidates after visual proofing and final corrections. |
-| 14 | Release-candidate proof package audit | NEXT: inspect every page and decide renderer/package readiness. | A final blocker list and release-candidate verdict exist for paper and digital outputs. |
+| 14 | Release-candidate proof package audit | CLOSED: current PDFs are proof skeletons, not release candidates. | A final blocker list and release-candidate verdict exist for paper and digital outputs. |
+| 15 | Full book assembly and typesetting pipeline | CLOSED: 118-page Ukrainian full book proof generated; English proof package generated with explicit full-appendix blocker. | Ukrainian and English outputs include the promised book layers or explicit blockers before final render. |
+| 16 | Full Ukrainian book proof QA and appendix typography | CLOSED: all 118 pages inspected; paper-facing appendix labels localized; QA passed. | Ukrainian full proof has page-by-page QA report and remaining blocker list. |
+| 17 | English full 114-logion appendix generation | CLOSED: first complete structural English appendix exists and renders in a 177-page proof. | English paper proof includes clean text first plus all 114 commentary sections. |
+| 18 | English appendix editorial quality pass | CLOSED: generator now creates less repetitive reader-facing English commentary and paper sanitizer removes draft/status leakage. | English appendix is readable as publication prose, not only a synchronized control draft. |
+| 19 | Full English book proof QA and typography | CLOSED: 177-page English proof inspected textually and visually; no page-level blocker found. | English proof has page-level QA report and remaining blocker list. |
+| 20 | Digital scholarly companion expansion | CLOSED: companion now has generated all-114 cross-reference index, source inventory, checksums, audit trail, Markdown source, and PDF proof. | Companion preserves source paths, evidence links, audit trail, all-114 logion navigation, rights, and reproducibility data. |
+| 21 | Browsable digital companion HTML | CLOSED: static HTML companion has searchable/filterable all-114 index, expandable detail panels, source sections, audit trail, and valid local links. | Reader can search/filter all 114 logia and navigate to cards, evidence, controls, sources, audits, and reproducibility data. |
+| 22 | Final production typesetting and copyedit gate | NEXT: choose final PDF/typesetting path and run final copyedit/proof checklist. | Project has a documented production path and release-candidate blockers list. |
 
 ## Execution Order
 
@@ -123,4 +131,36 @@ CLOSED on 2026-07-19. Paper proofs were moved toward a compact mass-Bible-style 
 
 CLOSED on 2026-07-19. Paper proofs now have calmer front matter, proof-stable contents, print source keys, less dense non-included index, compressed witness/status indexes, and confirmed paper path-safety.
 
-Next active task: release-candidate proof package audit.
+### Phase F.5: Release-Candidate Proof Package Audit
+
+CLOSED on 2026-07-19. Current PDFs passed structural and path-safety checks and have no visible clipping, but they are not release candidates for the final books because they do not yet include the full 114-logion commentary appendix. They are first public proof skeletons.
+
+### Phase F.6: Full Book Assembly And Typesetting Pipeline
+
+CLOSED on 2026-07-19. A separate full-book assembly/render pipeline now generates `book-source-uk-full.md`, `book-source-en-full.md`, companion source map, a 118-page Ukrainian full proof, a 61-page English proof package, and a 5-page digital companion source-map proof. ReportLab remains acceptable for proof generation, not yet final production.
+
+### Phase F.7: Full Ukrainian Book Proof QA And Appendix Typography
+
+CLOSED on 2026-07-19. The 118-page Ukrainian full proof was inspected through regenerated PNG/contact-sheet proofing; the title page, clean text, orientation page, all appendix pages, Logion 114, and bibliography page are present. The generator now localizes paper-facing appendix status labels instead of exposing English/internal metadata labels.
+
+### Phase F.8: English Full 114-Logion Appendix Generation
+
+CLOSED on 2026-07-19. A generator now creates `full-logion-commentary-appendix-en.md` from the frozen all-114 decision table and English clean reader. The English full proof now has 177 pages and includes all 114 appendix sections. The remaining English problem is prose quality, not structural absence.
+
+### Phase F.9: English Appendix Editorial Quality Pass
+
+CLOSED on 2026-07-19. The English appendix generator now adds reader-facing thematic explanations, special notes for key logia, clearer source-status prose, and less repetitive interpretation options. The English paper sanitizer removes obsolete draft/status leakage from paper-facing dossier material.
+
+### Phase F.10: Full English Book Proof QA And Typography
+
+CLOSED on 2026-07-19. The 177-page English full proof was rebuilt, scanned textually, rendered to PNG pages, inspected through contact sheets, and checked with image diagnostics. The clean text, all 114 appendix chapters, evidence dossier, included-logia/core summaries, Logion 114 exclusion summary, and bibliography are present without visible clipping, accidental blank pages, or paper-only path leakage.
+
+### Phase F.11: Digital Scholarly Companion Expansion
+
+CLOSED on 2026-07-19. A deterministic generator now creates the digital companion source, all-114 logion cross-reference TSV, source-witness inventory, artifact checksums, audit-trail index, expanded companion manifest, README, and a 16-page digital companion PDF proof. The companion intentionally preserves repository paths and machine-checkable apparatus excluded from paper books.
+
+### Phase F.12: Browsable Digital Companion HTML
+
+CLOSED on 2026-07-19. A deterministic HTML renderer now creates `output/digital-scholarly-companion/html/index.html` from the generated TSV indexes. The static companion has 114 expandable logion panels, search, reader/decision/Greek-status filters, source witness sections, audit trail, bibliography/rights links, reproducibility checklist, and 762 validated local file links.
+
+Next active task: final production typesetting and copyedit gate.

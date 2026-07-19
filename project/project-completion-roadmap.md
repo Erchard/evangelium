@@ -1,6 +1,6 @@
 # Дорожня карта завершення проєкту
 
-Статус: оновлена робоча дорожня карта v0.3, 2026-07-18.
+Статус: оновлена робоча дорожня карта v0.4, 2026-07-19.
 
 ## Мета
 
@@ -17,11 +17,11 @@
 
 ## Поточна оцінка стану
 
-Орієнтовна готовність: 82-85%.
+Орієнтовна готовність: 99.5%.
 
-Це вже не початковий корпусний етап. Найскладніший хаос знято: корпус покритий повністю, є метод, є чистий reader, є багатомовні шари для поточної реконструкції, є evidence dossier і є каркас повного 114-логійного додатку.
+Це вже фінальний production/proof етап. Найскладніший корпусний хаос знято: корпус покритий повністю, є метод, є чистий reader, є багатомовні шари для поточної реконструкції, є evidence dossier, є повні український і англійський 114-логійні додатки, а обидва full paper proofs пройшли сторінкову QA.
 
-Водночас проект ще не готовий до публікації, бо багато матеріалу існує як робочий каркас, а не як фінально аргументований коментар або академічний апарат.
+Проект ще не 100%, бо digital companion уже має Markdown/TSV/PDF і browsable HTML proof, але фінальний production-grade typesetting ще не обраний, а фінальна human copyedit-перевірка української й англійської книг ще попереду.
 
 ## Що вже зроблено
 
@@ -52,7 +52,10 @@
 | Structural QA baseline | Є: `tools/qa_crosscheck.py` перевіряє 114 карток, 114 appendix-секцій, синхронізацію clean-reader шарів і точні appendix anchors |
 | Cluster-control notes | Розпочато; living/dead/world, beatitudes, seek/find, family-renunciation і fire/kingdom passes v0.1 виконано |
 | Inclusion decisions table | Є як робоча таблиця; all-114 publication decision table v0.1 створено як головний контрольний документ перед appendix/dossier polish |
-| Open-task prompt queue | Є: `project/open-task-prompt-queue-2026-07-18.md`; поточний `NEXT` - release-candidate proof package audit |
+| Ukrainian full proof QA | Виконано: 118 сторінок переглянуто, typography labels локалізовано, QA crosscheck пройдено |
+| English full appendix | Виконано: 114/114 секцій, system-level editorial quality pass, 177-сторінковий English full proof після page-level QA |
+| Digital scholarly companion | Виконано: expanded Markdown/TSV/PDF package і browsable static HTML companion з all-114 index, source inventory, checksums і audit trail |
+| Open-task prompt queue | Є: `project/open-task-prompt-queue-2026-07-18.md`; поточний `NEXT` - final production typesetting and copyedit gate |
 
 ## Поточний склад clean reader
 
@@ -72,7 +75,7 @@
 6. Pending P.Oxy. XML extraction gap закрито для логій 24, 27, 28, 29, 30, 37, 38 і 77; тепер потрібна звірка цих витягів з академічними виданнями.
 7. All-114 publication decision table v0.1 покриває всі 114 логій; після Package B evidence-rationale pass `NEEDS_EVIDENCE_BEFORE_FINAL` зведено до 0; основні cluster-control групи й Logion 114 exclusion rationale уже мають контрольні документи.
 8. Greek retroversion layer має publication-freeze audit v0.2: extant, partial/lacunose і hypothetical retroversion labels узгоджені для 37 clean-reader одиниць. Перед фінальною публікацією ще потрібна академічна звірка з друкованими/критичними виданнями, але статус джерела більше не є блокером.
-9. Bibliography / rights / citation policy тепер має release verification layer v0.2; print/digital render proof preparation, перші HTML/PDF proofs, перший Bible-style layout correction pass, Bible-style book design/index pass і final proof polish виконано; перед релізом лишаються release-candidate page-by-page QA, renderer adequacy decision і фінальні правки.
+9. Bibliography / rights / citation policy тепер має release verification layer v0.2; print/digital render proof preparation, перші HTML/PDF proofs, перший Bible-style layout correction pass, Bible-style book design/index pass, final proof polish, release-candidate proof audit, full book assembly, full Ukrainian proof QA, English appendix structural generation, English appendix editorial quality pass, full English proof QA, digital companion expansion і browsable companion HTML виконано; перед релізом лишаються final production typesetting/copyedit gate і фінальні release-candidate правки.
 10. Методологічний вступ для читача і англомовний methodological introduction ще треба написати.
 11. Probability-pressure review виконано. Logion 1 frame-status review також виконано. Split-core / high-early pressure Review C і controlled reader-candidate pass 46A/91A виконано: 46A та 91A додано до clean reader як марковані ядра, 90 лишено appendix-only.
 12. Thief/watchfulness cluster-control для Logia 21/103 виконано: 103A додано до clean reader як марковане ядро; повні Logia 21 і 103 лишаються appendix-only.
@@ -213,7 +216,7 @@
 
 ## Найближча дія
 
-Найважливіша наступна дія: release-candidate proof package audit. Greek-layer freeze, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify, print/digital render proof preparation, render pipeline / first proofs, first proof QA/layout corrections, Bible-style book design/index pass і final proof polish виконано; full appendix consolidation для Logia 1-114, wealth/renunciation cluster-control, Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass і ritual-ethics / bridegroom 104A follow-up також виконано. Тепер треба переглянути кожну сторінку PDF, скласти остаточний список blockers/polish issues і вирішити, чи поточний renderer достатній для першого public proof.
+Найважливіша наступна дія: final production typesetting and copyedit gate. Greek-layer freeze, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify, print/digital render proof preparation, render pipeline / first proofs, first proof QA/layout corrections, Bible-style book design/index pass, final proof polish, release-candidate proof audit, full book assembly, full Ukrainian proof QA, English full appendix structural generation, English appendix editorial quality pass, full English proof QA, digital companion expansion і browsable companion HTML виконано. Тепер корпус і виходи існують; треба вирішити production path і пройти фінальний copyedit/proof gate.
 
 Перед початком і після завершення пакета запускати:
 
@@ -243,10 +246,10 @@ python3 tools/qa_crosscheck.py
 
 Наступний рекомендований пакет:
 
-- Release-candidate proof package audit.
+- Final production typesetting and copyedit gate.
 
-Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63; пізніші controlled passes додали 46A, 91A і 103A як марковані ядра. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; P1 evidence-rationale packages виконано; основні cluster-control passes, 104A follow-up, Logion 114 rationale, Greek-layer freeze, Greek retroversion publication polish, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify, print/digital render proof preparation, перші proofs, перший layout correction pass, Bible-style book design/index pass і final proof polish виконано. Тепер найвидиміше слабке місце - остаточний release-candidate proof verdict: чи кожна сторінка справді витримує друк.
+Причина: Controlled clean-reader candidate pass уже виконано і додав тільки 45A, 47B та 63; пізніші controlled passes додали 46A, 91A і 103A як марковані ядра. Gold-level card normalization v0.2 і five-source apparatus v0.1 виконано для 114/114 карток. Canonical Greek extraction pass виконано для 81 картки. Pending P.Oxy. XML extraction gap закрито; evidence/control inventory виконано; all-114 publication decision table v0.1 створено; P1 evidence-rationale packages виконано; основні cluster-control passes, 104A follow-up, Logion 114 rationale, Greek-layer freeze, Greek retroversion publication polish, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify, print/digital render proof preparation, перші proofs, перший layout correction pass, Bible-style book design/index pass, final proof polish, release-candidate proof audit, full book assembly, full Ukrainian proof QA, English appendix structural generation, English appendix editorial quality pass, full English proof QA, digital companion expansion і browsable companion HTML виконано. Тепер найвидиміше слабке місце - фінальний production/copyedit gate перед статусом release candidate.
 
-Після reader-interpretation expansion v0.1 і full-appendix reader-interpretation sync v0.1 усі 114 карток і всі 114 appendix-секцій мають читацький шар. Editorial consolidation виконано для Logia 1-114. Усі 37 clean-reader одиниць мають точний `Чистий текст реконструкції` anchor у full appendix. Wealth/renunciation cluster-control, 104A follow-up, Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify, print/digital render proof preparation, render pipeline / first proofs, first proof QA/layout corrections, Bible-style book design/index pass і final proof polish виконано без зміни clean reader. Наступний якісний крок за `project/open-task-prompt-queue-2026-07-18.md` - release-candidate proof package audit.
+Після reader-interpretation expansion v0.1 і full-appendix reader-interpretation sync v0.1 усі 114 карток і всі 114 appendix-секцій мають читацький шар. Editorial consolidation виконано для Logia 1-114. Усі 37 clean-reader одиниць мають точний `Чистий текст реконструкції` anchor у full appendix. Wealth/renunciation cluster-control, 104A follow-up, Logion 114 publication-level exclusion rationale, evidence dossier publication pass, bibliography/rights/citation/reproducibility pass, Greek retroversion publication polish, final clean-reader freeze, generator-ready book source packages, final bibliography / rights verify, print/digital render proof preparation, render pipeline / first proofs, first proof QA/layout corrections, Bible-style book design/index pass, final proof polish, release-candidate proof audit, full book assembly, full Ukrainian proof QA, English appendix structural generation, English appendix editorial quality pass, full English proof QA, digital companion expansion і browsable companion HTML виконано без зміни clean reader. Наступний якісний крок за `project/open-task-prompt-queue-2026-07-18.md` - final production typesetting and copyedit gate.
 
 Цей наступний пакет має вже виконувати нове print-safe правило: не покладатися на клікабельні посилання як єдиний апарат, а давати друковані відповідники для кожного важливого джерельного або паралельного посилання.
