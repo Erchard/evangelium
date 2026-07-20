@@ -24,6 +24,8 @@ EN_APPENDIX = ROOT / "reconstruction/earliest-sayings-gospel/full-logion-comment
 EN_DOSSIER = ROOT / "reconstruction/earliest-sayings-gospel/evidence-dossier-en.md"
 PARALLEL_EDITION = ROOT / "reconstruction/earliest-sayings-gospel/parallel-edition.md"
 CARDS_DIR = ROOT / "corpus/cards"
+UK_PROLOGUE = ROOT / "front-matter/prologue-uk.md"
+EN_PROLOGUE = ROOT / "front-matter/prologue-en.md"
 
 UK_OUT = ROOT / "output/uk-paper-book/book-source-uk-full.md"
 EN_OUT = ROOT / "output/en-paper-book/book-source-en-full.md"
@@ -943,6 +945,7 @@ def assemble_uk() -> str:
         [
             "# Реконструкція найдавнішого Євангелія висловів",
             UK_READER_HEADING,
+            read(UK_PROLOGUE).strip(),
             normalize_clean_headings(read(UK_CLEAN), "uk"),
             "## Реконструйований грецький текст",
             clean_greek_reader_for_paper(),
@@ -962,6 +965,7 @@ def assemble_en() -> str:
     return "\n\n".join(
         [
             "# A Reconstruction of the Earliest Sayings Gospel",
+            read(EN_PROLOGUE).strip(),
             "## Clean Reconstructed Text",
             normalize_clean_headings(read(EN_CLEAN), "en"),
             "## How To Read This Edition",
