@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Project consistency checks for EUAGELIA logion files."""
 
 from __future__ import annotations
@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 EXPECTED_ALL = list(range(1, 115))
 EXPECTED_READER = [
     2, 3, 4, 5, 6, 9, 10, 16, 20, 22, 25, 26, 31, 32, 33, 34,
@@ -36,7 +36,7 @@ def normalized(text: str) -> str:
 
 
 def parse_uk_clean() -> dict[int, str]:
-    text = read("reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md")
+    text = read("book/text/logia-uk.md")
     result: dict[int, str] = {}
     for match in re.finditer(r"^## (\d+)\n\n(.*?)(?=^## \d+\n|\Z)", text, re.S | re.M):
         result[int(match.group(1))] = match.group(2).strip()
@@ -44,7 +44,7 @@ def parse_uk_clean() -> dict[int, str]:
 
 
 def parse_clean_greek_reader() -> list[str]:
-    text = read("reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek-clean.md")
+    text = read("book/translations/greek-clean.md")
     text = re.sub(r"^# .+?\n+", "", text)
     return [block.strip() for block in re.split(r"\n\s*\n", text.strip()) if block.strip()]
 
@@ -58,7 +58,7 @@ def parse_parallel_reader() -> list[int]:
         int(value)
         for value in re.findall(
             r"^\| Logion (\d+) \|",
-            read("reconstruction/earliest-sayings-gospel/parallel-edition.md"),
+            read("book/translations/parallel-edition.md"),
             re.M,
         )
     ]
@@ -66,7 +66,7 @@ def parse_parallel_reader() -> list[int]:
 
 def parse_workflow_reader_yes() -> list[int]:
     result: list[int] = []
-    for line in read("corpus/tables/logia-workflow-matrix.md").splitlines():
+    for line in read("research/tables/logia-workflow-matrix.md").splitlines():
         if not re.match(r"^\|\s*\d+\s*\|", line):
             continue
         cells = [cell.strip() for cell in line.strip("|").split("|")]
@@ -76,7 +76,7 @@ def parse_workflow_reader_yes() -> list[int]:
 
 
 def parse_all114_reader_marked() -> list[int]:
-    text = read("reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md")
+    text = read("research/decisions/all-114-publication-decision-table-v0.1.md")
     start = text.index("## Full All-114 Publication Decision Table")
     table = text[start:]
     result: list[int] = []
@@ -91,7 +91,7 @@ def parse_all114_reader_marked() -> list[int]:
 
 
 def appendix_blocks() -> dict[int, str]:
-    text = read("reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md")
+    text = read("book/appendix/commentary-uk.md")
     matches = list(re.finditer(r"^## Логія (\d+)\b", text, re.M))
     result: dict[int, str] = {}
     for index, match in enumerate(matches):
@@ -104,7 +104,7 @@ def appendix_blocks() -> dict[int, str]:
 def main() -> int:
     errors: list[str] = []
 
-    cards = sorted((ROOT / "corpus/cards").glob("logion-*.md"))
+    cards = sorted((ROOT / "research/logion-cards").glob("logion-*.md"))
     card_nums: list[int] = []
     for card in cards:
         match = re.match(r"logion-(\d{3})\.md$", card.name)
@@ -124,7 +124,7 @@ def main() -> int:
     if app_nums != EXPECTED_ALL:
         fail(errors, f"Appendix heading sequence mismatch: {app_nums}")
 
-    app_text = read("reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md")
+    app_text = read("book/appendix/commentary-uk.md")
     appendix_reader_sections = {
         "Coptic text": app_text.count("### Коптський текст"),
         "Greek text": app_text.count("### Грецький текст"),
@@ -147,23 +147,23 @@ def main() -> int:
     reader_sets = {
         "uk": list(uk_clean),
         "en": parse_reader_file(
-            "reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md",
+            "book/text/logia-en.md",
             r"^## Logion (\d+)\b",
         ),
         "greek": parse_reader_file(
-            "reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek.md",
+            "book/translations/greek.md",
             r"^## Logion (\d+)\b",
         ),
         "coptic": parse_reader_file(
-            "reconstruction/earliest-sayings-gospel/reconstructed-gospel-coptic.md",
+            "book/translations/coptic.md",
             r"^## Logion (\d+)\b",
         ),
         "arabic": parse_reader_file(
-            "reconstruction/earliest-sayings-gospel/reconstructed-gospel-ar-quranic-register.md",
+            "book/translations/arabic-quranic-register.md",
             r"^## قول (\d+)\b",
         ),
         "uk_apparatus": parse_reader_file(
-            "reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk-apparatus.md",
+            "research/evidence/uk-apparatus.md",
             r"^## Логія (\d+)\b",
         ),
         "parallel": parse_parallel_reader(),

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Generate the first complete English 114-logion commentary appendix.
 
 The generator is intentionally conservative. It builds a print-safe English
@@ -13,10 +13,10 @@ import re
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
-DECISIONS = ROOT / "reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md"
-EN_CLEAN = ROOT / "reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md"
-OUT = ROOT / "reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-en.md"
+ROOT = Path(__file__).resolve().parents[2]
+DECISIONS = ROOT / "research/decisions/all-114-publication-decision-table-v0.1.md"
+EN_CLEAN = ROOT / "book/text/logia-en.md"
+OUT = ROOT / "book/appendix/commentary-en.md"
 
 
 STATUS_LABELS = {

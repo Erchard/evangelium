@@ -1,0 +1,26 @@
+artifact	exists	bytes	sha256
+README.md	YES	2297	0ce5fe6bc07347337115ba566e6bf35aaef49d214aaef874a1f8e7d2185e01bc
+LICENSE.md	YES	2634	362213df384bda39f20c9f1aa5aed3b301d9ca837e78ec5c6a01ae707eb038f4
+project/project-completion-roadmap.md	NO	0	
+project/publication-remediation-plan-2026-07-18.md	NO	0	
+project/final-product-specification.md	NO	0	
+project/final-production-typesetting-copyedit-gate-v0.1.md	NO	0	
+project/typst-production-pilot-v0.1.md	NO	0	
+project/release-candidate-audit-v1.0-rc1.md	NO	0	
+dist/uk-paper-book/book-source-uk-full.md	YES	521050	d342ead71df518c94d4e8344b621de5c77e71acd50da382414e8584d918e3279
+dist/uk-paper-book/euagelia-uk-full-proof.pdf	YES	573955	c921b6d94624378bfda0df17462fbbf0c862f96d0fc2314a4e32a331be5f422d
+dist/en-paper-book/book-source-en-full.md	YES	346769	3a682e286a30bcb75998d1d127dd646dee771c467431177b609e077b6981424a
+dist/en-paper-book/euagelia-en-full-proof.pdf	YES	516233	c1cb14be262565b166a005e24bfb7970a52acec4ba7f053a56b5f7a07455d1e8
+dist/digital-scholarly-companion/companion-source-full.md	YES	39318	b53ea082621dfde68c07eb761d3fdfe7e33ece7e4e5715e94ddf0ae1b58410a1
+dist/digital-scholarly-companion/euagelia-digital-companion-full-proof.pdf	YES	102526	b4da5fea57cef4d54569216fd473b66574749ac32e1545d80b931d7791aa2cea
+dist/digital-scholarly-companion/html/index.html	YES	384322	06f4808f36925429df53af1666cd4cf60d6eb77361b2d1962175948101fa34a7
+dist/digital-scholarly-companion/logion-cross-reference-index.tsv	YES	30083	c00c13028d4a1657d211492a9caa52b3bc64e981cf8e4aee9d4e263b602a94be
+dist/digital-scholarly-companion/source-witness-inventory.tsv	YES	21996	4436def3e1e8a3ef03fbe28e9ae5583ab648b931557a546b5f23393a03ec09a9
+dist/digital-scholarly-companion/artifact-checksums.tsv	YES	2626	403bfb9ab1f14a1b239eee7ab271929405e4d5ebbcd66f6dc3ae6882d2e02236
+dist/digital-scholarly-companion/audit-trail-index.tsv	YES	4911	d57796da93770810ca84366acaa1ae99bfd57c300cabc1d8be0c7839d042db15
+dist/production-typst/README.md	YES	1128	c29bab6ac557ded7c311ab849f10a76d113454a8e10951691d667b90a7902ee9
+dist/production-typst/euagelia-template.typ	YES	1076	1a867388439ebf9a73f924567a3c3cd5b43946cca5342c9f4559f07c3930408c
+dist/production-typst/uk-pilot.typ	YES	21134	c45b7bfdaf4c1ea7020d846db89d850dbf9d2f1e37cbdc2e28cc7f4b14993c6c
+dist/production-typst/en-pilot.typ	YES	8930	b036492185a2a14283d7bc4488eeaeeb3298aa7b2c215ebd552a63511bf7519b
+dist/production-typst/production-handoff-checklist.md	YES	1229	e9c719a6bb5a0bbcb256183d27205551d6230250de8e881102a52a48ba1ca8a8
+dist/production-typst/production-pilot-manifest.tsv	YES	818	dd9d53a3a1696719bbc3975c2f2fd5df236ee36dac66b40e9e842c89b9d994c2

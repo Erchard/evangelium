@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Assemble full-length EUAGELIA book sources.
 
 This creates paper-facing Markdown sources from controlled project layers. It
@@ -13,23 +13,23 @@ import sys
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 
-UK_CLEAN = ROOT / "reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md"
-EN_CLEAN = ROOT / "reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md"
-GREEK_CLEAN = ROOT / "reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek-clean.md"
-GREEK_MAJUSCULE_CLEAN = ROOT / "reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek-majuscule-clean.md"
-UK_APPENDIX = ROOT / "reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md"
-EN_APPENDIX = ROOT / "reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-en.md"
-EN_DOSSIER = ROOT / "reconstruction/earliest-sayings-gospel/evidence-dossier-en.md"
-PARALLEL_EDITION = ROOT / "reconstruction/earliest-sayings-gospel/parallel-edition.md"
-CARDS_DIR = ROOT / "corpus/cards"
-UK_PROLOGUE = ROOT / "front-matter/prologue-uk.md"
-EN_PROLOGUE = ROOT / "front-matter/prologue-en.md"
+UK_CLEAN = ROOT / "book/text/logia-uk.md"
+EN_CLEAN = ROOT / "book/text/logia-en.md"
+GREEK_CLEAN = ROOT / "book/translations/greek-clean.md"
+GREEK_MAJUSCULE_CLEAN = ROOT / "book/translations/greek-majuscule-clean.md"
+UK_APPENDIX = ROOT / "book/appendix/commentary-uk.md"
+EN_APPENDIX = ROOT / "book/appendix/commentary-en.md"
+EN_DOSSIER = ROOT / "research/evidence/evidence-dossier-en.md"
+PARALLEL_EDITION = ROOT / "book/translations/parallel-edition.md"
+CARDS_DIR = ROOT / "research/logion-cards"
+UK_PROLOGUE = ROOT / "book/front-matter/prologue-uk.md"
+EN_PROLOGUE = ROOT / "book/front-matter/prologue-en.md"
 
-UK_OUT = ROOT / "output/uk-paper-book/book-source-uk-full.md"
-EN_OUT = ROOT / "output/en-paper-book/book-source-en-full.md"
-DIGITAL_OUT = ROOT / "output/digital-scholarly-companion/companion-source-full.md"
+UK_OUT = ROOT / "dist/uk-paper-book/book-source-uk-full.md"
+EN_OUT = ROOT / "dist/en-paper-book/book-source-en-full.md"
+DIGITAL_OUT = ROOT / "dist/digital-scholarly-companion/companion-source-full.md"
 UK_READER_HEADING = "## Логії Ісуса"
 
 PAPER_STATUS_TERMS_UK = {
@@ -990,32 +990,32 @@ def assemble_digital() -> str:
         "",
         "## Paper Outputs",
         "",
-        "- output/uk-paper-book/book-source-uk-full.md",
-        "- output/en-paper-book/book-source-en-full.md",
-        "- output/uk-paper-book/euagelia-uk-full-proof.pdf",
-        "- output/en-paper-book/euagelia-en-full-proof.pdf",
+        "- dist/uk-paper-book/book-source-uk-full.md",
+        "- dist/en-paper-book/book-source-en-full.md",
+        "- dist/uk-paper-book/euagelia-uk-full-proof.pdf",
+        "- dist/en-paper-book/euagelia-en-full-proof.pdf",
         "",
         "## Core Corpus",
         "",
-        "- corpus/cards/",
-        "- corpus/tables/logia-workflow-matrix.md",
-        "- reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md",
-        "- reconstruction/earliest-sayings-gospel/evidence-dossier-en.md",
+        "- research/logion-cards/",
+        "- research/tables/logia-workflow-matrix.md",
+        "- book/appendix/commentary-uk.md",
+        "- research/evidence/evidence-dossier-en.md",
         "",
         "## Language Layers",
         "",
-        "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md",
-        "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md",
-        "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-coptic.md",
-        "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek.md",
-        "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek-clean.md",
-        "- reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek-majuscule-clean.md",
-        "- reconstruction/earliest-sayings-gospel/parallel-edition.md",
+        "- book/text/logia-uk.md",
+        "- book/text/logia-en.md",
+        "- book/translations/coptic.md",
+        "- book/translations/greek.md",
+        "- book/translations/greek-clean.md",
+        "- book/translations/greek-majuscule-clean.md",
+        "- book/translations/parallel-edition.md",
         "",
         "## Rights And Bibliography",
         "",
-        "- bibliography/bibliography-working.md",
-        "- bibliography/source-rights-register.md",
+        "- book/bibliography/bibliography-working.md",
+        "- book/bibliography/source-rights-register.md",
         "- project/rights-and-citation-policy.md",
         "- project/source-reproducibility-note.md",
     ]

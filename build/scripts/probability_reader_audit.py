@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Audit probability profiles against current clean-reader decisions."""
 
 from __future__ import annotations
@@ -6,7 +6,7 @@ from __future__ import annotations
 from pathlib import Path
 import re
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 
 
 def read(path: str) -> str:
@@ -15,7 +15,7 @@ def read(path: str) -> str:
 
 def parse_workflow() -> dict[int, dict[str, str]]:
     rows: dict[int, dict[str, str]] = {}
-    for line in read("corpus/tables/logia-workflow-matrix.md").splitlines():
+    for line in read("research/tables/logia-workflow-matrix.md").splitlines():
         if not line.startswith("|") or line.startswith("| ---"):
             continue
         parts = [p.strip() for p in line.strip("|").split("|")]
@@ -31,7 +31,7 @@ def parse_workflow() -> dict[int, dict[str, str]]:
 
 def parse_all114() -> dict[int, dict[str, str]]:
     rows: dict[int, dict[str, str]] = {}
-    for line in read("reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md").splitlines():
+    for line in read("research/decisions/all-114-publication-decision-table-v0.1.md").splitlines():
         if not line.startswith("|") or line.startswith("| ---"):
             continue
         parts = [p.strip() for p in line.strip("|").split("|")]
@@ -55,7 +55,7 @@ PERIODS = {
 
 
 def parse_probabilities(logion: int) -> dict[str, int | None]:
-    text = read(f"corpus/cards/logion-{logion:03d}.md")
+    text = read(f"research/logion-cards/logion-{logion:03d}.md")
     values: dict[str, int | None] = {}
     for key, label in PERIODS.items():
         matches = re.findall(label + r"\s*\|\s*(\d+)%", text)
@@ -67,7 +67,7 @@ def parse_probabilities(logion: int) -> dict[str, int | None]:
 def duplicate_probability_cards() -> list[int]:
     duplicates: list[int] = []
     for logion in range(1, 115):
-        text = read(f"corpus/cards/logion-{logion:03d}.md")
+        text = read(f"research/logion-cards/logion-{logion:03d}.md")
         current_profile_headings = re.findall(r"^### Ймовірнісний профіль\s*$", text, flags=re.MULTILINE)
         if len(current_profile_headings) > 1:
             duplicates.append(logion)

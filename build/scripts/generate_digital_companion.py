@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Generate the EUAGELIA digital scholarly companion.
 
 The paper books deliberately hide repository paths. This companion does the
@@ -15,11 +15,11 @@ from dataclasses import dataclass
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "output/digital-scholarly-companion"
+ROOT = Path(__file__).resolve().parents[2]
+OUT = ROOT / "dist/digital-scholarly-companion"
 
-MATRIX = ROOT / "corpus/tables/logia-workflow-matrix.md"
-DECISION_TABLE = ROOT / "reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md"
+MATRIX = ROOT / "research/tables/logia-workflow-matrix.md"
+DECISION_TABLE = ROOT / "research/decisions/all-114-publication-decision-table-v0.1.md"
 
 CORE_ARTIFACTS = [
     "README.md",
@@ -38,28 +38,28 @@ CORE_ARTIFACTS = [
     "project/ide-codex-typst-production-pilot-v0.1-prompt.md",
     "project/typst-production-pilot-v0.1.md",
     "project/release-candidate-audit-v1.0-rc1.md",
-    "corpus/tables/logia-workflow-matrix.md",
-    "reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md",
-    "reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md",
-    "reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md",
-    "reconstruction/earliest-sayings-gospel/reconstructed-gospel-coptic.md",
-    "reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek.md",
-    "reconstruction/earliest-sayings-gospel/reconstructed-gospel-ar-quranic-register.md",
-    "reconstruction/earliest-sayings-gospel/parallel-edition.md",
-    "reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md",
-    "reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-en.md",
-    "reconstruction/earliest-sayings-gospel/evidence-dossier-en.md",
-    "bibliography/bibliography-working.md",
-    "bibliography/source-rights-register.md",
-    "output/uk-paper-book/euagelia-uk-full-proof.pdf",
-    "output/en-paper-book/euagelia-en-full-proof.pdf",
-    "output/production-typst/README.md",
-    "output/production-typst/euagelia-template.typ",
-    "output/production-typst/uk-pilot.typ",
-    "output/production-typst/en-pilot.typ",
-    "output/production-typst/production-handoff-checklist.md",
-    "output/production-typst/production-pilot-manifest.tsv",
-    "output/release-candidate-manifest-v1.0-rc1.tsv",
+    "research/tables/logia-workflow-matrix.md",
+    "research/decisions/all-114-publication-decision-table-v0.1.md",
+    "book/text/logia-uk.md",
+    "book/text/logia-en.md",
+    "book/translations/coptic.md",
+    "book/translations/greek.md",
+    "book/translations/arabic-quranic-register.md",
+    "book/translations/parallel-edition.md",
+    "book/appendix/commentary-uk.md",
+    "book/appendix/commentary-en.md",
+    "research/evidence/evidence-dossier-en.md",
+    "book/bibliography/bibliography-working.md",
+    "book/bibliography/source-rights-register.md",
+    "dist/uk-paper-book/euagelia-uk-full-proof.pdf",
+    "dist/en-paper-book/euagelia-en-full-proof.pdf",
+    "dist/production-typst/README.md",
+    "dist/production-typst/euagelia-template.typ",
+    "dist/production-typst/uk-pilot.typ",
+    "dist/production-typst/en-pilot.typ",
+    "dist/production-typst/production-handoff-checklist.md",
+    "dist/production-typst/production-pilot-manifest.tsv",
+    "dist/release-candidate-manifest-v1.0-rc1.tsv",
 ]
 
 AUDIT_PATTERNS = [
@@ -67,11 +67,11 @@ AUDIT_PATTERNS = [
     "project/*pass*.md",
     "project/*qa*.md",
     "project/*verify*.md",
-    "reconstruction/earliest-sayings-gospel/*audit*.md",
-    "reconstruction/earliest-sayings-gospel/*pass*.md",
-    "reconstruction/earliest-sayings-gospel/*review*.md",
-    "reconstruction/earliest-sayings-gospel/*rationale*.md",
-    "corpus/cards/*audit*.md",
+    "research/audits/*audit*.md",
+    "research/audits/*pass*.md",
+    "research/audits/*review*.md",
+    "research/audits/*rationale*.md",
+    "research/logion-cards/*audit*.md",
 ]
 
 
@@ -123,7 +123,7 @@ def logion_number_from_filename(path: Path) -> int | None:
 
 
 def collect_evidence_notes(number: int) -> list[str]:
-    notes_dir = ROOT / "reconstruction/earliest-sayings-gospel/notes"
+    notes_dir = ROOT / "research/evidence/notes"
     direct = sorted(notes_dir.glob(f"logion-{number:03d}-*"))
     if number in {65, 66}:
         direct += sorted(notes_dir.glob("logion-065-066-*"))
@@ -147,7 +147,7 @@ def collect_controls(number: int) -> list[str]:
 
 
 def collect_cluster_notes() -> list[str]:
-    notes_dir = ROOT / "reconstruction/earliest-sayings-gospel/notes"
+    notes_dir = ROOT / "research/evidence/notes"
     return [rel(path) for path in sorted(notes_dir.glob("*cluster*.md"))]
 
 
@@ -171,7 +171,7 @@ def collect_logion_rows() -> list[LogionRow]:
     rows: list[LogionRow] = []
     for number in range(1, 115):
         matrix = next((row for row in matrix_rows if row.get("Logion") == str(number)), {})
-        card = ROOT / f"corpus/cards/logion-{number:03d}.md"
+        card = ROOT / f"research/logion-cards/logion-{number:03d}.md"
         rows.append(
             LogionRow(
                 number=number,
@@ -300,23 +300,23 @@ def companion_markdown(logia: list[LogionRow]) -> str:
         "",
         "## Generated Machine Indexes",
         "",
-        "- `output/digital-scholarly-companion/logion-cross-reference-index.tsv` - all 114 logia with cards, evidence notes, controls, decisions, Greek status, and next actions.",
-        "- `output/digital-scholarly-companion/source-witness-inventory.tsv` - local source corpus inventory with categories and SHA256 checksums.",
-        "- `output/digital-scholarly-companion/artifact-checksums.tsv` - checksums for core publication artifacts and paper proofs.",
-        "- `output/digital-scholarly-companion/audit-trail-index.tsv` - major audit/pass/review files with checksums.",
+        "- `dist/digital-scholarly-companion/logion-cross-reference-index.tsv` - all 114 logia with cards, evidence notes, controls, decisions, Greek status, and next actions.",
+        "- `dist/digital-scholarly-companion/source-witness-inventory.tsv` - local source corpus inventory with categories and SHA256 checksums.",
+        "- `dist/digital-scholarly-companion/artifact-checksums.tsv` - checksums for core publication artifacts and paper proofs.",
+        "- `dist/digital-scholarly-companion/audit-trail-index.tsv` - major audit/pass/review files with checksums.",
         "",
         "## Clean-Reader Manifest",
         "",
-        f"The frozen clean reader contains {reader_count} printed units. Reader membership is controlled by `reconstruction/earliest-sayings-gospel/final-clean-reader-freeze-v0.1.md` and synchronized by `tools/qa_crosscheck.py`.",
+        f"The frozen clean reader contains {reader_count} printed units. Reader membership is controlled by `research/audits/final-clean-reader-freeze-v0.1.md` and synchronized by `build/scripts/qa_crosscheck.py`.",
         "",
         "| Layer | Path | Role |",
         "| --- | --- | --- |",
-        "| Ukrainian clean reader | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md` | First paper-reader layer. |",
-        "| English clean reader | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md` | English paper-reader layer. |",
-        "| Coptic reader layer | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-coptic.md` | Coptic source-facing layer for included units. |",
-        "| Greek reader layer | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek.md` | Extant Greek plus clearly marked hypothetical retroversions. |",
-        "| Arabic literary layer | `reconstruction/earliest-sayings-gospel/reconstructed-gospel-ar-quranic-register.md` | Literary/theological reception layer, not a source witness. |",
-        "| Parallel edition | `reconstruction/earliest-sayings-gospel/parallel-edition.md` | Synchronized multilingual view of the frozen reader. |",
+        "| Ukrainian clean reader | `book/text/logia-uk.md` | First paper-reader layer. |",
+        "| English clean reader | `book/text/logia-en.md` | English paper-reader layer. |",
+        "| Coptic reader layer | `book/translations/coptic.md` | Coptic source-facing layer for included units. |",
+        "| Greek reader layer | `book/translations/greek.md` | Extant Greek plus clearly marked hypothetical retroversions. |",
+        "| Arabic literary layer | `book/translations/arabic-quranic-register.md` | Literary/theological reception layer, not a source witness. |",
+        "| Parallel edition | `book/translations/parallel-edition.md` | Synchronized multilingual view of the frozen reader. |",
         "",
         "## All-114 Logion Research Index",
         "",
@@ -358,8 +358,8 @@ def companion_markdown(logia: list[LogionRow]) -> str:
             "",
             "## Bibliography, Rights, And Commons Policy",
             "",
-            "- `bibliography/bibliography-working.md` - working bibliography with print keys.",
-            "- `bibliography/source-rights-register.md` - source-rights status table.",
+            "- `book/bibliography/bibliography-working.md` - working bibliography with print keys.",
+            "- `book/bibliography/source-rights-register.md` - source-rights status table.",
             "- `project/rights-and-citation-policy.md` - print/digital citation policy.",
             "- `project/source-reproducibility-note.md` - source reproducibility note.",
             "- `LICENSE.md` and `project/commons-dedication-and-use-policy.md` - commons / anti-ownership policy for the original EUAGELIA work.",
@@ -381,10 +381,10 @@ def companion_markdown(logia: list[LogionRow]) -> str:
             "",
             "## Reproducibility Checklist",
             "",
-            "1. Run `python3 tools/qa_crosscheck.py`.",
-            "2. Regenerate paper and companion sources with `python3 tools/assemble_full_book_sources.py` and `python3 tools/generate_digital_companion.py`.",
-            "3. Render proofs with `python3 tools/render_full_book_proofs.py`.",
-            "4. Compare checksums in `artifact-checksums.tsv` and `output/render-log-full-book-proofs-v0.1.md`.",
+            "1. Run `python3 build/scripts/qa_crosscheck.py`.",
+            "2. Regenerate paper and companion sources with `python3 build/scripts/assemble_full_book_sources.py` and `python3 build/scripts/generate_digital_companion.py`.",
+            "3. Render proofs with `python3 build/scripts/render_full_book_proofs.py`.",
+            "4. Compare checksums in `artifact-checksums.tsv` and `dist/render-log-full-book-proofs-v0.1.md`.",
             "5. Review all changed files with `git status --short` and `git diff` before release.",
             "",
             "## Remaining Digital Work",
@@ -442,30 +442,30 @@ The digital scholarly companion preserves the full apparatus that cannot fit cle
 
 ## Companion Artifacts
 
-- `output/digital-scholarly-companion/companion-source-full.md`
-- `output/digital-scholarly-companion/logion-cross-reference-index.tsv`
-- `output/digital-scholarly-companion/source-witness-inventory.tsv`
-- `output/digital-scholarly-companion/artifact-checksums.tsv`
-- `output/digital-scholarly-companion/audit-trail-index.tsv`
-- `output/digital-scholarly-companion/euagelia-digital-companion-full-proof.pdf`
+- `dist/digital-scholarly-companion/companion-source-full.md`
+- `dist/digital-scholarly-companion/logion-cross-reference-index.tsv`
+- `dist/digital-scholarly-companion/source-witness-inventory.tsv`
+- `dist/digital-scholarly-companion/artifact-checksums.tsv`
+- `dist/digital-scholarly-companion/audit-trail-index.tsv`
+- `dist/digital-scholarly-companion/euagelia-digital-companion-full-proof.pdf`
 
 ## Frozen Reader Source
 
-- `reconstruction/earliest-sayings-gospel/final-clean-reader-freeze-v0.1.md`
-- `reconstruction/earliest-sayings-gospel/reconstructed-gospel-uk.md`
-- `reconstruction/earliest-sayings-gospel/reconstructed-gospel-en.md`
-- `reconstruction/earliest-sayings-gospel/reconstructed-gospel-coptic.md`
-- `reconstruction/earliest-sayings-gospel/reconstructed-gospel-greek.md`
-- `reconstruction/earliest-sayings-gospel/reconstructed-gospel-ar-quranic-register.md`
-- `reconstruction/earliest-sayings-gospel/parallel-edition.md`
+- `research/audits/final-clean-reader-freeze-v0.1.md`
+- `book/text/logia-uk.md`
+- `book/text/logia-en.md`
+- `book/translations/coptic.md`
+- `book/translations/greek.md`
+- `book/translations/arabic-quranic-register.md`
+- `book/translations/parallel-edition.md`
 
 ## Full Commentary And Decisions
 
-- `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md`
-- `reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-en.md`
-- `reconstruction/earliest-sayings-gospel/all-114-publication-decision-table-v0.1.md`
-- `reconstruction/earliest-sayings-gospel/inclusion-decisions-table.md`
-- `reconstruction/earliest-sayings-gospel/evidence-dossier-en.md`
+- `book/appendix/commentary-uk.md`
+- `book/appendix/commentary-en.md`
+- `research/decisions/all-114-publication-decision-table-v0.1.md`
+- `research/decisions/inclusion-decisions-table.md`
+- `research/evidence/evidence-dossier-en.md`
 
 ## Primary Text And Witness Sources
 
@@ -477,8 +477,8 @@ The digital scholarly companion preserves the full apparatus that cannot fit cle
 
 ## Bibliography And Rights
 
-- `bibliography/bibliography-working.md`
-- `bibliography/source-rights-register.md`
+- `book/bibliography/bibliography-working.md`
+- `book/bibliography/source-rights-register.md`
 - `project/rights-and-citation-policy.md`
 - `project/source-reproducibility-note.md`
 
@@ -500,11 +500,11 @@ def main() -> None:
     (OUT / "companion-source-full.md").write_text(companion_markdown(logia), encoding="utf-8")
     update_manifest(logia)
     update_readme()
-    print("output/digital-scholarly-companion/companion-source-full.md")
-    print("output/digital-scholarly-companion/logion-cross-reference-index.tsv")
-    print("output/digital-scholarly-companion/source-witness-inventory.tsv")
-    print("output/digital-scholarly-companion/artifact-checksums.tsv")
-    print("output/digital-scholarly-companion/audit-trail-index.tsv")
+    print("dist/digital-scholarly-companion/companion-source-full.md")
+    print("dist/digital-scholarly-companion/logion-cross-reference-index.tsv")
+    print("dist/digital-scholarly-companion/source-witness-inventory.tsv")
+    print("dist/digital-scholarly-companion/artifact-checksums.tsv")
+    print("dist/digital-scholarly-companion/audit-trail-index.tsv")
 
 
 if __name__ == "__main__":

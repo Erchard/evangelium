@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Render full-length EUAGELIA proof PDFs from assembled Markdown sources."""
 
 from __future__ import annotations
@@ -21,7 +21,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import PageBreak, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 PYTHON_RUNTIME = "/Users/arseny/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
 FONT_CANDIDATES = [
     Path("/System/Library/Fonts/Supplemental/Times New Roman.ttf"),
@@ -56,20 +56,20 @@ JOBS = [
     Job(
         "uk",
         "EUAGELIA Ukrainian Full Book Proof",
-        ROOT / "output/uk-paper-book/book-source-uk-full.md",
-        ROOT / "output/uk-paper-book/euagelia-uk-full-proof",
+        ROOT / "dist/uk-paper-book/book-source-uk-full.md",
+        ROOT / "dist/uk-paper-book/euagelia-uk-full-proof",
     ),
     Job(
         "en",
         "EUAGELIA English Full Book Proof",
-        ROOT / "output/en-paper-book/book-source-en-full.md",
-        ROOT / "output/en-paper-book/euagelia-en-full-proof",
+        ROOT / "dist/en-paper-book/book-source-en-full.md",
+        ROOT / "dist/en-paper-book/euagelia-en-full-proof",
     ),
     Job(
         "digital",
         "EUAGELIA Digital Scholarly Companion Full Proof",
-        ROOT / "output/digital-scholarly-companion/companion-source-full.md",
-        ROOT / "output/digital-scholarly-companion/euagelia-digital-companion-full-proof",
+        ROOT / "dist/digital-scholarly-companion/companion-source-full.md",
+        ROOT / "dist/digital-scholarly-companion/euagelia-digital-companion-full-proof",
     ),
 ]
 
@@ -413,7 +413,7 @@ def write_manifest(paths: list[Path], font_path: Path, coptic_font_path: Path, g
     ]
     for path in paths:
         lines.append(f"| `{rel(path)}` | {path.stat().st_size} | `{sha256(path)}` |")
-    (ROOT / "output/render-log-full-book-proofs-v0.1.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    (ROOT / "dist/render-log-full-book-proofs-v0.1.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def main() -> None:
@@ -437,7 +437,7 @@ def main() -> None:
         outputs.extend(render_job(job, "EUAGELIA"))
     write_manifest(outputs, font_path, coptic_font_path, greek_font_path)
     print(f"Rendered {len(outputs)} artifacts")
-    print("output/render-log-full-book-proofs-v0.1.md")
+    print("dist/render-log-full-book-proofs-v0.1.md")
 
 
 if __name__ == "__main__":

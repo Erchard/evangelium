@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Render a static browsable HTML companion from generated TSV indexes."""
 
 from __future__ import annotations
@@ -11,8 +11,8 @@ from collections import Counter
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
-COMPANION = ROOT / "output/digital-scholarly-companion"
+ROOT = Path(__file__).resolve().parents[2]
+COMPANION = ROOT / "dist/digital-scholarly-companion"
 HTML_DIR = COMPANION / "html"
 
 
@@ -163,8 +163,8 @@ def build() -> str:
                 <section>
                   <h3>Core Links</h3>
                   <p>{link_path(row['card'], 'card')}</p>
-                  <p>{link_path('reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-uk.md', 'Ukrainian appendix')}</p>
-                  <p>{link_path('reconstruction/earliest-sayings-gospel/full-logion-commentary-appendix-en.md', 'English appendix')}</p>
+                  <p>{link_path('book/appendix/commentary-uk.md', 'Ukrainian appendix')}</p>
+                  <p>{link_path('book/appendix/commentary-en.md', 'English appendix')}</p>
                 </section>
                 <section>
                   <h3>Evidence Notes</h3>
@@ -363,8 +363,8 @@ def build() -> str:
 
     <section id="rights">
       <h2>Bibliography, Rights, And Commons Policy</h2>
-      <p>{link_path('bibliography/bibliography-working.md', 'Working bibliography')}</p>
-      <p>{link_path('bibliography/source-rights-register.md', 'Source rights register')}</p>
+      <p>{link_path('book/bibliography/bibliography-working.md', 'Working bibliography')}</p>
+      <p>{link_path('book/bibliography/source-rights-register.md', 'Source rights register')}</p>
       <p>{link_path('project/rights-and-citation-policy.md', 'Rights and citation policy')}</p>
       <p>{link_path('project/commons-dedication-and-use-policy.md', 'Commons / anti-ownership policy')}</p>
     </section>
@@ -372,10 +372,10 @@ def build() -> str:
     <section id="reproducibility">
       <h2>Reproducibility</h2>
       <ol>
-        <li>Run <code>python3 tools/qa_crosscheck.py</code>.</li>
-        <li>Regenerate companion data with <code>python3 tools/generate_digital_companion.py</code>.</li>
-        <li>Regenerate this HTML with <code>python3 tools/render_digital_companion_html.py</code>.</li>
-        <li>Render proofs with <code>python3 tools/render_full_book_proofs.py</code>.</li>
+        <li>Run <code>python3 build/scripts/qa_crosscheck.py</code>.</li>
+        <li>Regenerate companion data with <code>python3 build/scripts/generate_digital_companion.py</code>.</li>
+        <li>Regenerate this HTML with <code>python3 build/scripts/render_digital_companion_html.py</code>.</li>
+        <li>Render proofs with <code>python3 build/scripts/render_full_book_proofs.py</code>.</li>
       </ol>
       <h3>Core Artifact Checksums</h3>
       <table>

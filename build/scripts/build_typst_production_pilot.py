@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Build a Typst-ready production pilot / handoff package.
 
 Typst may not be installed in the current environment. This script therefore
@@ -15,10 +15,10 @@ import subprocess
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "output/production-typst"
-UK_SOURCE = ROOT / "output/uk-paper-book/book-source-uk-full.md"
-EN_SOURCE = ROOT / "output/en-paper-book/book-source-en-full.md"
+ROOT = Path(__file__).resolve().parents[2]
+OUT = ROOT / "dist/production-typst"
+UK_SOURCE = ROOT / "dist/uk-paper-book/book-source-uk-full.md"
+EN_SOURCE = ROOT / "dist/en-paper-book/book-source-en-full.md"
 
 
 def rel(path: Path) -> str:
@@ -224,13 +224,13 @@ Status: {status}, 2026-07-19.
 Install Typst, then run:
 
 ```bash
-typst compile output/production-typst/uk-pilot.typ output/production-typst/uk-pilot.pdf
-typst compile output/production-typst/en-pilot.typ output/production-typst/en-pilot.pdf
+typst compile dist/production-typst/uk-pilot.typ dist/production-typst/uk-pilot.pdf
+typst compile dist/production-typst/en-pilot.typ dist/production-typst/en-pilot.pdf
 ```
 
 ## Production Rule
 
-ReportLab PDFs in `output/uk-paper-book/`, `output/en-paper-book/`, and `output/digital-scholarly-companion/` remain proof artifacts. Final release-candidate PDFs should come from this Typst/professional production path or from an explicitly approved equivalent.
+ReportLab PDFs in `dist/uk-paper-book/`, `dist/en-paper-book/`, and `dist/digital-scholarly-companion/` remain proof artifacts. Final release-candidate PDFs should come from this Typst/professional production path or from an explicitly approved equivalent.
 """
     (OUT / "README.md").write_text(text, encoding="utf-8")
 
